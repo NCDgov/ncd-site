@@ -1,0 +1,31 @@
+primary:
+  - name: About Our Council
+    children:
+      - name: Misson
+        url: /about/
+      - name: Council Members
+        url: /council-members/
+      - name: Council Staff
+        url: /staff/
+      - name: Email Directory
+        url: /contact/
+      - name: Council Meetings
+        url: /meetings/
+  - name: Policy Advice
+    children:
+      - name: Reports
+        url: /reports/
+      - name: Letters
+        url: /letters/
+      - name: Resources
+        url: /resources/
+      - name: FAQ
+        url: /resources/faq/
+  - name: Newsroom
+    url: /newsroom/
+
+secondary:
+  - name: Contact US
+    url: '/contact/'
+  - name: Accountability
+    url: '/accountability/'

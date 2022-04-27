@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+{% comment %}
+This is used in blog posts. The index page can be found at blog/index.html
+{% endcomment %}
+
+<div class="usa-layout-docs usa-section">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
+        <h1 class="title">{{page.title}}</h1>
+        {% if page.image %}
+        <div class="padding-bottom-2">
+          <img
+            class="width-mobile height-auto"
+            src="{% asset {{page.image}} @path %}"
+            alt="{{page.image_alt_text}}"
+          />
+        </div>
+        {% endif %}
+        <div class="text-base margin-bottom-2">
+          <div class="margin-top-neg-105">
+            By <span class="text-bold">{{ page.author }}</span> · {{ page.date | date: '%B %d, %Y' }}
+          </div>
+        </div>
+        {% if page.word_document or page.pdf_document %}
+          <div class="padding-y-2">
+            {% if page.word_document %}
+              {% include download-file.html document_type="Word Doc" file_path=page.word_document %}
+            {% endif %}
+            {% if page.pdf_document %}
+              {% include download-file.html document_type="PDF" file_path=page.pdf_document %}
+            {% endif %}
+          </div>
+        {% endif %}
+        {{ content }}
+      </div>
+    </div>
+  </div>
+</div>

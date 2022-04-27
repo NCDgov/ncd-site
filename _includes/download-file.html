@@ -1,0 +1,14 @@
+<div>
+  <div class="display-flex flex-row flex-align-center text-light">
+    Download
+    <a
+      class="display-flex flex-row flex-align-center margin-left-1 text-no-underline"
+      href="{% asset {{include.file_path}} @path %}"
+      download>
+      <span class="text-bold padding-0 margin-0">{{ include.document_type }}</span>
+      <svg class="usa-icon" aria-hidden="true" role="img">
+        <use xlink:href="{% asset img/sprite.svg @path %}#file_download"></use>
+      </svg>
+    </a>
+  </div>
+</div>

@@ -1,0 +1,31 @@
+---
+layout: wide
+permalink: /newsroom/
+pagination:
+  enabled: true
+---
+
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="desktop:grid-col-8 usa-prose padding-right-4">
+      {%
+        include collection-header.html
+        title="Newsroom"
+        description="The latest news and information coming from the National Council on Disabilities."
+      %}
+      {% for post in paginator.posts %}
+        {%
+          include paginated-collection-item.html
+          post=post
+        %}
+      {% endfor %}
+      <!-- Pagination links -->
+      {% include paginator.html %}
+    </div>
+    {%
+      include aside-page-links.html
+      title="Recent News Items"
+      items=site.posts
+    %}
+  </div>
+</div>

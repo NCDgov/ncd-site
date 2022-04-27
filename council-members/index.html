@@ -1,0 +1,33 @@
+---
+layout: wide
+permalink: /council-members/
+pagination:
+  enabled: true
+  collection: council-members
+  per_page: 100
+  sort_field: 'order'
+  sort_reverse: false
+---
+
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="desktop:grid-col-8 usa-prose padding-right-4">
+      {%
+        include collection-header.html
+        title="Council Members"
+        description="
+          The members and leadership of the National Council on Disability
+          that lead agency priorities, policy trends, and other agency business.
+        "
+      %}
+      {% for post in paginator.posts %}
+        {%
+          include paginated-council-member.html
+          post=post
+        %}
+      {% endfor %}
+      <!-- Pagination links -->
+      {% include paginator.html %}
+    </div>
+  </div>
+</div>

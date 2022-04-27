@@ -1,0 +1,20 @@
+<section class="border-y border-base-lighter padding-y-4 bg-accent-warm-lightest">
+  <div class="grid-container usa-section padding-y-2">
+    <h1 class="section-heading">
+      Policy Areas
+    </h1>
+  </div>
+  <div class="grid-container overflow-x-scroll">
+    <div>
+      <ul class="usa-collection grid-row grid-gap">
+        {% for policy in site.policy-areas %}
+          {% include policy-areas-item.html
+            title=policy.title
+            url=policy.url
+            image=policy.image
+          %}
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>

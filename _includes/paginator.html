@@ -1,0 +1,79 @@
+<nav aria-label="Pagination" class="usa-pagination padding-top-2">
+  <ul class="usa-pagination__list">
+    {% if paginator.previous_page %}
+    <li class="usa-pagination__item usa-pagination__arrow">
+      <a
+        href="{{ paginator.previous_page_path | prepend: site.baseurl }}"
+        class="usa-pagination__link usa-pagination__previous-page"
+        aria-label="Previous page"
+      >
+        <svg class="usa-icon" aria-hidden="true" role="img">
+          <use xlink:href="{% asset img/sprite.svg @path %}#navigate_before"></use>
+        </svg>
+        <span class="usa-pagination__link-text"> Previous </span>
+      </a>
+    </li>
+    {% endif %}
+
+    {% assign first_page_cutoff = paginator.first_page | plus: site.pagination.trail.before %}
+    {% if paginator.page > first_page_cutoff %}
+      <li class="usa-pagination__item usa-pagination__page-no">
+        <a
+          href="{{ paginator.first_page_path | prepend: site.baseurl }}"
+          class="usa-pagination__button{% if page.url == paginator.first_page_path %} usa-current{% endif %}"
+          aria-label="Page {{paginator.first_page}}"
+        >
+          {{paginator.first_page}}
+        </a>
+      </li>
+      <li
+        class="usa-pagination__item usa-pagination__overflow"
+        role="presentation"
+      >
+        <span> … </span>
+      </li>
+    {% endif %}
+
+    {% if paginator.page_trail %}
+      {% for trail in paginator.page_trail %}
+        <li class="usa-pagination__item usa-pagination__page-no">
+          <a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}" class="usa-pagination__button{% if page.url == trail.path %} usa-current{% endif %}">{{ trail.num }}</a>
+        </li>
+      {% endfor %}
+    {% endif %}
+
+    {% assign last_page_cutoff = paginator.last_page | minus: site.pagination.trail.after %}
+    {% if paginator.page < last_page_cutoff %}
+    <li
+      class="usa-pagination__item usa-pagination__overflow"
+      role="presentation"
+    >
+      <span> … </span>
+    </li>
+    <li class="usa-pagination__item usa-pagination__page-no">
+      <a
+        href="{{ paginator.last_page_path | prepend: site.baseurl }}"
+        class="usa-pagination__button{% if page.url == paginator.last_page_path %} usa-current{% endif %}"
+        aria-label="Last page, page {{paginator.last_page}}"
+      >
+        {{paginator.last_page}}
+      </a>
+    </li>
+    {% endif %}
+
+    {% if paginator.next_page %}
+    <li class="usa-pagination__item usa-pagination__arrow">
+      <a
+        href="{{ paginator.next_page_path | prepend: site.baseurl }}"
+        class="usa-pagination__link usa-pagination__next-page"
+        aria-label="Next page"
+      >
+        <span class="usa-pagination__link-text"> Next </span>
+        <svg class="usa-icon" aria-hidden="true" role="img">
+          <use xlink:href="{% asset img/sprite.svg @path %}#navigate_next"></use>
+        </svg>
+      </a>
+    </li>
+    {% endif %}
+  </ul>
+</nav>

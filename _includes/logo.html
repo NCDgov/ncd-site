@@ -1,0 +1,51 @@
+<div class="usa-logo" id="extended-logo">
+  <a href="{{ site.baseurl }}/" accesskey="1" title="Home" aria-label="Home">
+    <div class="grid-row flex-row flex-align-center">
+    {% if site.logo %}
+      <div class="grid-col flex-auto">
+        {%
+          asset ncd-logo.png
+          alt="NCD Logo"
+          class="
+            height-auto
+            width-5
+            desktop:width-15
+          "
+          role="image"
+        %}
+      </div>
+    {% endif %}
+    <div class="grid-col flex-fill padding-x-1">
+      <div class="grid-row flex-column">
+        <div class="grid-col flex-fill">
+          <h1
+            class="
+              font-sans-md
+              margin-y-0
+              tablet:margin-y-05
+              tablet:font-sans-lg
+              desktop:font-sans-xl
+              hover:text-primary-dark
+            "
+          >
+            {{ site.title }}
+          </h1>
+        </div>
+        <div class="grid-col flex-fill display-none desktop:display-block">
+          <h2
+            class="
+              font-serif-md
+              margin-y-05
+              text-italic
+              text-base
+              text-light
+            "
+          >
+            {{ site.description }}
+          </h2>
+        </div>
+      </div>
+    </div>
+  </div>
+  </a>
+</div>

@@ -1,0 +1,35 @@
+---
+layout: wide
+permalink: /meetings/
+pagination:
+  enabled: true
+  collection: meetings
+---
+
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="desktop:grid-col-8 usa-prose padding-right-4">
+      {%
+        include collection-header.html
+        title="Meetings & Events"
+        description="
+          The Members of the National Council on Disability meet several times throughout
+          the year to discuss agency priorities, policy trends, and other agency business.
+        "
+      %}
+      {% for post in paginator.posts %}
+        {%
+          include paginated-collection-item.html
+          post=post
+        %}
+      {% endfor %}
+      <!-- Pagination links -->
+      {% include paginator.html %}
+    </div>
+    {%
+      include aside-page-links.html
+      title="Recent Meetings"
+      items=site.meetings
+    %}
+  </div>
+</div>

@@ -1,0 +1,35 @@
+---
+layout: wide
+permalink: /letters/
+pagination:
+  enabled: true
+  collection: letters
+---
+
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="desktop:grid-col-8 usa-prose padding-right-4">
+      {%
+        include collection-header.html
+        title="Letters"
+        description="
+          The communications sent to Congress regarding the agency priorities,
+          policy trends, and other agency business.
+        "
+      %}
+      {% for post in paginator.posts %}
+        {%
+          include paginated-collection-item.html
+          post=post
+        %}
+      {% endfor %}
+      <!-- Pagination links -->
+      {% include paginator.html %}
+    </div>
+    {%
+      include aside-page-links.html
+      title="Recent Letters"
+      items=site.letters
+    %}
+  </div>
+</div>

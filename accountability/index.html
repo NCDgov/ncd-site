@@ -1,0 +1,67 @@
+---
+layout: wide
+permalink: /accountability/
+pagination:
+  enabled: true
+  collection: accountability
+  per_page: 30
+redirect_from:
+  - /Accountability
+---
+
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="desktop:grid-col-6 usa-prose padding-right-4">
+      {%
+        include collection-header.html
+        title="Accountability"
+        description="Commitment to Equal Employment Opportunity"
+      %}
+      {% for post in paginator.posts %}
+        {%
+          include paginated-item-title.html
+          post=post
+        %}
+      {% endfor %}
+    </div>
+  </div>
+  <div class="grid-row padding-y-4">
+    <div class="grid-col-fill usa-prose">
+      <p class="border-bottom"></p>
+    </div>
+  </div>
+  <div class="grid-row">
+    <div class="grid-col-fill usa-prose">
+      <p>
+        The National Council on Disability (NCD) is strongly committed to the principles of
+        Equal Employment Opportunity (EEO) and the implementation of EEO policies and objectives
+        that will enhance the quality of our work life and the productivity in our workplace.
+        The most important resource at NCD is our employees. It is NCD’s goal to create a workplace
+        where employees throughout all levels of the organization feel that their work and
+        contributions are embraced and valued.  NCD is committed to developing and maintaining
+        a professional workplace in which all individuals are treated with dignity and respect.
+        This includes ensuring an environment for all employees that is free of discrimination in
+        employment on the basis of race, color, religion, sex, national origin, age, disability,
+        reprisal, and genetic information. Managers and supervisors must lead by example and monitor
+        the workplace to ensure that the environment is free from discrimination, hostility,
+        intimidation, reprisal, and harassment. All employees at NCD are responsible for implementing
+        EEO policy in their daily actions, conduct, and decisions. Managers, supervisors and
+        employees alike must strive to treat each other with respect and professionalism.
+      </p>
+      <p>
+        Discrimination is costly, nonproductive and interrupts the agency from focusing on
+        achieving its mission. Any NCD employee, who tolerates or promotes discriminatory
+        conduct or behavior, engages in reprisal, or acts in a manner contrary to this policy
+        will be held accountable. We must all work together to demonstrate fairness, cooperation,
+        and respect toward our colleagues and constituents while diligently striving to maintain a
+        productive and nondiscriminatory work environment.
+      </p>
+      <p>
+        NCD is strengthened by the talents of its diverse workforce in accomplishing the agency
+        mission. NCD expects supervisors and managers to promote a work place environment that values
+        and embraces the full range of talents and contributions of each and every employee throughout
+        all levels of the agency. This allows all employees equal opportunities to achieve their full potential.
+      </p>
+    </div>
+  </div>
+</div>

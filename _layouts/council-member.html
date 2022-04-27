@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="usa-layout-docs usa-section">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
+        <h1 class="title">{{page.member_name}}</h1>
+        <div class="text-base margin-bottom-2">
+          {% if page.image %}
+          <div class="maxw-15">
+            <img
+              class="width-full height-auto"
+              src="{% asset {{page.image}} @path %}"
+              alt="{{page.image_alt_text}}"
+            />
+          </div>
+          {% endif %}
+          {% if page.member_title %}
+          <h4 class="margin-y-0">{{ page.member_title }}</h4>
+          {% endif %}
+          <p class="margin-y-0 text-italic">{{ page.location }}</p>
+        </div>
+        {{ content }}
+      </div>
+    </div>
+  </div>
+</div>
