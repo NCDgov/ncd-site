@@ -41,7 +41,14 @@ where we provide an easy way to manage your navigation system
               <ul id="{{ nav_id }}" class="usa-nav__submenu">
                 {% for subnav_item in nav_item.children %}
                 <li class="usa-nav__submenu-item">
-                  <a href="{{ subnav_item.url | prepend: site.baseurl }}">{{ subnav_item.name | escape }}</a>
+                  <a href="{{ subnav_item.url | prepend: site.baseurl }}">
+                    {% if subnav_item.icon %}
+                      <svg class="usa-icon" aria-hidden="true" role="img">
+                        <use xlink:href="{{ subnav_item.icon }}"></use>
+                      </svg>
+                    {% endif %}
+                    {{ subnav_item.name | escape }}
+                  </a>
                 </li>
                 {% endfor %}
               </ul>
