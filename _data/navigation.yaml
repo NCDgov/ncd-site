@@ -11,6 +11,8 @@ primary:
         url: /contact/
       - name: Council Meetings
         url: /meetings/
+  - name: Newsroom
+    url: /newsroom/
   - name: Policy Advice
     children:
       - name: Reports
@@ -21,9 +23,36 @@ primary:
         url: /resources/
       - name: FAQ
         url: /resources/faq/
-  - name: Newsroom
-    url: /newsroom/
-
+  - name: Policy Areas
+    children:
+      - name: Civil Rights
+        url: /policy-areas/civil-rights/
+      - name: CRPD
+        url: /policy-areas/crpd/
+      - name: Cultural Diversity
+        url: /policy-areas/cultural-diversity/
+      - name: Education
+        url: /policy-areas/education/
+      - name: Emergency Management
+        url: /policy-areas/emergency-management/
+      - name: Employment
+        url: /policy-areas/employment/
+      - name: Financial Assistance and Incentives
+        url: /policy-areas/financial-assistance-and-incentives/
+      - name: Health Care
+        url: /policy-areas/health-care/
+      - name: Housing
+        url: /policy-areas/housing/
+      - name: International
+        url: /policy-areas/international/
+      - name: Long Term Services and Support
+        url: /policy-areas/long-term-services-and-support/
+      - name: Technology
+        url: /policy-areas/technology/
+      - name: Transportation
+        url: /policy-areas/transportation/
+      - name: Youth Perspectives
+        url: /policy-areas/youth-perspectives/
 secondary:
   - name: Contact US
     url: '/contact/'

@@ -109,7 +109,7 @@ $align-self-settings: (
 
 $background-color-settings: (
   output: true,
-  responsive: false,
+  responsive: true,
   active: false,
   focus: false,
   hover: true,
@@ -199,7 +199,7 @@ $clearfix-settings: (
 
 $color-settings: (
   output: true,
-  responsive: false,
+  responsive: true,
   active: false,
   focus: false,
   hover: true,
@@ -514,7 +514,7 @@ $text-decoration-settings: (
 
 $text-decoration-color-settings: (
   output: true,
-  responsive: false,
+  responsive: true,
   active: false,
   focus: false,
   hover: true,

@@ -8,7 +8,7 @@ where we provide an easy way to manage your navigation system
     {% include logo.html %}
     <button class="usa-menu-btn">Menu</button>
   </div>
-  <nav role="navigation" class="usa-nav">
+  <nav role="navigation" class="usa-nav desktop:bg-primary">
     <div class="usa-nav__inner">
       <button class="usa-nav__close">{% asset img/close.svg alt="close" %}</button>
       <ul class="usa-nav__primary usa-accordion">
@@ -21,7 +21,7 @@ where we provide an easy way to manage your navigation system
                 class="usa-nav__link{% if basedir == linkdir %} usa-current{% endif %}"
                 href="{{ nav_item.url | prepend: site.baseurl}}"
               >
-                <span>
+                <span class="desktop:text-white desktop:hover:text-base-lighter">
                   {{ nav_item.name | escape }}
                 </span>
               </a>
@@ -34,11 +34,11 @@ where we provide an easy way to manage your navigation system
                 aria-expanded="false"
                 aria-controls="{{ nav_id }}"
               >
-                <span>
+                <span class="desktop:text-white desktop:hover:text-base-lighter">
                   {{ nav_item.name | escape }}
                 </span>
               </button>
-              <ul id="{{ nav_id }}" class="usa-nav__submenu desktop:bg-primary-vivid">
+              <ul id="{{ nav_id }}" class="usa-nav__submenu">
                 {% for subnav_item in nav_item.children %}
                 <li class="usa-nav__submenu-item">
                   <a href="{{ subnav_item.url | prepend: site.baseurl }}">{{ subnav_item.name | escape }}</a>
