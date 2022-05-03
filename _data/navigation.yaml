@@ -11,6 +11,8 @@ primary:
         url: /contact/
       - name: Council Meetings
         url: /meetings/
+  - name: Newsroom
+    url: /newsroom/
   - name: Policy Advice
     children:
       - name: Reports
@@ -21,9 +23,50 @@ primary:
         url: /resources/
       - name: FAQ
         url: /resources/faq/
-  - name: Newsroom
-    url: /newsroom/
-
+  - name: Policy Areas
+    children:
+      - name: Civil Rights
+        url: /policy-areas/civil-rights/
+        icon: img/sprite.svg#account_balance
+      - name: CRPD
+        url: /policy-areas/crpd/
+        icon: img/sprite.svg#language
+      - name: Cultural Diversity
+        url: /policy-areas/cultural-diversity/
+        icon: img/sprite.svg#people
+      - name: Education
+        url: /policy-areas/education/
+        icon: img/sprite.svg#school
+      - name: Emergency Management
+        url: /policy-areas/emergency-management/
+        icon: img/sprite.svg#local_hospital
+      - name: Employment
+        url: /policy-areas/employment/
+        icon: img/sprite.svg#work
+      - name: Financial Assistance and Incentives
+        url: /policy-areas/financial-assistance-and-incentives/
+        icon: img/sprite.svg#attach_money
+      - name: Health Care
+        url: /policy-areas/health-care/
+        icon: img/sprite.svg#hospital
+      - name: Housing
+        url: /policy-areas/housing/
+        icon: img/sprite.svg#home
+      - name: International
+        url: /policy-areas/international/
+        icon: img/sprite.svg#public
+      - name: Long Term Services and Support
+        url: /policy-areas/long-term-services-and-support/
+        icon: img/sprite.svg#support
+      - name: Technology
+        url: /policy-areas/technology/
+        icon: img/sprite.svg#keyboard
+      - name: Transportation
+        url: /policy-areas/transportation/
+        icon: img/sprite.svg#directions_bus
+      - name: Youth Perspectives
+        url: /policy-areas/youth-perspectives/
+        icon: img/sprite.svg#accessibility_new
 secondary:
   - name: Contact US
     url: '/contact/'
