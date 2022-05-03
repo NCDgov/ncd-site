@@ -15,10 +15,18 @@ primary:
     url: /newsroom/
   - name: Policy Advice
     children:
-      - name: Reports
-        url: /reports/
       - name: Letters
         url: /letters/
+      - name: Reports
+        url: /reports/
+      - name: Toolkits
+        url: /toolkits/
+      - name: Progress Reports
+        url: /progress-reports/
+      - name: Frameworks
+        url: /frameworks/
+      - name: Fact Sheets
+        url: /fact-sheets/
       - name: Resources
         url: /resources/
       - name: FAQ
