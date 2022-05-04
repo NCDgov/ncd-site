@@ -5,6 +5,8 @@ date: February 14, 2022
 report_year: 2022
 policy_areas:
   - Health Care
+categories:
+  - framework
 pdf_document: reports/2022/ncd_health_equity_framework.pdf
 image: images/health-equity-cover-thumb.jpg
 image_alt_text: image of cover

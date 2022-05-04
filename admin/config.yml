@@ -135,15 +135,15 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - {
-          label: 'Publish Date',
-          name: 'date',
-          widget: 'datetime',
-          format: 'YYYY-MM-DD',
-          date_format: 'YYYY-MM-DD',
-          time_format: false,
+      - &categories {
+          label: 'Categories',
+          name: 'categories',
+          widget: 'select',
+          required: false,
+          multiple: true,
+          options: ["toolkit", "progress report", "framework", "fact sheet"]
         }
-      - {
+      - &policy-areas {
           label: 'Policy Areas',
           name: 'policy_areas',
           widget: 'relation',
@@ -155,6 +155,14 @@ collections:
           min: 0,
           max: 5,
           required: false,
+        }
+      - {
+          label: 'Publish Date',
+          name: 'date',
+          widget: 'datetime',
+          format: 'YYYY-MM-DD',
+          date_format: 'YYYY-MM-DD',
+          time_format: false,
         }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - label: Council Members
@@ -330,19 +338,8 @@ collections:
           date_format: 'YYYY-MM-DD',
           time_format: false,
         }
-      - {
-          label: 'Policy Areas',
-          name: 'policy_areas',
-          widget: 'relation',
-          collection: 'policy-areas',
-          search_fields: ['title'],
-          value_field: 'title',
-          display_fields: ['title'],
-          multiple: true,
-          min: 0,
-          max: 5,
-          required: false,
-        }
+      - *policy-areas
+      - *categories
       - {
           label: 'Agenda',
           name: 'agenda',
@@ -437,19 +434,8 @@ collections:
             ],
           default: '',
         }
-      - {
-          label: 'Policy Areas',
-          name: 'policy_areas',
-          widget: 'relation',
-          collection: 'policy-areas',
-          search_fields: ['title'],
-          value_field: 'title',
-          display_fields: ['title'],
-          multiple: true,
-          min: 0,
-          max: 5,
-          required: false,
-        }
+      - *policy-areas
+      - *categories
       - {
           label: 'Document',
           name: 'document',
@@ -518,19 +504,8 @@ collections:
           max: 2030,
           step: 1,
         }
-      - {
-          label: 'Policy Areas',
-          name: 'policy_areas',
-          widget: 'relation',
-          collection: 'policy-areas',
-          search_fields: ['title'],
-          value_field: 'title',
-          display_fields: ['title'],
-          multiple: true,
-          min: 0,
-          max: 5,
-          required: false,
-        }
+      - *policy-areas
+      - *categories
       - {
           label: 'Report Document',
           name: 'document',
@@ -570,27 +545,8 @@ collections:
           max: 2030,
           step: 1,
         }
-      - {
-          label: 'Policy Areas',
-          name: 'policy_areas',
-          widget: 'relation',
-          collection: 'policy-areas',
-          search_fields: ['title'],
-          value_field: 'title',
-          display_fields: ['title'],
-          multiple: true,
-          min: 0,
-          max: 5,
-          required: false,
-        }
-      - {
-          label: 'Categories',
-          name: 'categories',
-          widget: 'select',
-          required: false,
-          multiple: true,
-          options: ["toolkit", "progress report", "framework", "fact sheet"]
-        }
+      - *policy-areas
+      - *categories
       - {
           label: 'Report Word Document',
           name: 'word_document',

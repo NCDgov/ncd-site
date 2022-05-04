@@ -1,13 +1,13 @@
 ---
 layout: wide
 published: true
-report_year: 2010
+report_year: 2012
 ---
 
 <div class="grid-container">
   <div class="grid-row">
     <div class="desktop:grid-col-8 usa-prose padding-right-4">
-      {% assign page_title =  page.report_year | append: ' ' |  append: 'Reports' %}
+      {% assign page_title = 'Archived Reports' %}
       {%
         include collection-header.html
         title=page_title
@@ -17,7 +17,7 @@ report_year: 2010
         "
       %}
       {% for post in site.reports %}
-        {% if page.report_year == post.report_year %}
+        {% if page.report_year > post.report_year %}
           {%
             include paginated-collection-item.html
             post=post
