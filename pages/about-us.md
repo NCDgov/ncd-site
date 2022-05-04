@@ -3,7 +3,7 @@ layout: single-page
 published: true
 permalink: /about-us/
 redirect_from:
-  - /about
+  - /about/
 title: About Us
 ---
 ## Who We Are
