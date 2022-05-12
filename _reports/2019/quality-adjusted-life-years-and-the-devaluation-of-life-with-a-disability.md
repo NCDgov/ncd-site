@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quality-Adjusted Life Years and the Devaluation of Life with a Disability "
-date: April 26, 2022
+date: November 6, 2019
 report_year: 2019
 policy_areas:
   - Health Care
