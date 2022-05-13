@@ -1,0 +1,25 @@
+{% assign item_basepath = include.basepath %}
+{% assign items = include.items %}
+{% assign bg_color_class = include.bg_color_class %}
+
+<div class="grid-row">
+  <ul class="usa-list usa-list--unstyled">
+  {% for item in items %}
+    {% if item == "" %}
+      {% continue %}
+    {% endif %}
+
+    {% assign item_slug = item | slugify %}
+    <li class="display-inline">
+      <a
+        class="padding-right-1 text-no-underline"
+        href="{{ site.baseurl }}{{ item_basepath }}/{{ item_slug }}"
+      >
+        <span class="usa-tag {{ bg_color_class | default: '' }}">
+          {{ item }}
+        </span>
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>

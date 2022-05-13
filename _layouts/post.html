@@ -25,6 +25,20 @@ This is used in blog posts. The index page can be found at blog/index.html
             By <span class="text-bold">{{ page.author }}</span> · {{ page.date | date: '%B %d, %Y' }}
           </div>
         </div>
+        {% if page.categories %}
+          {% include pill-links.html
+            basepath=""
+            bg_color_class="bg-secondary-dark"
+            items=page.categories
+          %}
+        {% endif %}
+        {% if page.policy_areas %}
+          {% include pill-links.html
+            basepath="/policy-areas"
+            bg_color_class="bg-primary-dark"
+            items=page.policy_areas
+          %}
+        {% endif %}
         {% if page.word_document or page.pdf_document %}
           <div class="padding-y-2">
             {% if page.word_document %}

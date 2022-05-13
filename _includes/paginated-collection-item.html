@@ -31,6 +31,20 @@
           {{ include.post.date | date: '%B %d, %Y' }}
         </div>
       </div>
+      {% if include.post.categories %}
+        {% include pill-links.html
+          basepath=""
+          bg_color_class="bg-secondary-dark"
+          items=include.post.categories
+        %}
+      {% endif %}
+      {% if include.post.policy_areas %}
+        {% include pill-links.html
+          basepath="/policy-areas"
+          bg_color_class="bg-primary-dark"
+          items=include.post.policy_areas
+        %}
+      {% endif %}
     </div>
   </div>
 </div>

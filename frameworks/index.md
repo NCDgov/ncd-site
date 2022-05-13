@@ -4,7 +4,7 @@ title: Frameworks
 pagination:
   enabled: true
   collection: all
-  category: framework
+  category: frameworks
 ---
 
 <div class="grid-container">

@@ -4,5 +4,5 @@ layout: policy-area
 pagination:
   enabled: true
   tag:
-    - "Health Cares"
+    - "Health Care"
 ---

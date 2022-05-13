@@ -4,7 +4,7 @@ title: Toolkits
 pagination:
   enabled: true
   collection: all
-  category: toolkit
+  category: toolkits
 ---
 
 <div class="grid-container">
