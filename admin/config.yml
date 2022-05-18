@@ -313,6 +313,7 @@ collections:
           label: 'Federal Register Notice',
           name: 'federal_register_notice',
           widget: 'string',
+          required: false,
           hint: 'Enter the Federal Register Notice URL.',
           pattern:
             [
