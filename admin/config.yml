@@ -423,7 +423,7 @@ collections:
       - {
           label: 'Newsroom Type',
           name: 'newsroom_type',
-          required: true,
+          required: false,
           widget: 'select',
           options:
             [
@@ -432,6 +432,7 @@ collections:
               'Speech',
               'Testimonial',
               'Newsletter',
+              'Press Release',
             ],
           default: '',
         }
@@ -468,7 +469,7 @@ collections:
           label: 'Image Alternative Tag',
           name: 'image_alt_text',
           widget: 'string',
-          required: true,
+          required: false,
         }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - label: Policy Areas
