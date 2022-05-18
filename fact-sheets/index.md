@@ -4,7 +4,7 @@ title: Fact Sheets
 pagination:
   enabled: true
   collection: all
-  category: fact sheet
+  category: fact sheets
 ---
 
 <div class="grid-container">

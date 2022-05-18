@@ -4,7 +4,7 @@ title: Progress Reports
 pagination:
   enabled: true
   collection: all
-  category: progress report
+  category: progress reports
 ---
 
 <div class="grid-container">

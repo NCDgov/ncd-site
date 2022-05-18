@@ -141,7 +141,7 @@ collections:
           widget: 'select',
           required: false,
           multiple: true,
-          options: ["toolkit", "progress report", "framework", "fact sheet"]
+          options: ["toolkits", "progress reports", "frameworks", "fact sheets"]
         }
       - &policy-areas {
           label: 'Policy Areas',
