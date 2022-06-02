@@ -302,7 +302,7 @@ collections:
     name: meetings
     folder: _meetings/
     create: true
-    slug: '{{slug}}'
+    slug: '{{date}}-{{slug}}'
     path: '{{meeting_year}}/{{slug}}'
     editor:
       preview: true
