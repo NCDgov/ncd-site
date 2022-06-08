@@ -49,6 +49,31 @@ This is used in blog posts. The index page can be found at blog/index.html
             {% endif %}
           </div>
         {% endif %}
+        {% if page.agenda or page.minutes or page.federal_register_notice %}
+          <div class="padding-y-2">
+            {% if page.federal_register_notice %}
+              <div>
+                <div class="display-flex flex-row flex-align-center">
+                  <a
+                    class="display-flex flex-row flex-align-center text-bold text-no-underline"
+                    href="{{page.federal_register_notice}}"
+                  >
+                    Federal Register Notice
+                    <svg class="usa-icon margin-left-1" aria-hidden="true" role="img">
+                      <use xlink:href="{% asset img/sprite.svg @path %}#launch"></use>
+                    </svg>
+                  </a>
+                </div>
+              </div>
+            {% endif %}
+            {% if page.agenda %}
+              {% include download-file.html document_type="Agenda" file_path=page.agenda %}
+            {% endif %}
+            {% if page.minutes %}
+              {% include download-file.html document_type="Minutes" file_path=page.minutes %}
+            {% endif %}
+          </div>
+        {% endif %}
         {{ content }}
       </div>
     </div>
