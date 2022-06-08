@@ -1,15 +1,10 @@
-<!--
-  Federalist recommends you use Continuous Integration to automatically test
-  and validate any new changes to your site. CircleCI is free for open source
-  projcets. You should replace this badge with your own.
+# National Council on Disability - ncd.gov
 
-  https://circleci.com/
--->
-[![CircleCI](https://circleci.com/gh/18F/federalist-uswds-jekyll.svg?style=svg)](https://circleci.com/gh/18F/federalist-uswds-jekyll)
+## About
 
-[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=18F/federalist-uswds-jekyll)](https://dependabot.com)
+This is the site source code for ncd.gov running on the Federalist platform.
 
-# Federalist + U.S. Web Design System + Jekyll
+## Site Tech
 
 This [Jekyll theme](https://jekyllrb.com/docs/themes/) is developed using the [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov) and is focused on providing developers a starter kit and reference implementation for Federalist websites.
 
@@ -26,23 +21,9 @@ This project strives to be compliant with requirements set by [21st Century IDEA
 - allows for user customization; and
 - is mobile-friendly.
 
-## Comparison with [uswds-jekyll](https://github.com/18F/uswds-jekyll)
-
-Both start off looking very similar, but differ in what use cases they are best for. Are you:
-
-- Wanting to have a starter template that you can highly customize?
-- Comfortable editing HTML and CSS source code?
-
-use federalist-uswds-jekyll (this repository). If you:
-
-- Want to use a theme that you can set and forget
-- Are ok with sticking with the general look and feel provided
-
-use uswds-jekyll.
-
 ## Key Functionality
 This repository contains the following examples and functionality:
- 
+
 ✅  Publish blog posts, press releases, announcements, etc. To modify this code, check out `blog/index.html`, which manages how the posts are listed. You should then check out `_layouts/post.html` to see how individual posts are structured.
 
 ✅ Publish single one-off pages. Instead of creating lots of folders throughout the root directory, you should put single pages in `_pages` folder and change the `permalink` at the top of each page. Use sub-folders only when you really need to.
@@ -179,7 +160,7 @@ This will create a copy of this repo in a Github repository of your choice but y
 #### With locally installed `node` and `ruby`
     $ npm install
     $ bundle install
-    $ npm start 
+    $ npm start
     OR
     $ bundle exec jekyll serve
 
@@ -216,7 +197,7 @@ site.
 
 - [Jekyll](https://jekyllrb.com/docs/) - The primary site engine that builds your code and content.
 - [Front Matter](https://jekyllrb.com/docs/frontmatter) - The top of each page/post includes keywords within `--` tags. This is meta data that helps Jekyll build the site, but you can also use it to pass custom variables.
-- [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov) 
+- [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov)
 
 
 ## Contributing
