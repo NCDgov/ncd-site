@@ -6,8 +6,7 @@ date: October 31, 2019
 report_year: 2019
 policy_areas:
   - Civil Rights
-categories:
-  - progress reports
+categories: null
 word_document: reports/2019/ncd_progress_report_federal-enforcement-of-disability-rights-laws-part-2.docx
 pdf_document: reports/2019/ncd_progress_report_federal-enforcement-of-disability-rights-laws-part-2.pdf
 image: images/federal-enforcement-of-disability-rights-laws-part-2-cover.png
