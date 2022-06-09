@@ -7,8 +7,7 @@ date: May 21, 2021
 report_year: 2021
 policy_areas:
   - Health Care
-categories:
-  - progress reports
+categories: null
 word_document: reports/ncd_medical_equipment_report.docx
 pdf_document: reports/ncd_medical_equipment_report_508.pdf
 image: images/ncd_medical_equipment_report_2021_cover.png
