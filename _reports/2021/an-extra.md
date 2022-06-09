@@ -1,9 +1,16 @@
 ---
+excerpt: This is an excerpt
 layout: post
 title: "2021 Progress Report: The Impact of COVID-19 on People with Disabilities"
 date: October 29, 2021
+report_year: 2021
+policy_areas:
+  - Emergency Management
+  - Health Care
+categories:
+  - progress reports
+image_alt_text: NA
 author: Author
-excerpt: This is an excerpt
 ---
 FULL REPORT [(PDF)](https://ncd.gov/sites/default/files/NCD_COVID-19_Progress_Report_508.pdf)
 
