@@ -2,7 +2,7 @@
 layout: post
 title: "National Disability Policy: A Progress Report - January 1984"
 date: January 5, 1984
-report_year: 2022
+report_year: 1984
 categories:
   - progress reports
 image_alt_text: NA
