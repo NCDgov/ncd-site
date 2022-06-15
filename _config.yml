@@ -70,10 +70,10 @@ searchgov:
   endpoint: https://search.usa.gov
 
   # replace this with your search.gov account
-  affiliate: federalist-uswds-example
+  affiliate: beta-ncd-gov
 
   # replace with your access key
-  access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko=
+  access_key: USZBXrpX_DhoKOg7mmIhpx-xgqveozWwwoPpp1HGBPk=
 
   # this renders the results within the page instead of sending to user to search.gov
   inline: true
