@@ -111,6 +111,13 @@ collections:
             },
         }
       - { label: 'Title', name: 'title', widget: 'string' }
+      - &press-release {
+          label: 'Press Release',
+          name: 'press_release',
+          widget: 'string',
+          required: false,
+          hint: 'Enter the URL or relative path for the related press release or news post.',
+        }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - label: Committees & Communities
     name: committees-communities
@@ -156,6 +163,7 @@ collections:
           max: 5,
           required: false,
         }
+      - *press-release
       - {
           label: 'Publish Date',
           name: 'date',
@@ -359,6 +367,7 @@ collections:
           media_folder: '/_assets/uploads/meetings/{{year}}/{{slug}}',
           public_folder: 'meetings/{{year}}/{{slug}}',
         }
+      - *press-release
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - label: Navigation for Site
     name: navigation
@@ -508,6 +517,7 @@ collections:
         }
       - *policy-areas
       - *categories
+      - *press-release
       - {
           label: 'Report Document',
           name: 'document',
@@ -549,6 +559,7 @@ collections:
         }
       - *policy-areas
       - *categories
+      - *press-release
       - {
           label: 'Report Word Document',
           name: 'word_document',

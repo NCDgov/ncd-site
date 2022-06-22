@@ -51,6 +51,21 @@ This is used in blog posts. The index page can be found at blog/index.html
         {% endif %}
         {% if page.agenda or page.minutes or page.federal_register_notice %}
           <div class="padding-y-2">
+            {% if page.press_release %}
+              <div>
+                <div class="display-flex flex-row flex-align-center">
+                  <a
+                    class="display-flex flex-row flex-align-center text-bold text-no-underline"
+                    href="{{page.press_release}}"
+                  >
+                    Press Release
+                    <svg class="usa-icon margin-left-1" aria-hidden="true" role="img">
+                      <use xlink:href="{% asset img/sprite.svg @path %}#info_outline"></use>
+                    </svg>
+                  </a>
+                </div>
+              </div>
+            {% endif %}
             {% if page.federal_register_notice %}
               <div>
                 <div class="display-flex flex-row flex-align-center">
