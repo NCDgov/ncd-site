@@ -9,7 +9,7 @@ logo: true
 ## Set to true to publish future meetings collection
 future: true
 
-# url: "https://ncd.gov" # the base hostname & protocol for your site, e.g. https://example.com.
+url: "https://beta.ncd.gov"
 # Required to support the jekyll-sitemap plugin below.
 # Uncomment the url line when ready to push to production. If using different branches for multiple
 # custom domains, edit this url parameter in the relevant branch to match the relevant custom domain.
