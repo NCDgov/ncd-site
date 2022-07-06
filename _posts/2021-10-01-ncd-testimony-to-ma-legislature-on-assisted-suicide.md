@@ -7,12 +7,6 @@ policy_areas:
   - Health Care
   - Civil Rights
 ---
-<!--StartFragment-->
-
-[Skip to Page Content](https://ncd.gov/newsroom/2021/ncd-testimony-MA-legislature-assisted-suicide#skip_link-block-system-main "Skip to Page Content")
-
- 
-
 **ORAL TESTIMONY** 
 
 **Anne Sommers McIntosh** 
@@ -48,5 +42,3 @@ These “reasons” are not directly gathered from the individuals themselves bu
 NCD’s research on assisted suicide reveals extensive significant and dangerous policy and procedural flaws in existing and proposed laws, and I implore you to read our report in full to be aware of all the dangers of efforts to legalize assisted suicide to people with disabilities.
 
 Thank you for the opportunity to testify today.
-
-<!--EndFragment-->
