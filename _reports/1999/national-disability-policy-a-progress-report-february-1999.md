@@ -8,7 +8,15 @@ categories:
 pdf_document: reports/1999/ncd-progress-report-february-1999.pdf
 image_alt_text: NA
 ---
-NATIONAL DISABILITY POLICY: A PROGRESS REPORT
+**SCOPE AND PURPOSE:** This report, which covers the period November 1, 1997, through October 31, 1998, reviews federal policy activities in the year following our last report, noting progress where it has occurred and making further recommendations where necessary. The recommendations apply to the executive branch, to the legislative branch, and in some instances to both. 
+
+The report includes key progress findings, concerns and recommendations including:
+
+[](https://ncd.gov/progress_reports/Feb1999#A)
+
+<!--EndFragment-->
+
+<!--EndFragment-->NATIONAL DISABILITY POLICY: A PROGRESS REPORT
 
 November 1, 1997-October 31, 1998
 
@@ -649,9 +657,7 @@ NCD was initially established in 1978 as an advisory board within the Department
 
 [](<>)8 National Council on Disability, *[Removing Barriers to Work: Action Proposals for the 105th Congress and Beyond](https://ncd.gov/publications/1997/barriers.htm)*, September 24, 1997.
 
-*  
-
-  * Reviewing and evaluating, on a continuing basis, policies, programs, practices, and procedures concerning individuals with disabilities conducted or assisted by federal departments and agencies, including programs established or assisted under the Rehabilitation Act of 1973, as amended, or under the Developmental Disabilities Assistance and Bill of Rights Act; as well as all statutes and regulations pertaining to federal programs that assist such individuals with disabilities, to assess the effectiveness of such policies, programs, practices, procedures, statutes, and regulations in meeting the needs of individuals with disabilities.
+* * Reviewing and evaluating, on a continuing basis, policies, programs, practices, and procedures concerning individuals with disabilities conducted or assisted by federal departments and agencies, including programs established or assisted under the Rehabilitation Act of 1973, as amended, or under the Developmental Disabilities Assistance and Bill of Rights Act; as well as all statutes and regulations pertaining to federal programs that assist such individuals with disabilities, to assess the effectiveness of such policies, programs, practices, procedures, statutes, and regulations in meeting the needs of individuals with disabilities.
   * Reviewing and evaluating, on a continuing basis, new and emerging disability policy issues affecting individuals with disabilities at the federal, state, and local levels, and in the private sector, including the need for and coordination of adult services, access to personal assistance services, school reform efforts and the impact of such efforts on individuals with disabilities, access to health care, and policies that operate as disincentives for individuals to seek and retain employment.
   * Making recommendations to the President, Congress, the secretary of education, the director of the National Institute on Disability and Rehabilitation Research, and other officials of federal agencies on ways to better promote equal opportunity, economic self-sufficiency, independent living, and inclusion and integration into all aspects of society for Americans with disabilities.
   * Providing Congress, on a continuing basis with advice, recommendations, legislative proposals, and any additional information that NCD or Congress deems appropriate.
