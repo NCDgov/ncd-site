@@ -3,6 +3,9 @@ layout: post
 title: NCD recommends COVID-19 vaccine allocation equity for individuals with I/DD
 date: 2020-12-15
 newsroom_type: Press Release
+policy_areas:
+  - Health Care
+  - Civil Rights
 image_alt_text: NA
 ---
 **For Immediate Release**
