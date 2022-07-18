@@ -3,7 +3,7 @@ layout: post
 title: Has the Promise Been Kept? Federal Enforcement of Disability Rights Laws
   (Part 2) - October 2019
 date: October 31, 2019
-report_year: 1999
+report_year: 2019
 policy_areas:
   - Civil Rights
   - Housing
