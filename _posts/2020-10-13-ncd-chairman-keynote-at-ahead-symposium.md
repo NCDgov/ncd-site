@@ -3,6 +3,8 @@ layout: post
 title: NCD Chairman keynote at AHEAD Symposium
 date: 2020-10-13
 newsroom_type: ""
+policy_areas:
+  - Health Care
 ---
 **WASHINGTON —** National Council on Disability (NCD) Chairman Neil Romano was the keynote speaker at Achieving Health Equity through Access for All with Disabilities (AHEAD) Symposium Oct. 2.
 
