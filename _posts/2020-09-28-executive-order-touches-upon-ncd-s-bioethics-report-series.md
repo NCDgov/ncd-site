@@ -3,6 +3,8 @@ layout: post
 title: Executive order touches upon NCD’s bioethics report series
 date: 2020-09-28
 newsroom_type: ""
+policy_areas:
+  - Health Care
 ---
 **WASHINGTON —** A presidential executive order given Sept. 25 on protecting vulnerable newborn and infant children touches upon many themes in the bioethics and disability report series issued last year by the National Council on Disability (NCD).
 
