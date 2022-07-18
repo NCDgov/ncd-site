@@ -9,13 +9,12 @@ policy_areas:
   - Health Care
 categories:
   - progress reports
-image_alt_text: NA
+image: images/ncd_progress_report_2021_cover_sm.jpg
+image_alt_text: Left half of report cover has photo of a hand touching
+  wheelchair and an American flag mask in the background. Right side is blue
+  with NCD logo and title of the report October 29, 2021.
 author: Author
 ---
-FULL REPORT [(PDF)](https://ncd.gov/sites/default/files/NCD_COVID-19_Progress_Report_508.pdf)
-
-FULL REPORT [(DOC)](https://ncd.gov/sites/default/files/NCD_COVID-19_ProgressReport.docx)
-
 **SCOPE AND PURPOSE:** This report examines COVID-19’s disproportionate negative impact on people with disabilities in (1) accessing healthcare; (2) accessing direct care support; (3) congregate care settings and transition; (4) education; (5) employment; (6) effective communication; (7) mental health and suicide prevention services; and summarizes the federal and state response to these impacts. The purpose of the report is to document the difference that disability made to one’s experiences and outcomes in the United States during the pandemic.
 
 For decades, federal and state healthcare data collection practices failed to capture baseline information about the functional disability status of patients and the public, leaving people with disabilities uncounted during and after public health emergencies. Throughout this study, NCD found that this data dearth created barriers in collecting real-time accurate data about the impact of COVID-19 on people with disabilities or the healthcare disparities they experienced during the pandemic. This study makes recommendations to policy makers on ways to improve data collection on people with disabilities and their experiences that will allow for a nuanced look at how disability creates a unique difference to health disparities.
