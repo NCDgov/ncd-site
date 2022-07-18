@@ -12,8 +12,9 @@ categories:
   - progress reports
 word_document: reports/1999/ncd_progress_report_oct_2019.docx
 pdf_document: reports/1999/ncd_progress-report_oct_2019.pdf
-image: images/federal-enforcement-of-disability-rights-laws-part-2-cover.png
-image_alt_text: NA
+image: images/progress_report_2019sm.jpg
+image_alt_text: U.S. flag background with silhouette of capital buildings in
+  blue. NCD seal below with title of report.
 ---
 
 
