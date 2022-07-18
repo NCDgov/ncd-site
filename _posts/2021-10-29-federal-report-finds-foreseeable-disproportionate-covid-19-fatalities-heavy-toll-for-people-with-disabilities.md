@@ -3,8 +3,18 @@ layout: post
 title: Federal report finds foreseeable, disproportionate COVID-19 fatalities,
   heavy toll for people with disabilities
 date: 2021-10-29
+newsroom_type: Press Release
+policy_areas:
+  - Health Care
+  - Civil Rights
+  - Emergency Management
+  - Long Term Services & Support
+categories:
+  - progress reports
 ---
-**For Immediate Release**                                
+**For Immediate Release**  
+
+Oct. 29, 2021                              
 
 **WASHINGTON--**Today the National Council on Disability (NCD) released a comprehensive report on COVID-19’s impact on people with disabilities, finding over 181,000 people with disabilities in long-term care facilities died from it by March 2021.
 
