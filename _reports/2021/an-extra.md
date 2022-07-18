@@ -9,7 +9,7 @@ policy_areas:
   - Health Care
 categories:
   - progress reports
-image: images/ncd_progress_report_2021_cover_sm.jpg
+image: images/ncd_progress_report_2021_cover_sm.png
 image_alt_text: Left half of report cover has photo of a hand touching
   wheelchair and an American flag mask in the background. Right side is blue
   with NCD logo and title of the report October 29, 2021.
