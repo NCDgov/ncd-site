@@ -1,5 +1,5 @@
 primary:
-  - name: About Our Council
+  - name: About the Council
     children:
       - name: Misson
         url: /about/
@@ -77,6 +77,6 @@ primary:
         icon: img/sprite.svg#accessibility_new
 secondary:
   - name: Contact US
-    url: '/contact/'
+    url: /contact/
   - name: Accountability
-    url: '/accountability/'
+    url: /accountability/
