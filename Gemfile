@@ -1,11 +1,10 @@
+ruby '>= 2.7'
+
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.9"
-
+gem "jekyll", "~> 4.0"
 gem "execjs", "2.7.0" # https://github.com/rails/execjs/issues/99
 gem "autoprefixer-rails"
-gem "sprockets", "~> 4"
-gem "kramdown-parser-gfm", "~> 1.1.0"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.15"
