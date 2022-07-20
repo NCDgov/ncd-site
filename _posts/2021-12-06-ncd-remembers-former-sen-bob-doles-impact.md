@@ -5,6 +5,11 @@ date: 2021-12-06
 excerpt: WASHINGTON--The following is a statement by the National Council on
   Disability regarding the passing of former U.S. Sen. Robert "Bob" J. Dole.
 newsroom_type: Newsletter
+policy_areas:
+  - CRPD
+  - Employment
+  - International
+  - Civil Rights
 image_alt_text: NA
 ---
 
