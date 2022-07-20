@@ -160,7 +160,7 @@ collections:
           display_fields: ['title'],
           multiple: true,
           min: 0,
-          max: 5,
+          max: 100,
           required: false,
         }
       - *press-release
