@@ -4,7 +4,7 @@ published: true
 permalink: /about-us/
 redirect_from:
   - /about/
-title: About Us
+title: Mission and History
 ---
 ## NCD's Mission and History
 
