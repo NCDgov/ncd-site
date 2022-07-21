@@ -6,11 +6,9 @@ redirect_from:
   - /about/
 title: About Us
 ---
-## Who We Are
+## NCD's Mission and History
 
-NCD is an independent federal agency charged with advising the President, Congress, and other federal agencies regarding policies, programs, practices, and procedures that affect people with disabilities. NCD is comprised of a team of Presidential and Congressional appointees, an Executive Director appointed by the Chair, and a full-time professional staff. ("[Read more about the NCD team](https://ncd.gov/council_and_staff)")
-
-## NCD's Mission
+#### Mission
 
 NCD's mission is to be a trusted advisor, in collaboration with people with disabilities to:
 
@@ -22,13 +20,13 @@ NCD's mission is to be a trusted advisor, in collaboration with people with disa
 
 NCD fulfills its advisory roles regarding disability policies, programs, procedures, and practices that enhance equal opportunity by:
 
-* [Convening stakeholders](https://ncd.gov/events/)  to acquire timely and relevant input for recommendations and action steps
+* Convening stakeholders to acquire timely and relevant input for recommendations and action steps
 * Gathering and analyzing data and other information
 * Engaging and influencing current debates and agendas
 * Identifying and formulating solutions to emerging and long-standing challenges; and
 * Providing tools to facilitate effective implementation
 
-## History of NCD
+#### History
 
 NCD has a proud history. First established as a small advisory Council within the Department of Education in 1978, NCD was transformed into an independent agency in 1984 and charged with reviewing federal disability programs and policies. In 1986, NCD recommended enactment of an Americans with Disabilities Act, and then drafted the first version of the bill introduce in the House and Senate in 1988. 
 
