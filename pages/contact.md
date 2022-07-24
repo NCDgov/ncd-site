@@ -4,13 +4,13 @@ published: true
 permalink: /contact/
 title: Contact Us
 ---
+![Downtown Washington, DC, street sign on a sunny day with a green NCD sign pointing to the left. ](ncdsign_sm.jpg)
+
 If you have a question or comment, please let us know.
 
 **National Council on Disability**
 
-
 1331 F Street, NW, Suite 850
-
 
 Washington, DC 20004
 
