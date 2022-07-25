@@ -11,6 +11,8 @@ primary:
         url: /contact/
       - name: Council Meetings
         url: /meetings/
+      - name: Feedback
+        url: /feedback/
   - name: Newsroom
     url: /newsroom/
   - name: Policy Advice
