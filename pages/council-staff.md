@@ -10,9 +10,9 @@ title: Staff
 
 ![Anne Sommers McIntosh headshot]({% asset images/annemcintosh.png @path %})
 
-## Anne Sommers McIntosh
+##### Anne Sommers McIntosh
 
-Anne C. Sommers McIntosh is the Executive Director of the National Council on Disability (NCD), responsible for the overall program management and operations of the independent federal agency. Anne joined NCD in 2008 as Legislative Affairs Specialist and has served as Director of Legislative Affairs and Outreach for the past 10 years, where she directed the agency’s Congressional affairs and communication activities. Prior to her time at NCD, she served as Policy Counsel at the American Association of People with Disabilities (AAPD); copywriter at a disease management subsidiary of Blue Cross Blue Shield, and as a free-lance journalist for the Richmond Times-Dispatch. Anne served as the Chair of Not Dead Yet from 2015-2019. The national grassroots disability rights group opposes legalization of assisted suicide and euthanasia as deadly forms of discrimination. She previously served as its Secretary in 2014 after first joining the board in 2013. She attended Virginia Tech University on a Cathy Faoro full merit scholarship for students with disabilities and graduated summa cum laude from the Honors Program, receiving her Bachelor of Science degree from the Pamplin School of Business with a minor in Communications. While at Virginia Tech, she was the Chair of the Judicial Committee and the Opinions section editor of the university’s award-winning daily newspaper, the Collegiate Times. She is also a proud alumnus of the Maggie L. Walker Governor’s School for Government and International Studies, a top 10 best public high school in the U.S. Anne attended the William and Mary School of Law as an Ann C. and R. Harvey Chappell, Jr. Fellow, where she graduated with a Juris Doctor degree. Her scholarly research regarding wrongful life litigation earned her the distinction of Benjamin Rush Health Law Scholar in 2005. Anne was a founding member of Students for Equality in Legal Education.
+
 
 ## Policy & Legal Team
 
