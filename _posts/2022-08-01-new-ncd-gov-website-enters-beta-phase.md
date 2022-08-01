@@ -1,11 +1,15 @@
 ---
 layout: post
-title: New NCD.gov website enters beta phase
+title: New NCD website enters beta phase
 date: 2022-08-01
 newsroom_type: Press Release
 policy_areas:
   - Technology
 ---
+**For Immediate Release**
+
+Aug. 1, 2022
+
 **WASHINGTON--**The National Council on Disability announces a public preview of its new website.
 
 The site, located at beta.ncd.gov, uses the Federalist platform, a product of the General Services Administration. NCD chose the platform based on U.S. Web Design System standards for simplicity, accessibility and security.
