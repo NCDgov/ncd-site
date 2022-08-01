@@ -10,9 +10,7 @@ title: Staff
 
 ![Anne Sommers McIntosh headshot]({% asset images/annemcintosh.png @path %})
 
-##### Anne Sommers McIntosh
-
-
+#### Anne Sommers McIntosh
 
 ## Policy & Legal Team
 
