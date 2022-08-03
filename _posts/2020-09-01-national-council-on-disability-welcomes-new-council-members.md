@@ -2,7 +2,7 @@
 layout: post
 title: National Council on Disability welcomes new council members
 date: 2020-09-01
-newsroom_type: Press Release
+tag: Press Release
 ---
 **For Immediate Release**
 

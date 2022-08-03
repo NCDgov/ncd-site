@@ -3,7 +3,7 @@ layout: post
 title: National Council on Disability applauds U.S. Commission on Civil Rights’
   call to repeal 14(c) subminimum wages
 date: 2020-09-17
-newsroom_type: Press Release
+tag: Press Release
 policy_areas:
   - Employment
 ---

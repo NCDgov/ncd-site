@@ -2,7 +2,6 @@
 layout: post
 title: NCD Chairman keynote at AHEAD Symposium
 date: 2020-10-13
-newsroom_type: ""
 policy_areas:
   - Health Care
   - Education

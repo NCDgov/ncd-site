@@ -3,7 +3,7 @@ layout: post
 title: Federal report finds foreseeable, disproportionate COVID-19 fatalities,
   heavy toll for people with disabilities
 date: 2021-10-29
-newsroom_type: Press Release
+tag: Press Release
 policy_areas:
   - Health Care
   - Civil Rights

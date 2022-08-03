@@ -2,7 +2,7 @@
 layout: post
 title: NCD advises CMS on Most Favored Nation rule
 date: 2021-01-19
-newsroom_type: Newsletter
+tag: Newsletter
 policy_areas:
   - Health Care
 image_alt_text: NA

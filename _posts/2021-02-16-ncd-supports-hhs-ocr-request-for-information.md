@@ -5,7 +5,7 @@ date: 2021-02-16
 excerpt: WASHINGTON—The National Council on Disability (NCD) has signaled to the
   U.S. Department of Health & Human Services (HHS) its strong support of HHS’s
   Office of Civil Rights’ (OCR) Request for Information.
-newsroom_type: Newsletter
+tag: Newsletter
 policy_areas:
   - Health Care
 image_alt_text: NA

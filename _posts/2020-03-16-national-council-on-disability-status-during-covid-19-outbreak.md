@@ -2,7 +2,7 @@
 layout: post
 title: National Council on Disability status during COVID-19 outbreak
 date: 2020-03-16
-newsroom_type: Press Release
+tag: Press Release
 policy_areas:
   - Emergency Management
 ---

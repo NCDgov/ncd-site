@@ -3,7 +3,7 @@ layout: post
 title: NCD Chairman to participate in DOT celebration of Americans with
   Disabilities Act
 date: 2020-07-29
-newsroom_type: Press Release
+tag: Press Release
 policy_areas:
   - Civil Rights
   - Transportation

@@ -3,7 +3,6 @@ layout: post
 title: NCD applauds HHS OCR and Conn. Gov. Lamont for resolving discriminatory
   non-visitation policy
 date: 2020-06-11
-newsroom_type: ""
 policy_areas:
   - Civil Rights
   - Emergency Management

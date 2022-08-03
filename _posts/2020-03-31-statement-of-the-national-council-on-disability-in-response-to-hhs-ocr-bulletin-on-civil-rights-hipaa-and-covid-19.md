@@ -3,7 +3,7 @@ layout: post
 title: Statement of the National Council on Disability in Response to HHS OCR
   Bulletin on Civil Rights, HIPAA, and COVID-19
 date: 2020-03-31
-newsroom_type: Press Release
+tag: Press Release
 policy_areas:
   - Civil Rights
   - Emergency Management

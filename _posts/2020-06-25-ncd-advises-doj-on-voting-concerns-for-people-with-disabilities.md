@@ -2,7 +2,7 @@
 layout: post
 title: NCD advises DOJ on voting concerns for people with disabilities
 date: 2020-06-25
-newsroom_type: null
+tag: null
 policy_areas:
   - Civil Rights
 ---

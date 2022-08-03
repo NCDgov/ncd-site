@@ -2,7 +2,7 @@
 layout: post
 title: Fall 2021 Call for Peer Reviewers
 date: 2021-10-22
-newsroom_type: Newsletter
+tag: Newsletter
 image_alt_text: NA
 ---
 The National Council on Disability (NCD) is seeking qualified peer reviewers for three upcoming projects. Please review the specifics of each project below and if interested submit your interest with qualifications to the designated email within each individual description:

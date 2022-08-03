@@ -7,7 +7,7 @@ excerpt: WASHINGTON -- Today, the National Council on Disability (NCD)--an
   independent federal agency--released a report focused on much needed federal
   regulations that would address among the most significant barriers to health
   care for people with mobility disabilities.
-newsroom_type: Newsletter
+tag: Newsletter
 policy_areas:
   - Civil Rights
   - Health Care

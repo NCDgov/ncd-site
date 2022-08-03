@@ -4,7 +4,7 @@ title: NCD announces new Executive Director Anne Sommers McIntosh
 date: 2021-02-01
 excerpt: "WASHINGTON--The National Council on Disability (NCD) announces Anne C.
   Sommers McIntosh, as its new executive director. "
-newsroom_type: Newsletter
+tag: Newsletter
 policy_areas:
   - ""
 image_alt_text: NA

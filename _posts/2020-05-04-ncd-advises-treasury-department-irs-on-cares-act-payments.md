@@ -2,7 +2,7 @@
 layout: post
 title: NCD advises Treasury Department, IRS on CARES Act payments
 date: 2020-05-04
-newsroom_type: Press Release
+tag: Press Release
 policy_areas:
   - Financial Assistance & Incentives
   - Emergency Management

@@ -2,7 +2,7 @@
 layout: post
 title: NCD advises NHTSA on supplemental notice of proposed rulemaking
 date: 2020-12-29
-newsroom_type: Press Release
+tag: Press Release
 policy_areas:
   - Transportation
 image_alt_text: NA

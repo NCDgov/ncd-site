@@ -2,7 +2,7 @@
 layout: post
 title: NCD remembers former ED Mike Collins
 date: 2021-06-30
-newsroom_type: Newsletter
+tag: Newsletter
 policy_areas:
   - ""
 image_alt_text: NA

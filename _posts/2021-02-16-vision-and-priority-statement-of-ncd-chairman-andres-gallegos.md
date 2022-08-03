@@ -4,7 +4,7 @@ title: Vision and Priority Statement of NCD Chairman Andrés Gallegos
 date: 2021-02-16
 excerpt: WASHINGTON—National Council on Disability Chairman Andrés Gallegos
   today released the following vision and priority statement
-newsroom_type: Newsletter
+tag: Newsletter
 policy_areas:
   - Civil Rights
   - Health Care

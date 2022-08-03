@@ -2,7 +2,7 @@
 layout: post
 title: NCD Shutdown Plan in Absence of Appropriations
 date: 2021-09-29
-newsroom_type: Newsletter
+tag: Newsletter
 policy_areas:
   - ""
 image_alt_text: NA

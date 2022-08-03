@@ -2,7 +2,7 @@
 layout: post
 title: NCD Testimony to MA Legislature on Assisted Suicide
 date: 2021-10-01
-newsroom_type: Testimonial
+tag: Testimonial
 policy_areas:
   - Health Care
   - Civil Rights

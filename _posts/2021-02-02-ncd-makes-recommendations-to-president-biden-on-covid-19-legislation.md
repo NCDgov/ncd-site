@@ -5,7 +5,7 @@ date: 2021-02-02
 excerpt: WASHINGTON—The National Council on Disability (NCD) has sent
   recommendations to the White House regarding COVID-19 legislation needs for
   people with disabilities.
-newsroom_type: Newsletter
+tag: Newsletter
 policy_areas:
   - Emergency Management
   - Financial Assistance & Incentives

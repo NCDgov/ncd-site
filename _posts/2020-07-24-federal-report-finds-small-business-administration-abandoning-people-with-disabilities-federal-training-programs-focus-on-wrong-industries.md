@@ -3,7 +3,7 @@ layout: post
 title: Federal report finds Small Business Administration abandoning people with
   disabilities; federal training programs focus on wrong industries
 date: 2020-07-24
-newsroom_type: Press Release
+tag: Press Release
 policy_areas:
   - Education
   - Employment

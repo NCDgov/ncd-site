@@ -2,7 +2,7 @@
 layout: post
 title: NCD announces upcoming Council Meeting
 date: 2022-05-04
-newsroom_type: Newsletter
+tag: Newsletter
 image_alt_text: NA
 ---
 <!--StartFragment-->

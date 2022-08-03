@@ -2,7 +2,7 @@
 layout: post
 title: NCD makes recommendations on COVID-19 vaccine framework
 date: 2020-09-15
-newsroom_type: Press Release
+tag: Press Release
 policy_areas:
   - Health Care
 ---

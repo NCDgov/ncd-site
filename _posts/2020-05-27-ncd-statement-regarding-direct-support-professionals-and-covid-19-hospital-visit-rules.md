@@ -3,7 +3,7 @@ layout: post
 title: NCD statement regarding direct support professionals and COVID-19
   hospital visit rules
 date: 2020-05-27
-newsroom_type: Press Release
+tag: Press Release
 policy_areas:
   - Civil Rights
   - Emergency Management

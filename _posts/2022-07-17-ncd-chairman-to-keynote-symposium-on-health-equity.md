@@ -2,7 +2,7 @@
 layout: post
 title: NCD Chairman to keynote symposium on health equity
 date: 2020-09-29
-newsroom_type: Press Release
+tag: Press Release
 policy_areas:
   - Education
   - Health Care

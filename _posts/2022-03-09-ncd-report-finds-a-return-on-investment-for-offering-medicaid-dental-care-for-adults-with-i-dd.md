@@ -3,7 +3,7 @@ layout: post
 title: NCD report finds a return on investment for offering Medicaid dental care
   for adults with I/DD
 date: 2022-03-09
-newsroom_type: Press Release
+tag: Press Release
 policy_areas:
   - Health Care
 image_alt_text: NA

@@ -5,7 +5,6 @@ date: 2022-08-02
 excerpt: Join the National Council on Disability Aug. 3, 1-3 p.m. EDT for a
   virtual roundtable discussion on Medicare coverage of seat elevation and
   standing systems used in power wheelchairs.
-newsroom_type: ""
 ---
 Join the National Council on Disability Aug. 3, 1-3 p.m. EDT for a virtual roundtable discussion on Medicare coverage of seat elevation and standing systems used in power wheelchairs.
 

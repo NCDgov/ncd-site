@@ -2,7 +2,7 @@
 layout: post
 title: NCD Chairman Participates in White House STEM Roundtable
 date: 2021-08-02
-newsroom_type: Newsletter
+tag: Newsletter
 policy_areas:
   - ""
 image_alt_text: NA

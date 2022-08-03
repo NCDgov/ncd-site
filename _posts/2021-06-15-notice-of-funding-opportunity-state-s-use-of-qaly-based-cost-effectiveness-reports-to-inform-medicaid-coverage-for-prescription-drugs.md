@@ -3,7 +3,7 @@ layout: post
 title: "Notice of Funding Opportunity: State’s use of QALY-Based
   Cost-Effectiveness Reports to Inform Medicaid Coverage for Prescription Drugs"
 date: 2021-06-15
-newsroom_type: Funding Opportunities
+tag: Funding Opportunities
 policy_areas:
   - ""
 image_alt_text: NA
