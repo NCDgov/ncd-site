@@ -3,7 +3,7 @@ layout: post
 title: Federal advisory agency recommends phase out, replacement of federal
   employment program for people with disabilities
 date: 2020-10-14
-newsroom_type: Press Release
+tag: Press Release
 policy_areas:
   - Employment
 ---

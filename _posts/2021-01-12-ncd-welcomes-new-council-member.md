@@ -5,7 +5,7 @@ date: 2021-01-12
 excerpt: WASHINGTON — The National Council on Disability (NCD) – an independent
   federal agency – welcomes the appointment of Munr Kazmir, M.D., of Closter,
   New Jersey, to the Council.
-newsroom_type: Newsletter
+tag: Newsletter
 policy_areas:
   - ""
 image_alt_text: NA

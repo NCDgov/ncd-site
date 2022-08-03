@@ -2,7 +2,7 @@
 layout: post
 title: "NCD Testimony to MA Legislature on Assisted Suicide "
 date: 2021-10-21
-newsroom_type: Newsletter
+tag: Newsletter
 policy_areas:
   - ""
 image_alt_text: NA

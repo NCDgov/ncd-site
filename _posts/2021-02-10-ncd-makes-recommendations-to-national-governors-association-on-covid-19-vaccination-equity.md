@@ -3,7 +3,7 @@ layout: post
 title: NCD makes recommendations to National Governors Association on COVID-19
   vaccination equity
 date: 2021-02-10
-newsroom_type: Newsletter
+tag: Newsletter
 policy_areas:
   - ""
 image_alt_text: NA

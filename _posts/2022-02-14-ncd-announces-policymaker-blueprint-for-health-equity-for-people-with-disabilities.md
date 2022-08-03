@@ -3,7 +3,7 @@ layout: post
 title: NCD announces policymaker blueprint for health equity for people with
   disabilities
 date: 2022-02-14
-newsroom_type: Newsletter
+tag: Newsletter
 policy_areas:
   - Health Care
   - Civil Rights

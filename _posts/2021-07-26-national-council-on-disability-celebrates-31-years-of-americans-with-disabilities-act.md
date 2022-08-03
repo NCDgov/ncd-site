@@ -6,7 +6,7 @@ date: 2021-07-26
 excerpt: "WASHINGTON – In celebration of the 31st anniversary of the Americans
   with Disabilities Act, National Council on Disability Chairman Andrés Gallegos
   has released the following statement:"
-newsroom_type: Newsletter
+tag: Newsletter
 policy_areas:
   - ""
 image_alt_text: NA

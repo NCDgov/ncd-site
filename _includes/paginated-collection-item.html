@@ -38,6 +38,13 @@
           items=include.post.categories
         %}
       {% endif %}
+      {% if include.post.tag %}
+        {% include pill-links.html
+          basepath="/newsroom"
+          bg_color_class="bg-green"
+          items=include.post.tag
+        %}
+      {% endif %}
       {% if include.post.policy_areas %}
         {% include pill-links.html
           basepath="/policy-areas"

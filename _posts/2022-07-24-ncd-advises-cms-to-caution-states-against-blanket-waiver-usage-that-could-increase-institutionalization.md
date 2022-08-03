@@ -3,7 +3,7 @@ layout: post
 title: NCD advises CMS to caution states against blanket waiver usage that could
   increase institutionalization
 date: 2020-04-15
-newsroom_type: Press Release
+tag: Press Release
 policy_areas:
   - Civil Rights
   - Emergency Management

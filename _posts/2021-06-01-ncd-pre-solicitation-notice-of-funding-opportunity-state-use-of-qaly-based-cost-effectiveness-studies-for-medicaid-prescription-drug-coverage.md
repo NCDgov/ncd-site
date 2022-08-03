@@ -3,7 +3,7 @@ layout: post
 title: "NCD Pre-Solicitation Notice of Funding Opportunity: State use of
   QALY-based cost-effectiveness studies for Medicaid prescription drug coverage"
 date: 2021-06-01
-newsroom_type: Funding Opportunities
+tag: Funding Opportunities
 policy_areas:
   - ""
 image_alt_text: NA

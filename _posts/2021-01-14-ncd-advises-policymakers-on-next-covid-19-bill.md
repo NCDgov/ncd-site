@@ -2,7 +2,7 @@
 layout: post
 title: NCD advises policymakers on next COVID-19 bill
 date: 2021-01-14
-newsroom_type: Newsletter
+tag: Newsletter
 policy_areas:
   - Financial Assistance & Incentives
   - Health Care

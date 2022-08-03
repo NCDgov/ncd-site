@@ -2,7 +2,7 @@
 layout: post
 title: NCD advises DOT on Air Carrier Access Act service animal provisions
 date: 2020-04-28
-newsroom_type: Press Release
+tag: Press Release
 policy_areas:
   - Transportation
 ---

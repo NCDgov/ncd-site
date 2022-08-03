@@ -3,7 +3,7 @@ layout: post
 title: NCD sends letter to National Governors Association urging protections
   regarding COVID-19
 date: 2020-04-09
-newsroom_type: Press Release
+tag: Press Release
 policy_areas:
   - Civil Rights
   - Emergency Management

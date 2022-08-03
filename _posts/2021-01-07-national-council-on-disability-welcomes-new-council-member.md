@@ -2,7 +2,7 @@
 layout: post
 title: National Council on Disability welcomes new Council Member
 date: 2021-01-07
-newsroom_type: Newsletter
+tag: Newsletter
 policy_areas:
   - ""
 image_alt_text: NA

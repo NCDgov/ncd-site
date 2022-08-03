@@ -6,7 +6,7 @@ excerpt: WASHINGTON--National Council on Disability submitted a statement for
   the record Thursday from Chairman Andrés J. Gallegos to the U.S. House of
   Representatives Committee on Education & Labor, Subcommittee on Early
   Childhood, Elementary, and Secondary Education.
-newsroom_type: Newsletter
+tag: Newsletter
 policy_areas:
   - ""
 image_alt_text: NA

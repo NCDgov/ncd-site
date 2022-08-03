@@ -3,7 +3,7 @@ layout: post
 title: National Council on Disability celebrates 42 years of advancing national
   disability policy
 date: 2020-11-06
-newsroom_type: Press Release
+tag: Press Release
 ---
 **WASHINGTON—**The National Council on Disability (NCD)—an independent federal agency—today celebrates its 42-year anniversary of advancing national disability policy through its advisory role to federal policymakers.
 

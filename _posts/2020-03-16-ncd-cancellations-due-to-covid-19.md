@@ -2,7 +2,6 @@
 layout: post
 title: NCD cancellations due to COVID-19
 date: 2020-03-16
-newsroom_type: ""
 ---
 The National Council on Disability has been evaluating our meeting options with the health and well-being of our staff, members and community remaining the top priority.
 

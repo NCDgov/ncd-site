@@ -2,7 +2,6 @@
 layout: post
 title: NCD Chairman addresses cuts to DoD CAP funding
 date: 2020-11-23
-newsroom_type: ""
 ---
 **FOR IMMEDIATE RELEASE**
 

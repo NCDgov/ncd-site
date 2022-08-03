@@ -4,7 +4,7 @@ title: "NCD Notice of Funding Opportunity: Incentivizing Oral Healthcare
   Providers to Treat Patients with Intellectual and Developmental Disabilities
   Through Medicaid"
 date: 2021-10-25
-newsroom_type: Funding Opportunities
+tag: Funding Opportunities
 image_alt_text: NA
 ---
 **National Council on Disability**

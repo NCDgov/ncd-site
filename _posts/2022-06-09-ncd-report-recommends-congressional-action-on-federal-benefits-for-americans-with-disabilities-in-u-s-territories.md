@@ -3,7 +3,7 @@ layout: post
 title: NCD report recommends congressional action on federal benefits for
   Americans with disabilities in U.S. territories
 date: 2022-05-25
-newsroom_type: Press Release
+tag: Press Release
 policy_areas:
   - Financial Assistance & Incentives
   - Civil Rights

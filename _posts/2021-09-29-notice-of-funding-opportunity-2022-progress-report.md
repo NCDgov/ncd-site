@@ -2,7 +2,7 @@
 layout: post
 title: "Notice of Funding Opportunity: 2022 Progress Report"
 date: 2021-09-29
-newsroom_type: Funding Opportunities
+tag: Funding Opportunities
 policy_areas:
   - ""
 image_alt_text: NA

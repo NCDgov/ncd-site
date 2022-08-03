@@ -3,7 +3,6 @@ layout: post
 title: NCD statement in support of President’s Executive Order on protecting
   vulnerable newborns and infants
 date: 2020-10-16
-newsroom_type: ""
 ---
 **WASHINGTON--**The following is a statement from National Council on Disability (NCD) in support of the President’s Executive Order on protecting vulnerable newborns and infant children, calling for the Department of Health and Human Services’ (HHS) Office of Civil Rights (OCR) to commence rulemaking:
 

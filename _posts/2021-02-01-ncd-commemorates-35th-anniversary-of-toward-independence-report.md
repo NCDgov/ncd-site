@@ -5,7 +5,7 @@ date: 2021-02-01
 excerpt: WASHINGTON--The National Council on Disability (NCD) today marks the
   35-year anniversary of a federal report that led to the drafting of the
   landmark Americans with Disabilities Act (ADA).
-newsroom_type: Newsletter
+tag: Newsletter
 policy_areas:
   - Civil Rights
 image_alt_text: NA

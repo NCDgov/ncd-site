@@ -2,7 +2,7 @@
 layout: post
 title: NCD remembers former U.S. Sen. Orrin Hatch
 date: 2022-04-25
-newsroom_type: Newsletter
+tag: Newsletter
 image_alt_text: NA
 ---
 **For Immediate Release**

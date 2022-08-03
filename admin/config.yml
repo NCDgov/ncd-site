@@ -431,19 +431,17 @@ collections:
       - { label: 'Excerpt', name: 'excerpt', required: false, widget: 'text' }
       - {
           label: 'Newsroom Type',
-          name: 'newsroom_type',
+          name: 'tag',
           required: false,
           widget: 'select',
           options:
             [
-              '',
               'Funding Opportunities',
               'Speech',
               'Testimonial',
               'Newsletter',
               'Press Release',
             ],
-          default: '',
         }
       - *policy-areas
       - *categories

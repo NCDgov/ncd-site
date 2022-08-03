@@ -6,7 +6,7 @@ excerpt: WASHINGTON--The National Council on Disability (NCD) – an independent
   nonpartisan federal agency that advises the President, Congress and other
   federal agencies on disability policy – announces Andrés J. Gallegos, of
   Chicago, Illinois, as its new Chairman.
-newsroom_type: Newsletter
+tag: Newsletter
 policy_areas:
   - ""
 image_alt_text: NA
