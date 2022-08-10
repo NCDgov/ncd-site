@@ -1,7 +1,4 @@
-{% comment %}
-You shouldn't have to edit this page very often. But if you want
-to modify some of the meta-data for the site, this is the place to do it.
-{% endcomment %}
+{% assign siteurl = site.url %}
 
 <head>
   <!-- Basic Page Needs
@@ -14,21 +11,63 @@ to modify some of the meta-data for the site, this is the place to do it.
   <meta name="HandheldFriendly" content="True" />
   <meta name="MobileOptimized" content="320" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
   <!-- Title and meta description
     ================================================== -->
-  <title>{{page.title}}</title>
-  <meta property="og:title" content="{{page.title}}" />
-  <meta name="description" content="{{page.description}}" />
-  <meta property="og:description" content="{{page.description}}" />
 
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@{{site.twitter}}" />
-  <meta name="twitter:title" content="{{page.title}}" />
-  <meta name="twitter:description" content="{{page.description}}" />
+  <!-- Creator -->
+  <meta name="twitter:creator" content="@NatCounDis">
+  <!-- Title -->
+  {% if page.title %}
+    <title>{{ site.title }} | {{ page.title }}</title>
+    <meta property="title" content="{{ site.title | xml_escape }} | {{ page.title | xml_escape }}" />
+    <meta property="og:title" content="{{ site.title | xml_escape }} | {{ page.title | xml_escape }}" />
+    <meta name="twitter:title" content="{{ site.title | xml_escape }} | {{ page.title | xml_escape }}">
+  {% else %}
+    <title>{{ site.title }} | {{ site.description }}</title>
+    <meta property="title" content="{{ site.title | xml_escape }} | {{ site.title | xml_escape }}" />
+    <meta property="og:title" content="{{ site.title | xml_escape }} | {{ site.title | xml_escape }}" />
+    <meta property="twitter:title" content="{{ site.title | xml_escape }} | {{ site.title | xml_escape }}" />
+  {% endif %}
+
+    <!-- Twitter Site -->
+  <meta name="twitter:site" content="@NatCounDis" />
+
+  <!-- Description -->
+  {% if page.excerpt %}
+    <meta name="description" content="{{ page.excerpt | xml_escape }}">
+    <meta property="og:description" content="{{ page.excerpt | xml_escape }}" />
+    <meta property="twitter:description" content="{{ page.excerpt | xml_escape }}" />
+  {% else %}
+    <meta name="description" content="{{ site.description | xml_escape }}">
+    <meta property="og:description" content="{{ site.description | xml_escape }}" />
+    <meta property="twitter:description" content="{{ site.description | xml_escape }}" />
+  {% endif %}
+
+  <!-- Image -->
+  {% if page.image %}
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="image_src" href="{{ siteurl }}{% asset {{page.image}} @path %}">
+    <meta name="image" content="{{ siteurl }}{% asset {{page.image}} @path %}">
+    <meta property="og:image" content="{{ siteurl }}{% asset {{page.image}} @path %}" />
+
+    <meta name="twitter:image" content="{{ siteurl }}{% asset {{page.image}} @path %}">
+
+    {% if page.image_alt_text %}
+      <meta name="twitter:image:alt" content="{{page.image_alt_text}}">
+    {% endif %}
+  {% else %}
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:image" content="{{ siteurl }}{% asset ncd-logo.png @path %}">
+    <meta property="og:image" content="{{ siteurl }}{% asset ncd-logo.png @path %}">
+  {% endif %}
 
   <meta property="og:type" content="article" />
   <link rel="canonical" href="{{ page.url | absolute_url }}" />
   <meta property="og:url" content="{{ page.url | absolute_url }}" />
+
+
   <!-- Favicons
     ================================================== -->
   <!-- 128x128 -->
