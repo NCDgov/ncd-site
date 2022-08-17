@@ -2,7 +2,7 @@ primary:
   - name: About the Council
     children:
       - name: Misson
-        url: /about/
+        url: /about-us/
       - name: Council Members
         url: /council-members/
       - name: Council Staff

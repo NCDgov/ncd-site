@@ -443,6 +443,11 @@ collections:
               'Press Release',
             ],
         }
+      - {
+          label: 'Permalink',
+          name: 'permalink',
+          required: false,
+        }
       - *policy-areas
       - *categories
       - {
