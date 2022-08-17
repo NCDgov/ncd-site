@@ -2,22 +2,24 @@
 layout: wide
 ---
 
-<div class="grid-container">
-  <div class="grid-row">
-    <div class="desktop:grid-col-12 usa-prose">
-      {%
+<section class="padding-y-9">
+  <div class="grid-container">
+    <div class="grid-row">
+      <div class="desktop:grid-col-12 usa-prose">
+        {%
         include collection-header.html
         title=page.title
-      %}
-      <div>{{content}}</div>
-      {% for post in paginator.posts %}
-        {%
-          include paginated-collection-item.html
-          post=post
         %}
-      {% endfor %}
-      <!-- Pagination links -->
-      {% include paginator.html %}
+        <div>{{content}}</div>
+        {% for post in paginator.posts %}
+        {%
+        include paginated-collection-item.html
+        post=post
+        %}
+        {% endfor %}
+        <!-- Pagination links -->
+        {% include paginator.html %}
+      </div>
     </div>
   </div>
-</div>
+</section>

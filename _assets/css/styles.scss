@@ -9,26 +9,26 @@
 // @import 'uswds';
 
 // Import individual theme settings
-@import 'theme/uswds-theme-general';
-@import 'theme/uswds-theme-typography';
-@import 'theme/uswds-theme-spacing';
-@import 'theme/uswds-theme-color';
-@import 'theme/uswds-theme-utilities';
-@import 'theme/uswds-theme-components';
+@import "theme/uswds-theme-general";
+@import "theme/uswds-theme-typography";
+@import "theme/uswds-theme-spacing";
+@import "theme/uswds-theme-color";
+@import "theme/uswds-theme-utilities";
+@import "theme/uswds-theme-components";
 
 // Set correct paths for use with asset pipeline
-$theme-font-path: 'fonts';
-$theme-image-path: 'img';
+$theme-font-path: "fonts";
+$theme-image-path: "img";
 
 // -------------------------------------
 // Import individual USWDS packages...
-@import 'scss/packages/required';
-@import 'overrides/all';
-@import 'scss/packages/global';
+@import "scss/packages/required";
+@import "overrides/all";
+@import "scss/packages/global";
 
-@import 'scss/packages/uswds-components';
-@import 'scss/packages/uswds-utilities';
-@import 'navigation';
+@import "scss/packages/uswds-components";
+@import "scss/packages/uswds-utilities";
+@import "navigation";
 
 /*
 ----------------------------------------
@@ -45,14 +45,14 @@ i.e.
 */
 
 h1 {
-  @include u-text('primary');
+  @include u-text("primary");
 }
 
 .section-heading {
-  @include u-text('base-darker');
+  @include u-text("base-darkest");
   @include u-margin-y(0);
-  @include u-font('serif', 'xl');
-  @include u-line-height('serif', 3);
+  @include u-font("sans", "2xl");
+  @include u-line-height("sans", 2);
 }
 
 // default mode hide banner
@@ -100,19 +100,31 @@ h1 {
 // Social Icons
 
 .usa-social-link--facebook {
-  background-image: asset_url('facebook.svg'),
+  background-image: asset_url("facebook.svg"),
     linear-gradient(transparent, transparent);
   background-repeat: no-repeat;
 }
 
 .usa-social-link--instagram {
-  background-image: asset_url('instagram.svg'),
+  background-image: asset_url("instagram.svg"),
     linear-gradient(transparent, transparent);
   background-repeat: no-repeat;
 }
 
 .usa-social-link--twitter {
-  background-image: asset_url('twitter.svg'),
+  background-image: asset_url("twitter.svg"),
     linear-gradient(transparent, transparent);
   background-repeat: no-repeat;
+}
+
+// Hero Tagline
+
+.hero-section {
+  background-image: asset_url("hero-background.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.hero-callout {
+  background-color: rgba(255, 255, 255, 0.6);
 }

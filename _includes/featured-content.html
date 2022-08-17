@@ -1,4 +1,4 @@
-<section class="border-y border-base-lighter padding-y-4">
+<section class="border-y border-base-lighter padding-y-9">
   <div class="grid-container usa-section padding-y-2">
     <h1 class="section-heading">
       Featured
@@ -43,13 +43,11 @@
                             {% asset "{{ item.image }}"
                               alt="{{ item.image_alt_text }}"
                               role="image"
-                              class="circle-15"
                             %}
                           {% else %}
                             {% asset "{{ collection_name }}.png"
                               alt="Image of {{ collection_name }}"
                               role="image"
-                              class="circle-15"
                             %}
                           {% endif %}
                         </div>
