@@ -125,6 +125,30 @@ h1 {
   background-position: center;
 }
 
+.hero-wrap {
+  overflow: hidden;
+  position: relative;
+}
+
+.hero-wrap:before {
+  content: " ";
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 120%;
+  height: 100%;
+  opacity: 0.6;
+  background-image: asset_url("hero-background.jpg");
+  background-repeat: no-repeat;
+  background-position: 90% 25%;
+  background-size: cover;
+}
+
+.hero-content {
+  position: relative;
+}
+
 .hero-callout {
   background-color: rgba(255, 255, 255, 0.6);
 }
