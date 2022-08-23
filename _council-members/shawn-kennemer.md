@@ -2,7 +2,7 @@
 layout: council-member
 member_name: Shawn Kennemer
 location: Bakersfield, California
-image: ""
+image: images/kennemerthumb.jpg
 image_alt_text: photo of Shawn Kennemer
 order: 3
 start_date: August 23, 2022
