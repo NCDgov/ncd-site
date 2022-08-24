@@ -5,7 +5,11 @@
     ================================================== -->
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="robots" content="noindex, nofollow" />
+  {% if site.branch == "main" %}
+    <meta name="robots" content="index, follow">
+  {% else %}
+    <meta name="robots" content="noindex, nofollow" />
+  {% endif %}
   <!-- Mobile Specific Metas
     ================================================== -->
   <meta name="HandheldFriendly" content="True" />
