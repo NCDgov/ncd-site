@@ -45,7 +45,7 @@ searchgov:
   access_key: USZBXrpX_DhoKOg7mmIhpx-xgqveozWwwoPpp1HGBPk=
 
   # this renders the results within the page instead of sending to user to search.gov
-  inline: true
+  inline: false
 
 ##########################################################################################
 # The values below here are more advanced and should only be
