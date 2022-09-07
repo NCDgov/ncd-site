@@ -39,7 +39,13 @@
                       </header>
                       <div class="usa-card__media flex-align-center">
                         <div class="display-flex flex-column flex-align-center height-full">
-                          {% if item.image %}
+                          {% if item.thumbnail %}
+                            {% asset "{{ item.thumbnail }}"
+                              alt="{{ item.image_alt_text }}"
+                              role="image"
+                              style="height: 100%; width: auto; object-fit: cover;"
+                            %}
+                          {% elsif item.image %}
                             {% asset "{{ item.image }}"
                               alt="{{ item.image_alt_text }}"
                               role="image"

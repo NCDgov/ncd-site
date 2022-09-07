@@ -3,7 +3,15 @@
 >
   <div class="grid-row grid-gap">
     <div class="grid-col-3 display-flex flex-row flex-align-center">
-      {% if include.post.image %}
+      {% if include.post.thumbnail and include.post.thumbnail != nil and include.post.thumbnail != '' %}
+      <div class="padding-bottom-2">
+        <img
+          class="width-mobile height-auto"
+          src="{% asset {{include.post.thumbnail}} @path %}"
+          alt="{{page.image_alt_text}}"
+        />
+      </div>
+      {% elsif include.post.image %}
       <img
         class="width-full height-auto"
         src="{% asset {{include.post.image}} @path %}"

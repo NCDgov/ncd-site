@@ -13,5 +13,11 @@ layout: wide
 
       {{ content }}
     </div>
+    {%
+      include aside-page-links.html
+      title="Popular Resources"
+      limit=10
+      items=site.data.widgets.resources
+    %}
   </div>
 </div>

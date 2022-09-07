@@ -24,8 +24,9 @@ pagination:
     </div>
     {%
       include aside-page-links.html
-      title="Recent News Items"
-      items=site.posts
+      title="Featured Newsroom Posts"
+      limit=10
+      items=site.data.widgets.newsroom
     %}
   </div>
 </div>

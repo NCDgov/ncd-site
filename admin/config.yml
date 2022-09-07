@@ -164,6 +164,16 @@ collections:
           required: false,
         }
       - *press-release
+      - &thumbnail {
+          label: 'Thumbnail',
+          name: 'thumbnail',
+          hint: 'Add an optional thumbnail image which is approximately 150px by 150px.',
+          widget: 'image',
+          required: false,
+          choose_url: false,
+          media_folder: '/_assets/uploads/thumbnails',
+          public_folder: 'thumbnails',
+        }
       - {
           label: 'Publish Date',
           name: 'date',
@@ -216,6 +226,7 @@ collections:
           widget: 'string',
           required: true,
         }
+      - *thumbnail
       - {
           label: 'Appearance Order',
           description: 'The order you want the member to appear on the /council-member/ page',
@@ -349,6 +360,7 @@ collections:
         }
       - *policy-areas
       - *categories
+      - *thumbnail
       - {
           label: 'Agenda',
           name: 'agenda',
@@ -483,6 +495,7 @@ collections:
           widget: 'string',
           required: false,
         }
+      - *thumbnail
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - label: Policy Areas
     name: policy-areas
@@ -521,6 +534,7 @@ collections:
       - *policy-areas
       - *categories
       - *press-release
+      - *thumbnail
       - {
           label: 'Report Document',
           name: 'document',
@@ -594,6 +608,7 @@ collections:
           widget: 'string',
           required: true,
         }
+      - *thumbnail
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - label: Resource Pages
     name: resources
@@ -640,3 +655,52 @@ collections:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Description', name: 'description', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
+  - label: Widgets Side Navigation
+    name: widgets
+    files:
+      - label: Widgets
+        name: widgets
+        file: _data/widgets.yaml
+        editor:
+          preview: true
+        fields:
+          - label: 'Letters sidenav links widget'
+            name: 'letters'
+            widget: 'list'
+            fields:
+              - label: 'Title'
+                name: 'title'
+                widget: 'string'
+              - label: 'Url'
+                name: 'url'
+                widget: 'string'
+          - label: 'Newsroom sidenav links widget'
+            name: 'newsroom'
+            widget: 'list'
+            fields:
+              - label: 'Title'
+                name: 'title'
+                widget: 'string'
+              - label: 'Url'
+                name: 'url'
+                widget: 'string'
+          - label: 'Publications sidenav links widget'
+            name: 'publications'
+            widget: 'list'
+            fields:
+              - label: 'Title'
+                name: 'title'
+                widget: 'string'
+              - label: 'Url'
+                name: 'url'
+                widget: 'string'
+          - label: 'Resources sidenav links widget'
+            name: 'resources'
+            widget: 'list'
+            fields:
+              - label: 'Title'
+                name: 'title'
+                widget: 'string'
+              - label: 'Url'
+                name: 'url'
+                widget: 'string'
