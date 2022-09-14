@@ -91,7 +91,7 @@ This is used in blog posts. The index page can be found at blog/index.html
             {% endif %}
           </div>
         {% endif %}
-        {% if page.video_url %}
+        {% if page.video_url and page.video_url != nil and page.video_url != '' %}
           <div class="padding-y-2">
             {% include video/player.html video_url=page.video_url %}
           </div>

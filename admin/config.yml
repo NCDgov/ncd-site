@@ -64,7 +64,6 @@ collections:
               hint: "/my/other/path",
             },
         }
-      - { label: "Body", name: "body", widget: "markdown" }
       - &video {
           label: "Video URL",
           name: "video_url",
@@ -72,6 +71,7 @@ collections:
           widget: "string",
           required: false,
         }
+      - { label: "Body", name: "body", widget: "markdown" }
   - label: Adhoc Pages
     name: adhoc-pages
     description: These are pages that are not apart of a data collection that
@@ -116,6 +116,7 @@ collections:
               widget: "string",
               hint: "/the/old/path/",
             },
+        }
       - { label: "Title", name: "title", widget: "string" }
       - &press-release {
           label: "Press Release",
