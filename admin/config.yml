@@ -26,138 +26,146 @@ public_folder: /
 publish_mode: editorial_workflow
 logo_url: https://federalist.18f.gov/assets/images/federalist-logo.png
 slug:
-  encoding: 'ascii'
+  encoding: "ascii"
   clean_accents: true
-  sanitize_replacement: '-'
+  sanitize_replacement: "-"
 
 collections:
   - label: Accountability
     name: accountability
     folder: _accountability/
     create: true
-    slug: '{{title}}'
-    path: '{{slug}}'
+    slug: "{{title}}"
+    path: "{{slug}}"
     editor:
       preview: true
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string" }
       - {
-          label: 'Publish Date',
-          name: 'date',
-          widget: 'datetime',
-          format: 'MMMM D, YYYY',
-          date_format: 'MMMM D, YYYY',
+          label: "Publish Date",
+          name: "date",
+          widget: "datetime",
+          format: "MMMM D, YYYY",
+          date_format: "MMMM D, YYYY",
           time_format: false,
         }
       - {
-          label: 'Redirect from',
-          name: 'redirect_from',
-          widget: 'list',
+          label: "Redirect from",
+          name: "redirect_from",
+          widget: "list",
           required: false,
           default: [],
           field:
             {
-              label: 'Redirect Path',
-              name: 'redirect_from',
-              widget: 'string',
-              hint: '/my/other/path',
+              label: "Redirect Path",
+              name: "redirect_from",
+              widget: "string",
+              hint: "/my/other/path",
             },
         }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - &video {
+          label: "Video URL",
+          name: "video_url",
+          hint: "Enter a video's URL. Accepts Youtube and URLs ending with `.mp4` and `.webm`.",
+          widget: "string",
+          required: false,
+        }
   - label: Adhoc Pages
     name: adhoc-pages
     description: These are pages that are not apart of a data collection that
     folder: pages
     create: true
-    slug: '{{title}}'
-    path: '{{slug}}'
+    slug: "{{title}}"
+    path: "{{slug}}"
     editor:
       preview: true
     fields:
       - {
-          label: 'Layout',
-          name: 'layout',
-          widget: 'hidden',
-          default: 'single-page',
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "single-page",
         }
       - {
-          label: 'Published',
-          name: 'published',
-          description: 'Set to true to publish or false to un-publish a page.',
-          widget: 'boolean',
+          label: "Published",
+          name: "published",
+          description: "Set to true to publish or false to un-publish a page.",
+          widget: "boolean",
           default: false,
         }
       - {
-          label: 'Permalink',
-          name: 'permalink',
-          description: 'The URL path for the page.',
+          label: "Permalink",
+          name: "permalink",
+          description: "The URL path for the page.",
           widget: string,
-          hint: '/the-page-name/',
+          hint: "/the-page-name/",
         }
       - {
-          label: 'Redirect from',
-          name: 'redirect_from',
-          description: 'An old URL path you want to redirect to this page.',
-          widget: 'list',
+          label: "Redirect from",
+          name: "redirect_from",
+          description: "An old URL path you want to redirect to this page.",
+          widget: "list",
           required: false,
           default: [],
           field:
             {
-              label: 'Redirect Path',
-              name: 'redirect_from',
-              widget: 'string',
-              hint: '/the/old/path/',
+              label: "Redirect Path",
+              name: "redirect_from",
+              widget: "string",
+              hint: "/the/old/path/",
             },
-        }
-      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: "Title", name: "title", widget: "string" }
       - &press-release {
-          label: 'Press Release',
-          name: 'press_release',
-          widget: 'string',
+          label: "Press Release",
+          name: "press_release",
+          widget: "string",
           required: false,
-          hint: 'Enter the URL or relative path for the related press release or news post.',
+          hint: "Enter the URL or relative path for the related press release or news post.",
         }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - *video
+      - { label: "Body", name: "body", widget: "markdown" }
   - label: Committees & Communities
     name: committees-communities
     folder: _committees-communities/
     create: true
-    slug: '{{name}}'
-    path: '{{slug}}'
+    slug: "{{name}}"
+    path: "{{slug}}"
     editor:
       preview: true
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Name', name: 'name', widget: 'string' }
-      - { label: 'Excerpt', name: 'excerpt', required: false, widget: 'text' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Excerpt", name: "excerpt", required: false, widget: "text" }
+      - { label: "Body", name: "body", widget: "markdown" }
   - label: Letters
     name: letters
     folder: _letters/
     create: true
-    slug: '{{date}}-{{slug}}'
+    slug: "{{date}}-{{slug}}"
     editor:
       preview: true
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string" }
       - &categories {
-          label: 'Categories',
-          name: 'categories',
-          widget: 'select',
+          label: "Categories",
+          name: "categories",
+          widget: "select",
           required: false,
           multiple: true,
-          options: ["toolkits", "progress reports", "frameworks", "fact sheets"]
+          options:
+            ["toolkits", "progress reports", "frameworks", "fact sheets"],
         }
       - &policy-areas {
-          label: 'Policy Areas',
-          name: 'policy_areas',
-          widget: 'relation',
-          collection: 'policy-areas',
-          search_fields: ['title'],
-          value_field: 'title',
-          display_fields: ['title'],
+          label: "Policy Areas",
+          name: "policy_areas",
+          widget: "relation",
+          collection: "policy-areas",
+          search_fields: ["title"],
+          value_field: "title",
+          display_fields: ["title"],
           multiple: true,
           min: 0,
           max: 100,
@@ -165,83 +173,84 @@ collections:
         }
       - *press-release
       - &thumbnail {
-          label: 'Thumbnail',
-          name: 'thumbnail',
-          hint: 'Add an optional thumbnail image which is approximately 150px by 150px.',
-          widget: 'image',
+          label: "Thumbnail",
+          name: "thumbnail",
+          hint: "Add an optional thumbnail image which is approximately 150px by 150px.",
+          widget: "image",
           required: false,
           choose_url: false,
-          media_folder: '/_assets/uploads/thumbnails',
-          public_folder: 'thumbnails',
+          media_folder: "/_assets/uploads/thumbnails",
+          public_folder: "thumbnails",
         }
       - {
-          label: 'Publish Date',
-          name: 'date',
-          widget: 'datetime',
-          format: 'YYYY-MM-DD',
-          date_format: 'YYYY-MM-DD',
+          label: "Publish Date",
+          name: "date",
+          widget: "datetime",
+          format: "YYYY-MM-DD",
+          date_format: "YYYY-MM-DD",
           time_format: false,
         }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - *video
+      - { label: "Body", name: "body", widget: "markdown" }
   - label: Council Members
     name: council-members
     folder: _council-members/
     create: true
-    slug: '{{member_name}}'
-    path: '{{slug}}'
+    slug: "{{member_name}}"
+    path: "{{slug}}"
     editor:
       preview: true
     fields:
       - {
-          label: 'Layout',
-          name: 'layout',
-          widget: 'hidden',
-          default: 'council-member',
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "council-member",
         }
-      - { label: 'Member Name', name: 'member_name', widget: 'string' }
+      - { label: "Member Name", name: "member_name", widget: "string" }
       - {
-          label: 'Member Title',
-          name: 'member_title',
-          widget: 'string',
+          label: "Member Title",
+          name: "member_title",
+          widget: "string",
           required: false,
         }
       - {
-          label: 'Location',
-          name: 'location',
-          widget: 'string',
+          label: "Location",
+          name: "location",
+          widget: "string",
           required: true,
         }
       - {
-          label: 'Image',
-          name: 'image',
-          widget: 'image',
+          label: "Image",
+          name: "image",
+          widget: "image",
           required: false,
           choose_url: false,
-          media_folder: '/_assets/uploads/images',
-          public_folder: 'images',
+          media_folder: "/_assets/uploads/images",
+          public_folder: "images",
         }
       - {
-          label: 'Image Alternative Tag',
-          name: 'image_alt_text',
-          widget: 'string',
+          label: "Image Alternative Tag",
+          name: "image_alt_text",
+          widget: "string",
           required: true,
         }
       - *thumbnail
       - {
-          label: 'Appearance Order',
-          description: 'The order you want the member to appear on the /council-member/ page',
-          name: 'order',
-          widget: 'number',
+          label: "Appearance Order",
+          description: "The order you want the member to appear on the /council-member/ page",
+          name: "order",
+          widget: "number",
         }
       - {
-          label: 'Start Date',
-          name: 'start_date',
-          widget: 'datetime',
-          format: 'MMMM D, YYYY',
-          date_format: 'MMMM D, YYYY',
+          label: "Start Date",
+          name: "start_date",
+          widget: "datetime",
+          format: "MMMM D, YYYY",
+          date_format: "MMMM D, YYYY",
           time_format: false,
         }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Body", name: "body", widget: "markdown" }
   - label: Featured Content
     name: featured
     files:
@@ -251,136 +260,137 @@ collections:
         editor:
           preview: true
         fields:
-          - label: 'Meetings and Events'
-            name: 'meetings'
-            widget: 'list'
+          - label: "Meetings and Events"
+            name: "meetings"
+            widget: "list"
             fields:
-              - label: 'Meetings and Events'
-                name: 'featured'
-                widget: 'relation'
-                collection: 'meetings'
-                search_fields: ['title']
-                value_field: '{{title}}'
-                display_fields: ['title', 'excerpt']
-          - label: 'Reports'
-            name: 'reports'
-            widget: 'list'
+              - label: "Meetings and Events"
+                name: "featured"
+                widget: "relation"
+                collection: "meetings"
+                search_fields: ["title"]
+                value_field: "{{title}}"
+                display_fields: ["title", "excerpt"]
+          - label: "Reports"
+            name: "reports"
+            widget: "list"
             fields:
-              - label: 'Featured'
-                name: 'featured'
-                widget: 'relation'
-                collection: 'reports'
-                search_fields: ['title']
-                value_field: '{{title}}'
-                display_fields: ['title']
-          - label: 'Newsposts'
-            name: 'posts'
-            widget: 'list'
+              - label: "Featured"
+                name: "featured"
+                widget: "relation"
+                collection: "reports"
+                search_fields: ["title"]
+                value_field: "{{title}}"
+                display_fields: ["title"]
+          - label: "Newsposts"
+            name: "posts"
+            widget: "list"
             fields:
-              - label: 'Featured'
-                name: 'featured'
-                widget: 'relation'
-                collection: 'posts'
-                search_fields: ['title']
-                value_field: '{{title}}'
-                display_fields: ['title']
-          - label: 'Letters'
-            name: 'letters'
-            widget: 'list'
+              - label: "Featured"
+                name: "featured"
+                widget: "relation"
+                collection: "posts"
+                search_fields: ["title"]
+                value_field: "{{title}}"
+                display_fields: ["title"]
+          - label: "Letters"
+            name: "letters"
+            widget: "list"
             fields:
-              - label: 'Featured'
-                name: 'featured'
-                widget: 'relation'
-                collection: 'letters'
-                search_fields: ['title']
-                value_field: '{{title}}'
-                display_fields: ['title']
-          - label: 'Publications'
-            name: 'publications'
-            widget: 'list'
+              - label: "Featured"
+                name: "featured"
+                widget: "relation"
+                collection: "letters"
+                search_fields: ["title"]
+                value_field: "{{title}}"
+                display_fields: ["title"]
+          - label: "Publications"
+            name: "publications"
+            widget: "list"
             fields:
-              - label: 'Featured'
-                name: 'featured'
-                widget: 'relation'
-                collection: 'publications'
-                search_fields: ['title']
-                value_field: '{{title}}'
-                display_fields: ['title']
-          - label: 'Resources'
-            name: 'resources'
-            widget: 'list'
+              - label: "Featured"
+                name: "featured"
+                widget: "relation"
+                collection: "publications"
+                search_fields: ["title"]
+                value_field: "{{title}}"
+                display_fields: ["title"]
+          - label: "Resources"
+            name: "resources"
+            widget: "list"
             fields:
-              - label: 'Featured'
-                name: 'featured'
-                widget: 'relation'
-                collection: 'resources'
-                search_fields: ['title']
-                value_field: '{{title}}'
-                display_fields: ['title']
+              - label: "Featured"
+                name: "featured"
+                widget: "relation"
+                collection: "resources"
+                search_fields: ["title"]
+                value_field: "{{title}}"
+                display_fields: ["title"]
   - label: Meetings & Events
     name: meetings
     folder: _meetings/
     create: true
-    slug: '{{date}}-{{slug}}'
-    path: '{{meeting_year}}/{{slug}}'
+    slug: "{{date}}-{{slug}}"
+    path: "{{meeting_year}}/{{slug}}"
     editor:
       preview: true
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string" }
       - {
-          label: 'Federal Register Notice',
-          name: 'federal_register_notice',
-          widget: 'string',
+          label: "Federal Register Notice",
+          name: "federal_register_notice",
+          widget: "string",
           required: false,
-          hint: 'Enter the Federal Register Notice URL.',
+          hint: "Enter the Federal Register Notice URL.",
           pattern:
             [
               '[(http(s)?):\/\/(www\.)?a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)',
-              'Must be a valid URL.',
+              "Must be a valid URL.",
             ],
         }
       - {
-          label: 'Meeting Year',
-          name: 'meeting_year',
-          widget: 'number',
+          label: "Meeting Year",
+          name: "meeting_year",
+          widget: "number",
           default: 2021,
-          value_type: 'int',
+          value_type: "int",
           min: 1980,
           max: 2030,
           step: 1,
         }
       - {
-          label: 'Meeting Date',
-          name: 'date',
-          widget: 'datetime',
-          format: 'YYYY-MM-DD',
-          date_format: 'YYYY-MM-DD',
+          label: "Meeting Date",
+          name: "date",
+          widget: "datetime",
+          format: "YYYY-MM-DD",
+          date_format: "YYYY-MM-DD",
           time_format: false,
         }
       - *policy-areas
       - *categories
       - *thumbnail
       - {
-          label: 'Agenda',
-          name: 'agenda',
-          widget: 'file',
+          label: "Agenda",
+          name: "agenda",
+          widget: "file",
           required: false,
           allow_multiple: false,
-          media_folder: '/_assets/uploads/meetings/{{year}}/{{slug}}',
-          public_folder: 'meetings/{{year}}/{{slug}}',
+          media_folder: "/_assets/uploads/meetings/{{year}}/{{slug}}",
+          public_folder: "meetings/{{year}}/{{slug}}",
         }
       - {
-          label: 'Minutes',
-          name: 'minutes',
-          widget: 'file',
+          label: "Minutes",
+          name: "minutes",
+          widget: "file",
           required: false,
           allow_multiple: false,
-          media_folder: '/_assets/uploads/meetings/{{year}}/{{slug}}',
-          public_folder: 'meetings/{{year}}/{{slug}}',
+          media_folder: "/_assets/uploads/meetings/{{year}}/{{slug}}",
+          public_folder: "meetings/{{year}}/{{slug}}",
         }
       - *press-release
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - *video
+      - { label: "Body", name: "body", widget: "markdown" }
   - label: Navigation for Site
     name: navigation
     files:
@@ -390,143 +400,140 @@ collections:
         editor:
           preview: true
         fields:
-          - label: 'Primary Navigation Links'
-            name: 'primary'
-            widget: 'list'
+          - label: "Primary Navigation Links"
+            name: "primary"
+            widget: "list"
             fields:
-              - label: 'Name'
-                name: 'name'
-                widget: 'string'
-              - label: 'Url'
-                name: 'url'
-                widget: 'string'
+              - label: "Name"
+                name: "name"
+                widget: "string"
+              - label: "Url"
+                name: "url"
+                widget: "string"
                 required: false
-              - label: 'Children Dropdown Links'
-                name: 'children'
-                widget: 'list'
+              - label: "Children Dropdown Links"
+                name: "children"
+                widget: "list"
                 required: false
                 fields:
-                  - label: 'Name'
-                    name: 'name'
-                    widget: 'string'
-                  - label: 'Url'
-                    name: 'url'
-                    widget: 'string'
-          - label: 'Secondary Navigation Links'
-            name: 'secondary'
-            widget: 'list'
+                  - label: "Name"
+                    name: "name"
+                    widget: "string"
+                  - label: "Url"
+                    name: "url"
+                    widget: "string"
+          - label: "Secondary Navigation Links"
+            name: "secondary"
+            widget: "list"
             fields:
-              - label: 'Name'
-                name: 'name'
-                widget: 'string'
-              - label: 'Url'
-                name: 'url'
-                widget: 'string'
+              - label: "Name"
+                name: "name"
+                widget: "string"
+              - label: "Url"
+                name: "url"
+                widget: "string"
   - label: Newsroom
     name: posts
     folder: _posts/
     create: true
-    slug: '{{date}}-{{slug}}'
+    slug: "{{date}}-{{slug}}"
     editor:
       preview: true
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string" }
       - {
-          label: 'Publish Date',
-          name: 'date',
-          widget: 'datetime',
-          format: 'YYYY-MM-DD',
-          date_format: 'YYYY-MM-DD',
+          label: "Publish Date",
+          name: "date",
+          widget: "datetime",
+          format: "YYYY-MM-DD",
+          date_format: "YYYY-MM-DD",
           time_format: false,
         }
-      - { label: 'Excerpt', name: 'excerpt', required: false, widget: 'text' }
+      - { label: "Excerpt", name: "excerpt", required: false, widget: "text" }
       - {
-          label: 'Newsroom Type',
-          name: 'tag',
+          label: "Newsroom Type",
+          name: "tag",
           required: false,
-          widget: 'select',
+          widget: "select",
           options:
             [
-              'Funding Opportunities',
-              'Speech',
-              'Testimonial',
-              'Newsletter',
-              'Press Release',
+              "Funding Opportunities",
+              "Speech",
+              "Testimonial",
+              "Newsletter",
+              "Press Release",
             ],
         }
-      - {
-          label: 'Permalink',
-          name: 'permalink',
-          required: false,
-        }
+      - { label: "Permalink", name: "permalink", required: false }
       - *policy-areas
       - *categories
       - {
-          label: 'Document',
-          name: 'document',
-          widget: 'file',
+          label: "Document",
+          name: "document",
+          widget: "file",
           required: false,
           allow_multiple: false,
-          media_folder: '/_assets/uploads/documents',
-          public_folder: 'documents',
+          media_folder: "/_assets/uploads/documents",
+          public_folder: "documents",
         }
       - {
-          label: 'Audio',
-          name: 'audio',
-          widget: 'file',
+          label: "Audio",
+          name: "audio",
+          widget: "file",
           required: false,
           allow_multiple: false,
-          media_folder: '/_assets/uploads/audios',
-          public_folder: 'audios',
+          media_folder: "/_assets/uploads/audios",
+          public_folder: "audios",
         }
       - {
-          label: 'Image',
-          name: 'image',
-          widget: 'image',
+          label: "Image",
+          name: "image",
+          widget: "image",
           required: false,
           choose_url: false,
-          media_folder: '/_assets/uploads/images',
-          public_folder: 'images',
+          media_folder: "/_assets/uploads/images",
+          public_folder: "images",
         }
       - {
-          label: 'Image Alternative Tag',
-          name: 'image_alt_text',
-          widget: 'string',
+          label: "Image Alternative Tag",
+          name: "image_alt_text",
+          widget: "string",
           required: false,
         }
       - *thumbnail
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - *video
+      - { label: "Body", name: "body", widget: "markdown" }
   - label: Policy Areas
     name: policy-areas
     folder: _policy-areas/
     create: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: "Title", name: "title", widget: "string" }
   - label: Publications
     name: publications
     folder: _publications/
     create: true
-    path: '{{publication_year}}/{{slug}}'
+    path: "{{publication_year}}/{{slug}}"
     editor:
       preview: true
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string" }
       - {
-          label: 'Publish Date',
-          name: 'date',
-          widget: 'datetime',
-          format: 'MMMM D, YYYY',
-          date_format: 'MMMM D, YYYY',
+          label: "Publish Date",
+          name: "date",
+          widget: "datetime",
+          format: "MMMM D, YYYY",
+          date_format: "MMMM D, YYYY",
           time_format: false,
         }
       - {
-          label: 'Publication Year',
-          name: 'publication_year',
-          widget: 'number',
+          label: "Publication Year",
+          name: "publication_year",
+          widget: "number",
           default: 2021,
-          value_type: 'int',
+          value_type: "int",
           min: 1980,
           max: 2030,
           step: 1,
@@ -535,41 +542,42 @@ collections:
       - *categories
       - *press-release
       - *thumbnail
+      - *video
       - {
-          label: 'Report Document',
-          name: 'document',
-          widget: 'file',
+          label: "Report Document",
+          name: "document",
+          widget: "file",
           required: false,
           allow_multiple: false,
-          media_folder: '/_assets/uploads/reports/{{report_year}}',
-          public_folder: 'reports/{{report_year}}',
+          media_folder: "/_assets/uploads/reports/{{report_year}}",
+          public_folder: "reports/{{report_year}}",
         }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Body", name: "body", widget: "markdown" }
   - label: Reports
     name: reports
     folder: _reports/
     create: true
-    slug: '{{title}}'
-    path: '{{report_year}}/{{slug}}'
+    slug: "{{title}}"
+    path: "{{report_year}}/{{slug}}"
     editor:
       preview: true
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string" }
       - {
-          label: 'Publish Date',
-          name: 'date',
-          widget: 'datetime',
-          format: 'MMMM D, YYYY',
-          date_format: 'MMMM D, YYYY',
+          label: "Publish Date",
+          name: "date",
+          widget: "datetime",
+          format: "MMMM D, YYYY",
+          date_format: "MMMM D, YYYY",
           time_format: false,
         }
       - {
-          label: 'Report Year',
-          name: 'report_year',
-          widget: 'number',
+          label: "Report Year",
+          name: "report_year",
+          widget: "number",
           default: 2022,
-          value_type: 'int',
+          value_type: "int",
           min: 1980,
           max: 2030,
           step: 1,
@@ -578,38 +586,39 @@ collections:
       - *categories
       - *press-release
       - {
-          label: 'Report Word Document',
-          name: 'word_document',
-          widget: 'file',
+          label: "Report Word Document",
+          name: "word_document",
+          widget: "file",
           required: false,
-          media_folder: '/_assets/uploads/reports/{{report_year}}',
-          public_folder: 'reports/{{report_year}}',
+          media_folder: "/_assets/uploads/reports/{{report_year}}",
+          public_folder: "reports/{{report_year}}",
         }
       - {
-          label: 'Report PDF Document',
-          name: 'pdf_document',
-          widget: 'file',
+          label: "Report PDF Document",
+          name: "pdf_document",
+          widget: "file",
           required: false,
-          media_folder: '/_assets/uploads/reports/{{report_year}}',
-          public_folder: 'reports/{{report_year}}',
+          media_folder: "/_assets/uploads/reports/{{report_year}}",
+          public_folder: "reports/{{report_year}}",
         }
       - {
-          label: 'Image',
-          name: 'image',
-          widget: 'image',
+          label: "Image",
+          name: "image",
+          widget: "image",
           required: false,
           choose_url: false,
-          media_folder: '/_assets/uploads/images',
-          public_folder: 'images',
+          media_folder: "/_assets/uploads/images",
+          public_folder: "images",
         }
       - {
-          label: 'Image Alternative Tag',
-          name: 'image_alt_text',
-          widget: 'string',
+          label: "Image Alternative Tag",
+          name: "image_alt_text",
+          widget: "string",
           required: true,
         }
       - *thumbnail
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - *video
+      - { label: "Body", name: "body", widget: "markdown" }
   - label: Resource Pages
     name: resources
     files:
@@ -620,20 +629,20 @@ collections:
           preview: true
         fields:
           - {
-              label: 'Layout',
-              name: 'layout',
-              widget: 'hidden',
-              default: 'single-page',
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "single-page",
             }
           - {
-              label: 'Permalink',
-              name: 'permalink',
-              widget: 'hidden',
-              default: '/resources/',
+              label: "Permalink",
+              name: "permalink",
+              widget: "hidden",
+              default: "/resources/",
             }
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Description', name: 'description', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
       - label: FAQ
         name: faq
         file: resources/faq.md
@@ -641,20 +650,21 @@ collections:
           preview: true
         fields:
           - {
-              label: 'Layout',
-              name: 'layout',
-              widget: 'hidden',
-              default: 'single-page',
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "single-page",
             }
           - {
-              label: 'Permalink',
-              name: 'permalink',
-              widget: 'hidden',
-              default: '/resources/faq/',
+              label: "Permalink",
+              name: "permalink",
+              widget: "hidden",
+              default: "/resources/faq/",
             }
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Description', name: 'description', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - *video
+          - { label: "Body", name: "body", widget: "markdown" }
   - label: Widgets Side Navigation
     name: widgets
     files:
@@ -664,43 +674,43 @@ collections:
         editor:
           preview: true
         fields:
-          - label: 'Letters sidenav links widget'
-            name: 'letters'
-            widget: 'list'
+          - label: "Letters sidenav links widget"
+            name: "letters"
+            widget: "list"
             fields:
-              - label: 'Title'
-                name: 'title'
-                widget: 'string'
-              - label: 'Url'
-                name: 'url'
-                widget: 'string'
-          - label: 'Newsroom sidenav links widget'
-            name: 'newsroom'
-            widget: 'list'
+              - label: "Title"
+                name: "title"
+                widget: "string"
+              - label: "Url"
+                name: "url"
+                widget: "string"
+          - label: "Newsroom sidenav links widget"
+            name: "newsroom"
+            widget: "list"
             fields:
-              - label: 'Title'
-                name: 'title'
-                widget: 'string'
-              - label: 'Url'
-                name: 'url'
-                widget: 'string'
-          - label: 'Publications sidenav links widget'
-            name: 'publications'
-            widget: 'list'
+              - label: "Title"
+                name: "title"
+                widget: "string"
+              - label: "Url"
+                name: "url"
+                widget: "string"
+          - label: "Publications sidenav links widget"
+            name: "publications"
+            widget: "list"
             fields:
-              - label: 'Title'
-                name: 'title'
-                widget: 'string'
-              - label: 'Url'
-                name: 'url'
-                widget: 'string'
-          - label: 'Resources sidenav links widget'
-            name: 'resources'
-            widget: 'list'
+              - label: "Title"
+                name: "title"
+                widget: "string"
+              - label: "Url"
+                name: "url"
+                widget: "string"
+          - label: "Resources sidenav links widget"
+            name: "resources"
+            widget: "list"
             fields:
-              - label: 'Title'
-                name: 'title'
-                widget: 'string'
-              - label: 'Url'
-                name: 'url'
-                widget: 'string'
+              - label: "Title"
+                name: "title"
+                widget: "string"
+              - label: "Url"
+                name: "url"
+                widget: "string"
