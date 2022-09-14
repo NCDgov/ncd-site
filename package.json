@@ -7,7 +7,9 @@
     "dev": "rm -rf .jekyll-cache && bundle exec jekyll clean && bundle exec jekyll serve --livereload --incremental",
     "dev-cms": "npx netlify-cms-proxy-server",
     "reset": "npx rimraf .git",
+    "pa11y-ci:sitemap": "npx pa11y-ci --sitemap http://localhost:4000/sitemap.xml --sitemap-exclude \"/*.pdf\"  --sitemap-exclude \"/admin\"",
     "start": "bundle exec jekyll serve",
+    "start-detached": "bundle exec jekyll serve --detach",
     "test": "bundle exec htmlproofer _site; npx a11y '_site/**/*.html'"
   },
   "dependencies": {
