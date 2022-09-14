@@ -1,7 +1,6 @@
 name: Link Checker Workflow
 
-on:
-  pull_request:
+on: [push]
 
 jobs:
   link-checker:
