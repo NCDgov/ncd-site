@@ -139,7 +139,7 @@ Assessment of Disability Policy
 
 - - -
 
-[](<>)**EXECUTIVE SUMMARY**
+**EXECUTIVE SUMMARY**
 
 > *We have an outdated system of public policy based on outdated attitudes toward people with disabilities.*
 >
@@ -226,7 +226,7 @@ People with disabilities are well aware of the tools they need to achieve indepe
 
 - - -
 
-[](<>)**INTRODUCTION**
+**INTRODUCTION**
 
 NCD undertook this examination and analysis with awareness that the world has changed significantly in the past decade--politically, socially and economically. Specifically, we note four trends that served as a context for reflections about the last decade in disability policy and discussions about the future disability policy agenda.
 
@@ -254,7 +254,7 @@ This report will reveal that while much progress has been made in disability pol
 
 - - -
 
-[](<>)**DISABILITY DEMOGRAPHICS**
+**DISABILITY DEMOGRAPHICS**
 
 > *Disability used to signal the end of active life. Now it is a common characteristic of a normal lifespan. Sooner or later it will occur in the lives of most people, surely in the life of every family.*
 >
@@ -307,7 +307,7 @@ Note: As this report went to press, the President's Committee on Employment of P
 
 - - -
 
-[](<>)**INDEPENDENT LIVING, DISABILITY RIGHTS AND DISABILITY CULTURE**
+**INDEPENDENT LIVING, DISABILITY RIGHTS AND DISABILITY CULTURE**
 
 > *In its broadest implications, the independent living movement is the civil rights movement of millions of Americans with disabilities. It is the wave of protest against segregation and discrimination and an affirmation of the right and ability of persons with disabilities to share fully in the responsibilities and joys of our society.*
 >
@@ -372,7 +372,7 @@ As the disability community has grown, its researchers and academics have sought
 
 - - -
 
-[](<>)**ASSESSMENT OF DISABILITY POLICY**
+**ASSESSMENT OF DISABILITY POLICY**
 
 Policy Coordination
 
@@ -501,7 +501,7 @@ Many federal policies, such as ADA, were not developed in conjunction with triba
 
 - - -
 
-[](<>)**Civil Rights**
+**Civil Rights**
 
 > *Discrimination occurs in every facet of our lives. There is not a disabled American alive today who has not experienced some form of discrimination. Of course, this has very serious consequences. It destroys healthy self-concepts and slowly erodes the human spirit.*
 >
@@ -675,7 +675,7 @@ The Federal Government and Congress have funded and launched several effective n
 
 - - -
 
-[](<>)**Education**
+**Education**
 
 > *We must continue to be courageous in our commitment to improve the lives of our citizens with disabilities, most especially children, and in making American schools the best they can be for all of our children. For the sake of America's future, we can do no less.*
 >
@@ -900,12 +900,7 @@ The following recommendations related to effective inclusion were made by the ca
 7. Teachers should participate in student advocacy training and make use of group projects and student-assisted academics so that the abilities of all students can be demonstrated.
 
  
-
 Employment
-
-###  
-
- 
 
 > *The company accommodates me so I can feed my two children and pay my taxes.*
 >
@@ -1073,7 +1068,7 @@ Entrepreneurship
 
 - - -
 
-[](<>)**Social Security and Other Income Maintenance**
+**Social Security and Other Income Maintenance**
 
 > *Dependency increases the costs of entitlements, lowers our gross national product, and reduces revenue to the Federal Government....People with disabilities want to work...to be productive, self-supporting and tax-paying participants in society.*
 >
@@ -1218,7 +1213,7 @@ Tax Incentives for Employers
 
 - - -
 
-[](<>)**Health Insurance and Health Care**
+**Health Insurance and Health Care**
 
 > *We have learned that our system of health care is not really committed to the concept of family, and further, is not really committed to the concept of health care for all. This system, instead, offers health care to some people, in some places, for some diagnoses, in some age groups, some of the time.*
 >
@@ -1406,7 +1401,7 @@ Such training should include ways to avert and manage secondary health condition
 
 - - -
 
-[](<>)**Long-term Services in the Community**
+**Long-term Services in the Community**
 
 > *...true freedom of expression...is about power, to make clear our wants and opinions...to...control our health and well-being...to lead a lifestyle of our own choice and direction....The simple fact of the matter, however, is that millions of Americans with varying disabilities of all ages still lack this fundamental human power. Not because of their disabilities. But because they lack access to personal assistance, assistive technology and other ongoing supports....*
 >
@@ -1598,7 +1593,7 @@ Research and Data Collection
 
 - - -
 
-[](<>)**Technology**
+**Technology**
 
 > *The disability access provisions in the Telecommunications Act of 1996 mark a high point in legislative advocacy for the disabled community....Universal design enhances the marketability of a new product or service.*
 >
@@ -1731,10 +1726,7 @@ Information Dissemination
 
 Public libraries should be urged to offer a range of information related to accessible/assistive technology, including information about services and funding resources for people with disabilities. This information should be in accessible formats as required by Section 504 of the Rehabilitation Act and Titles II and III of ADA. It should involve the establishment of universal key words relating to assistive technology as a discrete item in various library, professional and other research indices as well as World Wide Web indices.
 
-\>Housing
-
-###  
-
+Housing
  
 
 > *The battle to secure the rights of people with mental illness to live in communities has taken place as policy emphasis has shifted from community residential facilities toward personal choice of where, how, and with whom to live.*
@@ -1882,7 +1874,7 @@ Research and Data Collection
 
 - - -
 
-[](<>)**Transportation**
+**Transportation**
 
 > *Black people fought for the right to ride in the front of the bus. We are fighting for the right to get on the bus.*
 >
@@ -2046,7 +2038,7 @@ Issuance of Regulations and Standards
 
 - - -
 
-[](<>)**International Issues**
+**International Issues**
 
 > *Let me note that Americans have never shied away from challenges. The fight for full participation by the world's 500 million people with disabilities is one we accept willingly and with enthusiasm....*
 >
@@ -2225,7 +2217,7 @@ International Exchange Programs
 
 - - -
 
-[](<>)**IN CLOSING**
+**IN CLOSING**
 
 > *I wish I could say that America has come to appreciate diversity and to see and accept similarity. But as I look around, I see not a nation of unity, but of division....We cannot play ostrich. Democracy cannot flourish amid fear. Liberty cannot bloom amid hate. Justice cannot take root amid rage. We must go against the prevailing wind. We must dissent from indifference. We must dissent from apathy....We must dissent because America can do better, because America has no choice but to do better.*
 >
@@ -2241,7 +2233,7 @@ The recommendations in this report are intended to provide direction for public 
 
 - - -
 
-[](<>)**REFERENCES**
+**REFERENCES**
 
 American Association of Retired Persons (AARP) Public Policy Institute. 1994. The Cost of Long Term Care. Washington, DC: Author.
 
@@ -2413,7 +2405,7 @@ Yelin, E., and Katz P. 1994. Labor force trends among persons with and without d
 
 - - -
 
-[](<>)**APPENDIX A**
+**APPENDIX A**
 
 **RECOMMENDATIONS FOR THE NATIONAL COUNCIL ON DISABILITY**
 
@@ -2519,7 +2511,7 @@ Multiple Chemical Sensitivities
 
 - - -
 
-[](<>)**APPENDIX B**
+**APPENDIX B**
 
 **EMERGING ISSUES**
 
@@ -2592,7 +2584,7 @@ The group called for training for all genetics counselors about disability right
 
 - - -
 
-[](<>)**APPENDIX C**
+**APPENDIX C**
 
 **NATIONAL SUMMIT ON DISABILITY POLICY PARTICIPANTS**
 
@@ -3282,7 +3274,7 @@ Oakland, CA
 
 - - -
 
-[](<>)**APPENDIX D**
+**APPENDIX D**
 
 REMARKS BY MARCA BRISTO, CHAIRPERSON\
 National Council on Disability\
@@ -3335,7 +3327,7 @@ Let us dedicate our work today to the belief in ourselves and to our heroes Ed R
 
 - - -
 
-[](<>)**APPENDIX E**
+**APPENDIX E**
 
 REMARKS BY JUSTIN DART\
 National Council on Disability\
@@ -3498,7 +3490,7 @@ Colleagues, I do love you. Together, we shall overcome.
 
 - - -
 
-[](<>)**APPENDIX F**
+**APPENDIX F**
 
 **DESCRIPTION OF THE NATIONAL COUNCIL ON DISABILITY**
 

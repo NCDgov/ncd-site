@@ -27,7 +27,7 @@
         </a>
       </h3>
       <div class="text-base margin-bottom-2">
-      {% if include.post.member_title %}
+      {% if include.post.member_title and include.post.member_title != nil and include.post.member_title != '' %}
         <h4 class="margin-y-0">
           {{ include.post.member_title }}
         </h4>

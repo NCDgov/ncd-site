@@ -156,10 +156,6 @@ The National Council may use, with the consent of the agencies represented on th
 
 There are authorized to be appropriated to carry out this subchapter $3,186,000 for fiscal year 2015, $3,432,000 for fiscal year 2016, $3,503,000 for fiscal year 2017, $3,581,000 for fiscal year 2018, $3,665,000 for fiscal year 2019, and $3,743,000 for fiscal year 2020
 
-##  
-
-##  
-
 ## History
 
 (Sept. 26, 1973,P.L. 93-112, Title IV, § 401, as added Aug. 7, 1998, P.L. 105-220, Title IV, § 407, 112 Stat. 1199; Nov. 13, 1998, P.L. 105-394, Title II, Subtitle A, § 202, 112 Stat. 3653; Oct. 30, 2000, P.L. 106-402, Title IV, § 401(b)(3)(B), 114 Stat. 1737; Oct. 25, 2004, P.L. 108-364, § 3(b)(2), 118 Stat. 1737.)

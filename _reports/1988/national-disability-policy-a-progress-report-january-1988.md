@@ -68,7 +68,7 @@ III. Analysis of Progress Made In Specific Topic Areas Since the Publication of�
 
 - - -
 
-[](<>)**Letter of Transmittal**
+**Letter of Transmittal**
 
 (Text of identical letters sent to the President of the United States, the President of the Senate, and the Speaker of the House of Representatives)
 
@@ -99,7 +99,7 @@ Chairperson
 
 - - -
 
-[](<>)**Description of the National Council on the Handicapped**
+**Description of the National Council on the Handicapped**
 
 The National Council on the Handicapped is an independent Federal agency comprised of 15 members appointed by the President and confirmed by the Senate. The Council was initially established in 1978 as an advisory board within the Department of Education (Public Law 95602). The Rehabilitation Act Amendments of 1984 (Public Law 98-221) transformed the Council into an independent agency.
 
@@ -120,7 +120,7 @@ While many government agencies deal with issues and programs affecting people wi
 
 - - -
 
-[](<>)The National Council on the Handicapped
+The National Council on the Handicapped
 
 Members
 
@@ -154,13 +154,13 @@ D. Fay Fuller, Jr., Fellow
 
 - - -
 
-[](<>)Acknowledgments
+Acknowledgments
 
 The Council is indebted to Andrea Farbman for coordinating, managing, and editing this report. The contributions of staff members Ethel Briggs, Robert Burgdorf Jr., Kathy Roy, and fellows LaVerne Chase and D. Ray Fuller, Jr. are greatly appreciated. Gratitude is also extended to Richard Moss for graphic design and production, Karen Premack for editorial guidance, and Unicor print plant for printing the report.
 
 - - -
 
-[](<>)Executive Summary
+Executive Summary
 
 In the 1986 Amendments to the Rehabilitation Act of 1973, Congress required the Council to:
 
@@ -218,7 +218,7 @@ The Council participated in efforts that have fostered coordination of services 
 
 - - -
 
-[](<>)**Foreword**
+**Foreword**
 
 In response to *Toward Independence*, President Ronald Reagan proclaimed:
 
@@ -290,7 +290,7 @@ The Council is pleased at the many ways in which the Legislative and Executive B
 
 - - -
 
-[](<>)**Introduction**
+**Introduction**
 
 Background
 
@@ -438,7 +438,7 @@ Thus, the intent of this followup report is to chronicle progress made on each o
 
 - - -
 
-[](<>)**Recent Data and Trends**
+**Recent Data and Trends**
 
 Accurate statistical data in the area of disability are imperative for policy-makers and others. As reported in *Toward Independence*, existing studies have been fraught with problems. Since the publication of *Toward Independence*, however, a number of significant studies have been conducted.
 
@@ -588,7 +588,7 @@ it is also clear from the survey that disabled Americans strongly endorse effort
 
 Disabled Americans are not alone in their belief that they should be protected from discrimination by law. All four manager groups in the second Harris poll on employment were asked if the civil rights laws that cover minorities against discrimination should also cover disabled persons. "Majorities of top managers, EEO managers, line managers, and small business managers think they should" (p. 25). Both Harris polls have demonstrated support for equal opportunity legislation that would protect people with disabilities from discrimination.
 
-[](<>)**Equal Opportunity Laws**
+**Equal Opportunity Laws**
 
 > A major obstacle to achieving the societal goals of equal opportunity and full participation of individuals with disabilities is the problem of discrimination. Discrimination consists of the unnecessary and unfair deprivation of an opportunity because of some characteristic of a person. It is the antithesis of equal opportunity. The severity and pervasiveness of discrimination against people with disabilities is well-documented. (*Appendix to Toward Independence*, p. A-3)
 
@@ -702,7 +702,7 @@ Attorneys fees and litigation expenses for people with disabilities and their fa
 
 - - -
 
-[](<>)**The Americans with Disabilities Act of 1988\
+**The Americans with Disabilities Act of 1988\
 Section by Section Summary**
 
 Section 1 - Short Title
@@ -774,7 +774,7 @@ Provides that the Act shall take effect on the date of its enactment.
 
 - - -
 
-[](<>)**The Americans with Disabilities Act of 1988\
+**The Americans with Disabilities Act of 1988\
 A Draft Bill**
 
 To establish a clear and comprehensive prohibition of discrimination on the basis of handicap.
@@ -1101,7 +1101,7 @@ This Act shall become effective on the date of enactment.
 
 - - -
 
-[](<>)**Employment**
+**Employment**
 
 Employment has consistently headed the list of major concerns of persons with disabilities in this country. As is true for most other Americans, a major prerequisite to economic self-sufficiency and quality of life is a job. Employment offers the possibility of dramatically improving an individual's lifestyle, while at the same time resulting in tremendous financial savings for the Government. Perhaps most important is the ability of gainful employment to facilitate the integration of persons with disabilities into all facets of community life. In fact, employment for persons with disabilities is critical in determining independence. Recognizing the seriousness of barriers to employment opportunities for persons with disabilities, employment was selected as one of the ten areas in the Council's report, *Toward Independence*.
 
@@ -1237,7 +1237,7 @@ Some changes, however, did relate to disabled persons. A new section entitled "P
 
 The Council believes that these provisions will improve and increase the services provided to persons with disabilities under the Job Training Partnership Act. However, the Council reaffirms its belief that for persons with disabilities to be adequately served by the JTPA, the income eligibility criteria must be eliminated. The Council will continue to encourage Congress to amend this legislation to reflect that position.
 
-[](<>)**Disincentives to Work Under Social Security Laws**
+**Disincentives to Work Under Social Security Laws**
 
 An overwhelming consensus e2dsts as to the importance of work in our society; that consensus applies to disabled and non-disabled persons alike. The previous section on employment dealt in general with the world of work, including the transition from school to work, supported work, private sector initiatives, and job development, placement and training.*Toward Independence* also included a section that took a closer look at Social Security legislation and its impact on securing a job. This section details progress toward the elimination of disincentives in the Social Security system.
 
@@ -1285,7 +1285,7 @@ As was stated previously, the problems that disabled persons have with health in
 
 A study of the type recommended by the Council on health insurance was incorporated by Congress in the 1986 Rehabilitation Act Amendments (Public Law 99-506, Section 303). Congress requested the Director of the National Institute on Disability and Rehabilitation Research to conduct a study on health insurance practices and policies affecting persons with disabilities. A report on this study is to be presented to the appropriate congressional committees by February 1, 1990.
 
-[](<>)**Prevention of Disabilities**
+**Prevention of Disabilities**
 
 A Federal initiative to prevent primary and secondary disabilities could substantially reduce the costs of disability and health care for Americans, reduce Federal spending for disability in the near future, and decrease the incidence of disability for future generations. Research indicates that preventive measures would reduce the number of new additions to the disabled population. For example:
 
@@ -1330,7 +1330,7 @@ Accomplishments
 
 Before such a study of the status of primary and secondary prevention of disabilities by the Office of Technology Assessment can be of value, it is imperative that the Council's first two recommendations on prevention be fully operational. The Council continues to urge the Federal Government to initiate a national program for prevention by coordinating Federal prevention-related programs, and believes that when these programs become functional, an OTA study regarding the prevention of disabilities will be of great assistance.
 
-[](<>)**Transportation**
+**Transportation**
 
 In *Toward Independence* the Council concluded that accessible transportation is a critical component of a national policy that promotes the self-reliance and self-sufficiency of people with disabilities: "People who cannot get to work or to the voting place cannot exercise their rights and obligations as citizens" (p. 33). According to Government data (DOT, 1978), the number of transportation-handicapped people is 7.4 million in urban areas; of that group 1.4 million are unable to use transit at all. Transportation is not a problem in a vacuum- the magnitude of the problem is increased exponentially by complex interactions between transportation and employment, housing, independent living, education, and leisure activities.
 
@@ -1440,7 +1440,7 @@ Very few reliable studies have been conducted on the impact of accessible transp
 
 The study proposed by the Council for the Department of Transportation has not been requested by Congress. However, Congress has requested that the Architectural and Transportation Barriers Compliance Board present a report on its activities, including transportation barriers, by February 1988. It is anticipated that since the ATBCB conducts research, a segment of that report will be devoted to the status of available data and research needs in the area of transportation barriers.
 
-[](<>)**Housing**
+**Housing**
 
 In *Toward Independence*, the Council described housing as "a major prerequisite to social integration and living independently for persons with disabilities," and noted:
 
@@ -1524,7 +1524,7 @@ The Council is not aware of any major Federal training grants focusing specifica
 
 One of the major undertakings of the HUD-funded grant project (NAHBNRC/ARC) discussed previously is to provide technical assistance in regard to accessible design.
 
-[](<>)**Community-Based Services for Independent Living**
+**Community-Based Services for Independent Living**
 
 In 1983, the Council in its National Policy for Persons with Disabilities defined independent living as "control over one's life based on the choice of acceptable options that minimize reliance on others in making decisions and in performing everyday activities." The independence defined here implies an optimally responsible and productive exercise of the power of choice. It implies that each disabled person, regardless of his or her mental or physical ability, should be encouraged and assisted to achieve maximum levels of quality of life, independence, and productivity in the least restrictive environment and with due respect for cultural or subcultural affiliation.
 
@@ -1570,7 +1570,7 @@ Accomplishments
 
 The number of tax deductions allowable under the medical category continues to grow. Recently enacted tax legislation, for example, permits a disabled employee to deduct the full cost of attendant services and other services necessary to enable the employee to work. Capital expenditures to accommodate a personal residence now also constitute medical expenses eligible for deductions. However, regulations governing many non-medical, disability-related services remain unclear and impose unfair restrictions on disabled persons. The Council intends to continue its efforts to clarify tax legislation and regulations and to include services that enable individuals with disabilities to engage in productive activity.
 
-[](<>)**Educating Chil**d**ren With Disabilities**
+**Educating Chil**d**ren With Disabilities**
 
 Few would argue with the premise that education is a key to success in our society. The same holds true for children with disabilities- education helps disabled children develop the skills they need to live as independently as possible when they reach adulthood.
 
@@ -1630,7 +1630,7 @@ The Council has been impressed with the variety of new and innovative approaches
 
 While members of the Council are excited about new techniques emerging in the education of children with disabilities, it is nonetheless disturbing that so much remains to be done. In 1982, the Commission on Excellence in Education issued a report titled A Nation at *Risk,* which cited many problems faced by the American educational system. The report, however, did not attempt to address the special needs of students with disabilities and their families. Therefore, the Council believes that this unmet need must be fulfilled. Moreover, twelve years have passed since the enactment of Public Law 94-142, and the Council sees value in assessing the progress of the implementation of the law to date. Therefore, the Council recommends the establishment of a National Commission on the Study of Excellence in Special Education. Such a commission would evaluate the progress and recommend future directions geared toward enhancing the education of children with disabilities.
 
-[](<>)Personal Assistance: Attendant Services, Readers, and Interpreters
+Personal Assistance: Attendant Services, Readers, and Interpreters
 
 Personal assistance is one key to independence for thousands of Americans with disabilities. Without question, personal assistance by readers, interpreters, and advocates is one of the single most important unmet needs for disabled persons.
 
@@ -1666,7 +1666,7 @@ Accomplishments
 
 As progress is achieved in the development of a workplan on personal assistance policy, it is anticipated that cooperative negotiations between SSA and the Council will yield detailed steps for the effective provision of personal assistance services. The Council believes that a more centralized process of providing personal assistance services can be developed with the assistance of SSA subsequent to the completion of the task force workplan. The Council remains confident that the SSA is sensitive to the need for increased community-based personal assistance programs and that future funding priorities will reflect this commitment.
 
-[](<>)Coordination
+Coordination
 
 In addition to the recommended legislative changes in each of the nine substantive areas, the need for coordination of services, programs, and funding is also critical. "Coordinated services" describes the ideal results of a wide range of interactions among persons active in policy and program development. Although these interactions take place every day, their purpose, frequency, and effectiveness vary greatly from program to program, community to community, and State to State. Many instances of gaps in services, as well as duplicative services, are evident across the country. Coordinated efforts could resolve some of these problems.
 
@@ -1700,7 +1700,7 @@ The Council is also exploring the work of the Advisory Council on Intergovernmen
 
 - - -
 
-[](<>)Biographies of Members of the National Council on the Handicapped
+Biographies of Members of the National Council on the Handicapped
 
 Sandra Swift Parrino
 
@@ -1812,7 +1812,7 @@ Ms. Zlotnick formerly was the Director of External Affairs for the Easter Seal S
 
 - - -
 
-[](<>)References
+References
 
 Census Bureau. (1986). "Disability, Functional Limitation and Health Insurance Coverage: 1984/85." Washington, DC.
 

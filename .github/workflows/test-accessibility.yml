@@ -1,10 +1,9 @@
-name: Build and test site with accessibility with pa11y
+name: Check accessibility with pa11y
 
 on: [push]
 
 jobs:
-  build:
-    name: Install, build and test site with pa11y-ci and htmlproofer.
+  accessibility-check:
     runs-on: ubuntu-latest
     env:
       LANG: en_US.UTF-8
