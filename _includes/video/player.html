@@ -1,0 +1,27 @@
+{% assign file_type = include.video_url | split: "." | last %}
+
+{% if file_type == "mp4" %}
+    {% assign type = "video/mp4" %}
+{% elsif file_type == "webm" %}
+    {% assign type = "video/webm" %}
+{% else %}
+    {% assign type = "video/youtube" %}
+{% endif %}
+
+{% if type == "video/youtube" %}
+    {% assign poster = "" %}
+{% else %}
+    {% assign poster = {{ asset ncd-logo.png @path }} %}
+{% endif %}
+
+<video
+    id="my-player"
+    class="video-js vjs-default-skin vjs-fluid"
+    controls
+    fluid
+    {% if type != "video/youtube" %}
+        poster="{% asset ncd-logo.png @path %}"
+    {% endif %}
+    preload="auto"
+    data-setup='{ "sources": [{ "type": "{{ type }}", "src": "{{ include.video_url }}"}] }'>
+</video>

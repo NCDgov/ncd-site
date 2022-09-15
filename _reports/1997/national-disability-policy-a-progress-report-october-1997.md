@@ -165,7 +165,7 @@ Appendix
 
 - - -
 
-[](<>)
+
 
 **INTRODUCTION**
 
@@ -181,11 +181,11 @@ This report will highlight progress, call attention to concerns, and offer recom
 
 - - -
 
-[](<>)
+
 
 **PROGRESS, CONCERNS, AND RECOMMENDATIONS**
 
-[](<>)
+
 
 **Disability Demographics**
 
@@ -198,7 +198,7 @@ Two important sources of demographic information about people with disabilities 
 * Among people 22 to 64 years old with no disability, 79.9 percent were covered by private health insurance, while 3.0 percent had only government coverage. In contrast, among people with a severe disability in the same age group, only 43.7 percent had private health insurance coverage, while 39.6 percent had government coverage only.
 * According to data from the disability supplement to the National Health Interview Survey, 10.5 million to 12.6 million children in the United States have disabilities and/or special health care needs. That number represents approximately 15 to 18 percent of the total population of children in the United States.
 
-[](<>)
+
 
 **Disability Data Collection and Analysis**
 
@@ -208,7 +208,7 @@ In *Achieving Independence*, NCD recommended that "all federal statistical acti
 * BLS, encouraged by the President's Committee on Employment of People with Disabilities and others inside and outside the government, has agreed to work with other agencies with disability expertise to develop and test questions about disability status for possible inclusion in the Current Population Survey. BLS reports that it is in the process of testing questions and has agreed to have its draft questions reviewed by statisticians with disability expertise. *NCD recommends that this process continue expeditiously, building on the experience of the interagency group that worked on the disability questions for census 2000.*
 * *In general, there remains a need to orient disability data collection activities to the post-ADA paradigm of thinking about disability, focusing on the societal and environmental barriers to full participation rather than the functional impairments of the individual. Along these lines, federal researchers should operationalize and track progress made in achieving the nation's goals for people with disabilities, as articulated in ADA -- equality of opportunity, full participation, independent living, and economic self-sufficiency. For example, federal research and data collection should attempt to capture and track the percentage of elementary schools that are physically accessible, the number of professional licensing examinations that ask questions about history of treatment for mental illness, or the number of new software products or government web sites that are inaccessible to people with sensory disabilities.*
 
-[](<>)
+
 
 **Removing Barriers to Work in Social Security Disability Programs**
 
@@ -222,7 +222,7 @@ The Balanced Budget Act of 1997 (BBA) included a new program that gives states t
 
 *NCD strongly encourages congressional leaders in both parties to work with stakeholders in the disability community and the newly confirmed commissioner of the Social Security Administration, Kenneth Apfel, to transform the Social Security disability programs so that they promote independence and economic self-sufficiency for recipients and beneficiaries without sacrificing basic economic security for those who are unable to support themselves.*
 
-[](<>)
+
 
 **Welfare Reform**
 
@@ -240,7 +240,7 @@ Moreover, the heightened emphasis on personal responsibility and work that chara
 * NCD commends the President and Congress for taking some steps to delink health coverage from cash assistance in the Balanced Budget Act (BBA), signed by the President in August 1997, which allows certain SSI recipients who become employed to continue their health coverage by purchasing Medicaid. Likewise, BBA ensures that children who lose benefits as a result of the new children's SSI eligibility definition will retain Medicaid coverage, even if their families are not otherwise eligible for the program. *NCD urges Congress and the Administration to ensure that states implement this important provision for children and families consistently so that no child experiences an unintended lapse or loss of health care coverage as a result of changes in SSI eligibility.*
 * NCD commends the Department of Health and Human Services (HHS) for establishing a workgroup on welfare reform and disability, which is charged with developing materials and a structure to provide technical assistance to states in helping TANF recipients with disabilities to become productive workers and advising policy makers regarding TANF issues as they relate to disability. The workgroup includes members from the Departments of Education, Labor, and Justice, and the President's Committee on Employment of People with Disabilities. *Although NCD applauds HHS for recognizing the need for this workgroup, we remain concerned that welfare reform is proceeding at a pace that is leaving the workgroup behind.* *There is a need for policy makers throughout government to recognize and address the fact that the disability issues in welfare reform are core issues that will determine the success or failure of the entire initiative.*
 
-[](<>)
+
 
 **Family Support**
 
@@ -250,7 +250,7 @@ One of the themes of early welfare reform emphasized the importance of child car
 * *As former welfare recipients and others are trained to become child care workers, it is critical that training programs prepare workers to meet the needs of children and parents with a range of disabilities in a culturally competent manner.*
 * Part I of IDEA, enacted in 1994, created a national family support systems change program that is scheduled to sunset at the end of FY 1998. *NCD strongly encourages Congress and the Administration to authorize and fund ongoing family support programs in freestanding legislation or as part of other legislation before the sunset date. These programs play an important roll in ensuring that public policy does not overlook the needs of families of children with disabilities and special health care needs.*
 
-[](<>)
+
 
 **Cuts in SSI Program for Children**
 
@@ -264,7 +264,7 @@ Pursuant to Title II of PRWOR, the childhood eligibility standard for SSI was ti
 * The Office of Management and Budget (OMB) and the Congressional Budget Office (CBO) estimated significant cost savings to the Federal Government to be realized as a result of the recent narrowing of eligibility for SSI for children. *To the extent that significant cost savings are being realized as a result of the recent cuts, NCD encourages policy makers to use these new funds to expand other programs and services offered to low-income children with disabilities and their families.*
 * *Particularly in light of the expressed desire of many of the Senate authors of the new eligibility standard for children's SSI to see fewer children terminated from the program, NCD encourages SSA and the White House Office of Management and Budget to reexamine and revise the new administrative standard for children's SSI eligibility in a manner that will result in smaller and more consistent termination and denial rates.*
 
-[](<>)
+
 
 **Immigrants, Minorities, and Rural Residents with Disabilities**
 
@@ -287,7 +287,7 @@ In addition to the issues facing immigrants discussed above, people with disabil
 * *NCD encourages the President's Advisory Commission on Race to include people with disabilities and their families in the national dialogue on race, paying particular attention to the unique issues posed by the intersection between disability and minority racial/ethnic status.*
 * At the August roundtable discussion, several people called attention to the need for federal enforcement and technical assistance entities to focus resources and initiatives on educating people in minority communities about the requirements of ADA and other federal disability civil rights statutes and how to bring claims under these laws. Targeted outreach to minority communities, particularly isolated communities in rural areas, would be a worthwhile follow-up to much of the urban-focused training conducted by the Department of Justice (DOJ) and the U.S. Equal Employment Opportunity Commission (EEOC) in the years after ADA was passed. *NCD encourages the federal enforcement and technical assistance entities, along with the protection and advocacy network, to work together to develop strategies to reach minorities, people in rural communities, and other underserved groups as part of their ongoing outreach and technical assistance plans.*
 
-[](<>)
+
 
 **Education Policy**
 
@@ -306,7 +306,7 @@ On June 4, 1997, President Clinton signed into law the Individuals with Disabili
 * NCD also remains concerned that the history of the disability rights movement is not receiving adequate attention in most American history texts, and that students are leaving the public education system with little knowledge of federal disability civil rights laws and the civil rights movement that led to their development. Similarly, although there has been some progress in higher education, disability issues and disability culture continue to receive short shrift in the course offerings of our colleges and universities. Moreover, key professional schools such as law schools, medical schools, architecture schools, and education schools have shown little leadership in making knowledge about disability issues and the requirements of civil rights laws like ADA, IDEA, and the Fair Housing Act a basic part of professional education. *NCD recommends that curriculum developers and textbook writers throughout the education system make a concerted effort to include the history of the disability rights/independent living movements and their federal legislative and policy legacy as part of mainstream curricula so that all students will be exposed to disability civil rights as they are exposed to other areas of civil rights.*
 * *Finally, as the government seeks to help local schools access the Internet and other information technologies in the classroom, NCD strongly encourages the officials involved to ensure that access issues for students with disabilities, particularly students with sensory disabilities, are addressed (e.g. multimedia CD-ROMs often are not accessible for such students) so that these students may benefit from the increased emphasis on technological literacy at school and in the workplace.*
 
-[](<>)
+
 
 **Technology**
 
@@ -322,7 +322,7 @@ As the American population ages, sensory disabilities and lack of fine motor ski
 * *NCD encourages the Health Care Financing Administration (HCFA) and other sources of public financing for assistive technology to recognize that high cost can make technology inaccessible for people with disabilities, and to address to dearth of publicly subsidized assistive technology under Medicaid, Medicare, Rehabilitation, and other federal, state, and local programs. The upcoming reauthorization of the Technology-Related Assistance for Individuals with Disabilities Act would be a good opportunity to increase the federal commitment to subsidizing access to assistive technology.*
 * NCD is aware that many election officials are considering moving to a system of voting that would enable people to vote by computer or through other remote technologies. *To the extent that these proposals are implemented, NCD encourages the Federal Election Commission, the Department of Justice, and other interested federal, state, and local entities to ensure that the new voting system is accessible for all people with disabilities, particularly for people with visual disabilities and people who do not have easy access to computers or other remote technologies.*
 
-[](<>)
+
 
 **ADA Enforcement and Implementation**
 
@@ -339,7 +339,7 @@ Having recently celebrated its seventh birthday, ADA continues to enjoy widespre
 * NCD is concerned that resources for ADA enforcement, particularly at EEOC and DOJ, are inadequate to address the discrimination people with disabilities face throughout the country. EEOC, for example, received no new resources when it was given ADA to enforce, and it continues to struggle with a large pending inventory of cases waiting for investigation, which often translates into long delays for charging parties. Also, although the President requested an increase in the ADA enforcement budget for DOJ in FY 1997, Congress did not approve the increase.*NCD strongly recommends that Congress and the President allocate substantial new financial resources to EEOC and DOJ to facilitate effective enforcement of ADA.*
 * *NCD recommends that DOJ exercise greater leadership in addressing the growing use of inaccessible information kiosks by state and local governments, which are prohibited by Title II of ADA. Moreover, NCD strongly encourages DOJ to become more proactive in addressing a range of technology access issues under Titles II and III of ADA, including the issue of inaccessible web sites, automated teller machines, and transportation-related technologies.*
 
-[](<>)
+
 
 **Transportation**
 
@@ -352,7 +352,7 @@ Like housing, health care, and technology, transportation must be affordable and
 * In November 1996, DOT issued regulations that require airlines and airports to contract for the purchase and use of lifting devices for boarding commuter aircraft with 19 to 29 seats that are not served by jetways. The regulations required that such contracts be in place by August 1997 and gave large airports two years and small airports three years to obtain the necessary devices.
 * *More broadly, NCD encourages Congress, the Administration, state and local partners, and outside stakeholders to fund programs that will increase opportunities for people with and without disabilities to access affordable mass transit.*
 
-[](<>)
+
 
 **Housing**
 
@@ -369,7 +369,7 @@ Since the publication of *Achieving Independence*, people with disabilities hav
 * In its Notices of Funding Availability for its Section 811 program, HUD prohibited mandatory acceptance of services as a condition of housing. In addition, in December 1996 Secretary Henry Cisneros sent a notice to providers and residents of Section 202 housing that made clear that residents may not be required to accept services as a condition of living in Section 202 housing. These important developments are consistent with NCD's recommendation in *Achieving Independence* that HUD cease funding programs that require an individual to live in a particular setting in order to receive services that are not related to housing. *NCD encourages HUD to continue to delink housing from services in other programs it administers.* *Also, NCD urges HUD to continue to recognize that people with disabilities should have a range of housing choices comparable to that available to people without disabilities.*
 * This year HUD created a "People with Disabilities" web site to showcase best practices in making housing accessible for people with disabilities.
 
-[](<>)
+
 
 **Long-Term Supports and Services**
 
@@ -380,7 +380,7 @@ As the case of Holly Caudill recounted at the beginning of this report illustrat
 * *NCD urges policy makers to ensure that services and supports offered under any new or existing federal legislation meet the needs of* all *people with disabilities.*
 * As a follow-up to a meeting between disability community leaders and President Clinton on September 10, 1997, the President has asked Robert Williams, deputy assistant secretary, Office of Disability, Aging and Long-Term Care, Office of Assistant Secretary for Planning and Evaluation, HHS, to head up a personal assistance working group for the Administration that will develop proposals for expanding access to consumer-directed, home- and community-based long-term supports and services. *NCD commends the President for creating this working group, which has begun meeting under the leadership of Robert Williams and Sally Richardson, Deputy Administrator of HCFA, and strongly encourages the Administration to show leadership in this critical area as it did during health care reform by coming forward with its own proposal and working with congressional leaders to address this critical issue.*
 
-[](<>)
+
 
 **Health Care**
 
@@ -393,7 +393,7 @@ In addition to the provisions in BBA described above preserving Medicaid coverag
 * The 104th Congress passed legislation mandating that private insurance plans not discriminate between mental health and physical health care in lifetime or annual reimbursement caps. As enacted, this provision applies only to employers with 50 or more employees, does not take effect until January 1998, and sunsets in October 2001. Further, the provision does not apply at all if its costs result in an increase of 1 percent or more in a plan's premiums. These provisions, though significant, do not amount to parity for people seeking mental health services, in part because they do not address the critical issue of forced treatment.
 * The 104th Congress also passed legislation improving portability as people move from job to job or from group to individual coverage. This legislation generally prohibits insurers from denying coverage based on preexisting conditions, and it protects small groups by requiring insurers to provide them with coverage, although a higher fee may be charged to groups with higher health care costs. The law covers not just traditional insurance companies but also companies that self-insure, which cannot be regulated under state insurance laws. The law also includes a provision stating that access to insurance cannot be denied solely because someone has a history of using mental health benefits. Once again, the health portability legislation takes important steps toward plugging the holes in the current system, but several significant holes still remain. For example, the legislation did not attempt to address affordability of health coverage or require a comprehensive benefits package that would meet the needs of all people. Also, perhaps most significantly, millions of people in the United States continue to have no health insurance coverage, including many people with disabilities. *NCD commends Congress and the President for these important first steps toward a private health care system that meets the needs of people with disabilities and encourages them to go further and fill the remaining holes in our health care system for people with disabilities and others.*
 
-[](<>)
+
 
 **International Issues**
 
@@ -403,7 +403,7 @@ ADA continues to serve as model civil rights legislation for countries throughou
 * The Organization of American States (OAS) is currently considering the "Inter-American Convention on the Elimination of All Forms of Discrimination by Reason of Disability." This Convention, when passed, will create an opportunity for OAS to carry out a great responsibility to ensure that all its State Members observe the Convention.*NCD encourages the U.S. Permanent Mission to the Organization of American States (USOAS) to work to see that the Convention is adopted with strong antidiscrimination provisions and to advocate that the Convention be fully implemented by each State Member when it is passed. In addition, NCD commends the Department of State, including USOAS, for its efforts to involve NCD and other disability community stakeholders in reviewing draft policies.*
 * On June 15-20, 1997, the International Leadership Forum for Women with Disabilities was held in Bethesda, Maryland, as a follow up to the United Nations Fourth World Conference on Women, held in Beijing in 1995. The Forum, which was attended by more than 500 participants from 80 countries, included sessions and workshops on exemplary practices and projects in the areas of leadership development, health services, education, employment, technology, advocacy and public education, and electronic networking. Secretary of State Madeleine K. Albright spoke at the Forum, reaffirming her commitment to increase employment opportunities for people with disabilities in the Foreign Service and to address access barriers at U.S. embassies. *NCD strongly encourages the Department of State, working with the Access Board and other stakeholders in the disability community, to act promptly and in a systematic manner to address the access barriers at U.S. embassies and other government-owned buildings abroad.*
 
-[](<>)
+
 
 **Physician-Assisted Suicide**
 
@@ -413,19 +413,19 @@ Having acknowledged these benefits, NCD nonetheless found that the countervailin
 
 On June 26, 1997, the U.S. Supreme Court upheld the constitutionality of state laws that prohibit physician-assisted suicide. Although the Court refused to recognize a constitutional right to assistance in committing suicide, the Court left open the possibility of states passing laws that make physician-assisted suicide available. More recently, the Court refused to review an Oregon law that would make physician-assisted suicide available to residents of that state. Accordingly, the dangers that physician-assisted suicide poses for people with disabilities recounted in NCD's position paper continue to be present, and the Supreme Court decision will likely let the policy debate play out at the state level.*NCD strongly encourages states and their federal partners to consider the likely impact on residents with disabilities of any legislative proposals in this area.*
 
-[](<>)
+
 
 **Genetic Discrimination**
 
 As the Human Genome Project continues to make remarkable progress in mapping the human genome, the potential for discrimination based on genetic information in employment, health care, and other areas becomes greater. NCD is pleased that Congress and the Administration are considering legislation that would prohibit discrimination in employment and health care on the basis of genetic information. *Given that a number of disabilities have genetic links and given the great potential for discrimination based on access to genetic information about the existence of a disability or the propensity to develop a disability, NCD strongly encourages the President to work with Congress to enact legislation that will restrict access by employers, insurance carriers, and others to such information and will outlaw discrimination based on such information.*
 
-[](<>)
+
 
 **Wilderness Accessibility**
 
 Section 507(a) of ADA required that NCD identify important issues relevant to wilderness accessibility for people with disabilities. On December 1, 1992, NCD issued a report entitled *Wilderness Accessibility for People with Disabilities*, which included recommendations developed after a hearing and comprehensive study of the issue. A key recommendation in the report was that the federal agencies responsible for wilderness management should better coordinate their policies and management practices regarding disability access and make them consistent with the requirements of federal nondiscrimination laws. In October 1997, a memorandum of understanding was signed by the federal wilderness management agencies and a nonprofit organization called Wilderness Inquiry, Inc. (WI), to coordinate their policies to "establish a general framework of cooperation between the agencies and WI for increased opportunities for people of all abilities to use and enjoy the programs, facilities, and activities of the agencies." NCD commends the National Park Service, the U.S. Forest Service, the Bureau of Land Management, the U.S. Fish and Wildlife Service, the Bureau of Reclamation, and the U.S. Army Corps of Engineers for recognizing the importance of coordinating their efforts to ensure access for people with disabilities to this country's rich wilderness resources.
 
-[](<>)
+
 
 **Currency Accessibility**
 
@@ -433,7 +433,7 @@ In 1997, the U.S. Department of Treasury issued a new $50 bill with features des
 
 - - -
 
-[](<>)
+
 
 **CONCLUSION**
 
@@ -443,7 +443,7 @@ This disability agenda, which might be framed as an opportunity agenda for all p
 
 - - -
 
-[](<>)
+
 
 **APPENDIX**
 
@@ -487,70 +487,70 @@ NCD was initially established in 1978 as an advisory board within the Department
 
 - - -
 
-[](<>)
+
 
 1 "Can't walk, can't grip, can work," *San Diego Union-Tribune*, September 18, 1997.
 
-[](<>)
+
 
 2 U.S. Census Bureau, Current Population Reports, "Americans with Disabilities: 1994-95." The Census data are based on the Survey of Income and Program Participation.
 
-[](<>)
+
 
 3 See, e.g., Disability Rights Advocates, Inc., *Disability Watch: The Status of People with Disabilities in the United States*, at p. 8 (noting that the vast majority of institutionalized disabled Americans are elderly).
 
-[](<>)
+
 
 4 National Council on Disability, *Achieving Independence: The Challenge for the 21st Century* (1996) at 30. *See also* p. 31 (recommending that questions about disability be adequately included in the 2000 census) and pp. 67-68 (recommending addition of people with disabilities as a group to national labor force statistics reported monthly).
 
-[](<>)
+
 
 5 National Council on Disability, *Removing Barriers to Work: Action Proposals for the 105th Congress and Beyond*," September 24, 1997.
 
-[](<>)
+
 
 6 "An Interim Report on HHS Accomplishments on Behalf of People with Disabilities," submitted to NCD October 3, 1997 (hereinafter "HHS Interim Report"), at 5. Many welfare recipients with disabilities have impairments such as specific learning disabilities, attention deficit disorder, major depression, and other mental and physical disabilities that are not always visible and have not been identified in the education system or other systems. It is worth noting that women with disabilities are disproportionately represented in the unidentified disability category. While there is no gender differential in the prevalence of neurological disabilities, for example, public education programs are identifying boys with these disabilities at a rate three times that for girls.
 
-[](<>)
+
 
 7 "Disabled Children Get a Needed Review," *New York Times*, September 13, 1997.
 
-[](<>)
+
 
 8 Id.
 
-[](<>)
+
 
 9 "Quick Review Promised for SSI Rules," *Washington Post*, September 11, 1997.
 
-[](<>)
+
 
 10 Social Security Administration, Office of Disability.
 
-[](<>)
+
 
 11 "Quick Review," supra note 9.
 
-[](<>)
+
 
 12 Id.
 
-[](<>)
+
 
 13 The problem with the web browser was subsequently addressed by Microsoft after the period covered in this report.
 
-[](<>)
+
 
 14 For a recent analysis of the case law interpreting the definition of disability in ADA, see Steven S. Locke, *The Incredible Shrinking Protected Class: Redefining the Scope of Disability Under the Americans with Disabilities Act*, 68 Colo. L. Rev. 107 (1997).
 
-[](<>)
+
 
 15 Runnebaum v. Nations Bank, 7 A.D. Cases 217, 1997 WL 465301 (4th Cir. 1997).
 
-[](<>)
+
 
 16 ADA Section 2(a)(8).
 
-[](<>)
+
 
 17 "Assisted Suicide: A Disability Perspective," NCD, March 24, 1997 (Executive Summary).

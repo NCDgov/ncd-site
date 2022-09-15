@@ -78,7 +78,7 @@ primary:
         url: /policy-areas/youth-perspectives/
         icon: img/sprite.svg#accessibility_new
 secondary:
-  - name: Contact US
+  - name: Contact Us
     url: /contact/
   - name: Accountability
     url: /accountability/

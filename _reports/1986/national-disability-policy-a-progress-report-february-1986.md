@@ -73,7 +73,7 @@ Table of Contents
 
 - - -
 
-[](<>)Letter of Transmittal
+Letter of Transmittal
 
 *Text of identical letters sent to the President of the United States, the President of the Senate, and the Speaker of the House of Representatives)*
 
@@ -102,7 +102,7 @@ Chairperson
 
 - - -
 
-[](<>)Description of the National Council on the Handicapped
+Description of the National Council on the Handicapped
 
 The National Council on the Handicapped is an independent Federal agency comprised of 15 members appointed by the President of the United States and confirmed by the Senate. Established by the 95th Congress in Title IV of the Rehabilitation Act of 1973 (as amended by Public Law No. 95-602 in 1978), the Council was initially an advisory board within the Department of Education. In 1984, however, the Council was transformed into an independent agency by the Rehabilitation Act Amendments of 1984 (Public Law No. 98-221).
 
@@ -112,7 +112,7 @@ Whereas many government agencies deal with issues and programs affecting people 
 
 - - -
 
-[](<>)**The National Council on the Handicapped**
+**The National Council on the Handicapped**
 
 Members
 
@@ -149,7 +149,7 @@ John Raisian, Consultant-Economics
 
 - - -
 
-[](<>)Executive Summary
+Executive Summary
 
 The National Council on the Handicapped is charged by statute with reviewing Federal laws and programs affecting persons with disabilities and assessing the extent to which they "provide incentives or disincentives to the establishment of community-based services for handicapped individuals, promote the full integration of such individuals in the community, in schools, and in the workplace, and contribute to the independence and dignity of such individuals."
 
@@ -185,7 +185,7 @@ The Council has focused in detail upon ten major topic areas of particular impor
 
 - - -
 
-[](<>)**Introduction**
+**Introduction**
 
 > *Our country calls not for the life of ease, but for the life of strenuous endeavor.*
 >
@@ -221,7 +221,7 @@ Based upon such information, the Council selected ten topic areas of critical im
 
 - - -
 
-[](<>)**The Population with Disabilities**
+**The Population with Disabilities**
 
 The social category of people with disabilities encompasses a wide diversity of individuals. It includes the neighbor who has just had heart by-pass surgery, the boy down the street with cerebral palsy, the business executive who has been hospitalized for severe depression, the blind woman who works in the office downstairs, the mentally retarded landscaper at the local plant nursery, and last year's champion diver at the local high school who now uses a wheelchair because of a spinal cord injury.
 
@@ -259,7 +259,7 @@ Statistics from the Office of Special Education and Rehabilitative Services, U.S
 
 - - -
 
-[](<>)**An Assessment of Federal Laws and Programs Affecting Persons with Disabilities**
+**An Assessment of Federal Laws and Programs Affecting Persons with Disabilities**
 
 Complexities, inconsistencies, and fragmentation in the various Federal laws and programs that affect Americans with disabilities might suggest that the United States has no coherent Federal policy on disability. Echoing a chorus of previous commentators, President Reagan has described "the patchwork quilt of existing policies and programs, " and has decried the fact that within the Federal "maze," programs often overlap or work at cross-purposes (President Reagan, Remarks on Signing Proclamation 513 1, Establishing the National Decade of Disabled Persons, Nov. 28, 1983). Programmatic inadequacies and inconsistencies do not mean, however, that there has been no clear national goal regarding citizens with disabilities. With surprising consistency, the branches of American Government, disabled individuals and their families, and service and consumer agencies have agreed that the overall goal of the nation in regard to persons with disabilities is to insure the rights of such individuals to equality of opportunity and to independence.
 
@@ -299,7 +299,7 @@ In furtherance of these Federal interests in independence and equality of opport
 
 - - -
 
-[](<>)**Current Priorities in Federal Programs**
+**Current Priorities in Federal Programs**
 
 Congress has requested that the Council develop a listing, based upon annual expenditures and numbers of persons with disabilities served, of the major Federal programs assisting individuals with disabilities. Such a list is set out beginning on page 55 of this report. A total of 45 programs are listed and briefly described. From the detailed listing, statistical information about persons with disabilities, and the Council's analysis of Federal programs, a few general observations can be made.
 
@@ -337,7 +337,7 @@ In spite of these few examples, however, an examination of the major Federal dis
 
 - - -
 
-[](<>)**Analysis of Federal Programs in Specific Topic Areas with Legislative Recommendations**
+**Analysis of Federal Programs in Specific Topic Areas with Legislative Recommendations**
 
 The Council has focused its attention upon ten major topic areas of Federal programs affecting people with disabilities. The topic areas are:
 
@@ -356,7 +356,7 @@ Each of these topics has been the subject of detailed discussion and analysis in
 
 The major conclusions and legislative recommendations of the Council regarding the ten topic areas follow.
 
-[](<>)**Equal Opportunity Laws**
+**Equal Opportunity Laws**
 
 If the goals of independence and access to opportunities for people with disabilities are to be achieved, it is essential that unfair and unnecessary barriers and discrimination not be allowed to block the way. Accordingly, the President and the Congress have called upon our Nation to guarantee equal opportunities for citizens with disabilities. Congress has enacted several laws prohibiting discrimination against people with disabilities. One of the best known of such laws is Section 504 of the Rehabilitation Act of 1973, as amended, which prohibits discrimination on the basis of handicap in programs and activities conducted by the Federal Government or conducted by recipients of Federal financial assistance. Section 503 of the Rehabilitation Act requires Federal Government contractors to take "affirmative action" to employ and advance workers with disabilities. Section 501 places a similar "affirmative action" requirement upon Federal Government employment. Several other Federal laws prohibit discrimination on the basis of handicap in certain other contexts.
 
@@ -405,7 +405,7 @@ This recommendation is intended to correct the problems with the language of Sec
 5. *Provide a private right of action against Federal contractors and subcontractors who engage in discrimination against people with disabilities; and*
 6. *Provide an expanded Protection and Advocacy System in each State to protect and advocate for the rights of individuals with all types of disabilities, regardless of age of onset.*
 
-[](<>)**Employment**
+**Employment**
 
 As for most other Americans, a major prerequisite to economic selfsufficiency for individuals with disabilities is a job. Employment is an essential key to successful adult integration into community life. Various forms of work are associated with greater independence, productivity, social status, and financial security. Success and quality of life are often measured in terms of paid employment.
 
@@ -491,7 +491,7 @@ Although the current JTPA legislation helps to increase the employment and decre
 * Parents and educators are informed of the programs available for people with disabilities.
 * Data is collected on the number and percentage of disabled persons served.
 
-[](<>)**Disincentives to Work Under Social Security Laws**
+**Disincentives to Work Under Social Security Laws**
 
 The recommendations in the previous section focused upon increasing the effectiveness of Federal efforts to secure employment opportunities for individuals with disabilities, thus increasing the chances for such individuals to achieve independence and economic self-sufficiency. Some Federal programs under current Social Security laws not only fail to promote employment and independence for citizens with disabilities, but actually penalize and discourage people with disabilities if they seek to become employed. These programs-Supplemental Security Income (SSI), Social Security Disability Insurance (SSDI), Medicaid and Medicare-provide many severely disabled people with basic life necessities. Consumer and service provider experiences indicate, however, that some program provisions encourage dependence and discourage gainful employment.
 
@@ -525,7 +525,7 @@ The Council believes that the availability of health insurance coverage for peop
 
 Considerable savings can be realized by removing disincentives to work in current programs: Medicaid benefit payments often decrease when a person with a disability is employed. Income support payments will always be reduced as recipients of income benefits become gainfully employed and income support benefits are reduced or ended. Although there is no precise method of estimating expected costs and benefits, the Congressional Budget Office has informally estimated that no increases in costs are associated with a permanent extension of Section 1619. Other authorities have projected considerable cost savings. For instance, in August of 1984, 6,000 SSI recipients earned over $713 a month, the break even point for going off of SSI payments. If permanent, continued Medicaid coverage encouraged these individuals to leave the SSI program, a savings of $324 a month per individual in SSI payments would result in a projected reduction in cash benefits of $23 million per year (Bartlett, 1985). The advantages to society are even greater if personal benefits to the individual, such as increases in self-esteem and mental and physical health, and economic benefits to the community, such as the purchase of goods and services, are considered.
 
-[](<>)**Prevention of Disabilities**
+**Prevention of Disabilities**
 
 A Federal initiative to prevent disability could substantially reduce the health care costs and human suffering associated with the high incidence of disability in this country. Effective preventive measures would reduce the costs of disability and health care for Americans, reduce Federal spending for disability in the near future, and decrease the incidence of disability for future generations.
 
@@ -549,7 +549,7 @@ The appropriation of funds for specific program priorities should include: a) pr
 
 The authorization would provide for an objective, independent assessment through the Office of Technology Assessment of the status of primary and secondary prevention efforts in the United States, and of compliance with the National Plan.
 
-[](<>)**Transportation**
+**Transportation**
 
 Another prerequisite for achieving equal opportunities and independent living for persons with disabilities is transportation-the ability to get to and from work, stores, medical facilities, recreational and social settings, and other destinations-to move about the local neighborhood, the city, the state, and the world. The Urban Mass Transit Act, as amended in 1970, established services for disabled people as a basic element of Federal transportation policy-it states that disabled people have the same right to use public transportation as nondisabled persons. Specific language promoting this principle was also included in the Federal-Aid Highway Act of 1973. Since 1970, the nation has begun implementing accessible transportation systems in compliance with this policy.
 
@@ -616,7 +616,7 @@ Private transportation provides the only means by which many disabled and elderl
 
 Little current data is available to document the potentially great benefits resulting from accessible transportation. Older studies suggest many benefits, both economically and in terms of life quality, that are associated with access to transportation. The study called for in this recommendation would provide more up-to-date documentation of such individual and societal benefits.
 
-[](<>)**Housing**
+**Housing**
 
 Securing appropriate housing is a major prerequisite to social integration and living independently for persons with disabilities. The lack of appropriate housing opportunities for individuals with disabilities frequently results in the unnecessary and expensive institutionalization of such persons. Available data suggest that the costs of providing appropriate housing options for disabled people are well worth the investment because of the significant savings that may be engendered by enabling disabled people to live in the community, get jobs, and pay taxes. Various reports of Federal agencies, disabled persons, and the few formal studies of the subject have documented a serious shortage of housing options for people with disabilities.
 
@@ -680,7 +680,7 @@ These proposals reflect the fact that the average annual per unit expenditure fo
 
 Aspiring architects and planners should be provided the training necessary to enable them to develop innovative designs implementing universal accessibility in new and rehabilitative construction. Such innovations may dramatically transform the design and construction of housing, public and private buildings, schools, work places, and public transit systems, and eliminate environmental barriers to elderly persons and people with disabilities.
 
-[](<>)**Community-Based Services for Independent Living**
+**Community-Based Services for Independent Living**
 
 The Council has defined independent living as "control over one's life based on the choice of acceptable options that minimize reliance on others in making decisions and in performing everyday activities" (National Policy for Persons with Disabilities, 1983). Living independently includes managing one's affairs, participating in the day--today life of the community in a manner of one's own choosing, fulfilling a range of social roles including productive work, and making decisions that lead to selfdetermination. Community-based services that promote such independence for Americans with disabilities constitute one of the most promising service delivery strategies for our Nation.
 
@@ -728,7 +728,7 @@ The evaluation criteria should include a focus on the following topics:
 
 This recommendation is made as a partial means of removing the disincentives to work which are inherent in the Social Security system. While certain tax deductions are currently allowable under a medical categorization, the regulations are unclear regarding non-medical, disability-related services which enable the individual to work or engage in productive activity. Such expenses, up to a reasonable amount for each type of expense, should be made deductible.
 
-[](<>)**Educating Children with Disabilities**
+**Educating Children with Disabilities**
 
 Special education helps this Nation's children with disabilities to develop the skills they need to live as independently as possible when they become adults. Although special education services have progressed greatly since the passage of the Education for All Handicapped Children Act over ten years ago, the knowledge and ability to implement "best practices" falls short of what is needed.
 
@@ -762,7 +762,7 @@ To help State and local education agencies and parents appropriately plan for an
 
 Public Law 94-142, as amended, was enacted more than ten years ago. Its enactment has resulted in major changes in the provision of special education services in this country. A special commission should be established to assess what has been achieved and to determine the most cost-effective methods of fully achieving the goals of special education in the future. The Secretary of Education and the Chairperson of the National Council on the Handicapped should each appoint an equal number of members to the commission. The commission should be asked to report its findings and recommendations to Congress within two years of the enactment of this provision.
 
-[](<>)**Personal Assistance: Attendant Services, Readers, and Interpreters**
+**Personal Assistance: Attendant Services, Readers, and Interpreters**
 
 In reviewing the types of programs funded by the Federal Government, the Council has found that there is an undue reliance on institutional care. The Council believes that personal assistance, as rendered by attendants, readers, interpreters, and advocates, when provided in conjunction with other community-based services, can be an effective and economical means for reducing this Nation's reliance on institutions and enabling most persons with disabilities to live independently in settings of their choice. The goal should be to establish self-directed personal assistant services as one component of a comprehensive array of community-based services that should be available to people with disabilities.
 
@@ -809,7 +809,7 @@ The recommended projects should be funded under the demonstration authority of t
 
 These demonstration projects should be carefully designed and evaluated since they would help establish the parameters of a national attendant services program.
 
-[](<>)**Coordination**
+**Coordination**
 
 As Federal programs seek to promote independence and equal opportunities for people with disabilities, there is an important need that services and programs be coordinated. "Coordinated services" describes the ideal results of a wide range of interactions among persons active in policy and program development. Although these interactions take place every day, their purpose, frequency, and effectiveness vary greatly from community to community, State to State, and from program to program. In the Forums conducted in 1984 and 1985 as part of the Council's background activities leading to this report, disabled people around the country declared that many programs do not mesh well with other available services, and that too often the service delivery system exhibits gaps, inconsistencies, and inequities. It is clear, however, that there is no single or simple solution to the need for better coordinated services. The Council believes that mechanisms should be in place throughout the service delivery system that consistently and purposefully attempt to improve the linkages among the policy makers and programs that serve disabled people.
 
@@ -827,7 +827,7 @@ In addition, the process should, by requirement and design, substantively involv
 
 - - -
 
-[](<>)**List of Federal Programs Affecting Persons with Disabilities in Order of Expenditure**
+**List of Federal Programs Affecting Persons with Disabilities in Order of Expenditure**
 
 Federal programs directly benefiting disabled persons are listed below in descending order of program size. Program size was determined by review of the 1986 estimates for each program as presented in the 1985 Catalog of Federal Domestic Assistance. If significant differences were reflected between 1985 estimates and 1986 estimates as presented in the 1985 CFDA, additional references were sought and noted accordingly.
 
@@ -1411,7 +1411,7 @@ Notes to the Listing
 
 - - -
 
-[](<>)**Biographies of Members of the National Council on the Handicapped**
+**Biographies of Members of the National Council on the Handicapped**
 
 Sandra S. Parrino
 
@@ -1539,7 +1539,7 @@ In 1952 Dr. Viscardi founded the internationally famed Human Resources Center in
 
 - - -
 
-[](<>)References
+References
 
 American Public Transit Association. (1985). *Fact Sheet: Public Transportation for the Disabled.* Washington, DC.
 

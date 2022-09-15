@@ -11,6 +11,12 @@ layout: wide
         description=page.description
       %}
 
+      {% if page.video_url and page.video_url != nil and page.video_url != '' %}
+        <div class="padding-y-2">
+          {% include video/player.html video_url=page.video_url %}
+        </div>
+      {% endif %}
+
       {{ content }}
     </div>
     {%

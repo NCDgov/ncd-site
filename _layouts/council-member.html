@@ -17,8 +17,8 @@ layout: default
             />
           </div>
           {% endif %}
-          {% if page.member_title %}
-          <h4 class="margin-y-0">{{ page.member_title }}</h4>
+          {% if page.member_title and page.member_title != nil and page.member_title != '' %}
+            <h4 class="margin-y-0">{{ page.member_title }}</h4>
           {% endif %}
           <p class="margin-y-0 text-italic">{{ page.location }}</p>
         </div>
