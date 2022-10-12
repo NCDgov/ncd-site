@@ -8,7 +8,7 @@ description: Frequently asked questions regarding the NCD.
 
 ### **Q:** *What is NCD?*
 
-NCD is an independent federal agency and is composed of 15 members appointed by the President, by and with the advice and consent of the Senate. It provides advice to the President, Congress, and executive branch agencies to promote policies, programs, practices, and procedures that guarantee equal opportunity for all individuals with disabilities, regardless of the nature or severity of the disability and to empower individuals with disabilities to achieve economic self-sufficiency, independent living, and inclusion and integration into all aspects of society.
+NCD is an independent federal agency and is composed of nine members appointed by the President, by and with the advice and consent of the Senate. It provides advice to the President, Congress, and executive branch agencies to promote policies, programs, practices, and procedures that guarantee equal opportunity for all individuals with disabilities, regardless of the nature or severity of the disability and to empower individuals with disabilities to achieve economic self-sufficiency, independent living, and inclusion and integration into all aspects of society.
 
 ### **Q:** *How can I become a Council Member of NCD?*
 
