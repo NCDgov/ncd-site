@@ -8,7 +8,7 @@ excerpt: The National Council on Disability releases a policy brief that
   methodology that has the potential to discriminate against people with
   disabilities.
 tag: Press Release
-permalink: /2022/11/28/ncd-examines-alternatives-to-popular-prescription-drug-cost-effectiveness-method-that-can-discriminate
+permalink: ""
 policy_areas:
   - Health Care
   - Financial Assistance & Incentives
