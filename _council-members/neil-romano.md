@@ -1,7 +1,7 @@
 ---
 layout: council-member
 member_name: Neil Romano
-member_title: ""
+member_title: Council Member
 location: Orlando, Florida
 image: images/neil-romano.jpg
 image_alt_text: Neil Romano Picture
