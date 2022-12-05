@@ -3,6 +3,7 @@ layout: post
 title: NCD examines alternatives to popular prescription drug cost-effectiveness
   method that can discriminate
 date: 2022-11-28
+tag: Press Release
 policy_areas:
   - Financial Assistance & Incentives
   - Civil Rights
