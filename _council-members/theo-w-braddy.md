@@ -3,6 +3,7 @@ layout: council-member
 member_name: Theo W. Braddy
 member_title: Council Member
 location: Harrisburg, Pennsylvania
+image: images/theobraddy.png
 image_alt_text: Theo Braddy photo
 order: 5
 start_date: November 7, 2022
