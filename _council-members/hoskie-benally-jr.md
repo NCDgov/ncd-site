@@ -3,7 +3,8 @@ layout: council-member
 member_name: Hoskie Benally Jr.
 member_title: Council Member
 location: Shiprock, New Mexico
-image_alt_text: N/A
+image: images/hoskie-benalli.png
+image_alt_text: Hoskie Benally Jr. photo
 order: 3
 start_date: November 7, 2022
 ---
