@@ -1,0 +1,66 @@
+{% assign all_post_years = "" %}
+
+{% for post in include.posts %}
+  {% assign post_year = post.date | date: "%Y" | string %}
+  {% assign all_post_years = all_post_years | append: post_year | append: "," %}
+{% endfor %}
+
+{% assign years = {{all_post_years}} | split: "," | uniq | sort | reverse %}
+
+<aside
+  class="
+    desktop:grid-col-fill
+    desktop:padding-0
+  "
+>
+  <div
+    class="
+      padding-y-4
+      desktop:padding-y-0
+      desktop:padding-x-6
+    "
+  >
+    <h4
+      class="
+        border-bottom-05
+        border-primary
+        font-sans-md
+        margin-0
+        padding-y-1
+        text-base-dark
+        text-semibold
+      "
+      >
+      {{ include.title }}
+    </h4>
+    <ul class="
+      border-1px
+      border-gray-10
+      padding-2
+      usa-list
+      usa-list--unstyled
+    "
+    >
+      {% if include.limit %}
+        {% assign item_limit = include.limit %}
+      {% else %}
+        {% assign item_limit = 3 %}
+      {% endif %}
+      {% for year in years limit:item_limit %}
+      <li
+        class="
+          border-bottom-1px
+          border-gray-5
+          line-height-sans-2
+          padding-y-1
+          text-bold
+        "
+      >
+        <a class="usa-link text-no-underline" href="{{site.baseurl}}/{{include.path}}/{{year}}/"
+          >{{ year }}</a
+        >
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</aside>

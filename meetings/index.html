@@ -65,5 +65,12 @@ pagination:
       <!-- Pagination links -->
       {% include paginator.html %}
     </div>
+    {%
+      include aside-collection-year-links.html
+      title="Meetings By Year"
+      limit=40
+      path="meetings"
+      posts=site.meetings
+    %}
   </div>
 </div>
