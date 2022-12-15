@@ -1,23 +1,25 @@
 ---
 layout: wide
 published: true
-report_year: 19988
+year: 1990
 ---
 
 <div class="grid-container">
   <div class="grid-row">
     <div class="desktop:grid-col-8 usa-prose padding-right-4">
-      {% assign page_title =  page.report_year | append: ' ' |  append: 'Reports' %}
+      {% assign page_title =  page.year | append: ' ' |  append: 'Newsroom Posts' %}
       {%
         include collection-header.html
         title=page_title
         description="
-          NCD publishes reports for with recommendations to the President, Congress
+          NCD publishes newsroom posts for with recommendations to the President, Congress
           and policymakers on national disability policy.
         "
       %}
-      {% for post in site.reports %}
-        {% if page.report_year == post.report_year %}
+      {% for post in site.posts %}
+        {% assign post_year = post.date | date: "%Y" | string %}
+        {% assign page_year = page.year | string | strip %}
+        {% if page_year == post_year %}
           {%
             include paginated-collection-item.html
             post=post
@@ -28,10 +30,11 @@ report_year: 19988
       {% include paginator.html %}
     </div>
     {%
-      include aside-page-links.html
-      title="Reports By Year"
+      include aside-collection-year-links.html
+      title="Newsroom Posts By Year"
       limit=40
-      items=site.data.report_years
+      path="newsroom"
+      posts=site.posts
     %}
   </div>
 </div>

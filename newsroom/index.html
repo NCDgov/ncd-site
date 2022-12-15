@@ -23,10 +23,11 @@ pagination:
       {% include paginator.html %}
     </div>
     {%
-      include aside-page-links.html
-      title="Featured Newsroom Posts"
-      limit=10
-      items=site.data.widgets.newsroom
+      include aside-collection-year-links.html
+      title="Newsroom Posts By Year"
+      limit=40
+      path="newsroom"
+      posts=site.posts
     %}
   </div>
 </div>

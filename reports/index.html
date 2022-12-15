@@ -27,10 +27,11 @@ pagination:
       {% include paginator.html %}
     </div>
     {%
-      include aside-page-links.html
+      include aside-collection-year-links.html
       title="Reports By Year"
       limit=40
-      items=site.data.report_years
+      path="reports"
+      posts=site.reports
     %}
   </div>
 </div>

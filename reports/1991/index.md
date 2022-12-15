@@ -1,13 +1,13 @@
 ---
 layout: wide
 published: true
-report_year: 1991
+year: 1991
 ---
 
 <div class="grid-container">
   <div class="grid-row">
     <div class="desktop:grid-col-8 usa-prose padding-right-4">
-      {% assign page_title =  page.report_year | append: ' ' |  append: 'Reports' %}
+      {% assign page_title =  page.year | append: ' ' |  append: 'Reports' %}
       {%
         include collection-header.html
         title=page_title
@@ -17,7 +17,9 @@ report_year: 1991
         "
       %}
       {% for post in site.reports %}
-        {% if page.report_year == post.report_year %}
+        {% assign post_year = post.date | date: "%Y" | string %}
+        {% assign page_year = page.year | string | strip %}
+        {% if page_year == post_year %}
           {%
             include paginated-collection-item.html
             post=post
@@ -28,10 +30,11 @@ report_year: 1991
       {% include paginator.html %}
     </div>
     {%
-      include aside-page-links.html
+      include aside-collection-year-links.html
       title="Reports By Year"
       limit=40
-      items=site.data.report_years
+      path="reports"
+      posts=site.reports
     %}
   </div>
 </div>

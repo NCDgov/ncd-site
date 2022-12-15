@@ -30,10 +30,11 @@ year: 2016
       {% include paginator.html %}
     </div>
     {%
-      include aside-page-links.html
+      include aside-collection-year-links.html
       title="Letters By Year"
       limit=40
-      items=site.data.letter_years
+      path="letters"
+      posts=site.letters
     %}
   </div>
 </div>
