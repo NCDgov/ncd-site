@@ -14,8 +14,6 @@ Be as specific as possible in identifying requested records;
 Include his or her name, address, and phone number.
 NCD will make every effort to respond to FOIA requests as quickly and as thoroughly as possible.
 
-NCD’s freedom of information officer is 
-
 NCD’s FOIA Public Liaison is Amy Nicholas, Senior Attorney Advisor.
 
 **C﻿ontact**
