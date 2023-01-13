@@ -14,13 +14,22 @@ Be as specific as possible in identifying requested records;
 Include his or her name, address, and phone number.
 NCD will make every effort to respond to FOIA requests as quickly and as thoroughly as possible.
 
-NCD's Freedom of Information Officer is Amy Nicholas, Attorney Advisor:
+NCD’s freedom of information officer is 
+
+NCD’s FOIA Public Liaison is Amy Nicholas, Senior Attorney Advisor.
+
+**C﻿ontact**
+
 Amy Nicholas
-Attorney Advisor
+
+Senior Attorney Advisor
+
 National Council on Disability
-1331 F Street, NW, Suite 850
-Washington, DC 20004
+
+1331 F St. NW., Suite 850
+
+Washington DC 20004
+
 202-272-2004
-202-272-2074 TTY
-202-272-2022 Fax
-anicholas@ncd.gov
+
+202-272-2022 fax
