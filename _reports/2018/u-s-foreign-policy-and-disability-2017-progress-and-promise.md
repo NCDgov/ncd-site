@@ -17,7 +17,6 @@ image_alt_text: na
 * Significant underrepresentation of employees with disabilities; 
 * Unclear recruitment and retention policies and supports for employees with disabilities;
 * Inadequate human and fiscal resources dedicated to the institutionalization of system-wide inclusion; 
-*
 * Absence of accountability due to inadequate monitoring of the number of people with disabilities included in foreign aid programs from design to implementation and evaluation; 
 * Unclear public information related to disability access and inclusion on agency webpages;
 * Inconsistent physical accessibility to structures and programs overseas; and
