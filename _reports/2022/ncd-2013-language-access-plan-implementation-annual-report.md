@@ -1,8 +1,11 @@
 ---
 layout: post
 title: NCD 2013 Language Access Plan Implementation Annual Report
-date: January 17, 2023
-report_year: 2022
+date: December 20, 2013
+report_year: 2013
+policy_areas:
+  - Cultural Diversity
+word_document: reports/2013/ncd_2013-language-access-plan-report.docx
 image_alt_text: na
 ---
 ## **Executive Order 13166 Language Access Plan Implementation: National Council on Disability Annual Analysis and Update**
