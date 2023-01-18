@@ -3,6 +3,10 @@ layout: post
 title: Federal study finds nation's assisted suicide laws rife with dangers to
   people with disabilities
 date: 2019-10-09
+tag: Press Release
+policy_areas:
+  - Health Care
+  - Civil Rights
 ---
 **WASHINGTON –** Today, the National Council on Disability (NCD) released the findings of a federal examination of the country’s assisted suicide laws and their effect on people with disabilities, finding the laws’ safeguards are ineffective and oversight of abuses and mistakes is absent.
 
