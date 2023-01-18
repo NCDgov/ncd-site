@@ -2,7 +2,7 @@
 layout: post
 title: NCD announces upcoming Council Meeting
 date: 2022-12-07
-permalink: /:year/:month/:day/upcoming-meeting
+permalink: ""
 ---
 TIME AND DATE: The Members of the National Council on Disability (NCD) will hold a quarterly business meeting on Thursday, December 8, 2022, 12:00 p.m. – 4:00 p.m., Eastern Standard Time (EST).
 
