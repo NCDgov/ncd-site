@@ -2,6 +2,9 @@
 layout: post
 title: National Council on Disability Celebrates ABLE Anniversary
 date: 2019-12-19
+excerpt: The National Council on Disability (NCD)—an independent federal agency
+  that advises the President and Congress— today celebrates the five-year
+  anniversary of important legislation for people with disabilities.
 policy_areas:
   - Financial Assistance & Incentives
   - Health Care
