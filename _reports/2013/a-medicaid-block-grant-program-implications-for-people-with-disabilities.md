@@ -6,7 +6,7 @@ report_year: 2013
 policy_areas:
   - Health Care
   - Long Term Services & Support
-pdf_document: reports/2022/ncd_medicaid-block-grant-program.pdf
+pdf_document: reports/2013/ncd_medicaid-block-grant-program.pdf
 image_alt_text: na
 ---
 **S﻿COPE AND PURPOSE:**

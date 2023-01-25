@@ -7,7 +7,7 @@ report_year: 2013
 policy_areas:
   - CRPD
   - Civil Rights
-word_document: reports/2022/ncd_education-forum-report-uncrpd.docx
+word_document: reports/2013/ncd_education-forum-report-uncrpd.docx
 image_alt_text: na
 ---
 **SCOPE AND PURPOSE:**\
