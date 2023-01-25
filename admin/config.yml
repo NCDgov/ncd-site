@@ -37,6 +37,11 @@ collections:
     create: true
     slug: "{{title}}"
     path: "{{slug}}"
+    summary: "*{{title}}* ... ({{date}})"
+    sortable_fields:
+      - date
+      - title
+      - policy_areas
     editor:
       preview: true
     fields:
@@ -145,6 +150,19 @@ collections:
     folder: _letters/
     create: true
     slug: "{{date}}-{{slug}}"
+    summary: "*{{title}}* ... ({{date}})"
+    sortable_fields:
+      - date
+      - title
+      - policy_areas
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
+      - label: Categories
+        field: categories
+      - label: Policy Areas
+        field: policy_areas
     editor:
       preview: true
     fields:
@@ -333,6 +351,20 @@ collections:
     create: true
     slug: "{{date}}-{{slug}}"
     path: "{{meeting_year}}/{{slug}}"
+    summary: "*{{title}}* ... ({{date}})"
+    sortable_fields:
+      - date
+      - title
+      - categories
+      - policy_areas
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
+      - label: Categories
+        field: categories
+      - label: Policy Areas
+        field: policy_areas
     editor:
       preview: true
     fields:
@@ -438,6 +470,39 @@ collections:
     folder: _posts/
     create: true
     slug: "{{date}}-{{slug}}"
+    summary: "*{{title}}* ... [{{tag}}] ... ({{date}})"
+    sortable_fields:
+      - date
+      - title
+      - tag
+      - categories
+      - policy_areas
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
+      - label: Tag
+        field: tag
+      - label: Categories
+        field: categories
+      - label: Policy Areas
+        field: policy_areas
+    view_filters:
+      - label: "Funding Opportunities"
+        field: tag
+        pattern: "Funding Opportunities"
+      - label: "Speech"
+        field: tag
+        pattern: "Speech"
+      - label: "Testimonial"
+        field: tag
+        pattern: "Testimonial"
+      - label: "Newsletter"
+        field: tag
+        pattern: "Newsletter"
+      - label: "Press Release"
+        field: tag
+        pattern: "Press Release"
     editor:
       preview: true
     fields:
@@ -516,6 +581,19 @@ collections:
     folder: _publications/
     create: true
     path: "{{publication_year}}/{{slug}}"
+    summary: "*{{title}}* ... [{{categories}}] ... ({{publication_year}})"
+    sortable_fields:
+      - date
+      - publication_year
+      - title
+      - categories
+      - policy_areas
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
+      - label: Publication Year
+        field: publication_year
     editor:
       preview: true
     fields:
@@ -560,6 +638,23 @@ collections:
     create: true
     slug: "{{title}}"
     path: "{{report_year}}/{{slug}}"
+    summary: "*{{title}}* ... [{{categories}}] ... ({{report_year}})"
+    sortable_fields:
+      - date
+      - report_year
+      - title
+      - tag
+      - policy_areas
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
+      - label: Report Year
+        field: report_year
+      - label: Categories
+        field: categories
+      - label: Policy Areas
+        field: policy_areas
     editor:
       preview: true
     fields:
