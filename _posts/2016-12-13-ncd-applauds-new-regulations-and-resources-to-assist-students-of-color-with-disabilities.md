@@ -1,0 +1,18 @@
+---
+layout: post
+title: NCD Applauds New Regulations and Resources to Assist Students of Color
+  with Disabilities
+date: 2016-12-13
+---
+Posted: December 13, 2016
+
+The National Council on Disability (NCD) – an independent federal agency – applauds the Department of Education (ED)’s issuance of the [final regulations](http://links.govdelivery.com/track?type=click&enid=ZWFzPTEmbWFpbGluZ2lkPTIwMTYxMjEyLjY3NTE0ODYxJm1lc3NhZ2VpZD1NREItUFJELUJVTC0yMDE2MTIxMi42NzUxNDg2MSZkYXRhYmFzZWlkPTEwMDEmc2VyaWFsPTE3Nzk4NDk2JmVtYWlsaWQ9Y2hhcmVlc2Uucm9zc0BlZC5nb3YmdXNlcmlkPWNoYXJlZXNlLnJvc3NAZWQuZ292JmZsPSZleHRyYT1NdWx0aXZhcmlhdGVJZD0mJiY=&&&101&&&http://www2.ed.gov/policy/speced/reg/idea/part-b/idea-part-b-significant-disproportionality-final-regs-unofficial-copy.pdf?utm_content=&utm_medium=email&utm_name=&utm_source=govdelivery&utm_term=) under Part B of the [Individuals with Disabilities Education Act (IDEA)](https://www.gpo.gov/fdsys/pkg/PLAW-108publ446/html/PLAW-108publ446.htm) and the accompanying “Dear Colleague” letter released by the Office for Civil Rights (OCR) on Monday, December 12, to correct issues related to disproportionality in the identification, placement, and discipline of students with disabilities due to race or ethnicity at markedly higher rates than their peers.
+
+For the first time under these final regulations, ED’s “Equity in IDEA” rules require all states to use the same methodology, which will allow for more accurate comparisons within and across states. The new rules seek to ensure that all students get the supports they need to succeed in education and are drawn, in part, from a number of the recommendations made in NCD’s “[Breaking the School-to-Prison Pipeline](http://www.ncd.gov/publications/2015/06182015)” report published in June 2015.
+
+In addition to the regulations issued by ED, OCR released a [new policy document](http://links.govdelivery.com/track?type=click&enid=ZWFzPTEmbWFpbGluZ2lkPTIwMTYxMjEyLjY3NTE0ODYxJm1lc3NhZ2VpZD1NREItUFJELUJVTC0yMDE2MTIxMi42NzUxNDg2MSZkYXRhYmFzZWlkPTEwMDEmc2VyaWFsPTE3Nzk4NDk2JmVtYWlsaWQ9Y2hhcmVlc2Uucm9zc0BlZC5nb3YmdXNlcmlkPWNoYXJlZXNlLnJvc3NAZWQuZ292JmZsPSZleHRyYT1NdWx0aXZhcmlhdGVJZD0mJiY=&&&106&&&http://www.ed.gov/ocr/letters/colleague-201612-racedisc-special-education.pdf?utm_content=&utm_medium=email&utm_name=&utm_source=govdelivery&utm_term=) to support states, school districts, and public schools in fulfilling their legal requirement to identify the needs of special education students without discrimination on the basis of race. OCR's enforcement experience suggests both over-identification and under-identification based on race are commonplace.
+
+“NCD applauds the Department of Education and the Office for Civil Rights for heeding our recommendations in the development and adoption of the final ‘Equity in IDEA’ procedures,” said NCD Executive Director, Rebecca Cokley. “Studies reveal that up to 85 percent of youth in juvenile detention facilities have disabilities that make them eligible for special education services, yet surprisingly only an estimated 37 percent receive these services while in school. Disabled youth, particularly students of color, in the juvenile justice and criminal justice systems are deprived of an appropriate education that, if provided, could greatly expand options and opportunities. We welcome these necessary regulations and remain available to provide additional guidance and assistance in their implementation.”
+
+NCD’s “Breaking the School-to-Prison Pipeline” report is available at:\
+<http://www.ncd.gov/publications/2015/06182015>
