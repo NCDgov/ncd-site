@@ -2,7 +2,7 @@
 layout: post
 title: National Council on Disability celebrates 40 years of advancing federal
   disability policy
-date: 2023-01-28
+date: 2018-11-06
 tag: Press Release
 ---
 **For Immediate Release**
