@@ -1,23 +1,17 @@
 ---
 layout: post
 title: Conversations with NCD -- An interview with Chair Clyde Terry
-date: 2023-01-29
+date: 2016-06-06
 document: documents/transcript-clyde-interview-final.docx
 audio: audios/clydeterryinterview.mp3
 ---
 An interview with NCD Chair Clyde Terry
-
-**Download**: ![Audio icon](https://ncd.gov/modules/file/icons/audio-x-generic.png "audio/mpeg") [An interview with NCD Chair Clyde Terry](https://ncd.gov/sites/default/files/ClydeUSE.mp3 "ClydeUSE.mp3")
 
   *“The best definition of independent living is a paycheck and money in the bank.”*                                                                                                -- NCD Chair Clyde Terry
 
 **SYNOPSIS:**
 
 In the inaugural edition of our occasional audio series, Conversations with the National Council on Disability, NCD Chair Clyde Terry details the importance of a story, what is even better than finding a job, and how the “bearded man of New Hampshire” helped make voting across the nation more accessible for Americans with disabilities.
-
-**TRANSCRIPT:**
-
-[Interview with Clyde Terry Transcript (DOCX file)](https://ncd.gov/sites/default/files/Transcript-Clyde-Interview-FINAL.docx)
 
 **Host (Lawrence Carter-Long):** Hello and welcome to CONVERSATIONS WITH THE NATIONAL COUNCIL ON DISABILITY.  In this, our inaugural edition, we’ll speak with NCD Chair Clyde Terry about the importance of a story, what’s even better than finding a job and, for him, how it all began with the bearded man of New Hampshire.
 
