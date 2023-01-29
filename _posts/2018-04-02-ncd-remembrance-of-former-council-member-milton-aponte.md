@@ -1,0 +1,10 @@
+---
+layout: post
+title: NCD Remembrance of Former Council Member Milton Aponte
+date: 2018-04-02
+---
+April 2, 2018
+
+Council Members and staff of the National Council on Disability (NCD) are deeply saddened by the passing of Milton Aponte, Esq., who died on Sunday, April 1st after a lengthy illness. Milton was appointed to the National Council on Disability by President George W. Bush in May of 2004 and confirmed by the Senate in November of that year. He was subsequently reappointed in 2006 and left the Council in 2008. Milton was a devoted and loving husband and father whose commitment to the disability community began with his daughter, Lucy, who was born with multiple disabilities. In addition to serving on the Council, Milton previously served on the Board of Directors of the Advocacy Center for Persons with Disabilities (now Disability Rights Florida) and was active, along with his wife Berthy, in working to improve the lives of people with disabilities in Florida and throughout the country.
+
+In addition to his work on disability policy, Milton Aponte served as an Assistant United States Attorney for the Southern District of Florida and was Assistant District Counsel United States Immigration and Naturalization Service. Following his career with the Federal government, Milton opened his own law firm specializing in immigration law and became a prominent attorney in Miami, Florida. Milton was a kind, gentle and sophisticated person whose tenure at NCD was notable not only for important policy work on voting, disaster preparedness, employment, technology and a host of other issues but also for the friendship and fellowship shared by the members of the Council who served with him; due in no small part to his warmth and generosity of spirit. Milton is survived by his wife Berthy [De La Rosa-Aponte ](https://www.facebook.com/berthyda?hc_ref=ARRlrY5F9n1EutP8LGsiD6wZPmXMpGZmamjPTvuyq6--iEWY7NzN7dm2yuK21t59lUI)and his children Luz Elena Aponte, Milton Aponte Jr. and Diana E. Aponte-Rueda. NCD extends its sincere condolences to Milton’s family and to so many across the country and around the world who knew and loved Milton.
