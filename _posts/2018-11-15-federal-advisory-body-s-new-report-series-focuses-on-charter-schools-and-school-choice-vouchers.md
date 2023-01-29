@@ -3,6 +3,10 @@ layout: post
 title: Federal advisory body’s new report series focuses on charter schools and
   school choice vouchers
 date: 2018-11-15
+excerpt: The National Council on Disability—an independent federal agency—today
+  released two companion reports on the impact of school choice policies on
+  students with disabilities.
+tag: Press Release
 ---
 **For Immediate Release**
 
