@@ -3,6 +3,8 @@ layout: post
 title: NCD Highlights Scarce Dental Care for Patients with I/DD in Latest Policy Brief
 date: 2017-11-21
 tag: Press Release
+policy_areas:
+  - Health Care
 ---
 **Press Release**
 
