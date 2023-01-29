@@ -3,7 +3,7 @@ layout: post
 title: NCD Report Examines “Civil Death” of the Rights of People with
   Disabilities and the Elderly under Guardianships, Calls on Department of
   Justice to Ensure Full and Fair Due Process Rights
-date: 2023-01-28
+date: 2018-03-28
 tag: Press Release
 ---
 **For Immediate Release**
