@@ -1,0 +1,35 @@
+---
+layout: post
+title: NCD Members and Staff, Past and Present, Celebrate the Life and Legacy of
+  Dr. Gerrie Hawkins
+date: 2016-08-04
+---
+Posted: August 4, 2016
+
+The National Council on Disability mourns the passing of Geraldine-Drake “Gerrie” Hawkins, NCD’s Senior Policy Analyst, who died peacefully at home on Tuesday, August 2 following a brief, progressive illness. 
+
+Dr. Hawkins is survived by her son, Michael J. Hawkins Jr. and two granddaughters.
+
+She graduated from Collis P. Huntington High School, a black high school in the East End of Virginia during racial segregation, an experience that helped shape her world view and, in many ways, also her career path. At Huntington, Hawkins earned a scholarship to attend Howard University in Washington, DC. After graduating from Howard with an undergraduate degree in Music Education, Hawkins taught in the district for a short while, then moved to Chicago. She taught in both Chicago and across the state line in Hammond, IN while working on her degree in Special Education at Purdue University. Hawkins eventually returned to the DC area where she worked toward her PhD at the University of Maryland. It was while working in Special Education that Hawkins became attuned to gaps in the public school system which compelled her to shift her focus to changing public policy.
+
+Hawkins transitioned from working in the public school system to the Office of Special Education and Rehabilitation Services in 1992. She was promoted to NCD’s Program Analyst in 2003 and became NCD’s Senior Policy and Program Analyst in 2012.
+
+"Dr. Hawkins worked to foster intersectionality within disability spaces before the word was coined,” said Rebecca Cokley, NCD’s Executive Director.  “As a woman of color who was open about her mental health disability, her life was spent taking on and battling multiple systems of oppression. She fought behind the scenes, both quietly by pushing for language to ensure all groups were at the table, and loudly, proclaiming she could start thinking of retirement now that all of "my children are taking over the movement." For so many of us, she was that guaranteed hug on a hard day as much as she was the quiet reminder to keep getting into the "good trouble" as Representative John Lewis is fond for saying. Her resolve, and her hugs, are the legacy she has left us with and I'm one among many who is proud to continue the tradition that she helped forge with dedication and grace. We’ll miss her profoundly.”
+
+Added NCD chair Clyde Terry, “Her tireless work, over several decades, was foundational to the efforts of countless others to advance the civil rights of persons with disabilities. Particularly, Dr. Hawkins’ keen interest and unwavering commitment to making certain that tribal and Native American issues were included in disability rights efforts played an essential part in the Council’s work to include and improve the lives of many.” 
+
+"As news of her passing emerged, a number of fond tributes were shared with NCD. Among them were a number of colleagues and past members and staff of the Council. Common themes of commitment, inclusion and warmth resounded in the remembrances received.
+
+"Dr. Gerrie Hawkins' wasn't just a dedicated public servant. She was a mentor and a friend for hundreds of young people with disabilities, myself included,” recalled Ari Ne’eman, former NCD member and President of the Autistic Self Advocacy Network. “Dr. Hawkins' work with the Council's Youth Advisory Committee was an introduction to a larger world for many of the disability rights movement's current leaders. Similarly, her work on international outreach and cultural competency was ahead of its time and shone a light on marginalized parts of our community, consistent with the finest traditions of the National Council on Disability. At the very earliest part of my entry into the disability rights community, she was there. I know that countless others would say the same. She will be missed tremendously, but her impact will live on in the lives of those she touched and those they touch in turn."
+
+Lex Frieden, who rejoined NCD as chair early in Dr. Hawkins’ long career at the Council, reflected on her impact and steady guidance, as well. “The contributions Dr. Hawkins made to NCD and the disability community were often behind the scenes but that made them no less significant. Quite the opposite,” wrote Frieden. “Gerrie’s influence helped shape disability policy and awareness in the United States, and helped move it forward in profound and fundamental ways. This influence continues its ripple effect today. Everyone who worked with Dr. Hawkins respected and will miss her dearly.”
+
+"Gerrie Hawkins had a deep commitment to young people with disabilities that led to transformational opportunities for the ADA generation and the one that came before them.  She was also focused on intersectionality and diversity issues at a time when few others were making these issues a priority.  Her impactful work, fierce spirit and delightful smile will be missed,” wrote Andy Imparato, who hired Dr. Hawkins in 1999, echoed Frieden’s sentiments.
+
+"The legacy of Dr. Hawkins lives on in the youth she mentored that are now adults, and leaders in their own right. The connections she made, those amazing outfits she wore and the many policies and issues she helped usher in so that the “bigger conversation” could be had continue. We hope and strive for the power in purpose and the warmth that Dr. Hawkins lived daily, in every word and every deed. That sense of purpose and dignity surrounds us still. We follow in her footsteps, stand on her shoulders, and hope to honor her example,” wrote former NCD member Kamilah Martin Proctor on behalf of the Martin Ms. Alliance Foundation and Mayor Muriel Bowser Commission on Persons with Disabilities.
+
+The disability policy work of Dr. Hawkins was broad, nearly all-encompassing, but her defining passions nurtured new generations of disability advocates, in order to create more inclusion and opportunities for culturally diverse populations and raise awareness for the intersectionality of disability in communities,” remembered former NCD chair Jeff Rosen. “Dr. Hawkins deep spiritual beliefs, though private, clearly informed her interactions with everyone she met. She often wrote poems for people as personal recognitions of significant events in their lives. Gerrie's care for, and recognition of, the meaningful lives of those she worked with taught me that the influence born of collective awareness and action is sustaining and powerful. It is a legacy that will stay with me forever.”  
+
+The members and staff of the National Council on Disability send our collective condolences to her loved ones and surviving family.  Gerrie’s contagious deep joy continues to imbue the work we do as does her uplifting spirit and enduring example.
+
+Rest in power, Dr. Hawkins. We’ll miss you.
