@@ -1,0 +1,28 @@
+---
+layout: post
+title: New Year's Message 2015
+date: 2015-01-02
+---
+The beginning of a new year is a natural time to pause and ask, “What will the future hold for people with disabilities?” When marking the 25th anniversary of landmark legislation like the Americans with Disabilities Act (ADA) as we will in 2015, this forward look is not only more likely, it is arguably more important. A new year provides a perfect opportunity to contemplate the future by looking back.
+
+Since becoming law in 1990, the ADA has assisted millions of people with disabilities overcome and eliminate barriers in all areas of society, from schools and the workplace to housing and public transportation. The National Council on Disability (NCD) proposed what became the ADA as part of our mandate to find ways to empower individuals with disabilities with the resources and means to achieve economic self-sufficiency, live independently, and be included and integrated into all aspects of society. Today, our role has evolved to gather information about the implementation, effectiveness and influence of the ADA.
+
+For a quarter of a century, the ADA has been a legislative foundation to create more inclusive communities where people with disabilities live, work, and play on their own terms. Not incidentally, while doing so the rest of society has learned more about what people with disabilities can achieve, if given a fair shake and equal access.
+
+As one of the landmark civil rights laws of the 20th century, with the likes of retiring Senator Tom Harkin dubbing it the “Emancipation Proclamation for people with disabilities,” the ADA seeks nothing special. Put simply, it provides the legislative foundation to ensure that people with disabilities can go places and do things that many, if not most, non-disabled Americans take for granted. As the slogan emblazoned on the back of countless wheelchairs reminds society even today, to finally, “boldly go where others have gone before.”
+
+That is no small feat.
+
+Over the past 25 years, the ADA has provided opportunity and access for more approximately 57 million Americans with disabilities. Prior to passage of this landmark civil rights legislation, Americans with disabilities routinely faced discrimination, stigma and barriers of both imagination and architecture in their everyday lives. And while there is still more work to do, we can now assuredly say that across this great nation, Americans with disabilities now have more opportunities than ever before to participate more fully in the civic, social and economic heartbeat of our communities through the steady reduction of obstacles to employment, transportation, public services, telecommunications and in public accommodations.
+
+When the ADA was passed in 1990, and not too long ago when the ADA amendments became law in January 2009, bipartisanship in Congress made such progress possible. Today, headlines are dominated more by a sense of frustration and political gridlock. While issues related to employment, transportation and education remain central in our work no one could have imagined the ways that technology would help level the playing field in just over two short decades, nor could we imagine the concerns we’d be facing with Social Security, healthcare and Medicare reform or predict that parenting with a disability would be the next wave of civil rights efforts or that the threat of violence against people with disabilities would reach levels never before documented.
+
+While much progress has been made there is clearly much more work to do.
+
+As the ADA marches and rolls steadily toward its 3rd decade and on into adulthood, its 25th anniversary provides an opportunity to recommit to the next generation of disability rights leaders and advocates. May 2015 mark an era of renewed, vigorous support for the NextGen of individuals with disabilities who will, in the not too distant future, become the mentors and role models for the young people with disabilities who are currently benefiting from changes that the ADA, to a large degree, made possible.
+
+Just as the disability community will continue work to make certain people with disabilities are included at the decision-making table on every level we must lead by example by ensuring that we include diverse representation from across our nation by making a deliberate effort to bridge racial, religious, sexual, and socio-economic lines. This means, over two decades since the ADA became law, that we must not only demand a place at the table, but also set it and make sure when we assemble the guest list that there are always seats for our allies while making sure that they hold seats for us.
+
+Throughout 2015, NCD will spotlight lessons of the ADA’s legacy on our website, listserv, on social media and related activities. We’ll share exciting glimpses of, and plans for, the future of disability policy and inclusion in the United States. We look forward to sharing these with you and to celebrating the ADA’s legacy and moving forward toward a more inclusive future in 2015 and beyond.
+
+Thank you for your support of NCD through 30 years of contribution, including all the Council members, staff, and other personnel of many administrations who have steadfastly supported the important work of the agency. The ADA was imagined and eventually realized through sustained effort by the disability community and its champions. NCD supports your leadership and vision in the evolutionary progress of fulfilling America’s potential and promises through the ADA.
