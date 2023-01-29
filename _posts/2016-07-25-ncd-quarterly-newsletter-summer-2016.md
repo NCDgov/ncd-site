@@ -2,6 +2,7 @@
 layout: post
 title: NCD Quarterly Newsletter - Summer 2016
 date: 2016-07-25
+tag: Newsletter
 ---
 ## **Next Quarterly Meeting**
 
