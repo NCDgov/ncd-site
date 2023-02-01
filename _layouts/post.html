@@ -91,6 +91,21 @@ This is used in blog posts. The index page can be found at blog/index.html
             {% endif %}
           </div>
         {% endif %}
+        {% if page.misc_files_1 and page.misc_files_1 != nil and page.misc_files_1 != ''%}
+          <div>
+            {% include download-file.html document_type="File" doc_name=page.misc_files_1 file_path=page.misc_files_1 %}
+          </div>
+        {% endif %}
+        {% if page.misc_files_2 and page.misc_files_2 != nil and page.misc_files_2 != ''%}
+          <div>
+            {% include download-file.html document_type="File" doc_name=page.misc_files_2 file_path=page.misc_files_2 %}
+          </div>
+        {% endif %}
+        {% if page.misc_files_3 and page.misc_files_3 != nil and page.misc_files_3 != ''%}
+          <div>
+            {% include download-file.html document_type="File" doc_name=page.misc_files_3 file_path=page.misc_files_3 %}
+          </div>
+        {% endif %}
         {% if page.video_url and page.video_url != nil and page.video_url != '' %}
           <div class="padding-y-2">
             {% include video/player.html video_url=page.video_url %}

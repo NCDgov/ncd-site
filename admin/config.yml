@@ -20,7 +20,6 @@ backend:
 
 ##
 ##
-
 media_folder: _assets/uploads/
 public_folder: /
 publish_mode: editorial_workflow
@@ -168,6 +167,7 @@ collections:
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Title", name: "title", widget: "string" }
+      - { name: "collection_name", widget: "hidden", default: "letters" }
       - &categories {
           label: "Categories",
           name: "categories",
@@ -210,6 +210,25 @@ collections:
           time_format: false,
         }
       - *video
+      - &miscfiles {
+          label: "Miscellaneous 1",
+          name: "misc_files_1",
+          widget: "file",
+          required: false,
+          allow_multiple: false,
+          media_folder: "/_assets/uploads/{{collection_name}}/{{year}}/{{slug}}",
+          public_folder: "{{collection_name}}/{{year}}/{{slug}}",
+        }
+      - {
+        <<: *miscfiles,
+        label: "Miscellaneous 2",
+        name: "misc_files_2",
+      }
+      - {
+        <<: *miscfiles,
+        label: "Miscellaneous 3",
+        name: "misc_files_3",
+      }
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Council Members
     name: council-members
@@ -370,6 +389,7 @@ collections:
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Title", name: "title", widget: "string" }
+      - { name: "collection_name", widget: "hidden", default: "meetings" }
       - {
           label: "Federal Register Notice",
           name: "federal_register_notice",
@@ -422,6 +442,17 @@ collections:
           public_folder: "meetings/{{year}}/{{slug}}",
         }
       - *press-release
+      - *miscfiles
+      - {
+        <<: *miscfiles,
+        label: "Miscellaneous 2",
+        name: "misc_files_2",
+      }
+      - {
+        <<: *miscfiles,
+        label: "Miscellaneous 3",
+        name: "misc_files_3",
+      }
       - *video
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Navigation for Site
@@ -508,6 +539,7 @@ collections:
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Title", name: "title", widget: "string" }
+      - { name: "collection_name", widget: "hidden", default: "newsroom" }
       - {
           label: "Publish Date",
           name: "date",
@@ -569,6 +601,17 @@ collections:
         }
       - *thumbnail
       - *video
+      - *miscfiles
+      - {
+        <<: *miscfiles,
+        label: "Miscellaneous 2",
+        name: "misc_files_2",
+      }
+      - {
+        <<: *miscfiles,
+        label: "Miscellaneous 3",
+        name: "misc_files_3",
+      }
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Policy Areas
     name: policy-areas
@@ -599,6 +642,7 @@ collections:
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Title", name: "title", widget: "string" }
+      - { name: "collection_name", widget: "hidden", default: "publications" }
       - {
           label: "Publish Date",
           name: "date",
@@ -631,6 +675,17 @@ collections:
           media_folder: "/_assets/uploads/reports/{{report_year}}",
           public_folder: "reports/{{report_year}}",
         }
+      - *miscfiles
+      - {
+        <<: *miscfiles,
+        label: "Miscellaneous 2",
+        name: "misc_files_2",
+      }
+      - {
+        <<: *miscfiles,
+        label: "Miscellaneous 3",
+        name: "misc_files_3",
+      }
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Reports
     name: reports
@@ -660,6 +715,7 @@ collections:
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Title", name: "title", widget: "string" }
+      - { name: "collection_name", widget: "hidden", default: "reports" }
       - {
           label: "Publish Date",
           name: "date",
@@ -714,6 +770,17 @@ collections:
         }
       - *thumbnail
       - *video
+      - *miscfiles
+      - {
+        <<: *miscfiles,
+        label: "Miscellaneous 2",
+        name: "misc_files_2",
+      }
+      - {
+        <<: *miscfiles,
+        label: "Miscellaneous 3",
+        name: "misc_files_3",
+      }
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Resource Pages
     name: resources
