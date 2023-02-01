@@ -194,7 +194,7 @@ collections:
       - &thumbnail {
           label: "Thumbnail",
           name: "thumbnail",
-          hint: "Add an optional thumbnail image which is approximately 150px by 150px.",
+          hint: "Add an optional thumbnail image which is approximately 250px by 250px.",
           widget: "image",
           required: false,
           choose_url: false,
