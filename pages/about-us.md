@@ -28,7 +28,9 @@ NCD fulfills its advisory roles regarding disability policies, programs, procedu
 
 ### History
 
-NCD has a proud history. First established as a small advisory Council within the Department of Education in 1978, NCD was transformed into an independent agency in 1984 and charged with reviewing federal disability programs and policies. In 1986, NCD recommended enactment of an Americans with Disabilities Act, and then drafted the first version of the bill introduce in the House and Senate in 1988. 
+NCD has a proud history. It was first established as the National Council on the Handicapped, a small advisory Council under the Department of Health, Education, and Welfare Rehabilitation by the Comprehensive Services and Disability Amendments Act of 1978. The Council later transferred to the Department of Education by the Department of Education Organization Act of 1979, then became an independent agency in 1984 by Public Law 98-22, the Rehabilitation Act Amendments of 1984 and finally, had its name changed by Public Law 100-630, the Handicapped Programs Technical Amendment Act of 1988 on November 7, 1988. NCD was charged with reviewing federal disability programs and policies. In 1986, NCD recommended enactment of an Americans with Disabilities Act, and then drafted the first version of the bill introduce in the House and Senate in 1988. 
+
+The Council is an independent federal agency and is composed of nine members -- four appointed by leadership in Congress and five appointed by the President. NCD provides advice to the President, Congress, and executive branch agencies to advance policy that promotes the goals of the Americans with Disabilities Act -- equality of opportunity, economic self-sufficiency, independent living, and full participation in all aspects of society -- regardless of type or severity of disability.
 
 Since enactment of the ADA in 1990, NCD has continued to play a leading role in analyzing the needs of people with disabilities. 
 
