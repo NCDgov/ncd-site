@@ -3,6 +3,8 @@ layout: post
 title: Independent Federal Agency Voices Support for National Voter Registration Day
 collection_name: newsroom
 date: 2014-09-23
+policy_areas:
+  - Civil Rights
 ---
 *S﻿ept. 23, 2014*
 
@@ -25,5 +27,3 @@ In addition, NCD urges the Administration and Congress to take steps to ensure t
 **For more information on the National Council on Disability go to:** [](https://www.ncd.gov/)
 
 **To get a copy of NCD’s 2013 report “Experience of Voters with Disabilities in the 2012 Election Cycle” go to**: [/publications/2013/10242013/](https://www.ncd.gov/publications/2013/10242013/)
-
-<!--EndFragment-->
