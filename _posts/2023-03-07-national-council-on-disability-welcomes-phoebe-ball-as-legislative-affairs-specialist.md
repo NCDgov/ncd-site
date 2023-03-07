@@ -3,7 +3,7 @@ layout: post
 title: National Council on Disability Welcomes Phoebe Ball as Legislative
   Affairs Specialist
 collection_name: newsroom
-date: 2023-03-07
+date: 2014-06-16
 tag: Press Release
 ---
 June 16, 2014
