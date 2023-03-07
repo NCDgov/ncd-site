@@ -2,7 +2,7 @@
 layout: post
 title: NCD Statement on the Passing of Mary Ann Mobley Collins
 collection_name: newsroom
-date: 2023-03-07
+date: 2014-12-01
 tag: Press Release
 ---
 D﻿ec. 1, 2014
