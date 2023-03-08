@@ -3,6 +3,9 @@ layout: post
 title: NCD Hosts Tactile Currency Forum in Honor of 40th Anniversary of the Rehab Act
 collection_name: newsroom
 date: 2013-09-27
+tag: Press Release
+policy_areas:
+  - Civil Rights
 ---
 S﻿ept. 27, 2013
 
