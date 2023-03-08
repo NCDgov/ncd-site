@@ -3,6 +3,9 @@ layout: post
 title: Former U.S. Senator Chris Dodd to Testify at NCD Policy Forum on Voting Access
 collection_name: newsroom
 date: 2013-04-22
+tag: Press Release
+policy_areas:
+  - Civil Rights
 ---
 April 22, 2013
 
