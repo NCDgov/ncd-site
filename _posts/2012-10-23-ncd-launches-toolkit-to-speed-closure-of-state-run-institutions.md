@@ -4,6 +4,9 @@ title: NCD Launches Toolkit to Speed Closure of State-Run Institutions
 collection_name: newsroom
 date: 2012-10-23
 tag: Press Release
+policy_areas:
+  - Long Term Services & Support
+  - Housing
 ---
 ## “Deinstitutionalization: Unfinished Business” Resources in Moving from Institutions to Independence
 
