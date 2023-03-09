@@ -5,7 +5,6 @@ collection_name: newsroom
 date: 2011-03-10
 tag: Speech
 ---
-
 ## **PREPARED REMARKS**
 
 March 10, 2011
@@ -20,7 +19,7 @@ Certain truths may be undeniable, to use Jefferson's original turn of phrase, an
 
 The ADA is a milestone in our nation's journey to live up to our Charters of Freedom. And the establishment of a National Council on Disability within the Federal Government, as our authorizing statute makes plain, charges us with ensuring that our nation's freedoms and rights extend to people with disabilities too. Our stated purpose mirrors the ADA itself: to help "guarantee equal opportunity for all individuals with disabilities" and to "empower individuals with disabilities to achieve economic self-sufficiency, independent living, and inclusion and integration into all aspects of society." Truly, the National Council on Disability is a tiny federal agency with an oversized mission. Fortunately, we are not alone. People with disabilities and allies from the broader disability community hold prominent positions throughout our national government.
 
-Today we mark a turning point for the Council and demonstrate our bipartisan unity rather than mark the new appointments of selected Council members. In the past year, our efforts have been directed largely inward. We undertook a strategic planning process to map out a sustainable future for the Council's leadership in disability policy. With the appointment of a new Executive Director and a new executive leadership team, we've structured our agency around the twin functions of **policy** and **engagement**, as well as ensuring that we run our operations efficiently and responsibly and are equipped with the technological infrastructure needed to do our job.
+Today we mark a turning point for the Council and demonstrate our bipartisan unity rather than mark the new appointments of selected Council members. In the past year, our efforts have been directed largely inward. We undertook a strategic planning process to map out a sustainable future for the Council's leadership in disability policy. With the appointment of a new Executive Director and a new executive leadership team, we've structured our agency around the twin functions of policy and engagement, as well as ensuring that we run our operations efficiently and responsibly and are equipped with the technological infrastructure needed to do our job.
 
 Disability policy has a long history of bipartisan support, but none of us could have foreseen the remarkable way we have come together as a Council. For that, we are all especially indebted to my immediate predecessor as Chairperson and current Vice Chair, Linda Wetters. It is unusual to unite presidential administrations as we do today, and equally unusual to unite political appointees and career civil servants. But it is by design. Our collective oath symbolizes that we are one agency with a singular purpose.
 
