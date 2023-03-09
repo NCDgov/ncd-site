@@ -4,7 +4,7 @@ title: Remarks of Chairman Jonathan Young for the NCD Swearing in Ceremony
 collection_name: newsroom
 date: 2011-03-10
 tag: Speech
-permalink: 2011-03-10-remarks-of-chairman-jonathan-young-for-the-ncd-swearing-in-ceremony
+permalink: ""
 ---
 ## **PREPARED REMARKS**
 
