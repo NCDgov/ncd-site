@@ -2,14 +2,12 @@
 layout: post
 title: Remarks of Chairman Jonathan Young for the NCD Swearing in Ceremony
 collection_name: newsroom
-date: 2012-03-10
+date: 2011-03-10
 tag: Speech
 ---
-
-
 ## **PREPARED REMARKS**
 
-March 10, 2012
+March 10, 2011
 
 **Prepared Remarks of Jonathan Young, Ph.D. for the Swearing in Ceremony of Council and Staff of the National Council on Disability, National Archive Building Rotunda**
 
