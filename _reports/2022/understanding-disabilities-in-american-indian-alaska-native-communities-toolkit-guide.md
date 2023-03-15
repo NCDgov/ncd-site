@@ -4,7 +4,7 @@ title: Understanding Disabilities in American Indian & Alaska Native Communities
   Toolkit Guide
 collection_name: reports
 date: March 15, 2023
-report_year: 2022
+report_year: 2023
 policy_areas:
   - Cultural Diversity
 categories:
