@@ -4,6 +4,8 @@ title: NCD Urges Elimination of Electric Shock and Other Aversive Punishments
 collection_name: newsroom
 date: 2011-07-18
 tag: Press Release
+policy_areas:
+  - Civil Rights
 ---
 July 18, 2011
 
