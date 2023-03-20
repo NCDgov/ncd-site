@@ -21,8 +21,4 @@ In connection with the report's release, NCD will be utilizing the social media 
 
 Throughout the report, NCD makes specific recommendations to address educational roadblocks, removing barriers to a geographically decentralized workforce, internet access, pathways to employment, and partnership with public and private organizations.  In fulfilling the Americans with Disabilities Act to realize full inclusion of people with disabilities in the workforce and their local communities, NCD outlines in this report how we can improve employment and independence of people with disabilities through the use of technology.
 
-Please contact [ LCarterLong@ncd.gov ](mailto:LCarterLong@ncd.gov) if you would like additional information on the findings and recommendations of "The Power of Digital Inclusion: Technology's Impact on Employment and Opportunities for People with Disabilities."
-
 Full report is available on NCD's website at:  [/publications/2011/Oct042011](https://ncd.gov/publications/2011/Oct042011)
-
-<!--EndFragment-->
