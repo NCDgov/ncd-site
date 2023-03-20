@@ -5,6 +5,9 @@ title: Statement by the National Council on Disability on the 19th Observance of
 collection_name: newsroom
 date: 2011-12-03
 tag: Press Release
+policy_areas:
+  - Civil Rights
+  - International
 ---
 D﻿ec. 3, 2011
 
