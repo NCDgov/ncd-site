@@ -5,6 +5,8 @@ title: National Council on Disability to Hear Presentations from Regional
 collection_name: newsroom
 date: 2008-09-29
 tag: Press Release
+policy_areas:
+  - Emergency Management
 ---
 S﻿ept. 29, 2008
 
