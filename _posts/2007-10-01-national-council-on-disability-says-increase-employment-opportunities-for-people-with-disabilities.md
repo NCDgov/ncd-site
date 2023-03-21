@@ -5,6 +5,8 @@ title: National Council on Disability Says Increase Employment Opportunities for
 collection_name: newsroom
 date: 2007-10-01
 tag: Press Release
+policy_areas:
+  - Employment
 ---
 O﻿ct. 1, 2007
 
