@@ -7,7 +7,7 @@ tag: Press Release
 ---
 Feb. 3, 2023
 
-The Members of the National Council on Disability (NCD) will hold a quarterly business meeting on Thursday, February 16, 12-4 p.m. EST via Zoom.
+**W﻿ASHINGTON--**The Members of the National Council on Disability (NCD) will hold a quarterly business meeting on Thursday, February 16, 12-4 p.m. EST via Zoom.
 
 Registration is not required, but appreciated through our [Eventbrite page](https://www.eventbrite.com/e/ncd-quarterly-meeting-feb-16-2023-tickets-529716445147).
 
