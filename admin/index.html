@@ -8,13 +8,16 @@
 </head>
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
-  {% asset netlify-cms.js %}
+  {% asset static-cms-app.js %}
+  <script>
+    window.CMS.init();
+  </script>
   <link href="/admin/config.yml" type="text/yaml" rel="cms-config-url">
   <style>
     img[alt="Logo"] {
       margin-left: 75px;
       width: 150px;
-    } 
+    }
   </style>
 </body>
 </html>

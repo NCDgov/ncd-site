@@ -142,6 +142,6 @@ assets:
   sources:
     - _assets/uploads
     - node_modules/uswds/dist
-    - node_modules/netlify-cms/dist
+    - node_modules/@staticcms/app/dist
     - node_modules/video.js/dist
     - node_modules/videojs-youtube/dist
