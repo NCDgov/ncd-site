@@ -38,9 +38,13 @@ collections:
     path: "{{slug}}"
     summary: "*{{title}}* ... ({{date}})"
     sortable_fields:
-      - date
-      - title
-      - policy_areas
+      fields:
+        - date
+        - title
+        - policy_areas
+      default:
+        field: date
+        direction: Descending
     editor:
       preview: true
     fields:
@@ -50,8 +54,8 @@ collections:
           label: "Publish Date",
           name: "date",
           widget: "datetime",
-          format: "MMMM D, YYYY",
-          date_format: "MMMM D, YYYY",
+          format: "MMMM d, yyyy",
+          date_format: "MMMM d, yyyy",
           time_format: false,
         }
       - {
@@ -151,9 +155,13 @@ collections:
     slug: "{{date}}-{{slug}}"
     summary: "*{{title}}* ... ({{date}})"
     sortable_fields:
-      - date
-      - title
-      - policy_areas
+      fields:
+        - date
+        - title
+        - policy_areas
+      default:
+        field: date
+        direction: Descending
     view_groups:
       - label: Year
         field: date
@@ -205,8 +213,8 @@ collections:
           label: "Publish Date",
           name: "date",
           widget: "datetime",
-          format: "YYYY-MM-DD",
-          date_format: "YYYY-MM-DD",
+          format: "yyyy-MM-dd",
+          date_format: "yyyy-MM-dd",
           time_format: false,
         }
       - *video
@@ -284,8 +292,8 @@ collections:
           label: "Start Date",
           name: "start_date",
           widget: "datetime",
-          format: "MMMM D, YYYY",
-          date_format: "MMMM D, YYYY",
+          format: "MMMM d, yyyy",
+          date_format: "MMMM d, yyyy",
           time_format: false,
         }
       - { label: "Body", name: "body", widget: "markdown" }
@@ -372,10 +380,14 @@ collections:
     path: "{{meeting_year}}/{{slug}}"
     summary: "*{{title}}* ... ({{date}})"
     sortable_fields:
-      - date
-      - title
-      - categories
-      - policy_areas
+      fields:
+        - date
+        - title
+        - categories
+        - policy_areas
+      default:
+        field: date
+        direction: Descending
     view_groups:
       - label: Year
         field: date
@@ -416,8 +428,8 @@ collections:
           label: "Meeting Date",
           name: "date",
           widget: "datetime",
-          format: "YYYY-MM-DD",
-          date_format: "YYYY-MM-DD",
+          format: "yyyy-MM-dd",
+          date_format: "yyyy-MM-dd",
           time_format: false,
         }
       - *policy-areas
@@ -503,11 +515,15 @@ collections:
     slug: "{{date}}-{{slug}}"
     summary: "*{{title}}* ... [{{tag}}] ... ({{date}})"
     sortable_fields:
-      - date
-      - title
-      - tag
-      - categories
-      - policy_areas
+      fields:
+        - date
+        - title
+        - tag
+        - categories
+        - policy_areas
+      default:
+        field: date
+        direction: Descending
     view_groups:
       - label: Year
         field: date
@@ -544,8 +560,8 @@ collections:
           label: "Publish Date",
           name: "date",
           widget: "datetime",
-          format: "YYYY-MM-DD",
-          date_format: "YYYY-MM-DD",
+          format: "yyyy-MM-dd",
+          date_format: "yyyy-MM-dd",
           time_format: false,
         }
       - { label: "Excerpt", name: "excerpt", required: false, widget: "text" }
@@ -626,11 +642,15 @@ collections:
     path: "{{publication_year}}/{{slug}}"
     summary: "*{{title}}* ... [{{categories}}] ... ({{publication_year}})"
     sortable_fields:
-      - date
-      - publication_year
-      - title
-      - categories
-      - policy_areas
+      fields:
+        - date
+        - publication_year
+        - title
+        - categories
+        - policy_areas
+      default:
+        field: date
+        direction: Descending
     view_groups:
       - label: Year
         field: date
@@ -647,8 +667,8 @@ collections:
           label: "Publish Date",
           name: "date",
           widget: "datetime",
-          format: "MMMM D, YYYY",
-          date_format: "MMMM D, YYYY",
+          format: "MMMM d, yyyy",
+          date_format: "MMMM d, yyyy",
           time_format: false,
         }
       - {
@@ -695,11 +715,15 @@ collections:
     path: "{{report_year}}/{{slug}}"
     summary: "*{{title}}* ... [{{categories}}] ... ({{report_year}})"
     sortable_fields:
-      - date
-      - report_year
-      - title
-      - tag
-      - policy_areas
+      fields:
+        - date
+        - report_year
+        - title
+        - tag
+        - policy_areas
+      default:
+        field: date
+        direction: Descending
     view_groups:
       - label: Year
         field: date
@@ -720,8 +744,8 @@ collections:
           label: "Publish Date",
           name: "date",
           widget: "datetime",
-          format: "MMMM D, YYYY",
-          date_format: "MMMM D, YYYY",
+          format: "MMMM d, yyyy",
+          date_format: "MMMM d, yyyy",
           time_format: false,
         }
       - {
