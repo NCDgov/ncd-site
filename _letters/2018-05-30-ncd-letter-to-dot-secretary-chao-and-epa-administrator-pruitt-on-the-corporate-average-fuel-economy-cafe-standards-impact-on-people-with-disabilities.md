@@ -4,6 +4,8 @@ title: NCD Letter to DOT Secretary Chao and EPA Administrator Pruitt on the
   Corporate Average Fuel Economy (CAFE) Standards' Impact on People with
   Disabilities
 collection_name: letters
+policy_areas:
+  - Transportation
 date: 2018-05-30
 ---
 May 30, 2018
