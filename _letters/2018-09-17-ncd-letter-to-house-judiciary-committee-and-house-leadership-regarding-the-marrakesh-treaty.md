@@ -3,6 +3,9 @@ layout: post
 title: NCD Letter to House Judiciary Committee and House Leadership Regarding
   the Marrakesh Treaty
 collection_name: letters
+policy_areas:
+  - International
+  - Civil Rights
 date: 2018-09-17
 ---
 September 17, 2018
