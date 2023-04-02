@@ -4,8 +4,8 @@ title: Letter to Washington State Representative Roger Freeman in Support of
   Parenting Rights Bill
 collection_name: letters
 policy_areas:
-  - Youth Perspectives
   - Civil Rights
+  - Education
 date: 2014-03-06
 ---
 March 6, 2014
