@@ -4,7 +4,7 @@ title: NCD Letter to CMS Administrator Verma Regarding Medicaid HCBS Settings Ru
 collection_name: letters
 policy_areas:
   - Health Care
-date: 2017-04-04
+date: 2017-04-14
 ---
 April 14, 2017
 
