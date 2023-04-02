@@ -4,6 +4,8 @@ title: NCD Letter to Commission on Dental Accreditation regarding ADA code revis
 collection_name: letters
 policy_areas:
   - Civil Rights
+  - Health Care
+  - Education
 date: 2018-11-15
 ---
 November 15, 2018
