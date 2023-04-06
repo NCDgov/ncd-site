@@ -3,7 +3,8 @@ layout: council-member
 member_name: Emily Voorde
 member_title: Council Member
 location: South Bend, Indiana
-image_alt_text: N/A
+image: images/emily-voorde.jpg
+image_alt_text: Emily Voorde headshot
 order: 9
 start_date: November 17, 2022
 ---
