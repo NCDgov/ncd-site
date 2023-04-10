@@ -11,7 +11,7 @@ policy_areas:
   - Civil Rights
 categories:
   - progress reports
-pdf_document: reports/2022/ncd-2012-progress-report.pdf
+pdf_document: reports/2012/ncd-2012-progress-report.pdf
 image_alt_text: NA
 ---
 **S﻿COPE AND PURPOSE:**
