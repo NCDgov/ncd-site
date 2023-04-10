@@ -1,10 +1,18 @@
 ---
 layout: post
-title: "National Disability Policy: A Progress Report - February 1986"
+title: "Toward Independence: An Assessment of Federal Laws and Programs
+  Affecting Persons with Disabilities--With Legislative Recommendations"
 date: February 1, 1986
 report_year: 1986
-categories:
-  - progress reports
+policy_areas:
+  - Civil Rights
+  - Education
+  - Employment
+  - Health Care
+  - Housing
+  - Long Term Services & Support
+  - Transportation
+categories: null
 image_alt_text: NA
 ---
 Toward Independence
