@@ -1,7 +1,6 @@
 ---
 layout: post
-title: National Council on Disability Report on Subminimum Wage and Supported
-  Employment
+title: Report on Subminimum Wage and Supported Employment
 collection_name: reports
 date: August 23, 2012
 report_year: 2012
