@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "National Disability Policy: A Progress Report - August 2012"
+title: "National Disability Policy: A Progress Report - 2012"
 collection_name: reports
 date: September 18, 2012
 report_year: 2012
