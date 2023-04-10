@@ -7,8 +7,8 @@ report_year: 2012
 policy_areas:
   - Employment
   - Civil Rights
-word_document: reports/2022/ncd-subminimum-wage-supported-employment-2012.docx
-pdf_document: reports/2022/ncd-subminimum-wage-supported-employment-2012.pdf
+word_document: reports/2012/ncd-subminimum-wage-supported-employment-2012.docx
+pdf_document: reports/2012/ncd-subminimum-wage-supported-employment-2012.pdf
 image_alt_text: NA
 ---
 **S﻿COPE AND PURPOSE:**
