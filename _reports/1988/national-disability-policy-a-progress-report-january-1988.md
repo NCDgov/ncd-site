@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "National Disability Policy: A Progress Report - January 1988"
+title: On the Threshold of Independence
 date: January 29, 1988
 report_year: 1988
 categories:
