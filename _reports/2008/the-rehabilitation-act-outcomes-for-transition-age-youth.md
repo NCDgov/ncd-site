@@ -13,7 +13,7 @@ image_alt_text: NA
 ---
 October 28, 2008
 
-S﻿COPE AND PURPOSE:
+**S﻿COPE AND PURPOSE:**
 
 This report is a comprehensive assessment of the impact of the Rehabilitation Act on the employment and postsecondary education outcomes of eligible transition-age youth. The Rehabilitation Act of 1973, together with the Education for All Handicapped Children Act of 1975, set in motion policy changes that have allowed many thousands of children and youth with disabilities in the United States the opportunity to gain the educational and vocational skills needed to transition to living, working, and participating as adults in community life.
 
