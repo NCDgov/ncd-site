@@ -14,12 +14,4 @@ M﻿arch 9, 2011
 **S﻿COPE AND PURPOSE:**
 
 Like bullying in general, bullying of students with disabilities represents both a civil rights and\
-public health challenge. Effectively addressing bullying of students with disabilities will require undertaking action as part of both general and special education policy. NCD produced this briefing paper to offer these p﻿olicy recommendations:
-
-1. Collaborating in Federal Research Program on Bullying Prevention
-2. Requiring Parental Notification
-3. Expanding the Role of the IEP
-4. Broadening Data Collection
-5. Eliminating Workplace Bullying
-6. Fighting Hate Crimes:
-7. Private Right of Action
+public health challenge. Effectively addressing bullying of students with disabilities will require undertaking action as part of both general and special education policy. NCD produced this briefing paper to offer seven policy action recommendations,
