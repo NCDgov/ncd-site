@@ -2,7 +2,7 @@
 layout: post
 title: People with Disabilities and Emergency Management
 collection_name: reports
-date: August 8, 2008
+date: February 26, 2008
 report_year: 2008
 policy_areas:
   - Emergency Management
