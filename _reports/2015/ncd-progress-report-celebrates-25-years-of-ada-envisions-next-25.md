@@ -6,6 +6,8 @@ date: July 23, 2015
 report_year: 2015
 policy_areas:
   - Civil Rights
+categories:
+  - progress reports
 pdf_document: reports/2015/ncd-2015-progress-report.pdf
 image_alt_text: NA
 ---
