@@ -12,6 +12,8 @@ policy_areas:
   - Health Care
   - Housing
   - Transportation
+categories:
+  - progress reports
 word_document: reports/2017/ncd-2017-progress-report.docx
 pdf_document: reports/2017/ncd-2017-progress-report.pdf
 image_alt_text: NA
