@@ -142,6 +142,7 @@ assets:
   compression: true
   sources:
     - _assets/uploads
+    - _assets/images
     - node_modules/uswds/dist
     - node_modules/netlify-cms/dist
     - node_modules/video.js/dist
