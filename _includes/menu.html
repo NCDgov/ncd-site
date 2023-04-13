@@ -52,7 +52,81 @@ where we provide an easy way to manage your navigation system
           {% endunless %}
         {% endfor %}
       </ul>
-      <div class="usa-nav__secondary">
+      <div class="usa-nav__secondary margin-bottom-2">
+        <div class="margin-bottom-1">
+          <div class="usa-footer grid-row">
+            <div class="grid-col-auto margin-right-2">
+              <a
+                href="https://twitter.com/NatCounDis"
+                target="_blank"
+                rel="noopener"
+              >
+                <img
+                  alt="twitter logo"
+                  class="height-3 width-auto"
+                  src="{% asset twitter.svg @path %}"
+                />
+                <span class="display-none">Twitter</span>
+              </a>
+            </div>
+            <div class="grid-col-auto margin-right-2">
+              <a
+                href="https://www.instagram.com/NCDgov/"
+                target="_blank"
+                rel="noopener"
+              >
+                <img
+                  alt="instagram logo"
+                  class="height-3 width-auto"
+                  src="{% asset instagram.svg @path %}"
+                />
+                <span class="display-none">Instagram</span>
+              </a>
+            </div>
+            <div class="grid-col-auto margin-right-2">
+              <a
+                href="https://www.linkedin.com/company/ncdgov"
+                target="_blank"
+                rel="noopener"
+              >
+                <img
+                  alt="linkedin logo"
+                  class="height-3 width-auto"
+                  src="{% asset ln.svg @path %}"
+                />
+                <span class="display-none">LinkedIn</span>
+              </a>
+            </div>
+            <div class="grid-col-auto margin-right-2">
+              <a
+                href="https://www.facebook.com/NCDgov/"
+                target="_blank"
+                rel="noopener"
+              >
+                <img
+                  alt="facebook logo"
+                  class="height-3 width-auto"
+                  src="{% asset facebook.svg @path %}"
+                />
+                <span class="display-none">Facebook</span>
+              </a>
+            </div>
+            <div class="grid-col-auto">
+              <a
+                href="https://www.youtube.com/user/NCDgov"
+                target="_blank"
+                rel="noopener"
+              >
+                <img
+                  alt="youtube logo"
+                  class="height-3 width-auto"
+                  src="{% asset Youtube.svg @path %}"
+                />
+                <span class="display-none">Youtube</span>
+              </a>
+            </div>
+          </div>
+        </div>
         <ul class="usa-nav__secondary-links">
           {% for nav_item in include.secondary_navigation %}
           <li class="usa-nav__secondary-item">
