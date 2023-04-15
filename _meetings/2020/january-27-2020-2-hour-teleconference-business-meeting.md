@@ -42,7 +42,7 @@ Call for Vote of August 2019 Council Meeting Minutes
 
 Chairman’s Report, Neil Romano, Chairman
 
-Executive Report, Lisa Grubb, Executive Director and CEO
+Executive Report, Lisa Grubb, Executive Director
 
 Financial Report and Call for Vote on Fiscal Year 2020 budget, Keith Woods, Financial Management Analyst
 
