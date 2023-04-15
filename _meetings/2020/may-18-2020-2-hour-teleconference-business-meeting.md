@@ -40,7 +40,7 @@ Call for Vote of January 2020 Council Meeting Minutes
 
 Chairman’s Report, Neil Romano, Chairman
 
-Executive Report, Lisa Grubb, Executive Director and CEO
+Executive Report, Lisa Grubb, Executive Director 
 
 Financial Report Keith Woods, Financial Management Analyst 
 
@@ -56,4 +56,4 @@ Policy Report, Joan Durocher, Director of Policy and General Counsel
 
 11:40 AM – 12:00 PM Unfinished and New Business
 
- 12:00 PM                          Call for Motion to Adjourn
+ 12:00 PM Call for Motion to Adjourn
