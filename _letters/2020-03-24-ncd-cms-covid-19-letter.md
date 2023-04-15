@@ -23,7 +23,7 @@ Medicaid waivers 1115,1135 and 1915c appendix K are assets states have at their 
 
 NCD implores CMS to do everything within its power to assist and encourage states to avail themselves to this significant Medicaid tool. The waivers can mitigate the impact among the DSP profession to ensure that people with disabilities who depend on DSPs to live independently in the community are not disproportionately impacted by the COVID-19 pandemic.
 
-If you wish to discuss this with me directly I would be delighted to do that at your convenience. However, if a member of your team would like to discuss this with a member of my team please have them contact Lisa Grubb, Executive Director and CEO at [lgrubb@ncd.gov](mailto:lgrubb@ncd.gov), and Joan Durocher, General Counsel and Director of Policy at [jdurocher@ncd.gov](mailto:jdurocher@ncd.gov).
+If you wish to discuss this with me directly I would be delighted to do that at your convenience. However, if a member of your team would like to discuss this with a member of my team please have them contact Lisa Grubb, Executive Director at [lgrubb@ncd.gov](mailto:lgrubb@ncd.gov), and Joan Durocher, General Counsel and Director of Policy at [jdurocher@ncd.gov](mailto:jdurocher@ncd.gov).
 
 Respectfully,          
 
