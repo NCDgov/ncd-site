@@ -3,6 +3,8 @@ layout: post
 title: NCD CMS COVID-19 letter
 date: 2020-03-24
 ---
+March 24, 2020
+
 Seema Verma\
 Administrator, Centers for Medicare & Medicaid Services\
 U.S. Department of Health & Human Services\
