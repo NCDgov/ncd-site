@@ -37,11 +37,7 @@ Washington, DC 20004\
 202-272-2022 Fax\
 [FOIA@ncd.gov](mailto:FOIA@ncd.gov?subject=FOIA)
 
-
-
 Additional resources are available for the FOIA [reference guide](/foia/reference-guide) and [regulation](/foia/regulation).
-
-
 
 # FOIA e-Library
 
@@ -50,47 +46,55 @@ NCD strives to proactively publish as much information about NCD and our work pr
 * [AbilityOne Commission response to NCD request for assistance collecting data for NCD report](https://ncd.gov/sites/default/files/Documents/AbilityOne%20commission%20response%20to%20NCD%20correspondence.pdf)
 * [FEMA Response to NCD Letter on Office of Disability Integration and Coordination](https://ncd.gov/sites/default/files/Mr.%20Clyde%20Terry%20-%20RESPONSE%20-%20508%20-%202017-03-03.pdf)
 
-
-
 # FOIA Annual Reports
 
 [Skip to Page Content](https://ncd.gov/FOIA/FOIA-annual-reports#skip_link-block-system-main "Skip to Page Content")
 
+<!--StartFragment-->
+
+**FY 2022**
+
+**[FY 2022 NCD FOIA Annual Report (PDF](https://ncd.gov/sites/default/files/2022%20FOIA%20annual%20report-final.pdf)**[)](https://ncd.gov/sites/default/files/NCD%20FY18%20%28Final%29.pdf)
+
+**[FY2022 NCD FOIA Annual Report (CSV)](https://ncd.gov/sites/default/files/NCD%20FOIA%202022%20annual%20report.csv)**
+
+**[FY2022 NCD FOIA Annual Report (XML)](https://ncd.gov/sites/default/files/NCD%20FY22%20FINAL.xml)**
+
+**FY 2021**
+
+**[FY 2021 NCD FOIA Annual Report (](https://ncd.gov/sites/default/files/NCD%20FY20%20FOIA%20annual%20report-final.pdf)**[PDF](https://ncd.gov/sites/default/files/2021%20FOIA%20annual%20report-final.pdf)**[)](https://ncd.gov/sites/default/files/NCD%20FY18%20%28Final%29.pdf)**
+
+**[FY2021 NCD FOIA Annual Report (CSV)](https://ncd.gov/sites/default/files/2021%20FOIA%20spreadsheet.csv)**
+
+**[FY2021 NCD FOIA Annual Report (XML)](https://ncd.gov/sites/default/files/NCD%20FY21%20%28Final%29.xml)**
+
 **FY 2020**
 
-**[FY 2020 NCD FOIA Annual Report (PDF](https://ncd.gov/sites/default/files/NCD%20FY20%20FOIA%20annual%20report-final.pdf)****[)](https://ncd.gov/sites/default/files/NCD%20FY18%20%28Final%29.pdf)**
+**[FY 2020 NCD FOIA Annual Report (PDF](https://ncd.gov/sites/default/files/NCD%20FY20%20FOIA%20annual%20report-final.pdf)**[)](https://ncd.gov/sites/default/files/NCD%20FY18%20%28Final%29.pdf)
 
 **[FY2020 NCD FOIA Annual Report (CSV)](https://ncd.gov/sites/default/files/NCD_FY20_foia_annual_report.csv)**
 
- 
-
 **FY 2019**
 
-**[FY 2019 NCD FOIA Annual Report (PDF](https://ncd.gov/sites/default/files/FY2019%20annual%20FOIA%20requests.pdf)****[)](https://ncd.gov/sites/default/files/NCD%20FY18%20%28Final%29.pdf)**
+**[FY 2019 NCD FOIA Annual Report (PDF](https://ncd.gov/sites/default/files/FY2019%20annual%20FOIA%20requests.pdf)**[)](https://ncd.gov/sites/default/files/NCD%20FY18%20%28Final%29.pdf)
 
 **[FY2019 NCD FOIA Annual Report (XML)](https://ncd.gov/sites/default/files/NCD%20FY19%20FINAL.xml)**
 
- 
-
 **FY 2018**
 
-**[FY 2018 NCD FOIA Annual Report (PDF](https://ncd.gov/sites/default/files/NCD-FOIA-ANNUAL-REPORT-FY18-FINAL.pdf)****[)](https://ncd.gov/sites/default/files/NCD%20FY18%20%28Final%29.pdf)**
+**[FY 2018 NCD FOIA Annual Report (PDF](https://ncd.gov/sites/default/files/NCD-FOIA-ANNUAL-REPORT-FY18-FINAL.pdf)**[)](https://ncd.gov/sites/default/files/NCD%20FY18%20%28Final%29.pdf)
 
-**[FY2018 NCD FOIA Annu](https://ncd.gov/sites/default/files/NCD-FOIA-ANNUAL-REPORT-FY18-final-XML.xml)****[al Report (XML)](https://ncd.gov/sites/default/files/NCD-FOIA-ANNUAL-REPORT-FY18-final-XML.xml)**
+**[FY2018 NCD FOIA Annu](https://ncd.gov/sites/default/files/NCD-FOIA-ANNUAL-REPORT-FY18-final-XML.xml)**[al Report (XML)](https://ncd.gov/sites/default/files/NCD-FOIA-ANNUAL-REPORT-FY18-final-XML.xml)
 
 **[FY2018 NCD FOIA Annual Report (DOCX)](https://ncd.gov/sites/default/files/NCD-FOIA-ANNUAL-REPORT-FY18-final.docx)**
 
- 
-
 **FY 2017**
 
-**[FY 2017 NCD FOIA Annual Report (DOC](https://ncd.gov/sites/default/files/NCD-FOIA-ANNUAL-REPORT-FY16-FINAL.txt)****[X)](https://ncd.gov/sites/default/files/NCD%20FY17%20%28Final%29.docx)**
+**[FY 2017 NCD FOIA Annual Report (DOC](https://ncd.gov/sites/default/files/NCD-FOIA-ANNUAL-REPORT-FY16-FINAL.txt)**[X)](https://ncd.gov/sites/default/files/NCD%20FY17%20%28Final%29.docx)
 
 **[FY2017 NCD FOIA Annual Report (XML)](https://ncd.gov/sites/default/files/NCD%20FY17%20%28Final%29.xml)**
 
 **[FY2017 NCD FOIA Annual Report (XLSM)](https://ncd.gov/sites/default/files/FoiaAnnualReport-v1-NCD-2017.xlsm)**
-
- 
 
 **FY 2016**
 
@@ -104,9 +108,27 @@ NCD strives to proactively publish as much information about NCD and our work pr
 
 # FOIA Quarterly Reports
 
-[Skip to Page Content](https://ncd.gov/FOIA/FOIA-quarterly-reports#skip_link-block-system-main "Skip to Page Content")
+**FY2023** 
 
-**FY2021** 
+Quarter 1 Data: [PDF](https://ncd.gov/sites/default/files/Documents/28911-NCD%20-%202023%20-%20Q1%20-%20Quarterly%20FOIA%20Report.pdf) (Posted Jan. 17, 2023)
+
+Quarter 2 Data: [PDF](https://ncd.gov/sites/default/files/29611-NCD-2023-Q2-Quarterly-FOIA-Report.pdf) (Posted April 24, 2023)
+
+Quarter 3 Data: PDF
+
+Quarter 4 Data: PDF 
+
+ **FY2022** 
+
+Quarter 1 Data: [PDF](https://ncd.gov/sites/default/files/25211-NCD%20-%202022%20-%20Q1%20-%20Quarterly%20FOIA%20Report.pdf) (Posted  April 22, 2022)
+
+Quarter 2 Data: [PDF](https://ncd.gov/sites/default/files/26426-NCD%20-%202022%20-%20Q2%20-%20Quarterly%20FOIA%20Report.pdf) (Posted April 22, 2022)
+
+Quarter 3 Data: [PDF](https://ncd.gov/sites/default/files/27096-NCD%20-%202022%20-%20Q3%20-%20Quarterly%20FOIA%20Report.pdf) (Posted Oct. 31, 2022)
+
+Quarter 4 Data: [PDF](https://ncd.gov/sites/default/files/28111-NCD%20-%202022%20-%20Q4%20-%20Quarterly%20FOIA%20Report%20%281%29.pdf) (Posted Oct. 31, 2022) 
+
+ **FY2021** 
 
 Quarter 1 Data: [XML](https://ncd.gov/sites/default/files/NCD-2021-Q1.zip) (Posted January 4, 2021)
 
@@ -114,7 +136,7 @@ Quarter 2 Data: [XML](https://ncd.gov/sites/default/files/NCD-2021-Q2.zip) (Po
 
 Quarter 3 Data: [XML](https://ncd.gov/sites/default/files/NCD-2021-Q3.zip) (Posted July 20, 2021)
 
-Quarter 4 Data: XML 
+Quarter 4 Data: [PDF](https://ncd.gov/sites/default/files/24246-NCD%20-%202021%20-%20Q4%20-%20Quarterly%20FOIA%20Report.pdf) (Posted Oct. 31, 2021) 
 
  
 
@@ -163,8 +185,6 @@ Quarter 2 Data: [XML](https://ncd.gov/sites/default/files/NCD-2017-Q2.zip) (Po
 Quarter 3 Data: [XML](https://ncd.gov/sites/default/files/NCD-2017-Q3.zip) (Posted July 24, 2017)
 
 Quarter 4 Data: [XML](https://ncd.gov/sites/default/files/NCD-2017-Q4.zip) (Posted October 5, 2017)
-
-
 
 # Chief FOIA Officer Reports
 
