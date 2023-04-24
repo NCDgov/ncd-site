@@ -48,10 +48,6 @@ NCD strives to proactively publish as much information about NCD and our work pr
 
 # FOIA Annual Reports
 
-[Skip to Page Content](https://ncd.gov/FOIA/FOIA-annual-reports#skip_link-block-system-main "Skip to Page Content")
-
-<!--StartFragment-->
-
 **FY 2022**
 
 **[FY 2022 NCD FOIA Annual Report (PDF](https://ncd.gov/sites/default/files/2022%20FOIA%20annual%20report-final.pdf)**[)](https://ncd.gov/sites/default/files/NCD%20FY18%20%28Final%29.pdf)
@@ -104,8 +100,6 @@ NCD strives to proactively publish as much information about NCD and our work pr
 
 **[FY 2016 NCD FOIA Annual Report (DOC)](https://ncd.gov/sites/default/files/NCD-FOIA-ANNUAL-REPORT-FY16-FINAL.doc)**
 
-
-
 # FOIA Quarterly Reports
 
 **FY2023** 
@@ -138,8 +132,6 @@ Quarter 3 Data: [XML](https://ncd.gov/sites/default/files/NCD-2021-Q3.zip) (Po
 
 Quarter 4 Data: [PDF](https://ncd.gov/sites/default/files/24246-NCD%20-%202021%20-%20Q4%20-%20Quarterly%20FOIA%20Report.pdf) (Posted Oct. 31, 2021) 
 
- 
-
 **FY2020**
 
 Quarter 1 Data: [XML](https://ncd.gov/sites/default/files/NCD-2020-Q1.zip) (Posted January 15, 2020)
@@ -149,8 +141,6 @@ Quarter 2 Data: [XML](https://ncd.gov/sites/default/files/NCD-2020-Q2.zip) (Po
 Quarter 3 Data: [XML](https://ncd.gov/sites/default/files/NCD-2020-Q3.zip) (Posted July 21, 2020)
 
 Quarter 4 Data: [XML](https://ncd.gov/sites/default/files/NCD-2020-Q4.zip) (Posted October 9, 2020)
-
- 
 
 **FY2019** 
 
@@ -162,8 +152,6 @@ Quarter 3 Data: [XML](https://ncd.gov/sites/default/files/NCD-2019-Q3.zip) (Po
 
 Quarter 4 Data: [XML ](https://ncd.gov/sites/default/files/NCD-2019-Q4.zip)(Posted October 22, 2019)
 
- 
-
 **FY2018**
 
 Quarter 1 Data: [XML](https://ncd.gov/sites/default/files/NCD-2018-Q1.zip) (Posted January 17, 2018)
@@ -173,8 +161,6 @@ Quarter 2 Data: [XML](https://ncd.gov/sites/default/files/NCD-2018-Q2.zip) (Po
 Quarter 3 Data: [XML](https://ncd.gov/sites/default/files/NCD-2018-Q3.zip) (Posted July 16, 2018)
 
 Quarter 4 Data: [XML ](https://ncd.gov/sites/default/files/NCD-2018-Q4.zip)(Posted October 19, 2018)
-
- 
 
 **FY 2017**
 
