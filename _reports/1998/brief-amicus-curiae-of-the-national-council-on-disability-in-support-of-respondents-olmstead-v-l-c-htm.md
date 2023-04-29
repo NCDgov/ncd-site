@@ -5,6 +5,9 @@ title: Brief Amicus Curiae of the National Council on Disability in Support of
 collection_name: reports
 date: October 1, 1998
 report_year: 1998
+policy_areas:
+  - Civil Rights
+  - Housing
 pdf_document: reports/1998/ncd-olmsteadvlc-amicus-brief.pdf
 image_alt_text: NA
 ---
