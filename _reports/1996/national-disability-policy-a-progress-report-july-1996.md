@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "National Disability Policy: A Progress Report - July 1996"
+title: "Achieving Independence: The Challenge for the 21st Century"
 date: July 26, 1996
 report_year: 1996
 categories:
