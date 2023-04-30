@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Policy Brief Series - No. 1, Righting the Americans with Disabilities Act
+title: "Policy Brief Series #1: Righting the Americans with Disabilities Act"
 collection_name: reports
 date: October 16, 2002
 report_year: 2002
