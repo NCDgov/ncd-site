@@ -8,7 +8,7 @@ policy_areas:
   - Civil Rights
 categories:
   - fact sheets
-pdf_document: reports/2002/ncd-supreme-court-decisions-interpreting-ada-2002.pdf
+pdf_document: ""
 image_alt_text: NA
 ---
 September 2002
