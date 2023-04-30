@@ -6,7 +6,7 @@ date: October 30, 2002
 report_year: 2002
 policy_areas:
   - Civil Rights
-pdf_document: reports/2002/ncd-ada-policy-brief-series-2-2000.pdf
+pdf_document: reports/2002/ncd-ada-policy-brief-series-2-2002.pdf
 image_alt_text: NA
 ---
 O﻿ctober 30, 2002
