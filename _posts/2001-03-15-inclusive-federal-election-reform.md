@@ -9,7 +9,7 @@ policy_areas:
 ---
 March 15, 2001
 
-WOne of the fundamental rights guaranteed to Americans is the right of voting through a secret ballot. However, this right is often denied to Americans with disabilities and other disenfranchised groups, such as senior citizens, people from diverse cultures, and those who have low incomes. Statistics1 show that for 35 million voting-aged citizens with disabilities:
+**Washington, D.C.--**One of the fundamental rights guaranteed to Americans is the right of voting through a secret ballot. However, this right is often denied to Americans with disabilities and other disenfranchised groups, such as senior citizens, people from diverse cultures, and those who have low incomes. Statistics1 show that for 35 million voting-aged citizens with disabilities:
 
 * 14 million people of voting age who have a disability are unregistered voters
 * People with disabilities vote at a rate 11 percent lower than the general population
@@ -30,11 +30,8 @@ Although a Harris poll reported an increase in the number of people with disabil
 To effectively address the broad range of issues related to voting accessibility and to develop strategic actions at the national level, NCD makes the following four key recommendations drawn from those offered in its past reports:
 
 1. The President and Congress must enact federal legislation that incorporates the use of modern technological concepts and systems capable of ensuring full participation by all citizens. Existing conditions, needs, and strategies to remove barriers must be identified and included in voting reform legislation with provisions that recognize and support the right of all individuals to vote independently. In particular, any voting reform legislation should: (a) address voting access for people with vision, hearing, cognitive, physical, language, and technology needs; (b) set uniform federal guidelines and criteria for the receipt and use of federal funds, including requiring the purchase of accessible systems only— which would parallel restrictions imposed on the use of federal funds by the Rehabilitation Act; and (c) require accountability processes for implementing the guidelines.
-
 2. The President and Congress must address complex issues and concerns surrounding existing federal legislation and effective ways to improve those laws through amendments or regulatory action. It is imperative, however, that current rights and protections are maintained, rather than diminished. NCD reiterates its recommendation to amend the 1984 Voting Accessibility for the Elderly and Handicapped Act to include guaranteed accessibility to all stages of the electoral process (from voter registration to election-day practices), and meaningful technical assistance and enforcement mechanisms to ensure the right to vote.
-
 3. NCD encourages bipartisan national, state, and local voter registration and get-out-the-vote initiatives for people with disabilities and other disenfranchised Americans. Any comprehensive federal voting reform legislation must incorporate basic provisions for culturally sensitive, ongoing training and education of public officials, employees, and the general public about all aspects of voting. It is also imperative that public service providers, poll workers, election officials, and ordinary citizens are provided concrete opportunities to increase their awareness of applicable laws and effective practices.
-
 4. The President and Congress must contact key citizens from disenfranchised groups and include them on any commission or similarly named body to investigate the status of the full range of voting accessibility issues in America. Any dialogue on voting reform issues should include cross-disability and cross-cultural representation of these stakeholders.
 
 NCD urges our nation's leaders to respond in a timely manner to these recommendations in order to ensure full participation in democratic processes by all of our citizens. Our society at-large will be the ultimate beneficiary.
