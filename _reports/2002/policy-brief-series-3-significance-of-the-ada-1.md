@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Policy Brief Series #3: Significance of the ADA "
+title: "ADA Policy Brief Series #3: Significance of the ADA "
 collection_name: reports
 date: November 15, 2002
 report_year: 2002
