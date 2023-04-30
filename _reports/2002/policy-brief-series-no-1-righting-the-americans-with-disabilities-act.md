@@ -6,7 +6,7 @@ date: October 16, 2002
 report_year: 2002
 policy_areas:
   - Civil Rights
-pdf_document: reports/2002/ncd-policy-brief1-righting-the-ada-2002.pdf
+pdf_document: reports/2002/ncd-ada-policy-brief-series-1-2002.pdf
 image_alt_text: NA
 ---
 O﻿ctober 16, 2002
