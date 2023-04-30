@@ -13,5 +13,6 @@ image_alt_text: NA
 ---
 September 2002
 
-S﻿COPE AND PURPOSE:\
+**S﻿COPE AND PURPOSE:**
+
 N﻿CD created a chart to highlight recent Supreme Court decisions involving the Americans with Disabilities Act.
