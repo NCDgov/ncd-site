@@ -6,6 +6,7 @@ date: July 26, 2004
 report_year: 2004
 policy_areas:
   - Civil Rights
+word_document: reports/2004/ncd-20-years-of-independence-2004.pdf
 pdf_document: reports/2004/ncd-20-years-of-independence-2004.pdf
 image_alt_text: NA
 ---
