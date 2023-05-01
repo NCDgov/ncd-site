@@ -7,7 +7,7 @@ report_year: 2005
 policy_areas:
   - Employment
 pdf_document: reports/2005/ncd-recommendations-workforce-investment-act-reauth-2005.pdf
-image_alt_text: NA
+image_alt_text: "NA "
 ---
 March 17, 2005
 
