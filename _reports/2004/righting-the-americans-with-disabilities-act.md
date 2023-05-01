@@ -9,7 +9,7 @@ policy_areas:
 categories:
   - frameworks
 pdf_document: reports/2004/ncd-righting-the-ada-2004.pdf
-image_alt_text: NA
+image_alt_text: "NA "
 ---
 December 1, 2004
 
