@@ -13,6 +13,6 @@ image_alt_text: NA
 ---
 N﻿ovember 8, 2005
 
-S﻿COPE AND PURPOSE:
+**S﻿COPE AND PURPOSE:**
 
 This paper discusses the basis for Congress's application of the ADA's requirements to state and local correctional facilities as well as the broader implications of the Goodman case for the rights of people with disabilities. The paper provides an overview of how the Goodman case fits into the larger context of federalism arguments and constitutional challenges to the ADA, a description of the Goodman case, an analysis of Congress's power to apply Title II of the ADA to state correctional facilities, and a discussion of the potential implications that a decision in Goodman may have for the future of the ADA.
