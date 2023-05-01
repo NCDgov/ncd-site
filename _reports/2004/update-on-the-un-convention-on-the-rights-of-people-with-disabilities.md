@@ -4,6 +4,10 @@ title: Update on the UN Convention on the Rights of People with Disabilities
 collection_name: reports
 date: July 1, 2004
 report_year: 2004
+policy_areas:
+  - Civil Rights
+  - CRPD
+  - International
 pdf_document: reports/2004/ncd-update-uncrpd-2004.pdf
 image_alt_text: NA
 ---
