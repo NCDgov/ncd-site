@@ -8,6 +8,8 @@ report_year: 2005
 policy_areas:
   - Civil Rights
   - Housing
+  - CRPD
+  - International
 pdf_document: reports/2005/ncd-living-independently-community-2005.pdf
 image_alt_text: NA
 ---
