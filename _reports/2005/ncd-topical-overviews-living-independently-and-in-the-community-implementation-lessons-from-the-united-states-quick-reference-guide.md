@@ -7,12 +7,14 @@ date: August 2, 2005
 report_year: 2005
 policy_areas:
   - Civil Rights
+  - CRPD
+  - International
 pdf_document: reports/2005/ncd-living_independently-quick-reference-guide-2005.pdf
 image_alt_text: NA
 ---
 August 2, 2005
 
-S﻿COPE AND PURPOSE:
+**S﻿COPE AND PURPOSE:**
 
 Lex Frieden, Chairperson\
 Publication date: August 2, 2005
