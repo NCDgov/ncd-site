@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "National Council on Disability Topical Overviews - Lessons for All of
-  Us: Protecting the Right to Education for Persons with Disabilities"
+title: "NCD Topical Overviews - Lessons for All of Us: Protecting the Right to
+  Education for Persons with Disabilities"
 collection_name: reports
 date: August 2, 2005
 report_year: 2005
