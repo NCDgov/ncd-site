@@ -7,6 +7,8 @@ date: August 2, 2005
 report_year: 2005
 policy_areas:
   - Education
+  - CRPD
+  - International
 pdf_document: reports/2005/ncd-lessons-for-all-of-us-2005.pdf
 image_alt_text: NA
 ---
