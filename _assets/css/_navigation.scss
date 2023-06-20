@@ -9,7 +9,7 @@
 $nav-link-color: "base-dark";
 $sliding-panel-width: "card-lg";
 $nav-link-accordion-icon-size: 2.5;
-$nav-link-arrow-icon-size: 2;
+$nav-link-arrow-icon-size: 3;
 
 // TODO: Collect animations in a common location?
 @keyframes slidein-left {
@@ -153,7 +153,7 @@ $nav-link-arrow-icon-size: 2;
       @include at-media($theme-header-min-width) {
         @include add-background-svg("usa-icons-bg/expand_more--white");
         background-size: units($nav-link-arrow-icon-size);
-        background-position: right units(1.5) top $button-vertical-offset;
+        background-position: right units(0.5) top $button-vertical-offset;
         color: color("white");
       }
 
@@ -164,6 +164,10 @@ $nav-link-arrow-icon-size: 2;
           );
           color: color($theme-color-base-lighter);
         }
+      }
+
+      & span::after {
+        display: none
       }
     }
 
@@ -178,8 +182,12 @@ $nav-link-arrow-icon-size: 2;
         @include add-knockout-font-smoothing;
         background-size: units($nav-link-arrow-icon-size);
         background-color: color("primary-darker");
-        background-position: right units(1.5) top $button-vertical-offset;
+        background-position: right units(0.5) top $button-vertical-offset;
         color: color("white");
+      }
+
+      & span::after {
+        display: none
       }
     }
   }
