@@ -13,7 +13,7 @@ image_alt_text: NA
 ---
 **No. 98-536**
 
-In theSupreme Court of the United States\
+In the Supreme Court of the United States\
 October Term, 1998
 
 OLMSTEAD,
@@ -535,11 +535,8 @@ She added her plea that Congress should "\[p]lease enact the ADA quickly." *Id.
 24 *See*, *e.g.*, Timothy M. Cook, *The Americans with Disabilities Act: The Move to Integration*, 64 TEMP. L. REV. 393, 407B414, 439-457 (1991) and the authorities cited therein. Among the benefits of integrated programs the author identifies, are the following:
 
 > 1. Integration Substantially Improves the Perspective of Nondisabled People Regarding Disability;
->
 > 2. Integration Significantly Improves the Socialization of Persons with Disabilities with Non-Disabled Peers;
->
 > 3. Integrated Educational and Training Programs Enhance the Skills Learned by Persons with Disabilities and Better Prepares Persons with Disabilities for Employment; and
->
 > 4. Integration Improves the Health, Independence, and Affect of Persons with Disabilities, and Renders Persons with Disabilities More Likely to Live, Work, and Recreate in Regular Community Settings. *Id.* at 445-456.
 
 [](<>)
