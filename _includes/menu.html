@@ -21,7 +21,7 @@ where we provide an easy way to manage your navigation system
                 class="usa-nav__link{% if basedir == linkdir %} usa-current{% endif %}"
                 href="{{ nav_item.url | prepend: site.baseurl}}"
               >
-                <span class="desktop:text-white desktop:hover:text-base-lighter">
+                <span class="desktop:text-white desktop:hover:text-base-lighter text-uppercase">
                   {{ nav_item.name | escape }}
                 </span>
               </a>
@@ -34,13 +34,13 @@ where we provide an easy way to manage your navigation system
                 aria-expanded="false"
                 aria-controls="{{ nav_id }}"
               >
-                <span class="desktop:text-white desktop:hover:text-base-lighter">
+                <span class="desktop:text-white desktop:hover:text-base-lighter text-uppercase">
                   {{ nav_item.name | escape }}
                 </span>
               </button>
               <ul id="{{ nav_id }}" class="usa-nav__submenu">
                 {% for subnav_item in nav_item.children %}
-                <li class="usa-nav__submenu-item">
+                <li class="usa-nav__submenu-item text-uppercase">
                   <a href="{{ subnav_item.url | prepend: site.baseurl }}">
                     {{ subnav_item.name | escape }}
                   </a>
@@ -54,6 +54,7 @@ where we provide an easy way to manage your navigation system
       </ul>
       <div class="usa-nav__secondary margin-bottom-2">
         <div class="margin-bottom-1">
+          {% include font-size.html %}
           <div class="usa-footer grid-row">
             <div class="grid-col-auto margin-right-2">
               <a

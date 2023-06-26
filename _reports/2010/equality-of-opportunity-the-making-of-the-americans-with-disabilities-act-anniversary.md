@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Equality of Opportunity: The Making of the Americans with Disabilities Act"
+title: "Equality of Opportunity: The Making of the Americans with Disabilities Act Anniversary"
 collection_name: reports
 date: July 26, 2010
 report_year: 2010
