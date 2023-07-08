@@ -11,7 +11,8 @@ categories:
   - frameworks
 press_release: https://ncd.gov/newsroom/2022/ncd-announces-policymaker-blueprint-health-equity-people-disabilities
 image: images/framework-health-disparities-cover-sm.png
-image_alt_text: Framework cover with NCD seal and photo of black man entering a
+image_alt_text: Framework cover with text and a gray sidebar with NCD seal and
+  photo of a middle-aged black man in a brown shirt and blue jeans entering a
   building in an electric wheelchair.
 ---
 **COVER LETTER: ([PDF](https://ncd.gov/sites/default/files/Cover%20Letter%20to%20Health%20Equity%20Framework.pdf))**\
