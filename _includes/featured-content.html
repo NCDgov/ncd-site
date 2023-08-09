@@ -1,77 +1,65 @@
-<section class="border-y border-base-lighter padding-y-9">
-  <div class="grid-container usa-section padding-y-2">
-    <h1 class="section-heading">
-      Featured
-    </h1>
-  </div>
-  <div class="grid-container overflow-x-scroll">
-    <div  >
-      <ul class="usa-card-group">
-        {% for featured in site.data.featured %}
-          {% assign collection_name = featured[0] %}
-          {% assign collection_value = featured[1] %}
-          {% assign collection = site[collection_name] %}
+<div class="featured-items">
+  {% for featured in site.data.featured %}
 
-          {% for value in collection_value %}
-            {% for item in collection %}
-              {% if item.title == value.featured %}
-                <li class="tablet:grid-col-6 usa-card usa-card--flag">
-                  <a
-                    class="
-                      usa-link
-                      hover:text-primary-dark
-                      text-no-underline
-                      font-sans-lg
-                    "
-                    href="{{ site.baseurl }}{{ item.url }}"
-                  >
-                    <div class="usa-card__container" style="height: 250px;">
-                      <header class="usa-card__header">
-                        <p>
-                          <span class="usa-tag">
-                            {% if collection_name == 'posts' %}
-                              Newsposts
-                            {% else %}
-                              {{ collection_name }}
-                            {% endif %}
-                          </span>
-                        </p>
-                      </header>
-                      <div class="usa-card__media flex-align-center">
-                        <div class="display-flex flex-column flex-align-center height-full">
-                          {% if item.thumbnail %}
-                            {% asset "{{ item.thumbnail }}"
-                              alt="{{ item.image_alt_text }}"
-                              role="image"
-                              style="height: 250px; width: 250px; object-fit: cover;"
-                            %}
-                          {% elsif item.image %}
-                            {% asset "{{ item.image }}"
-                              alt="{{ item.image_alt_text }}"
-                              role="image"
-                              style="height: 250px; width: 250px; object-fit: cover;"
-                            %}
-                          {% else %}
-                            {% asset "{{ collection_name }}.png"
-                              alt="Image of {{ collection_name }}"
-                              role="image"
-                              style="height: 250px; width: 250px; object-fit: cover;"
-                            %}
-                          {% endif %}
-                        </div>
-                      </div>
+  {% assign collection_name = featured[0] %}
+  {% assign collection_value = featured[1] %}
+  {% assign collection = site[collection_name] %}
 
-                      <div class="usa-card__body" style="overflow-x: hidden;">
-                        <p>{{ item.title }}</p>
-                      </div>
-                    </div>
-                  </a>
-                </li>
-              {% endif %}
-            {% endfor %}
-          {% endfor %}
-        {% endfor %}
-      </ul>
+  {% for value in collection_value %}
+  {% for item in collection %}
+  {% if item.title == value.featured %}
+
+  <section class="featured-item">
+    <div class="grid-container">
+      <div class="grid-row featured-item-row">
+        <div class="tablet:grid-col-5 grid-col-12">
+          <div class="height-full display-flex flex-row flex-align-center">
+            {% if item.video_url and item.video_url != nil and item.video_url != '' %}
+            {% include video/player.html video_url=item.video_url %}
+            {% elsif item.image %}
+            {% asset "{{ item.image }}"
+            alt="{{ item.image_alt_text }}"
+            role="image"
+            style="object-fit: cover;"
+            %}
+            {% else %}
+            {% asset "{{ collection_name }}.png"
+            alt="Image of {{ collection_name }}"
+            role="image"
+            style="object-fit: cover;"
+            %}
+            {% endif %}
+          </div>
+        </div>
+        <div class="tablet:grid-col-7 grid-col-12">
+          <a class="usa-link text-no-underline" href="{{ site.baseurl }}{{ item.url }}">
+            <div>
+              <header class="usa-card__header">
+                <p>
+                  <span class="usa-tag">
+                    {% if collection_name == 'posts' %}
+                    Newsposts
+                    {% else %}
+                    {{ collection_name }}
+                    {% endif %}
+                  </span>
+                </p>
+              </header>
+
+              <div class="usa-card__body featured-item-title">
+                <h3 class="font-sans-2xl text-bold line-height-sans-3">{{ item.title }}</h3>
+                <div class="margin-top-neg-105">
+                  <p>{{ item.date | date: '%B %d, %Y' }}</p>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
     </div>
-  </div>
-</section>
+  </section>
+  {% endif %}
+  {% endfor %}
+  {% endfor %}
+  {% endfor %}
+</div>
