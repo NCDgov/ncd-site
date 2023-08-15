@@ -154,3 +154,24 @@ h1 {
 .hero-callout {
   background-color: rgba(255, 255, 255, 1);
 }
+
+.featured-item {
+  &:nth-child(even) {
+    background-color:  #ffffff;
+
+   .featured-item-row {
+      flex-direction: row;
+    }
+  }
+  &:nth-child(odd) {
+    background-color: #162e51;
+
+    .featured-item-title {
+      color: #ffffff;
+    }
+
+    .featured-item-row {
+      flex-direction: row-reverse;
+    }
+  }
+}
