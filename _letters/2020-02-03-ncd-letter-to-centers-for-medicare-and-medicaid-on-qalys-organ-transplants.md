@@ -60,15 +60,15 @@ Cc:      Roger Severino, Director OCR\
 
 
 
-[\[1]](https://ncd.gov/publications/2020/ncd-letter-centers-medicare-and-medicaid-qalys-organ-transplants#_ftnref1) <https://ncd.gov/sites/default/files/NCD_Organ_Transplant_508.pdf>
+[\[1]](https://ncd.gov/publications/2020/ncd-letter-centers-medicare-and-medicaid-qalys-organ-transplants#_ftnref1) <{{ site.baseUrl }}/assets/docs/ncd-organ-transplant-508.pdf>
 
-[\[2]](https://ncd.gov/publications/2020/ncd-letter-centers-medicare-and-medicaid-qalys-organ-transplants#_ftnref2) <https://ncd.gov/sites/default/files/NCD_Quality_Adjusted_Life_Report_508.pdf>
+[\[2]](https://ncd.gov/publications/2020/ncd-letter-centers-medicare-and-medicaid-qalys-organ-transplants#_ftnref2) <{{ site.baseUrl }}/assets/docs/ncd-quality-adjusted-life-report-508.pdf>
 
 [\[3]](https://ncd.gov/publications/2020/ncd-letter-centers-medicare-and-medicaid-qalys-organ-transplants#_ftnref3) Medicare and Medicaid Programs; Organ Procurement Organizations Conditions for Coverage: Revisions to the Outcome Measure Requirements for Organ Procurement Organization, 84 Fed. Reg. 246, 70629 (Dec. 23, 2019).
 
 [\[4]](https://ncd.gov/publications/2020/ncd-letter-centers-medicare-and-medicaid-qalys-organ-transplants#_ftnref4) Medicare Program; International Pricing Index Model for Medicare Part B Drugs. Federal Register. 83 Fed. Reg. 54546 (proposed October 30, 2018) (to be codified at 42 CFR Chapter IV).
 
-[\[5]](https://ncd.gov/publications/2020/ncd-letter-centers-medicare-and-medicaid-qalys-organ-transplants#_ftnref5) *<https://ncd.gov/sites/default/files/NCD_Organ_Transplant_508.pdf>*
+[\[5]](https://ncd.gov/publications/2020/ncd-letter-centers-medicare-and-medicaid-qalys-organ-transplants#_ftnref5) *<{{ site.baseUrl }}/assets/docs/ncd-organ-transplant-508.pdf>*
 
 [\[6]](https://ncd.gov/publications/2020/ncd-letter-centers-medicare-and-medicaid-qalys-organ-transplants#_ftnref6) Medicare and Medicaid Programs; Organ Procurement Organizations Conditions for Coverage: Revisions to the Outcome Measure Requirements for Organ Procurement Organization, 84 Fed. Reg. 246, 70629 (Dec. 23, 2019).
 

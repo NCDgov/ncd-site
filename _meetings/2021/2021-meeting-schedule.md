@@ -23,19 +23,19 @@ Minutes
 
 Quarterly Business Meeting by videoconference\
 [Federal Register Notice](https://www.federalregister.gov/documents/2021/04/28/2021-08917/sunshine-act-meetings)\
-[Agenda](https://ncd.gov/sites/default/files/Documents/Council%20Meeting%20Agenda_May%2013%202021.docx)\
-[Minutes](https://ncd.gov/sites/default/files/NCD%20Minutes%20May%2013%202021_APPROVED-Executed.pdf)
+[Agenda]({{ site.baseUrl }}/assets/docs/council-meeting-agenda-may-13-2021.docx)\
+[Minutes]({{ site.baseUrl }}/assets/docs/ncd-minutes-may-13-2021-approved-executed.pdf)
 
 **July 22, 2021**
 
 Quarterly Business Meeting by videoconference\
 [Federal Register Notice](https://www.federalregister.gov/documents/2021/07/09/2021-14764/sunshine-act-meetings)\
-[Agenda](https://ncd.gov/sites/default/files/Documents/Council%20Meeting%20Agenda%20July%2022%202021_0.docx)\
-[Minutes](https://ncd.gov/sites/default/files/Quarterly%20Council%20Meeting%20Minutes%20JULY%2022%202021%20FINAL%20Approved%2021-1007%20Executed.pdf)
+[Agenda]({{ site.baseUrl }}/assets/docs/council-meeting-agenda-july-22-2021-0.docx)\
+[Minutes]({{ site.baseUrl }}/assets/docs/quarterly-council-meeting-minutes-july-22-2021-final-approved-21-1007-executed.pdf)
 
 **October 7, 2021**
 
 [Quarterly Business Meeting by videoconference](https://ncd.gov/events/2021/upcoming-council-meeting)\
 [Federal Register Notice](https://www.federalregister.gov/documents/2021/09/22/2021-20643/sunshine-act-meetings)\
-[Agenda](https://ncd.gov/sites/default/files/Council%20Meeting%20Agenda_October%207%202021_EXTERNAL.docx)\
+[Agenda]({{ site.baseUrl }}/assets/docs/council-meeting-agenda-october-7-2021-external.docx)\
 Minutes

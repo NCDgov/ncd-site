@@ -27,14 +27,14 @@ redirect_from:
 <!--
 These docs do not exist.
 
-* [Fiscal Year 2016 Budget Justification](https://ncd.gov/rawmedia_repository/NCD%20FY16%20CJ.doc)
-* [Fiscal Year 2015 Budget Justification](https://ncd.gov/rawmedia_repository/NCD%202015%20Congressional%20Justification.doc)
-* [Fiscal Year 2014 Budget Justification](https://ncd.gov/rawmedia_repository/FY2014%20Congressional%20Justification.docx)
-* [Fiscal Year 2013 Budget Justification](https://ncd.gov/rawmedia_repository/NCD%20FY-2013%20Congressional%20Justification.pdf)
-* [Fiscal Year 2012 Budget Justification](https://ncd.gov/rawmedia_repository/FY12%20NCD%20CJ%20Final%203%20Updated.pdf)
-* [Fiscal Year 2011 Budget Justification](https://ncd.gov/rawmedia_repository/14%20NCD%20Cong%20Budget%20FY%202011%201-7-10%20(2).pdf)
-* [Fiscal Year 2010 Budget Justification](https://ncd.gov/rawmedia_repository/NCD_2010CogressionalBudget_5-5-09.doc)
-* [Fiscal Year 2009 Budget Justification](https://ncd.gov/rawmedia_repository/NCD%202009%20BUDGET%20Final%20Final%20Narrative%209-10-07.pdf)
-* [Fiscal Year 2008 Budget Justification](https://ncd.gov/rawmedia_repository/2008budget.pdf)
+* [Fiscal Year 2016 Budget Justification]({{ site.baseUrl }}/assets/docs/ncd-fy16-cj.doc)
+* [Fiscal Year 2015 Budget Justification]({{ site.baseUrl }}/assets/docs/ncd-2015-congressional-justification.doc)
+* [Fiscal Year 2014 Budget Justification]({{ site.baseUrl }}/assets/docs/fy2014-congressional-justification.docx)
+* [Fiscal Year 2013 Budget Justification]({{ site.baseUrl }}/assets/docs/ncd-fy-2013-congressional-justification.pdf)
+* [Fiscal Year 2012 Budget Justification]({{ site.baseUrl }}/assets/docs/fy12-ncd-cj-final-3-updated.pdf)
+* [Fiscal Year 2011 Budget Justification]({{ site.baseUrl }}/assets/docs/14-ncd-cong-budget-fy-2011-1-7-10-(2).pdf)
+* [Fiscal Year 2010 Budget Justification]({{ site.baseUrl }}/assets/docs/ncd-2010cogressionalbudget-5-5-09.doc)
+* [Fiscal Year 2009 Budget Justification]({{ site.baseUrl }}/assets/docs/ncd-2009-budget-final-final-narrative-9-10-07.pdf)
+* [Fiscal Year 2008 Budget Justification]({{ site.baseUrl }}/assets/docs/2008budget.pdf)
 
 -->

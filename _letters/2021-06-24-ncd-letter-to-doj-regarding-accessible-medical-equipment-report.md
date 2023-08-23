@@ -45,4 +45,4 @@ Chair, US Access Board
 
 - - -
 
-[\[1]](https://ncd.gov/publications/2021/ncd-letter-doj-amde-report#_ftnref1) [ncd.gov/sites/default/files/Documents/NCD_Medical_Equipment_Report_508.pdf](https://ncd.gov/sites/default/files/Documents/NCD_Medical_Equipment_Report_508.pdf)
+[\[1]](https://ncd.gov/publications/2021/ncd-letter-doj-amde-report#_ftnref1) [ncd.gov/sites/default/files/Documents/NCD_Medical_Equipment_Report_508.pdf]({{ site.baseUrl }}/assets/docs/ncd-medical-equipment-report-508.pdf)

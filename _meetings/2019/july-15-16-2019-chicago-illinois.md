@@ -1,7 +1,7 @@
 ---
 layout: post
 title: July 15-16, 2019 - Chicago, Illinois
-federal_register_notice: https://ncd.gov/sites/default/files/Documents/Meeting%20%20Notice_071519.doc
+federal_register_notice: assets/docs/meeting--notice-071519.doc
 meeting_year: 2019
 date: 2019-07-15
 minutes: meetings/2019/july-15-16-2019-chicago-illinois/quarterly-minutes-chicago-2019.docx

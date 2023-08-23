@@ -64,4 +64,4 @@ cc:      The Honorable Kimberly Knackstedt, Director of Disability Policy, D
 
 # [\[4]](https://ncd.gov/publications/2021/ncd-hcbs-letter-congressional-leaders#_ftnref4) *Olmstead v. L. C*., 527 U.S. 581 (1999).
 
-[\[5]](https://ncd.gov/publications/2021/ncd-hcbs-letter-congressional-leaders#_ftnref5) National Council on Disability. *Home and Community-Based Services: Creating Systems for Success at Home, at Work and in the Community.* (2014), <https://ncd.gov/sites/default/files/HCBS%20Report_FINAL.pdf> (Accessed July 21, 2021).
+[\[5]](https://ncd.gov/publications/2021/ncd-hcbs-letter-congressional-leaders#_ftnref5) National Council on Disability. *Home and Community-Based Services: Creating Systems for Success at Home, at Work and in the Community.* (2014), <{{ site.baseUrl }}/assets/docs/hcbs-report-final.pdf> (Accessed July 21, 2021).

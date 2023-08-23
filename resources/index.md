@@ -30,7 +30,7 @@ ADA Information Line (800) 514-0301 (Voice) (800) 514-0383 (TTY)
 
 [Rehabilitation Act of 1973](http://www2.ed.gov/policy/speced/reg/narrative.html) This U.S. Department of Education webpage contains a link to the text of the law. 
 
-[Voting Fact Sheet](https://ncd.gov/publications/2020/voting-fact-sheet) Voting accessibility resource created by the National Council on Disability.
+[Voting Fact Sheet]({{site.baseUrl}}/report/2020/voting-fact-sheet) Voting accessibility resource created by the National Council on Disability.
 
 Education
 ---------

@@ -20,7 +20,7 @@ Learn more about the Administration’s Equity Agenda and government-wide equit
 
 [Performance.gov Equity Microsite](https://www.performance.gov/equity)
 
-**AGENCY EQUITY ACTION PLAN SUBMITTED TO DPC AND OMB ([PDF](https://ncd.gov/sites/default/files/EO13985_NCD%20Action%20Plan.pdf))**
+**AGENCY EQUITY ACTION PLAN SUBMITTED TO DPC AND OMB ([PDF]({{ site.baseUrl }}/assets/docs/eo13985-ncd-action-plan.pdf))**
 
 ***Executive summary:***
 

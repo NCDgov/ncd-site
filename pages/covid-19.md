@@ -7,7 +7,7 @@ title: COVID-19
 ---
 
 
-![banner image showing coronavirus](https://ncd.gov/sites/default/files/Documents/2019COVID_banner1.png)
+![banner image showing coronavirus]({{ site.baseUrl }}/assets/docs/2019covid-banner1.png)
 
  
 
@@ -17,7 +17,7 @@ In an effort to assist dissemination of information on coronavirus for people wi
 
 **For visitors to NCD**
 
-NCD is providing the agency’s procedure and guidance according to the [Safer Federal Workforce Task Force](https://ncd.gov/sites/default/files/Safer%20Federal%20Workfoce%20Task%20Force.pdf), [OMB](https://ncd.gov/sites/default/files/OMB%20Memorandum%20M-21-25.pdf), CDC, OSHA, and Executive Orders 14042 and 14043.
+NCD is providing the agency’s procedure and guidance according to the [Safer Federal Workforce Task Force]({{ site.baseUrl }}/assets/docs/safer-federal-workfoce-task-force.pdf), [OMB]({{ site.baseUrl }}/assets/docs/omb-memorandum-m-21-25.pdf), CDC, OSHA, and Executive Orders 14042 and 14043.
 
 **COVID-19 Vaccination Requirement**
 

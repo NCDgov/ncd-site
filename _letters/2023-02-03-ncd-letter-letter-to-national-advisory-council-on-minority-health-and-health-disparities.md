@@ -106,11 +106,11 @@ al., *Perspectives of women with disabilities on reaching those who are hard to
 
 9 Iezzoni L., O’Day BL, Killeen M,Harker H. Communicating about health care: observations from persons who are deaf or hard of hearing. Ann Intern Med. 2004;140(5):356–62.
 
-10 Available at: <https://ncd.gov/sites/default/files/NCD_Organ_Transplant_508.pdf;> see also: NCD Letter to HHS and DOJ on Organ Transplants: <https://ncd.gov/publications/2019/ncd-letter-hhs-and-doj-organ-> transplants.
+10 Available at: <{{ site.baseUrl }}/assets/docs/ncd-organ-transplant-508.pdf;> see also: NCD Letter to HHS and DOJ on Organ Transplants: <https://ncd.gov/publications/2019/ncd-letter-hhs-and-doj-organ-> transplants.
 
-11 Available at: *<https://ncd.gov/sites/default/files/NCD_Medical_Futility_Report_508.pdf>*
+11 Available at: *<{{ site.baseUrl }}/assets/docs/ncd-medical-futility-report-508.pdf>*
 
-12 Available at: *<https://ncd.gov/sites/default/files/NCD_Assisted_Suicide_Report_508.pdf>*
+12 Available at: *<{{ site.baseUrl }}/assets/docs/ncd-assisted-suicide-report-508.pdf>*
 
 * ![](https://c/Users/nicho/AppData/Local/Temp/msohtmlclip1/01/clip_image007.gif)News Article: People with autism and intellectual disabilities fight bias in transplants. *https://*[www.washingtonpost.com/national/health-science/people-](http://www.washingtonpost.com/national/health-science/people-) *with-autism-intellectual-disabilities-fight-bias-in-transplants/2017/03/04/756ff5b8-* *feb2-11e6-8f41-ea6ed597e4ca_story.html*
 * 2016 letter from Congress members to the Department of Health and Human Services’ Office of Civil Rights (HHS OCR) asking OCR to issue guidance on organ transplant discrimination. People with an intellectual and/or developmental disability are too often denied life-saving organ transplants for no reason other than their disability. *https://*[www.scribd.com/document/327914350/2016-10-12-](http://www.scribd.com/document/327914350/2016-10-12-) *Members-Letter-HHS-OCR-Organ-Transplant-Discrimination*

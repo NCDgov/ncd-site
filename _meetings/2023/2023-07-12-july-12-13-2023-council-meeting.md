@@ -12,7 +12,7 @@ date: 2023-07-12
 
  
 
-![Front of Willard Hotel indicating main and accessible entrances](https://ncd.gov/sites/default/files/Willard%20entrance_sm.png)
+![Front of Willard Hotel indicating main and accessible entrances]({{ site.baseUrl }}/assets/docs/willard-entrance-sm.png)
 
 **Zoom Livestream available for those not able to attend in-person:**
 

@@ -36,6 +36,6 @@ Chairman
 
 
 
-[\[1]](https://ncd.gov/#_ednref1) *See* National Council on Disability, *Broken Promises: The Underfunding of IDEA* 1, 13 (Washington, D.C.: Feb. 7, 2018) (describing how the federal government funds only 18 percent of IDEA costs, and how funding issues can cause delays in evaluations or rejection of requests for independent educational evaluations, inappropriate changes in placement and/or services, and failures to properly implement individualized education programs (IEPs), together with resentment and discrimination against children with disabilities in their public schools), <https://ncd.gov/sites/default/files/NCD_BrokenPromises_508.pdf>.
+[\[1]](https://ncd.gov/#_ednref1) *See* National Council on Disability, *Broken Promises: The Underfunding of IDEA* 1, 13 (Washington, D.C.: Feb. 7, 2018) (describing how the federal government funds only 18 percent of IDEA costs, and how funding issues can cause delays in evaluations or rejection of requests for independent educational evaluations, inappropriate changes in placement and/or services, and failures to properly implement individualized education programs (IEPs), together with resentment and discrimination against children with disabilities in their public schools), <{{ site.baseUrl }}/assets/docs/ncd-brokenpromises-508.pdf>.
 
 [\[2]](https://ncd.gov/#_ednref2) *See* GAO, *Distance Learning*, *supra* n. _, at 18 (discussing students with social anxiety or other mental health conditions).
