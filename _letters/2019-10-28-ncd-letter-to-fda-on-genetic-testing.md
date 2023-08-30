@@ -27,7 +27,7 @@ Silver Spring, Maryland 20993-0002
 
 Dear Dr. Sharpless, Dr. Shuren, and Ms. Abram:
 
-The National Council on Disability (NCD) is an independent federal agency charged with advising the President, Congress, and other federal agencies on disability policy and to advance the goals of equal opportunity, full participation, independent living, and economic self-sufficiency for people with disabilities. On behalf of NCD, I write to inform you that we have submitted a report to the President and Congress titled *Genetic Testing and the Rush to Perfection*[,\[1]](https://ncd.gov/sites/default/files/NCD_Genetic_Testing_Report_508.pdf) which examines the impact of genetic testing on people with disabilities and expresses concern over the Food and Drug Administration’s continued policy not to review laboratory developed tests (LDTs) – in particular - Non-Invasive Prenatal Screening (NIPS), which indicate a fetus or embryo’s chances of having a genetic condition.
+The National Council on Disability (NCD) is an independent federal agency charged with advising the President, Congress, and other federal agencies on disability policy and to advance the goals of equal opportunity, full participation, independent living, and economic self-sufficiency for people with disabilities. On behalf of NCD, I write to inform you that we have submitted a report to the President and Congress titled *Genetic Testing and the Rush to Perfection*[,\[1]]({{ site.baseUrl }}/assets/docs/ncd-genetic-testing-report-508.pdf) which examines the impact of genetic testing on people with disabilities and expresses concern over the Food and Drug Administration’s continued policy not to review laboratory developed tests (LDTs) – in particular - Non-Invasive Prenatal Screening (NIPS), which indicate a fetus or embryo’s chances of having a genetic condition.
 
 NCD’s findings and concerns reinforce the well-known concerns of stakeholders, and even the FDA itself, regarding direct-to-consumer genetic tests whose claims have not  been reviewed by the FDA[.\[2]](https://www.fda.gov/media/102367/download) Because of the FDA’s policy to generally not review LDTs, NIPS typically do not have the FDA's independent assurance of analytical validity or clinical validity of test results, leaving women to make decisions based on possibly invalid results.
 
@@ -44,6 +44,6 @@ Respectfully,
 Neil Romano\
 Chairman
 
-[\[1]](https://ncd.gov/publications/2019/ncd-letter-fda-genetic-testing#_ftnref1) <https://ncd.gov/sites/default/files/NCD_Genetic_Testing_Report_508.pdf>
+[\[1]](https://ncd.gov/publications/2019/ncd-letter-fda-genetic-testing#_ftnref1) <{{ site.baseUrl }}/assets/docs/ncd-genetic-testing-report-508.pdf>
 
 [\[2]](https://ncd.gov/publications/2019/ncd-letter-fda-genetic-testing#_ftnref2) Discussion Paper on Laboratory Developed Tests (LDTs)(January 13, 2017). Citing seven FDA documents, including congressional testimony from the FDA, that consistently assert that there is a public health need for greater FDA oversight of LDTs.  “Without more active oversight, similarly problematic LDTs will continue to be offered in the future.” <https://www.fda.gov/media/102367/download>

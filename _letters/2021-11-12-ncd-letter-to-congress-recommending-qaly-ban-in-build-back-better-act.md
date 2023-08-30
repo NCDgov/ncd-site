@@ -44,7 +44,7 @@ Chairman
 
 - - -
 
-[\[i]](https://ncd.gov/publications/2021/ncd-letter-qaly-ban#_ednref1) National Council on Disability, “Quality-Adjusted Life Years and the Devaluation of Life with a Disability” (2019), available at [https://ncd.gov/sites/default/files/NCD_Quality_Adjusted_Life_Report_508.pdf.](https://ncd.gov/sites/default/files/NCD_Quality_Adjusted_Life_Report_508.pdf.%20)   
+[\[i]](https://ncd.gov/publications/2021/ncd-letter-qaly-ban#_ednref1) National Council on Disability, “Quality-Adjusted Life Years and the Devaluation of Life with a Disability” (2019), available at [{{ site.baseUrl }}/assets/docs/ncd-quality-adjusted-life-report-508.pdf.]({{ site.baseUrl }}/assets/docs/ncd-quality-adjusted-life-report-508.pdf.%20)   
 
 [\[ii]](https://ncd.gov/publications/2021/ncd-letter-qaly-ban#_ednref2) CBO’s Model of Drug Price Negotiations Under the Elijah E. Cummings Lower Drug Costs Now Act: Working Paper 2021-01, at 10 (February 4, 2021), available at <https://www.cbo.gov/publication/56905> (referencing QALY as, “the best available to CBO and is consistent with the approach taken by many countries to negotiate drug prices.”)
 

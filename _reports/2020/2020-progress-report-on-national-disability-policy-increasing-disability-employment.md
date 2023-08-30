@@ -12,8 +12,8 @@ image_alt_text: NA
 ---
 July 24, 2020
 
-FULL REPORT ([PDF](https://ncd.gov/sites/default/files/NCD_Progress_Report_508_0.pdf))\
-FULL REPORT ([DOC](https://ncd.gov/sites/default/files/NCD_Progress_Report_1.docx))
+FULL REPORT ([PDF]({{ site.baseUrl }}/assets/docs/ncd-progress-report-508-0.pdf))\
+FULL REPORT ([DOC]({{ site.baseUrl }}/assets/docs/ncd-progress-report-1.docx))
 
 **SCOPE AND PURPOSE:** As the nation celebrates the 30th anniversary of the Americans with Disabilities Act (“ADA”), NCD reflects on the monumental social impact of this landmark civil rights legislation since its enactment on July 26, 1990. As a result of the ADA, people with disabilities enjoy protections that have allowed them to enter the competitive workforce, like protection from discrimination based on disability and the requirement of reasonable accommodations.
 

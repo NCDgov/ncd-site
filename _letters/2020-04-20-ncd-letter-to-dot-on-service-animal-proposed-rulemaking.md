@@ -67,4 +67,4 @@ Chairman
 
 \[[2]](https://ncd.gov/publications/2020/ncd-letter-dot-service-animal-NPRM#_ftnref2) "Why Breed Specific Legislation Is Not the Answer",<https://www.avma.org/resources/pet-owners/why-breed-specific-legislation-not-answer> American Veterinary Medical Association, (Apr. 3, 2020)
 
-\[[3]](https://ncd.gov/publications/2020/ncd-letter-dot-service-animal-NPRM#_ftnref3) National Council on Disability, 2016, *National Disability Policy: A Progress Report-October 2016,* Washington DC, National Council on Disability, accessed April 3, 2020, *<https://ncd.gov/sites/default/files/NCD_ProgressReport_508_0.pdf>*
+\[[3]](https://ncd.gov/publications/2020/ncd-letter-dot-service-animal-NPRM#_ftnref3) National Council on Disability, 2016, *National Disability Policy: A Progress Report-October 2016,* Washington DC, National Council on Disability, accessed April 3, 2020, *<{{ site.baseUrl }}/assets/docs/ncd-progressreport-508-0.pdf>*

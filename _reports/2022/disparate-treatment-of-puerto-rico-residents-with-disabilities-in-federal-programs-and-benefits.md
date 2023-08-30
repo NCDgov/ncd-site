@@ -16,9 +16,9 @@ image: images/puerto-rico-report-cover.jpg
 image_alt_text: Report cover with weathered Puerto Rico flag over a blue
   background with NCD seal
 ---
-[FULL REPORT (PDF)](https://ncd.gov/sites/default/files/NCD_Puerto_Rico_Report_508.pdf)\
-[FULL REPORT SPANISH (PDF)](https://ncd.gov/sites/default/files/NCD_Puerto_Rico_Report_Spanish_508.pdf)\
-[FULL REPORT (DOC)](https://ncd.gov/sites/default/files/NCD_Puerto_Rico_Report.docx)
+[FULL REPORT (PDF)]({{ site.baseUrl }}/assets/docs/ncd-puerto-rico-report-508.pdf)\
+[FULL REPORT SPANISH (PDF)]({{ site.baseUrl }}/assets/docs/ncd-puerto-rico-report-spanish-508.pdf)\
+[FULL REPORT (DOC)]({{ site.baseUrl }}/assets/docs/ncd-puerto-rico-report.docx)
 
 [Press Release](https://ncd.gov/newsroom/2022/ncd-report-recommends-congressional-action-federal-benefits-americans-disabilities-us)
 

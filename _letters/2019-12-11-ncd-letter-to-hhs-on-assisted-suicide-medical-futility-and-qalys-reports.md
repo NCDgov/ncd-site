@@ -86,11 +86,11 @@ Washington, D.C. 20530
 
 [\[2]](https://ncd.gov/publications/2019/ncd-letter-hhs-3-bioethics-reports#_ftnref2) <https://ncd.gov/publications/2019/bioethics-report-series>
 
-[\[3]](https://ncd.gov/publications/2019/ncd-letter-hhs-3-bioethics-reports#_ftnref3) <https://ncd.gov/sites/default/files/NCD_Assisted_Suicide_Report_508.pdf>
+[\[3]](https://ncd.gov/publications/2019/ncd-letter-hhs-3-bioethics-reports#_ftnref3) <{{ site.baseUrl }}/assets/docs/ncd-assisted-suicide-report-508.pdf>
 
-[\[4]](https://ncd.gov/publications/2019/ncd-letter-hhs-3-bioethics-reports#_ftnref4) <https://ncd.gov/sites/default/files/NCD_Quality_Adjusted_Life_Report_508.pdf>
+[\[4]](https://ncd.gov/publications/2019/ncd-letter-hhs-3-bioethics-reports#_ftnref4) <{{ site.baseUrl }}/assets/docs/ncd-quality-adjusted-life-report-508.pdf>
 
-[\[5]](https://ncd.gov/publications/2019/ncd-letter-hhs-3-bioethics-reports#_ftnref5) <https://ncd.gov/sites/default/files/NCD_Medical_Futility_Report_508.pdf>> 
+[\[5]](https://ncd.gov/publications/2019/ncd-letter-hhs-3-bioethics-reports#_ftnref5) <{{ site.baseUrl }}/assets/docs/ncd-medical-futility-report-508.pdf>> 
 
 [\[6]](https://ncd.gov/publications/2019/ncd-letter-hhs-3-bioethics-reports#_ftnref6) <https://ncd.gov/publications/1997/03241997>
 

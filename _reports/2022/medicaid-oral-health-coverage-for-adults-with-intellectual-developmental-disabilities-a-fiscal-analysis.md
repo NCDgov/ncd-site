@@ -34,8 +34,8 @@ NCD’s study estimates federal and state governments combined would realize a R
 
 **RELATED NCD REPORTS AND PUBLICATIONS:**
 
-* [Medicaid Oral Health Policy Database (XML)](https://ncd.gov/sites/default/files/Medicaid%20Oral%20Health%20Policy%20Database.xlsx)
-* [Health Equity Framework](https://ncd.gov/sites/default/files/NCD_Health_Equity_Framework.pdf) *(2*022)
+* [Medicaid Oral Health Policy Database (XML)]({{ site.baseUrl }}/assets/docs/medicaid-oral-health-policy-database.xlsx)
+* [Health Equity Framework]({{ site.baseUrl }}/assets/docs/ncd-health-equity-framework.pdf) *(2*022)
 * [Vision and Priority Statement of Chairman Gallegos](https://ncd.gov/newsroom/2021/vision-and-priority-statement-ncd-chairman-gallegos "https\://ncd.gov/newsroom/2021/vision-and-priority-statement-ncd-chairman-gallegos") (2021)
 * [At NCD's recommendation, all U.S. dental schools will train students to manage treatment of people with intellectual, developmental disabilities](https://ncd.gov/newsroom/2019/dental-schools-IDDD) (2019)
 * [Neglected for Too Long: Dental Care for People with Intellectual and Developmental Disabilities](https://www.ncd.gov/publications/2017/dental-issue-brief) (2017)

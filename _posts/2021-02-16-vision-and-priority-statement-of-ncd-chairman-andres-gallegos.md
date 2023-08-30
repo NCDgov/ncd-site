@@ -13,7 +13,7 @@ policy_areas:
 image_alt_text: NA
 ---
 
-**WASHINGTON—**National Council on Disability Chairman Andrés Gallegos today released the following vision and priority statement (download [PDF](https://ncd.gov/sites/default/files/Documents/Gallegos%20Vision%20Statement%202021_FINAL.pdf)):
+**WASHINGTON—**National Council on Disability Chairman Andrés Gallegos today released the following vision and priority statement (download [PDF]({{ site.baseUrl }}/assets/docs/gallegos-vision-statement-2021-final.pdf)):
 
 It is a privilege to serve as Chairman of the National Council on Disability, an independent federal agency that for the past 42 years has been at the forefront of the fight for civil rights for persons with disabilities in this country and advising the President, the Vice President, and federal policymakers on ways to improve their lives on a daily basis. An agency that serves as the national voice of the disability community within the Federal Government. A large part of what makes it a privilege is the ability to work closely with an immensely talented and dedicated staff, now led by Anne Sommers McIntosh, our new Executive Director, and impassioned and equally talented Council Members.
 

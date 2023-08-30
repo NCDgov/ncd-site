@@ -131,13 +131,13 @@ Chairman
 
 [\[2]](https://ncd.gov/publications/2023/comments-huds-rfi-cdbg-disaster-recovery#_ftnref2) National Council on Disability (2019).
 
-<https://ncd.gov/sites/default/files/NCD_Preserving_Our_Freedom_508.pdf>
+<{{ site.baseUrl }}/assets/docs/ncd-preserving-our-freedom-508.pdf>
 
 [\[3]](https://ncd.gov/publications/2023/comments-huds-rfi-cdbg-disaster-recovery#_ftnref3) The GAO report referenced in the NCD report is: GAO 10-17: *Disaster Assistance:*
 
 *Federal Assistance for Permanent Housing Primarily Benefited Homeowners; Opportunities Exist to Better Target Rental Housing Needs.* January 14, 2010.
 
-[\[4]](https://ncd.gov/publications/2023/comments-huds-rfi-cdbg-disaster-recovery#_ftnref4) National Council on Disability (2022). <https://ncd.gov/sites/default/files/NCD_Strengthening-HCBS-Ecosystem_508.pdf>
+[\[4]](https://ncd.gov/publications/2023/comments-huds-rfi-cdbg-disaster-recovery#_ftnref4) National Council on Disability (2022). <{{ site.baseUrl }}/assets/docs/ncd-strengthening-hcbs-ecosystem-508.pdf>
 
 [\[5]](https://ncd.gov/publications/2023/comments-huds-rfi-cdbg-disaster-recovery#_ftnref5) For federally assisted new construction housing projects, Section 504 requires 5% of the dwelling units, or at least one unit, whichever is greater, to be accessible for persons with mobility disabilities. An additional 2% of the dwelling units, or at least one unit, whichever is greater, must be accessible for persons with hearing or visual disabilities. The Section 504 requirements are the highest level of accessibility features required by federal law. See, *Section 504: Frequently Asked Questions*. <https://www.hud.gov/program_offices/fair_housing_equal_opp/disabilities/sect504faq>; *CRA/LA Agrees to Pay $3.1 Million to Resolve Alleged Misuse of Federal Funds for Inaccessible Housing*. https://
 
