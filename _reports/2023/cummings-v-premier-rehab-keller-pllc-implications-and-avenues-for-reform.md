@@ -10,6 +10,7 @@ word_document: reports/2023/ncd_cummings-implications-brief.docx
 pdf_document: reports/2023/ncd_cummings-implications-brief.pdf
 image: images/cummingsbriefcover.png
 image_alt_text: Cummings Brief Report cover. Yellow background with NCD seal.
+misc_files_1: /2023/cummings-v-premier-rehab-keller-pllc-implications-and-avenues-for-reform/state-laws-for-compensatory-damages9.23.docx
 ---
 **Summary and Purpose:** This policy brief analyzes the holding and implications of the U.S. Supreme Court decision in *Cummings v. Premier Rehab Keller P.L.L.C.* handed down in April 2022. The Cummings decision eliminated the ability of people who experience disability-based intentional discrimination to obtain emotional distress damages from public and private entities who receive federal financial assistance from the Federal Government under Section 504 of the Rehabilitation Act of 1973 or Section 1557 of the Patient Protection and Affordable Care Act. As a result of the decision, entities such as public and private colleges and universities, hospitals, group homes, physical therapist offices, and others who receive federal financial assistance, including federal grants, loans, or other forms of federal financial assistance will no longer need to remedy discrimination based on disability when the only harm of the discrimination results in anxiety, stress, depression, marital strain, humiliation, or other similar emotional pain.
 
