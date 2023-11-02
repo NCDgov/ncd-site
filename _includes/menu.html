@@ -1,8 +1,3 @@
-{% comment %}
-To modify the menu system, you are welcome to edit this HTML directly or you can look inside _config.yml
-where we provide an easy way to manage your navigation system
-{% endcomment %}
-
 <header class="usa-header usa-header--extended" role="banner">
   <div class="usa-navbar">
     {% include logo.html %}
@@ -10,7 +5,9 @@ where we provide an easy way to manage your navigation system
   </div>
   <nav role="navigation" class="usa-nav desktop:bg-primary">
     <div class="usa-nav__inner">
-      <button class="usa-nav__close">{% asset img/close.svg alt="close" %}</button>
+      <button class="usa-nav__close">
+        <img src="{{ site.baseurl }}/assets/uswds/img/close.png" alt="close" />
+      </button>
       <ul class="usa-nav__primary usa-accordion">
         {% for nav_item in include.primary_navigation %}
           {% unless nav_item.children %}
@@ -65,7 +62,7 @@ where we provide an easy way to manage your navigation system
                 <img
                   alt="twitter logo"
                   class="height-3 width-auto"
-                  src="{% asset twitter.svg @path %}"
+                  src="{{ site.baseurl }}/assets/images/twitter.svg"
                 />
                 <span class="display-none">Twitter</span>
               </a>
@@ -79,7 +76,7 @@ where we provide an easy way to manage your navigation system
                 <img
                   alt="instagram logo"
                   class="height-3 width-auto"
-                  src="{% asset instagram.svg @path %}"
+                  src="{{ site.baseurl }}/assets/images/instagram.svg"
                 />
                 <span class="display-none">Instagram</span>
               </a>
@@ -93,7 +90,7 @@ where we provide an easy way to manage your navigation system
                 <img
                   alt="linkedin logo"
                   class="height-3 width-auto"
-                  src="{% asset ln.svg @path %}"
+                  src="{{ site.baseurl }}/assets/images/ln.svg"
                 />
                 <span class="display-none">LinkedIn</span>
               </a>
@@ -107,7 +104,7 @@ where we provide an easy way to manage your navigation system
                 <img
                   alt="facebook logo"
                   class="height-3 width-auto"
-                  src="{% asset facebook.svg @path %}"
+                  src="{{ site.baseurl }}/assets/images/facebook.svg"
                 />
                 <span class="display-none">Facebook</span>
               </a>
@@ -121,7 +118,7 @@ where we provide an easy way to manage your navigation system
                 <img
                   alt="youtube logo"
                   class="height-3 width-auto"
-                  src="{% asset Youtube.svg @path %}"
+                  src="{{ site.baseurl }}/assets/images/Youtube.svg"
                 />
                 <span class="display-none">Youtube</span>
               </a>

@@ -19,7 +19,7 @@ policy_areas:
 
 **November 15, 2019**
 
-**Chairman Romano’s Written Testimony to the U.S. Commission on Civil Rights on 14c available [here]({{ site.baseUrl }}/assets/docs/national-council-on-disability-testimony-to-usccr-19-1115-final.docx)**
+**Chairman Romano’s Written Testimony to the U.S. Commission on Civil Rights on 14c available [here]({{ site.baseUrl }}/assets/uploads/docs/national-council-on-disability-testimony-to-usccr-19-1115-final.docx)**
 
 Esteemed Commissioners, thank you for the opportunity to testify at this briefing.
 

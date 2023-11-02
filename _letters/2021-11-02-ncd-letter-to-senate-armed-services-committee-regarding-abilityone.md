@@ -45,7 +45,7 @@ Chairman
 
 - - -
 
-[\[1]](https://ncd.gov/publications/2021/ncd-letter-sasc-regarding-abilityone#_ednref1) National Council on Disability (NCD), *Policies from the Past in a Modern Era: The Unintended Consequences of the AbilityOne Program & Section 14(c)*, (October 14, 2020) *available a*t: <{{ site.baseUrl }}/assets/docs/ncd-abilityone-508.pdf>.
+[\[1]](https://ncd.gov/publications/2021/ncd-letter-sasc-regarding-abilityone#_ednref1) National Council on Disability (NCD), *Policies from the Past in a Modern Era: The Unintended Consequences of the AbilityOne Program & Section 14(c)*, (October 14, 2020) *available a*t: <{{ site.baseUrl }}/assets/uploads/docs/ncd-abilityone-508.pdf>.
 
 [\[2]](https://ncd.gov/publications/2021/ncd-letter-sasc-regarding-abilityone#_ednref2) Congressional Research Services, Memorandum to the Senate Committee on Health, Education, Labor, and Pensions (October 14, 2021) (on file with author).
 

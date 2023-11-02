@@ -4,7 +4,7 @@ title: NCD letter responding to HHS Office of General Counsel on
   COVID-19-related immunity from liability
 date: 2020-04-27
 ---
-> *This letter is in response to this [letter]({{ site.baseUrl }}/assets/docs/ocr-letter-to-ncd-on-bulletin-response-20-0416.pdf) from the U.S. Department of Health and Human Services Office of General Counsel*
+> *This letter is in response to this [letter]({{ site.baseUrl }}/assets/uploads/docs/ocr-letter-to-ncd-on-bulletin-response-20-0416.pdf) from the U.S. Department of Health and Human Services Office of General Counsel*
 
 Robert P. Charrow\
 General Counsel\

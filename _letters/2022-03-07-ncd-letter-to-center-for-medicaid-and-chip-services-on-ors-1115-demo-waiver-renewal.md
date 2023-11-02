@@ -35,7 +35,7 @@ Chairman
 
 - - -
 
-[\[1]](https://ncd.gov/publications/2022/ncd-letter-center-medicaid-and-chip-services-ors-1115-demo-waiver-renewal#_ftnref1) <{{ site.baseUrl }}/assets/docs/ncd-quality-adjusted-life-report-508.pdf> (November 6, 2019).
+[\[1]](https://ncd.gov/publications/2022/ncd-letter-center-medicaid-and-chip-services-ors-1115-demo-waiver-renewal#_ftnref1) <{{ site.baseUrl }}/assets/uploads/docs/ncd-quality-adjusted-life-report-508.pdf> (November 6, 2019).
 
 [\[2]](https://ncd.gov/publications/2022/ncd-letter-center-medicaid-and-chip-services-ors-1115-demo-waiver-renewal#_ftnref2) See, Tufts University’s Center for the Evaluation of Value and Risk in Health letter to Massachusetts Joint Committee on Health Care Financing (November 11, 2021), claiming the QALY helps people with disabilities and that H.1256 / S.745 would prohibit all cost-effectiveness analysis – claims inconsistent with NCD’s research in the area. <https://cevr.tuftsmedicalcenter.org/news/2021/cevr-faculty-and-staffstate-opposition-to-proposed-massachusetts-legislation-limiting-cost-effectiveness-analysis>.
 

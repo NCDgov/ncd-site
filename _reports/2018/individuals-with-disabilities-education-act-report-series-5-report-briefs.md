@@ -10,19 +10,19 @@ image_alt_text: na
 ***IDEA Series:*** 
 
 ***Broken Promises: The Underfunding of IDEA* \
-([PDF]({{ site.baseUrl }}/assets/docs/ncd-brokenpromises-508.pdf)) ([WORD]({{ site.baseUrl }}/assets/docs/ncd-brokenpromises-interior.docx))**
+([PDF]({{ site.baseUrl }}/assets/uploads/docs/ncd-brokenpromises-508.pdf)) ([WORD]({{ site.baseUrl }}/assets/uploads/docs/ncd-brokenpromises-interior.docx))**
 
 ***English Learners and Students from Low-Income Families*** \
-**([PDF]({{ site.baseUrl }}/assets/docs/ncd-englishlanguagelearners-508.pdf)) ([WORD]({{ site.baseUrl }}/assets/docs/ncd-englishlanguagelearners-interior.docx))**
+**([PDF]({{ site.baseUrl }}/assets/uploads/docs/ncd-englishlanguagelearners-508.pdf)) ([WORD]({{ site.baseUrl }}/assets/uploads/docs/ncd-englishlanguagelearners-interior.docx))**
 
 ***Federal Monitoring and Enforcement of IDEA Compliance*** \
-**([PDF]({{ site.baseUrl }}/assets/docs/ncd-monitoring-enforcement-accessible.pdf)) ([WORD]({{ site.baseUrl }}/assets/docs/ncd-monitoring-enforcement-accessible-0.docx))**
+**([PDF]({{ site.baseUrl }}/assets/uploads/docs/ncd-monitoring-enforcement-accessible.pdf)) ([WORD]({{ site.baseUrl }}/assets/uploads/docs/ncd-monitoring-enforcement-accessible-0.docx))**
 
 ***Every Student Succeeds Act and Students with Disabilities*** \
-**([PDF]({{ site.baseUrl }}/assets/docs/ncd-essa-swd-accessible.pdf)) ([WORD]({{ site.baseUrl }}/assets/docs/ncd-essa-swd-accessible.docx))**
+**([PDF]({{ site.baseUrl }}/assets/uploads/docs/ncd-essa-swd-accessible.pdf)) ([WORD]({{ site.baseUrl }}/assets/uploads/docs/ncd-essa-swd-accessible.docx))**
 
 ***The Segregation of Students with Disabilities*** \
-**([PDF]({{ site.baseUrl }}/assets/docs/ncd-segregation-swd-508.pdf)) ([WORD]({{ site.baseUrl }}/assets/docs/ncd-segregation-swd-interior-1.docx))**
+**([PDF]({{ site.baseUrl }}/assets/uploads/docs/ncd-segregation-swd-508.pdf)) ([WORD]({{ site.baseUrl }}/assets/uploads/docs/ncd-segregation-swd-interior-1.docx))**
 
 **SCOPE:** NCD undertook this report series as an examination of the implementation of the Individuals with Disabilities Education Act (IDEA) and as a follow-up to a number of NCD's prior education reports. Since NCD’s last report on IDEA in 2004, IDEA was reauthorized, the Federal Government implemented new federal monitoring systems, and most recently, President Obama signed the Every Student Succeeds Act (ESSA) – which has overlap with IDEA – into law and states and the Federal Government are implementing it. This IDEA report series includes five reports in total, focusing on significant issues of concern raised in our previous reports that have yet to be resolved, and two new topics that NCD has not previously examined: ESSA implementation and its interplay with IDEA; and the cross-section of students with disabilities and English learners. Each report provides the current state of policy and practice for each particular topic, provides a detailed account of progress or non-progress, and makes recommendations for improvement. 
 

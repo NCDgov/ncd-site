@@ -57,7 +57,7 @@ Chairman
 
 [\[3]](https://ncd.gov/publications/2021/ncd-letter-cms-most-favored-nation-rule#_ftnref3) [https://ncd.gov/publications/2020/ncd-letter-centers-medicare-and-medica...](https://ncd.gov/publications/2020/ncd-letter-centers-medicare-and-medicaid-qalys-organ-transplants)
 
-[\[4]](https://ncd.gov/publications/2021/ncd-letter-cms-most-favored-nation-rule#_ftnref4) *Quality Adjusted Life Years (QALYs) and the Devaluation of Life with Disability* (NCD, 2019). [https://ncd.gov/sites/default/files/NCD_Quality_Adjusted_Life_Report_508...]({{ site.baseUrl }}/assets/docs/ncd-quality-adjusted-life-report-508.pdf)
+[\[4]](https://ncd.gov/publications/2021/ncd-letter-cms-most-favored-nation-rule#_ftnref4) *Quality Adjusted Life Years (QALYs) and the Devaluation of Life with Disability* (NCD, 2019). [https://ncd.gov/sites/default/files/NCD_Quality_Adjusted_Life_Report_508...]({{ site.baseUrl }}/assets/uploads/docs/ncd-quality-adjusted-life-report-508.pdf)
 
 [\[5]](https://ncd.gov/publications/2021/ncd-letter-cms-most-favored-nation-rule#_ftnref5) Patient Protection and Affordable Care Act, Pub. L. 111–148, title VI, § 6301(c), Mar. 23, 2010 (codified at 42 U.S.C. 1320e-1)(e).
 

@@ -15,7 +15,7 @@ This is used in blog posts. The index page can be found at blog/index.html
         <div class="padding-bottom-2">
           <img
             class="width-mobile height-auto"
-            src="{% asset {{page.image}} @path %}"
+            src="{{ site.baseurl }}/assets/uploads/{{page.image}}"
             alt="{{page.image_alt_text}}"
           />
         </div>
@@ -62,7 +62,7 @@ This is used in blog posts. The index page can be found at blog/index.html
                   >
                     Press Release
                     <svg class="usa-icon margin-left-1" aria-hidden="true" role="img">
-                      <use xlink:href="{% asset img/sprite.svg @path %}#info_outline"></use>
+                      <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#info_outline"></use>
                     </svg>
                   </a>
                 </div>
@@ -77,7 +77,7 @@ This is used in blog posts. The index page can be found at blog/index.html
                   >
                     Federal Register Notice
                     <svg class="usa-icon margin-left-1" aria-hidden="true" role="img">
-                      <use xlink:href="{% asset img/sprite.svg @path %}#launch"></use>
+                      <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#launch"></use>
                     </svg>
                   </a>
                 </div>

@@ -20,8 +20,8 @@ backend:
 
 ##
 ##
-media_folder: _assets/uploads/
-public_folder: /
+media_folder: assets/uploads/
+public_folder: /uploads/
 publish_mode: editorial_workflow
 logo_url: https://federalist.18f.gov/assets/images/federalist-logo.png
 slug:
@@ -198,7 +198,7 @@ collections:
           widget: "image",
           required: false,
           choose_url: false,
-          media_folder: "/_assets/uploads/thumbnails",
+          media_folder: "/assets/uploads/thumbnails",
           public_folder: "thumbnails",
         }
       - {
@@ -216,7 +216,7 @@ collections:
           widget: "file",
           required: false,
           allow_multiple: false,
-          media_folder: "/_assets/uploads/{{collection_name}}/{{year}}/{{slug}}",
+          media_folder: "/assets/uploads/{{collection_name}}/{{year}}/{{slug}}",
           public_folder: "{{collection_name}}/{{year}}/{{slug}}",
         }
       - {
@@ -264,7 +264,7 @@ collections:
           widget: "image",
           required: false,
           choose_url: false,
-          media_folder: "/_assets/uploads/images",
+          media_folder: "/assets/uploads/images",
           public_folder: "images",
         }
       - {
@@ -429,7 +429,7 @@ collections:
           widget: "file",
           required: false,
           allow_multiple: false,
-          media_folder: "/_assets/uploads/meetings/{{year}}/{{slug}}",
+          media_folder: "/assets/uploads/meetings/{{year}}/{{slug}}",
           public_folder: "meetings/{{year}}/{{slug}}",
         }
       - {
@@ -438,7 +438,7 @@ collections:
           widget: "file",
           required: false,
           allow_multiple: false,
-          media_folder: "/_assets/uploads/meetings/{{year}}/{{slug}}",
+          media_folder: "/assets/uploads/meetings/{{year}}/{{slug}}",
           public_folder: "meetings/{{year}}/{{slug}}",
         }
       - *press-release
@@ -572,7 +572,7 @@ collections:
           widget: "file",
           required: false,
           allow_multiple: false,
-          media_folder: "/_assets/uploads/documents",
+          media_folder: "/assets/uploads/documents",
           public_folder: "documents",
         }
       - {
@@ -581,7 +581,7 @@ collections:
           widget: "file",
           required: false,
           allow_multiple: false,
-          media_folder: "/_assets/uploads/audios",
+          media_folder: "/assets/uploads/audios",
           public_folder: "audios",
         }
       - {
@@ -590,7 +590,7 @@ collections:
           widget: "image",
           required: false,
           choose_url: false,
-          media_folder: "/_assets/uploads/images",
+          media_folder: "/assets/uploads/images",
           public_folder: "images",
         }
       - {
@@ -672,7 +672,7 @@ collections:
           widget: "file",
           required: false,
           allow_multiple: false,
-          media_folder: "/_assets/uploads/reports/{{report_year}}",
+          media_folder: "/assets/uploads/reports/{{report_year}}",
           public_folder: "reports/{{report_year}}",
         }
       - *miscfiles
@@ -742,7 +742,7 @@ collections:
           name: "word_document",
           widget: "file",
           required: false,
-          media_folder: "/_assets/uploads/reports/{{report_year}}",
+          media_folder: "/assets/uploads/reports/{{report_year}}",
           public_folder: "reports/{{report_year}}",
         }
       - {
@@ -750,7 +750,7 @@ collections:
           name: "pdf_document",
           widget: "file",
           required: false,
-          media_folder: "/_assets/uploads/reports/{{report_year}}",
+          media_folder: "/assets/uploads/reports/{{report_year}}",
           public_folder: "reports/{{report_year}}",
         }
       - {
@@ -759,7 +759,7 @@ collections:
           widget: "image",
           required: false,
           choose_url: false,
-          media_folder: "/_assets/uploads/images",
+          media_folder: "/assets/uploads/images",
           public_folder: "images",
         }
       - {

@@ -1,53 +1,52 @@
 <div class="featured-items">
-  {% for featured in site.data.featured %}
-
-  {% assign collection_name = featured[0] %}
-  {% assign collection_value = featured[1] %}
-  {% assign collection = site[collection_name] %}
-
-  {% for value in collection_value %}
-  {% for item in collection %}
-  {% if item.title == value.featured %}
+  {% for featured in site.data.featured %} {% assign collection_name =
+  featured[0] %} {% assign collection_value = featured[1] %} {% assign
+  collection = site[collection_name] %} {% for value in collection_value %} {%
+  for item in collection %} {% if item.title == value.featured %}
 
   <section class="featured-item">
     <div class="grid-container">
       <div class="grid-row featured-item-row">
         <div class="tablet:grid-col-5 grid-col-12">
           <div class="height-full display-flex flex-row flex-align-center">
-            {% if item.video_url and item.video_url != nil and item.video_url != '' %}
-            {% include video/player.html video_url=item.video_url %}
-            {% elsif item.image %}
-            {% asset "{{ item.image }}"
-            alt="{{ item.image_alt_text }}"
-            role="image"
-            style="object-fit: cover;"
-            %}
+            {% if item.video_url and item.video_url != nil and item.video_url !=
+            '' %} {% include video/player.html video_url=item.video_url %} {%
+            elsif item.image %}
+            <img
+              alt="{{ item.image_alt_text }}"
+              role="image"
+              style="object-fit: cover"
+              src="{{site.baseurl}}/assets/uploads/{{ item.image }}"
+            />
             {% else %}
-            {% asset "{{ collection_name }}.png"
-            alt="Image of {{ collection_name }}"
-            role="image"
-            style="object-fit: cover;"
-            %}
+            <img
+              alt="Image of {{ collection_name }}"
+              role="image"
+              style="object-fit: cover"
+              src="{{site.baseurl}}/assets/images/{{ collection_name }}.png"
+            />
             {% endif %}
           </div>
         </div>
         <div class="tablet:grid-col-7 grid-col-12">
-          <a class="usa-link text-no-underline" href="{{ site.baseurl }}{{ item.url }}">
+          <a
+            class="usa-link text-no-underline"
+            href="{{ site.baseurl }}{{ item.url }}"
+          >
             <div>
               <header class="usa-card__header">
                 <p>
                   <span class="usa-tag">
-                    {% if collection_name == 'posts' %}
-                    Newsposts
-                    {% else %}
-                    {{ collection_name }}
-                    {% endif %}
+                    {% if collection_name == 'posts' %} Newsposts {% else %} {{
+                    collection_name }} {% endif %}
                   </span>
                 </p>
               </header>
 
               <div class="usa-card__body featured-item-title">
-                <h3 class="font-sans-2xl text-bold line-height-sans-3">{{ item.title }}</h3>
+                <h3 class="font-sans-2xl text-bold line-height-sans-3">
+                  {{ item.title }}
+                </h3>
                 <div class="margin-top-neg-105">
                   <p>{{ item.date | date: '%B %d, %Y' }}</p>
                 </div>
@@ -58,8 +57,5 @@
       </div>
     </div>
   </section>
-  {% endif %}
-  {% endfor %}
-  {% endfor %}
-  {% endfor %}
+  {% endif %} {% endfor %} {% endfor %} {% endfor %}
 </div>

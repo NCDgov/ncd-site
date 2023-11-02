@@ -11,7 +11,7 @@
 {% if type == "video/youtube" %}
     {% assign poster = "" %}
 {% else %}
-    {% assign poster = {{ asset ncd-logo.png @path }} %}
+    {% assign poster = site.baseurl | append "/assets/images/ncd-logo.png" %}
 {% endif %}
 
 <video
@@ -20,7 +20,7 @@
     controls
     fluid
     {% if type != "video/youtube" %}
-        poster="{% asset ncd-logo.png @path %}"
+        poster="{{ site.baseurl }}/assets/images/ncd-logo.png"
     {% endif %}
     preload="auto"
     data-setup='{ "sources": [{ "type": "{{ type }}", "src": "{{ include.video_url }}"}] }'>
