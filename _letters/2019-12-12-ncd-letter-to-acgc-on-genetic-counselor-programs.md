@@ -30,6 +30,6 @@ Chairman
 
 
 
-[\[1]](https://ncd.gov/publications/2019/ncd-letter-acgc-genetic-counselor-programs#_ftnref1) <{{ site.baseUrl }}/assets/docs/ncd-genetic-testing-report-508.pdf>
+[\[1]](https://ncd.gov/publications/2019/ncd-letter-acgc-genetic-counselor-programs#_ftnref1) <{{ site.baseUrl }}/assets/uploads/docs/ncd-genetic-testing-report-508.pdf>
 
 [\[2]](https://ncd.gov/publications/2019/ncd-letter-acgc-genetic-counselor-programs#_ftnref2) Erik Parens and Adrienne Asch, “The Disability Rights Critique of Prenatal Genetic Testing: Reflections and Recommendations,” Special Supplement, Hastings Center Report 29, no. 5 (September–October 1999): S1–S22.

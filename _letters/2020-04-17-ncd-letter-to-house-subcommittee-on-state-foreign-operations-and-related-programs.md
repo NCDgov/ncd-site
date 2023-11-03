@@ -41,6 +41,6 @@ Chairman
 
 - - -
 
-[\[1]](https://ncd.gov/publications/2020/ncd-letter-house-subcommittee-sforp#_ftnref1) National Council on Disability, *Toward the Full Inclusion of People with Disabilities: Examining the Accessibility of Overseas Facilities and Programs Funded by the United States* (March 2013), [https://ncd.gov/rawmedia_repository/91eefd87_5f67_49cb_9c5e_e8fb86ccf5a4...]({{ site.baseUrl }}/assets/docs/91eefd87-5f67-49cb-9c5e-e8fb86ccf5a4.pdf) (accessed April 8, 2020).
+[\[1]](https://ncd.gov/publications/2020/ncd-letter-house-subcommittee-sforp#_ftnref1) National Council on Disability, *Toward the Full Inclusion of People with Disabilities: Examining the Accessibility of Overseas Facilities and Programs Funded by the United States* (March 2013), [https://ncd.gov/rawmedia_repository/91eefd87_5f67_49cb_9c5e_e8fb86ccf5a4...]({{ site.baseUrl }}/assets/uploads/docs/91eefd87-5f67-49cb-9c5e-e8fb86ccf5a4.pdf) (accessed April 8, 2020).
 
-[\[2]](https://ncd.gov/publications/2020/ncd-letter-house-subcommittee-sforp#_ftnref2) National Council on Disability, *U.S. Foreign Policy and Disability: Progress and Promise 2017* (March 2018), [https://ncd.gov/sites/default/files/US%20Foreign%20Policy%20and%20Disabi...]({{ site.baseUrl }}/assets/docs/us-foreign-policy-and-disability-accessible-1.pdf) (accessed April 8, 2020).
+[\[2]](https://ncd.gov/publications/2020/ncd-letter-house-subcommittee-sforp#_ftnref2) National Council on Disability, *U.S. Foreign Policy and Disability: Progress and Promise 2017* (March 2018), [https://ncd.gov/sites/default/files/US%20Foreign%20Policy%20and%20Disabi...]({{ site.baseUrl }}/assets/uploads/docs/us-foreign-policy-and-disability-accessible-1.pdf) (accessed April 8, 2020).

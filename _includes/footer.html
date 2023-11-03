@@ -164,7 +164,7 @@
                 <img
                   alt="twitter logo"
                   class="height-3 width-auto"
-                  src="{% asset twitter.svg @path %}"
+                  src="{{site.baseurl}}/assets/images/twitter.svg"
                   style="filter: brightness(0) invert(1);"
                 />
                 <span class="display-none">Twitter</span>
@@ -179,7 +179,7 @@
                 <img
                   alt="instagram logo"
                   class="height-3 width-auto"
-                  src="{% asset instagram.svg @path %}"
+                  src="{{site.baseurl}}/assets/images/instagram.svg"
                   style="filter: brightness(0) invert(1);"
                 />
                 <span class="display-none">Instagram</span>
@@ -194,7 +194,7 @@
                 <img
                   alt="linkedin logo"
                   class="height-3 width-auto"
-                  src="{% asset ln.svg @path %}"
+                  src="{{site.baseurl}}/assets/images/ln.svg"
                   style="filter: brightness(0) invert(1);"
                 />
                 <span class="display-none">LinkedIn</span>
@@ -209,7 +209,7 @@
                 <img
                   alt="facebook logo"
                   class="height-3 width-auto"
-                  src="{% asset facebook.svg @path %}"
+                  src="{{site.baseurl}}/assets/images/facebook.svg"
                   style="filter: brightness(0) invert(1);"
                 />
                 <span class="display-none">Facebook</span>
@@ -224,7 +224,7 @@
                 <img
                   alt="youtube logo"
                   class="height-3 width-auto"
-                  src="{% asset Youtube.svg @path %}"
+                  src="{{site.baseurl}}/assets/images/Youtube.svg"
                 />
                 <span class="display-none">Youtube</span>
               </a>
@@ -254,8 +254,11 @@
     <div class="usa-identifier__container">
       <div class="usa-identifier__logos">
         <a href="{{ site.baseurl }}" class="usa-identifier__logo">
-          {% asset ncd-logo.png alt="NCD Logo" class="usa-identifier__logo-img"
-          role="image" %}
+          <img src="{{site.baseurl}}/assets/images/ncd-logo.png"
+            alt="NCD Logo"
+            class="usa-identifier__logo-img"
+            role="image"
+            />
         </a>
       </div>
       <div

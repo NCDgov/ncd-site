@@ -7,3 +7,16 @@ node_modules
 .DS_Store
 .lycheecache
 lychee-out.md
+
+## Assets
+assets/uswds/*
+!assets/uswds/.gitkeep
+assets/js/uswds*
+assets/video-js
+assets/youtube-video-js
+assets/swiper
+assets/stickyfilljs
+assets/netlify-cms
+assets/jquery
+assets/fontawesome-free
+assets/jquery-toast-plugin

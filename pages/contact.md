@@ -4,7 +4,7 @@ published: true
 permalink: /contact/
 title: Contact Us
 ---
-![Downtown Washington, DC, street sign on a sunny day with a green NCD sign pointing to the left. ]({% asset NCDsign_sm.jpg @path %})
+![Downtown Washington, DC, street sign on a sunny day with a green NCD sign pointing to the left. ]({{ site.baseurl}}/assets/images/NCDsign_sm.jpg)
 
 If you have a question or comment, please let us know.
 

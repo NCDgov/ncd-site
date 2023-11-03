@@ -36,7 +36,7 @@ Chairperson
 
 - - -
 
-\[[1]](https://ncd.gov/publications/2020/ncd-letter-cms-institutionalization#_ftnref1) National Council on Disability. "Preserving Our Freedom, Ending Institutionalization of People with Disabilities During and After Disasters." NCD.gov. <{{ site.baseUrl }}/assets/docs/ncd-preserving-our-freedom-508.pdf>
+\[[1]](https://ncd.gov/publications/2020/ncd-letter-cms-institutionalization#_ftnref1) National Council on Disability. "Preserving Our Freedom, Ending Institutionalization of People with Disabilities During and After Disasters." NCD.gov. <{{ site.baseUrl }}/assets/uploads/docs/ncd-preserving-our-freedom-508.pdf>
 
 (accessed April 8, 2020)
 

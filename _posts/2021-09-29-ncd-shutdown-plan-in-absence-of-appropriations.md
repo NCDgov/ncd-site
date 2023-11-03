@@ -11,7 +11,7 @@ image_alt_text: NA
 
 **National Council on Disability Agency Shutdown Plan**
 
-**[(PDF)]({{ site.baseUrl }}/assets/docs/ncd-shutdown-plan-2021-signed-0.pdf)**
+**[(PDF)]({{ site.baseUrl }}/assets/uploads/docs/ncd-shutdown-plan-2021-signed-0.pdf)**
 
 **1. PURPOSE:** To provide the National Council on Disability’s (“NCD”) policy guidance and instructions for actions to be taken when Congress fails to enact either regular appropriations, a continuing resolution, or needed supplemental, resulting in an interruption of fund availability. In the absence of appropriations:
 

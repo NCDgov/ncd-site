@@ -46,7 +46,7 @@ Chairman
 
 - - -
 
-\[[1]](https://ncd.gov/publications/2020/ncd-letter-md-legislature-assisted-suicide#_ednref1) National Council on Disability, *The Danger of Assisted Suicide Laws* (2018), <{{ site.baseUrl }}/assets/docs/ncd-assisted-suicide-report-508.pdf>, accessed February 25, 2020.
+\[[1]](https://ncd.gov/publications/2020/ncd-letter-md-legislature-assisted-suicide#_ednref1) National Council on Disability, *The Danger of Assisted Suicide Laws* (2018), <{{ site.baseUrl }}/assets/uploads/docs/ncd-assisted-suicide-report-508.pdf>, accessed February 25, 2020.
 
 \[[2]](https://ncd.gov/publications/2020/ncd-letter-md-legislature-assisted-suicide#_ednref2) Oregon Death with Dignity Act, 2018 Data Summary.
 

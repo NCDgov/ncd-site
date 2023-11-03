@@ -7,20 +7,20 @@
       <div class="padding-bottom-2">
         <img
           class="width-mobile height-auto"
-          src="{% asset {{include.post.thumbnail}} @path %}"
+          src="{{ site.baseurl }}/assets/uploads/{{include.post.thumbnail}}"
           alt="{{page.image_alt_text}}"
         />
       </div>
       {% elsif include.post.image %}
       <img
         class="width-full height-auto"
-        src="{% asset {{include.post.image}} @path %}"
+        src="{{ site.baseurl }}/assets/uploads/{{include.post.image}}"
         alt="{{include.post.image_alt_text}}"
       />
       {% else %}
       <img
         class="width-full height-auto"
-        src="{% asset ncd-logo.png @path %}"
+        src="{{ site.baseurl }}/assets/images/ncd-logo.png"
         alt="NCD logo"
       />
       {% endif %}
