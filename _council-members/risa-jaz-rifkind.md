@@ -2,7 +2,7 @@
 layout: council-member
 member_name: Risa Jaz Rifkind
 member_title: Council Member
-location: Chicago, Illinois
+location: Las Vegas, Nevada
 image: images/rrifkind12.1.16.jpg
 image_alt_text: Risa Jaz Rifkind photo
 order: 7
