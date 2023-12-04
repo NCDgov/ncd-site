@@ -39,13 +39,13 @@ Officials and colleagues shared their thoughts on his passing:
 
 *From NCD Council and Staff:*
 
-***Vice Chair Claudia Gordon:***
+***Vice Chair Claudia Gordon***
 
 “Andrés was one of our community’s greatest champions for health equity. On day one of his chairmanship, he put the flag down for his tenure making it known that his top priority would be health equity, as health is the predicate to engaging all other aspects of our lives. To anyone working in healthcare – from providers and medical associations to policymakers in Washington, he insisted that the long history of disability health inequities be recognized and meaningfully addressed. He was tireless in this pursuit. Andrés played an important role in securing the recent National Institute of Health’s health disparity designation for people with disabilities and was deeply involved in the review of recent proposed updates to Section 504 of the Rehabilitation Act rule addressing disability discrimination in health care.”
 
 Having been appointed to the Council just last year, I was enjoying the good fortune of learning from Andrés as he led the Council and was so honored when he asked me to be his Vice Chair. I am deeply saddened for this learning opportunity and warm comradery to have been cut short. This is a tremendous loss for our community. We at NCD are committed to continuing his pursuits with a shared heart and in his honor.”
 
-***Executive Director Anne Sommers McIntosh:***
+***Executive Director Anne Sommers McIntosh***
 
 “I am very proud to have worked for and with Andrés. He was focused and determined. He regretted whenever he heard of ‘political realities’ as anything tempering of the greatest policy good, as his attention was always on the needs of the community as paramount, no matter what the state of affairs in Washington, DC, or elsewhere.”
 
@@ -55,11 +55,11 @@ Having been appointed to the Council just last year, I was enjoying the good for
 
 “I very much was impressed with Andrés’ personable approach, knowledge, and intelligence.  We have lost a leader, but the most we can do is to continue to honor his commitments and visions for people with disabilities. As a Native American, I will always remember him for bringing to the forefront of NCD the need to address the adversities being experienced by Native Americans with disabilities across Indian Country. May the great spirit bless his family with emotional and spiritual healing.”  
 
-***Councilmember Sascha Bittner:***
+***Councilmember Sascha Bittner***
 
 “I am heartbroken. Andrés was such an amazing, dedicated man with a clear, compelling vision for what he wanted the Council to accomplish on behalf of disabled Americans. His leadership, passion, and sense of urgency regarding the critical responsibility with which we have been tasked has motivated and inspired all of us on the Council. Andrés not only possessed a sweeping understanding of the challenges facing our community and the policy changes needed to address them but was also just so personally kind, generous, and supportive. My deepest condolences to his wonderful family and to all those who loved him. Andrés profoundly touched the lives of so many of us, and we will do our best to carry on his legacy.”
 
-***Councilmember Theo Braddy:***
+***Councilmember Theo Braddy***
 
 “Chairman Gallegos exemplified kindness and dedication as a leader,” said Councilmember Theo Braddy. He swiftly became both a mentor and friend to me,” he said. “The absence of Andrés from our collaborative efforts will undoubtedly be a significant loss.”
 
