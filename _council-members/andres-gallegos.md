@@ -5,7 +5,7 @@ member_title: Chairman (Died Dec. 1, 2023)
 location: Chicago, Illinois
 image: images/andres-gallegos.jpg
 image_alt_text: Andrés Gallegos picture
-order: 1
+order: 9
 start_date: April 6, 2022
 ---
 **Chairman Andrés J. Gallegos, Esq.**, 62, of Illinois, passed away Dec. 1,. 2023. 
