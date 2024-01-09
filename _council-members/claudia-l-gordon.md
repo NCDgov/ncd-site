@@ -1,7 +1,7 @@
 ---
 layout: council-member
 member_name: Claudia L. Gordon
-member_title: Vice Chair
+member_title: Vice Chair (Acting Chair)
 location: Washington, D.C.
 image: images/claudialgordon.jpg
 image_alt_text: Claudia Gordon photo
