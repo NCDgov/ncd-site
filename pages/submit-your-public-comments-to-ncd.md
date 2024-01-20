@@ -17,7 +17,7 @@ Information on our Council meeting is available on our [Upcoming Event page](ht
 
 **Format:** In-Person and virtual format -- the Council will receive public comment in-person, by email or by video or audio over Zoom. Priority to present will be given to in-person comments.
 
-**Topic: Two town hall format public comment sessions 1) housing 2) transportation**
+**Topic: Experiences by the disability community with ground transportation**
 
 *For those interested in commenting, please read the Guidelines for Submitting and Presenting Public Comment During an Event details below in full. Advanced registration is required.*
 
@@ -36,32 +36,20 @@ Four times a year, NCD hosts quarterly Council meetings, during which NCD design
 * **Comments must be specific to the selected topic for the meeting.** While public comment may be submitted on any topic over email, comments received during NCD meetings should be specific to the topic selected for the meeting. Those who make comments on topics other than the selected topic may be asked to stop speaking.
 * **If there is time remaining, those who did not register can indicate interest in being selected to speak and may be called upon at the discretion of the agency.**
 
- 
-
 **Guidelines for Submitting and Presenting Public Comment During an Event:**
 
 1. NCD's public comment session during our quarterly council meeting is an official government proceeding to receive input from the public. Please be considerate and use proper decorum.
-
 2. All public comment submissions received electronically or in person during the meeting are collected specifically to inform the Council, staff and its work.
-
 3. Due to our time constraints and to facilitate a smooth comment period, advanced registration is required.
-
 4. To preregistration to present comments on the specified topic during the public meeting, sending an email to [PublicComment@ncd.gov](mailto:publiccomment@ncd.gov?subject=Public%20Comment) notifying NCD of your intent to present during the meeting, Include name, organization representing, Specific topic. 
-
 5. Individuals must preregister, but can either submit their written statement at that time or following their preregistration email.   
-
 6. If you cannot attend the meeting or prefer to submit comment without presenting them, please submit written public comment submission to [PublicComment@ncd.gov](mailto:publiccomment@ncd.gov?subject=Public%20Comment).
 
 7, General public comment submissions will still be accepted and collected for the Council, but only those presenting on the specific topic will be allowed to present during this meeting.
 
 8. When the Public Comment session begins, please be available and prepared to present your comments when called upon.
-
 9. Those preregistered will be placed in a queue and will be called upon to present their comments.
-
 10. When a person called to present, their mic and video will be unmuted and they will be asked to begin.
-
 11. Comments will be limited to three minutes. Warnings will be given before the end of the three minute time, and presenter will be stopped at three minutes. 
-
 12. If any time remains following the conclusion of the comments of those registered, NCD may call upon those who desire to make comments but did not register.
-
 13. The public is welcome to provide additional public comments after the meeting to [PublicComment@ncd.gov](mailto:publiccomment@ncd.gov?subject=Public%20Comment).
