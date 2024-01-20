@@ -15,7 +15,7 @@ Thursday, February 8, 2024 during NCD's Council Meeting via Zoom.
 
 4:00 – 4:30 p.m. – Ground Transportation Experiences Public Comment 
 
-Information on our Council meeting is available on our [Upcoming Event page](https://ncd.gov/events/2023/upcoming-council-meeting).
+Information on our Council meeting is available on our [Upcoming Event page](https://beta.ncd.gov/meeting/2024-02-08-feb-8-2024-council-meeting/).
 
 **Format:** In-Person and virtual format -- the Council will receive public comment in-person, by email or by video or audio over Zoom. Priority to present will be given to in-person comments.
 
