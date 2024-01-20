@@ -1,6 +1,6 @@
 ---
 layout: single-page
-published: false
+published: true
 permalink: /public-comment/
 redirect_from: []
 title: Public Comment
