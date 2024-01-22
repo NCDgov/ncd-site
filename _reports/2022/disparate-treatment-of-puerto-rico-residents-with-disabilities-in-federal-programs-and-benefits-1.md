@@ -8,7 +8,7 @@ policy_areas:
   - Civil Rights
   - Emergency Management
   - Financial Assistance & Incentives
-press_release: https://beta.ncd.gov/2022/05/25/ncd-report-recommends-congressional-action-on-federal-benefits-for-americans-with-disabilities-in-u-s-territories/
+press_release: https://www.ncd.gov/2022/05/25/ncd-report-recommends-congressional-action-on-federal-benefits-for-americans-with-disabilities-in-u-s-territories/
 word_document: reports/2022/ncd_puerto_rico_report.docx
 pdf_document: reports/2022/ncd_puerto_rico_report_508.pdf
 image_alt_text: NA

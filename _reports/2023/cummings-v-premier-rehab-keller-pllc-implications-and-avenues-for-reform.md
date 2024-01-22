@@ -5,7 +5,7 @@ date: January 19, 2023
 report_year: 2023
 policy_areas:
   - Civil Rights
-press_release: https://beta.ncd.gov/2023/01/19/ncd-assesses-advises-on-impact-of-supreme-court-cummings-decision/
+press_release: https://www.ncd.gov/2023/01/19/ncd-assesses-advises-on-impact-of-supreme-court-cummings-decision/
 word_document: reports/2023/ncd_cummings-implications-brief.docx
 pdf_document: reports/2023/ncd_cummings-implications-brief.pdf
 image: images/cummingsbriefcover.png
