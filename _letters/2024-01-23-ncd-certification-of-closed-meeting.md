@@ -2,7 +2,7 @@
 layout: post
 title: NCD certification of closed meeting
 collection_name: letters
-date: 2024-01-23
+date: 2024-01-22
 misc_files_1: letters/2024/ncd-certification-of-closed-meeting/certification-of-closed-meeting-sunshine-act-2024.pdf
 ---
 January 22, 2024
