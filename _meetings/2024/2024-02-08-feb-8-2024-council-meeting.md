@@ -7,7 +7,9 @@ date: 2024-02-08
 ---
 The Members of the National Council on Disability (NCD) will hold a quarterly business meeting on Thursday, February 8, 2024, 1:00 p.m. – 5:30 p.m., Eastern Standard Time (EST).
 
-This meeting will occur via Zoom videoconference. Registration is not required. Interested parties are encouraged to join the meeting in an attendee status by Zoom Desktop Client, Mobile App, or Telephone to dial-in. Updated information is available on NCD's event page at <https://www.ncd.gov/meeting/2024-02-08-feb-8-2024-council-meeting/>. To join the Zoom webinar, please use the following URL:
+This meeting will occur via Zoom videoconference. Registration is not required, but appreciated via our Eventbrite [page](https://www.eventbrite.com/e/ncd-quarterly-meeting-feb-8-2024-tickets-810165686377).
+
+. Interested parties are encouraged to join the meeting in an attendee status by Zoom Desktop Client, Mobile App, or Telephone to dial-in. To join the Zoom webinar, please use the following URL: 
 
 <https://us06web.zoom.us/j/87206638472?pwd=S3YzSEt6U0pZK2RwY2oyOFVDblhsUT09> or enter Webinar ID: 872 0663 8472 in the Zoom app. The Passcode is: 378669.
 
