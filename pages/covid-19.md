@@ -1,6 +1,6 @@
 ---
 layout: single-page
-published: true
+published: false
 permalink: /covid-19/
 redirect_from: []
 title: COVID-19
