@@ -2,6 +2,7 @@
 layout: post
 title: Feb. 8, 2024 Council Meeting
 collection_name: meetings
+federal_register_notice: https://www.federalregister.gov/documents/2024/01/26/2024-01725/sunshine-act-meetings
 meeting_year: 2024
 date: 2024-02-08
 ---
