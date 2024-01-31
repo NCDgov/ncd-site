@@ -15,6 +15,13 @@ Thursday, February 8, 2024 during NCD's Council Meeting via Zoom.
 
 4:00 – 4:30 p.m. – Ground Transportation Experiences Public Comment 
 
+Please share your experience(s) in obtaining wheelchair accessible taxis or rideshares (e.g. Uber, Lyft).
+
+* If you requested a wheelchair accessible van (WAV) through a taxi company, did the company have a WAV? If the company did not have WAVs in its fleet, did the taxi service offer to provide you a WAV through a different company? Was the price comparable to a non-accessible taxi?
+* If you requested a WAV from a rideshare company, did the company have a WAV? If not, were you referred to a service that did? Was the price comparable to a non-accessible rideshare?
+* Have you filed a complaint with the U.S. Department of Justice or the U.S. Department of Transportation about discrimination by a taxi company or a rideshare regarding lack of WAVs? If so, what was the result?
+* Is paratransit available in your neighborhood? What are the pros and cons of using this service? What should be changed?
+
 Information on our Council meeting is available on our [Upcoming Event page](https://www.ncd.gov/meeting/2024-02-08-feb-8-2024-council-meeting/).
 
 **Format:** In-Person and virtual format -- the Council will receive public comment in-person, by email or by video or audio over Zoom. Priority to present will be given to in-person comments.
