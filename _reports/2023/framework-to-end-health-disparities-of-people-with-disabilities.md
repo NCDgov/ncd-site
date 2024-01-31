@@ -14,12 +14,11 @@ image: images/framework-health-disparities-cover-sm.png
 image_alt_text: "Framework cover with NCD seal and photo of black man entering a
   building in an electric wheelchair. "
 ---
-**COVER LETTER: ([PDF]({{ site.baseUrl }}/assets/uploads/docs/cover-letter-to-health-equity-framework.pdf))**\
-**FRAMEWORK: ([PDF]({{ site.baseUrl }}/assets/uploads/docs/ncd-framework-to-end-health-disparities-of-people-with-disabilities.pdf))**
+**COVER LETTER: (\[PDF]({{ site.baseUrl }}/assets/uploads/docs/cover-letter-to-health-equity-framework.pdf))**
 
-**FRAMEWORK** [PRESS RELEASE](https://ncd.gov/newsroom/2022/ncd-announces-policymaker-blueprint-health-equity-people-disabilities)
+**FRAMEWORK** [PRESS RELEASE](https://www.ncd.gov/2022/02/14/ncd-announces-policymaker-blueprint-for-health-equity-for-people-with-disabilities/)
 
-**PROGRESS UPDATE, YEAR ONE: [(PDF)]({{ site.baseUrl }}/assets/uploads/docs/ncd-health-equity-framework-progress-report.pdf)**
+**PROGRESS UPDATE, YEAR ONE: \[(PDF)]({{ site.baseUrl }}/assets/uploads/docs/ncd-health-equity-framework-progress-report.pdf)**
 
 **SCOPE AND PURPOSE:** NCD’s Framework to End Health Disparities of People with Disabilities is the outgrowth of an acknowledgment of decades of health disparities experienced by people with disabilities, and of physical and systemic barriers to access to healthcare for people with disabilities; and the desire to address these inequalities and achieve health equity for all persons with disabilities. It is the product of a year’s worth of strategic outreach; consultation with a "dream team" of 14 academics, medical professionals, and others who have dedicated their lives to addressing the health disparities of people with disabilities; and literature review.
 
