@@ -9,7 +9,7 @@ policy_areas:
   - Civil Rights
 categories:
   - frameworks
-pdf_document: reports/2023/ncd-framework-to-end-health-disparities-of-people-with-disabilities_asm.pdf
+pdf_document: reports/2023/ncd-framework-to-end-health-disparities-of-people-with-disabilities.pdf
 image: images/framework-health-disparities-cover-sm.png
 image_alt_text: "Framework cover with NCD seal and photo of black man entering a
   building in an electric wheelchair. "
