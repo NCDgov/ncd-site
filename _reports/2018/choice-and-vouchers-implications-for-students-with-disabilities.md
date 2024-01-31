@@ -7,6 +7,8 @@ report_year: 2018
 policy_areas:
   - Education
 press_release: https://beta.ncd.gov/2018/11/15/federal-advisory-body-s-new-report-series-focuses-on-charter-schools-and-school-choice-vouchers/
+word_document: reports/2018/ncd-choice-vouchers-2018.docx
+pdf_document: reports/2018/ncd-choice-vouchers-2018.pdf
 image_alt_text: NA
 ---
 **S﻿COPE AND PURPOSE:**
