@@ -9,6 +9,8 @@ policy_areas:
   - Health Care
 categories:
   - progress reports
+word_document: reports/2021/ncd-2021-progress-report-covid-19.docx
+pdf_document: reports/2021/ncd-2021-progress-report-covid-19.pdf
 image: images/ncd_progress_report_2021_cover_sm.png
 image_alt_text: Left half of report cover has photo of a hand touching
   wheelchair and an American flag mask in the background. Right side is blue
