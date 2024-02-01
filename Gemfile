@@ -2,7 +2,7 @@ ruby '~> 3.1'
 
 source "https://rubygems.org"
 
-gem "jekyll", "4.2.2"
+gem "jekyll", "4.3.3"
 gem "sprockets", "~> 4"
 gem "autoprefixer-rails"
 gem "webrick" # not included in jekyll directly until 4.3.0 https://github.com/jekyll/jekyll/pull/8524
