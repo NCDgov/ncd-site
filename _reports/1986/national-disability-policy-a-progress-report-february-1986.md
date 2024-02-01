@@ -44,40 +44,40 @@ The Council wishes to acknowledge and convey its sincere appreciation to the man
 
 Table of Contents
 
-[Letter of Transmittal](https://ncd.gov/progress_reports/February1986#1)
+Letter of Transmittal
 
-[Description of the National Council on the Handicapped](https://ncd.gov/progress_reports/February1986#2)
+Description of the National Council on the Handicapped
 
-[Council and Staff Members](https://ncd.gov/progress_reports/February1986#3)
+Council and Staff Members
 
-[Executive Summary](https://ncd.gov/progress_reports/February1986#4)
+Executive Summary
 
-**[Introduction](https://ncd.gov/progress_reports/February1986#5)**
+**Introduction**
 
-**[The Population With Disabilities](https://ncd.gov/progress_reports/February1986#6)**
+**The Population With Disabilities**
 
-**[Assessment of Federal Laws and Programs Affecting Persons With Disabilities](https://ncd.gov/progress_reports/February1986#7)**
+**Assessment of Federal Laws and Programs Affecting Persons With Disabilities**
 
-**[Current Priorities in Federal Programs](https://ncd.gov/progress_reports/February1986#8)**
+**Current Priorities in Federal Programs**
 
-**[Analysis of Federal Programs in Specific Topic Areas With Legislative Recommendations](https://ncd.gov/progress_reports/February1986#9)**
+**Analysis of Federal Programs in Specific Topic Areas With Legislative Recommendations**
 
-> [Equal Opportunity Laws](https://ncd.gov/progress_reports/February1986#9a)\
-> [Employment](https://ncd.gov/progress_reports/February1986#9b)\
-> [Disincentives to Work Under Social Security Laws](https://ncd.gov/progress_reports/February1986#9c)\
-> [Prevention of Disabilities](https://ncd.gov/progress_reports/February1986#9d)\
-> [Transportation](https://ncd.gov/progress_reports/February1986#9e)\
-> [Housing](https://ncd.gov/progress_reports/February1986#9f)\
-> [Community-Based Services for Independent Living](https://ncd.gov/progress_reports/February1986#9g)\
-> [Educating Children With Disabilities](https://ncd.gov/progress_reports/February1986#9h)\
-> [Personal Assistance: Attendant Services, Readers, and Interpreters](https://ncd.gov/progress_reports/February1986#9i)\
-> [Coordination](https://ncd.gov/progress_reports/February1986#9j)
+> Equal Opportunity Laws\
+> Employment\
+> Disincentives to Work Under Social Security Laws\
+> Prevention of Disabilities\
+> Transportation\
+> Housing\
+> Community-Based Services for Independent Living\
+> Educating Children With Disabilities\
+> Personal Assistance: Attendant Services, Readers, and Interpreters\
+> Coordination
 
-**[List of Federal Programs Affecting Persons With Disabilities](https://ncd.gov/progress_reports/February1986#10)**
+**List of Federal Programs Affecting Persons With Disabilities**
 
-**[Biographies of Members of the National Council on the Handicapped](https://ncd.gov/progress_reports/February1986#11)**
+**Biographies of Members of the National Council on the Handicapped**
 
-**[References](https://ncd.gov/progress_reports/February1986#12)**
+**References**
 
 - - -
 
@@ -102,8 +102,6 @@ The Council by no means views the submission of the recommendations presented in
 The Council values the opportunity presented by this report to make a contribution to disability policy, and hopes that it marks a step toward a more active and productive dialogue among all the people who influence and are affected by disability policy.
 
 Sincerely,
-
- 
 
 Sandra S. Parrino\
 Chairperson
@@ -1412,9 +1410,7 @@ This program, which was recommended for elimination by the Administration in FY 
 Notes to the Listing
 
 1. Sources. Most information derives from the *Catalog of Federal Domestic Assistance-1985* (Office of Management and Budget \[OMB]; Government Printing Office, 1985). In some instances, as with the number of persons participating in independent living programs or in state-operated or -supported schools, program officials in the U.S. Department of Education were consulted. In a few instances, as with the number of disabled persons benefiting from Medicare or from section 8 housing assistance, program officials were not able to provide the needed information but publications such as*Social Security Bulletin* or university researchers, notably at the Bureau of Economic Research, Rutgers University (Professors Berkowitz, David, and Worrall) were able to provide estimates.
-
 2. Excluded. Not included in this priority listing are the "special institutions" Gallaudet College, National Technical Institute for the Deaf, Helen Keller National Center, American Printing House for the Blind-each of which has funding set by the Congress and none of which is administered by an executive branch agency. These programs do not appear in the CFDA. Also excluded from this priority listing are a few programs designed to train special educators or rehabilitation personnel; the basis for exclusion is that these programs do not benefit disabled persons so much as professionals in human service fields.
-
 3. See also: Berkowitz, Monroe. *Disability Expenditures 1970-1982.* New Brunswick, NJ: Rutgers University, 1985.
 
 - - -
