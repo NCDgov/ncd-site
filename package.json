@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "netlify-cms": "^2.10.192",
-    "uswds": "^2.13.3",
+    "uswds": "^2.14.0",
     "video.js": "^7.0.3",
     "videojs-youtube": "^2.6.1"
   },
