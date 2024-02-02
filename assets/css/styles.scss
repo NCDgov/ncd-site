@@ -148,14 +148,20 @@ h1 {
 
 .featured-item {
   &:nth-child(even) {
-    background-color:  #ffffff;
+  
+    .grid-container {
+      background-color:  #ffffff;
+    }
 
    .featured-item-row {
       flex-direction: row;
     }
   }
   &:nth-child(odd) {
-    background-color: #162e51;
+
+    .grid-container {
+      background-color: #162e51;
+    }
 
     .featured-item-title {
       color: #ffffff;
