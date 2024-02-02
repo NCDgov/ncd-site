@@ -9,9 +9,9 @@ image_alt_text: Andrés Gallegos, a hispanic male with gray hair wearing dark
   glasses and suit with white shirt and yellow tie, and an NCD lapel pin. Behind
   him is a sky background and U.S. flag.
 ---
-**For Immediate Release**                                                                
+**For Immediate Release**
 
-December 4, 2023                                     
+December 4, 2023
 
 **WASHINGTON--**The National Council on Disability (NCD) has lost its Chairman Andrés J. Gallegos, 62, of Illinois, who passed away Dec. 1.
 

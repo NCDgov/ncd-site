@@ -39,32 +39,32 @@
 
   <!-- Description -->
   {% if page.excerpt %}
-    <meta name="description" content="{{ page.excerpt | xml_escape }}">
-    <meta property="og:description" content="{{ page.excerpt | xml_escape }}" />
-    <meta property="twitter:description" content="{{ page.excerpt | xml_escape }}" />
+    <meta name="description" content="{{ page.content | strip_html | strip | truncatewords: 50 }}">
+    <meta property="og:description" content="{{ page.content | strip_html | strip | truncatewords: 50 }}" />
+    <meta property="twitter:description" content="{{ page.content | strip_html | strip | truncatewords: 50 }}" />
   {% else %}
-    <meta name="description" content="{{ site.description | xml_escape }}">
-    <meta property="og:description" content="{{ site.description | xml_escape }}" />
-    <meta property="twitter:description" content="{{ site.description | xml_escape }}" />
+    <meta name="description" content="{{ site.description | strip }}">
+    <meta property="og:description" content="{{ site.description | strip }}" />
+    <meta property="twitter:description" content="{{ site.description | strip }}" />
   {% endif %}
 
   <!-- Image -->
   {% if page.image %}
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <link rel="image_src" href="{{ siteurl }}/{{ site.baseurl }}/assets/uploads/{{page.image}}" />
-    <meta name="image" content="{{ siteurl }}/{{ site.baseurl }}/assets/uploads/{{page.image}}" />
-    <meta property="og:image" content="{{ siteurl }}/{{ site.baseurl }}/assets/uploads/{{page.image}}" />
+    <link rel="image_src" href="{{ siteurl }}{{ site.baseurl }}/assets/uploads/{{page.image}}" />
+    <meta name="image" content="{{ siteurl }}{{ site.baseurl }}/assets/uploads/{{page.image}}" />
+    <meta property="og:image" content="{{ siteurl }}{{ site.baseurl }}/assets/uploads/{{page.image}}" />
 
-    <meta name="twitter:image" content="{{ siteurl }}/{{ site.baseurl }}/assets/uploads/{{page.image}}">
+    <meta name="twitter:image" content="{{ siteurl }}{{ site.baseurl }}/assets/uploads/{{page.image}}">
 
     {% if page.image_alt_text %}
       <meta name="twitter:image:alt" content="{{page.image_alt_text}}">
     {% endif %}
   {% else %}
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:image" content="{{ siteurl }}/{{ siteurl }}/{{ site.baseurl }}/assets/images/ncd-logo.png">
-    <meta property="og:image" content="{{ siteurl }}/{{ siteurl }}/{{ site.baseurl }}/assets/images/ncd-logo.png">
+    <meta name="twitter:image" content="{{ siteurl }}{{ site.baseurl }}/assets/images/ncd-logo.png">
+    <meta property="og:image" content="{{ siteurl }}{{ site.baseurl }}/assets/images/ncd-logo.png">
   {% endif %}
 
   <meta property="og:type" content="article" />
