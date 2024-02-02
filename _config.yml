@@ -40,7 +40,7 @@ searchgov:
   endpoint: https://search.usa.gov
 
   # replace this with your search.gov account
-  affiliate: beta-ncd-gov
+  affiliate: ncd-gov
 
   # replace with your access key
   access_key: USZBXrpX_DhoKOg7mmIhpx-xgqveozWwwoPpp1HGBPk=
