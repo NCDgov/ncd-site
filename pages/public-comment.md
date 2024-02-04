@@ -24,9 +24,7 @@ Please share your experience(s) in obtaining wheelchair accessible taxis or ride
 
 Information on our Council meeting is available on our [Upcoming Event page](https://www.ncd.gov/meeting/2024-02-08-feb-8-2024-council-meeting/).
 
-**Format:** In-Person and virtual format -- the Council will receive public comment in-person, by email or by video or audio over Zoom. Priority to present will be given to in-person comments.
-
-**Topic: Experiences by the disability community with ground transportation**
+**Format:** Virtual format -- the Council will receive public comment by email or by video or audio over Zoom. 
 
 *For those interested in commenting, please read the Guidelines for Submitting and Presenting Public Comment During an Event details below in full. Advanced registration is required.*
 
