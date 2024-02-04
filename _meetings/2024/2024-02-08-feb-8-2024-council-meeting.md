@@ -10,9 +10,13 @@ The Members of the National Council on Disability (NCD) will hold a quarterly bu
 
 This meeting will occur via Zoom videoconference. Registration is not required, but appreciated via our Eventbrite [page](https://www.eventbrite.com/e/ncd-quarterly-meeting-feb-8-2024-tickets-810165686377).
 
-. Interested parties are encouraged to join the meeting in an attendee status by Zoom Desktop Client, Mobile App, or Telephone to dial-in. To join the Zoom webinar, please use the following URL: 
+Interested parties are encouraged to join the meeting in an attendee status by Zoom Desktop Client, Mobile App, or Telephone to dial-in. To join the Zoom webinar, please use the following URL: 
 
-<https://us06web.zoom.us/j/87206638472?pwd=S3YzSEt6U0pZK2RwY2oyOFVDblhsUT09> or enter Webinar ID: 872 0663 8472 in the Zoom app. The Passcode is: 378669.
+<https://us06web.zoom.us/j/87206638472?pwd=S3YzSEt6U0pZK2RwY2oyOFVDblhsUT09> 
+
+or enter Webinar ID: 872 0663 8472 in the Zoom app. 
+
+The Passcode is: 378669.
 
 To join the Council Meeting by telephone, dial one of the preferred numbers listed. The following numbers are (for higher quality, dial a number based on your current location): (309) 205 3325; (312) 626 6799; (646) 876 9923; (646) 931 3860; (301) 715 8592; (305) 224 1968; (669) 444 9171; (669) 900 6833; (689) 278 1000; (719) 359 4580; (253) 205 0468; (253) 215 8782  or (346) 248 7799. You will be prompted to enter the meeting ID 872 0663 8472 and passcode 378669. International numbers are also available: <https://us06web.zoom.us/u/kWvhpZ0c6>.
 
