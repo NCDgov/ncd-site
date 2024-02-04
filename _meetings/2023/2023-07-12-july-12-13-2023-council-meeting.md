@@ -5,6 +5,7 @@ collection_name: meetings
 federal_register_notice: https://www.federalregister.gov/documents/2023/06/30/2023-14022/sunshine-act-meetings
 meeting_year: 2023
 date: 2023-07-12
+minutes: meetings/2023/july-12-13-2023-council-meeting/july-12-13-2023-council-meeting_final-minutes.pdf
 ---
 **TIME AND DATE:** The Members of the National Council on Disability (NCD) will hold a two-day in-person Council meeting on Wednesday, July 12, 2023, 9 a.m.– 5:15 p.m. Eastern Daylight Time (EDT). and Thursday, July 13, 2023, 10 a.m. – 12:30 p.m., EDT.
 
