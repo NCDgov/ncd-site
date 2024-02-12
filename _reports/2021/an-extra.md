@@ -1,5 +1,4 @@
 ---
-excerpt: This is an excerpt
 layout: post
 title: "2021 Progress Report: The Impact of COVID-19 on People with Disabilities"
 date: October 29, 2021
@@ -15,7 +14,6 @@ image: images/ncd_progress_report_2021_cover_sm.png
 image_alt_text: Left half of report cover has photo of a hand touching
   wheelchair and an American flag mask in the background. Right side is blue
   with NCD logo and title of the report October 29, 2021.
-author: Author
 ---
 **SCOPE AND PURPOSE:** This report examines COVID-19’s disproportionate negative impact on people with disabilities in (1) accessing healthcare; (2) accessing direct care support; (3) congregate care settings and transition; (4) education; (5) employment; (6) effective communication; (7) mental health and suicide prevention services; and summarizes the federal and state response to these impacts. The purpose of the report is to document the difference that disability made to one’s experiences and outcomes in the United States during the pandemic.
 

@@ -2,8 +2,6 @@
 layout: post
 title: 2021 Meeting Schedule
 date: 2021-01-01
-author: Author
-excerpt: This is an excerpt
 ---
 **Council Meetings**
 

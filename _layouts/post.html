@@ -15,13 +15,13 @@ This is used in blog posts. The index page can be found at blog/index.html
         <div class="margin-bottom-2">
           <div class="margin-top-neg-105">
             <date class="text-ink font-sans-lg display-flex flex-row flex-align-center">
-              By <span class="text-bold">{{ page.author }}</span>
               <svg class="usa-icon margin-right-1" aria-hidden="true" focusable="false" role="img">
                 <use xlink:href="{{site.baseurl}}/assets/uswds/img/sprite.svg#calendar_today"></use>
               </svg>
               {{ page.date | date: '%A, %B %e, %Y' }}
             </date>
           </div>
+          By <span class="text-bold">{{ page.author }}</span>
         </div>
         {% else %}
         <div class="margin-bottom-2">
