@@ -5,22 +5,10 @@ collection_name: meetings
 federal_register_notice: https://www.federalregister.gov/documents/2024/01/26/2024-01725/sunshine-act-meetings
 meeting_year: 2024
 date: 2024-02-08
+misc_files_1: meetings/2024/feb-8-2024-council-meeting/usdot-disability-policy-priorities.pptx
+misc_files_2: meetings/2024/feb-8-2024-council-meeting/acs-disability-questions-briefing.pdf
 ---
-The Members of the National Council on Disability (NCD) will hold a quarterly business meeting on Thursday, February 8, 2024, 1:00 p.m. – 5:30 p.m., Eastern Standard Time (EST).
-
-This meeting will occur via Zoom videoconference. Registration is not required, but appreciated via our Eventbrite [page](https://www.eventbrite.com/e/ncd-quarterly-meeting-feb-8-2024-tickets-810165686377).
-
-Interested parties are encouraged to join the meeting in an attendee status by Zoom Desktop Client, Mobile App, or Telephone to dial-in. To join the Zoom webinar, please use the following URL: 
-
-<https://us06web.zoom.us/j/87206638472?pwd=S3YzSEt6U0pZK2RwY2oyOFVDblhsUT09> 
-
-or enter Webinar ID: 872 0663 8472 in the Zoom app. 
-
-The Passcode is: 378669.
-
-To join the Council Meeting by telephone, dial one of the preferred numbers listed. The following numbers are (for higher quality, dial a number based on your current location): (309) 205 3325; (312) 626 6799; (646) 876 9923; (646) 931 3860; (301) 715 8592; (305) 224 1968; (669) 444 9171; (669) 900 6833; (689) 278 1000; (719) 359 4580; (253) 205 0468; (253) 215 8782  or (346) 248 7799. You will be prompted to enter the meeting ID 872 0663 8472 and passcode 378669. International numbers are also available: <https://us06web.zoom.us/u/kWvhpZ0c6>.
-
-In the event of audio disruption or failure, attendees can follow the meeting by accessing the Communication Access Realtime Translation (CART) link provided. CART is text-only translation that occurs real time and is not an exact transcript.
+*The Members of the National Council on Disability (NCD) held a quarterly business meeting on Thursday, February 8, 2024, 1:00 p.m. – 5:30 p.m., Eastern Standard Time (EST) via Zoom videoconference.* 
 
 **MATTERS TO BE CONSIDERED:** Following welcome remarks and introductions, the Council will remember Chairman Andrés Gallegos, who passed away in December; the Executive Committee will provide their report; followed by the Acting Chair’s report; Council Member community report-outs; a presentation on proposed changes to the disability questions in the Census Bureau’s American Community Survey; a break; followed by a panel on ground transportation for wheelchair users; a public comment session regarding ground transportation for wheelchair users;  policy project updates, including a summary and vote on NCD’s Germline Editing report; Council Member training on time records; and convening a short closed session, before adjourning. The end of the meeting will be closed to the public and will be conducted to discuss internal personnel rules and practices, pursuant to paragraph (c)(2) of the Sunshine Act, and in accordance with a determination made by the NCD Acting Chair.
 
