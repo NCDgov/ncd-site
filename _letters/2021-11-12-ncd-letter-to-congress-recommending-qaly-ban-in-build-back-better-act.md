@@ -2,8 +2,6 @@
 layout: post
 title: NCD Letter to Congress recommending QALY ban in Build Back Better Act
 date: 2021-11-12
-author: Author
-excerpt: This is an excerpt
 ---
 The Honorable Charles Schumer\
 Majority Leader\

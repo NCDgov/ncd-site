@@ -1,5 +1,4 @@
 ---
-excerpt: This is an excerpt
 layout: post
 title: "Enforceable Accessible Medical Equipment Standards: A Necessary Means to
   Address the Health Care Needs of People with Mobility Disabilities"
@@ -12,7 +11,6 @@ word_document: reports/ncd_medical_equipment_report.docx
 pdf_document: reports/ncd_medical_equipment_report_508.pdf
 image: images/ncd_medical_equipment_report_2021_cover.png
 image_alt_text: NCD Medical Report Cover
-author: Abraham Lincoln
 ---
 **SCOPE AND PURPOSE** People with disabilities experience much higher prevalence of preventable disease and poorer health outcomes than the general population, yet adults with disabilities continue to face significant physical barriers that impede access to health care and leads to unmet health care needs. Among the most significant barriers is the absence of accessible medical diagnostic equipment. The U.S. Access Board published Standards for Accessible Medical Diagnostic Equipment (MDE) on January 9, 2017, in consultation with the FDA, yet efforts to formalize MDE standards have been unsuccessful, leaving the MDE standards without the force and effect of law. This report supplements NCD’s 2009 report, [The Current State of Health Care for People with Disabilities](https://www.ncd.gov/publications/2009/Sept302009), which documented the effects of inaccessible exam tables and other medical diagnostic equipment.
 

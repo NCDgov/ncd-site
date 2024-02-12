@@ -2,8 +2,6 @@
 layout: post
 title: NCD letter to CMS regarding state Medicaid program use of the QALY
 date: 2021-11-08
-author: Author
-excerpt: This is an excerpt
 ---
 Chiquita Brooks-LaSure, Administrator\
 Centers for Medicare & Medicaid Services\

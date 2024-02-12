@@ -2,8 +2,6 @@
 layout: post
 title: NCD Letter to Senate Armed Services Committee Regarding AbilityOne
 date: 2021-11-02
-author: Abraham Lincoln
-excerpt: This is an excerpt
 ---
 The Honorable Senator\
 Jack Reed, Chairman\
