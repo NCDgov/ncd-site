@@ -9,6 +9,7 @@ redirect_from:
   - /FOIA/FOIA-quarterly-reports
   - /FOIA/FOIA-chief-FOIA-officer-reports
   - /FOIA/make-a-FOIA-request
+  - //accountability/foia/
 title: Freedom of Information Act (FOIA)
 ---
 The Freedom of Information Act (FOIA) is a federal law that permits individuals to request access to federal agency information and documents, except for records protected from disclosure by FOIA.
