@@ -26,11 +26,11 @@ misc_files_2: meetings/2024/feb-8-2024-council-meeting/acs-disability-questions-
 
 1:45 – 2:15 p.m. – Council Member Community Report Outs
 
-2:15 – 2:45 p.m. – Proposed Changes to the Disability Questions in the American Community Survey
+2:15 – 2:45 p.m. – Proposed Changes to the Disability Questions in the American Community Survey ([Slides](blob:https://www.ncd.gov/b5dd6d61-5489-482b-84fb-fd96f267b1ec))
 
 2:45 – 3:00 p.m. – BREAK
 
-3:00 – 4:00 p.m. – Ground Transportation for Wheelchair Users Panel
+3:00 – 4:00 p.m. – Ground Transportation for Wheelchair Users Panel ([Slides](blob:https://www.ncd.gov/396549e0-57f6-48f3-a7b7-4a866f86a0b2))
 
 4:00 – 4:30 p.m. – Ground Transportation Experiences Public Comment
 
