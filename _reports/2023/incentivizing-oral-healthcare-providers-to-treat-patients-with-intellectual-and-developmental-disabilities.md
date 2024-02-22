@@ -8,6 +8,8 @@ report_year: 2023
 policy_areas:
   - Financial Assistance & Incentives
   - Health Care
+word_document: reports/2023/ncd-medicaid-oral-health-incentives-2023.docx
+pdf_document: reports/2023/ncd-medicaid-oral-health-incentives-2023.pdf
 image: images/incentiving-ohc-cover.png
 image_alt_text: A female dentist wears a paper face mask as she works with
   dental tools inside the mouth of a female patient who is reclined in a dental
@@ -15,8 +17,6 @@ image_alt_text: A female dentist wears a paper face mask as she works with
   NCD seal and report title
 ---
 April 5, 2023
-
-**Press Release**
 
 **SCOPE AND PURPOSE:** Access to quality, appropriate and timely oral healthcare services is a significant issue faced by people with intellectual and developmental disabilities (I/DD). Despite efforts by federal, state and local agencies, legislatures, and key advocates, adults with I/DD remain the largest minority population with unmet oral healthcare needs.  In this report NCD explored three issues impacting access and use of dental care services by adults with I/DD including oral healthcare provider participation in Medicaid programs that cover dental services for adults with I/DD, return on investment (ROI) to states for sufficiently funding a comprehensive Medicaid dental benefit for adults with I/DD, and comparison of Medicaid managed care dental provider reimbursement rates to Medicaid fee-for-service dental provider reimbursement rates. The report also examines promising practices in the areas of policy advancement, dental provider training, and financing.  As the healthcare system in the United States (US) continues to evolve, care must be taken to ensure that government policies and programs serving people with I/DD advance within the system to deliver quality-driven, patient-centered, integrated healthcare services. Legislators, federal and states agencies, Medicaid managed care plans and providers must work together to ensure that a sufficient and competent integrated healthcare workforce is in place, and that policies support coverage of benefits that meet the special needs of people with I/DD. Financing to support the administration of programs and services must be sufficient and readily available.
 
