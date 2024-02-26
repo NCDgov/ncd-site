@@ -35,7 +35,7 @@
                   {{ nav_item.name | escape }}
                 </span>
               </button>
-              <ul id="{{ nav_id }}" class="usa-nav__submenu">
+              <ul id="{{ nav_id }}" class="usa-nav__submenu" hidden>
                 {% for subnav_item in nav_item.children %}
                 <li class="usa-nav__submenu-item">
                   <a href="{{ subnav_item.url | prepend: site.baseurl }}">

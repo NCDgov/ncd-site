@@ -26,10 +26,10 @@ Yes. Many NCD publications and correspondence are available to the public withou
 
 You can write or email:
 
-FOIA Officer                                            \
-National Council on Disability                                  \
-1331 F Street, NW, Suite 850                             \
-Washington, DC 20004\
+FOIA Officer
+National Council on Disability
+1331 F Street, NW, Suite 850
+Washington, DC 20004
 email: [FOIA@ncd.gov](mailto:FOIA@ncd.gov)
 
 It is important to include the following information in your request, so that we may answer your request in a timely manner:
@@ -59,18 +59,18 @@ NCD makes every effort to respond to your request as quickly as possible. The la
 
 You may seek dispute resolution services from the FOIA Public Liaison at NCD or the Office of Government Information Services (OGIS).
 
-National Archives and Records Administration\
-Office of Government Information Services    \
-8601 and Delphi Road-OGIS\
-College Park, MD 20740-6001\
-[ogis@nara.gov](mailto:ogis@nara.gov)\
+National Archives and Records Administration
+Office of Government Information Services
+8601 and Delphi Road-OGIS
+College Park, MD 20740-6001
+[ogis@nara.gov](mailto:ogis@nara.gov)
 202-741-5770
 
 Should you wish to appeal, you must send your appeal and a copy of your FOIA request letter in writing within 90 days of the date by email or letter to: [FOIA@NCD.gov](mailto:FOIA@NCD.gov) or to the subsequent address:
 
-Executive Director\
-National Council on Disability\
-1331 F St. NW., Suite 850\
+Executive Director
+National Council on Disability
+1331 F St. NW., Suite 850
 Washington, DC 20004
 
 Your envelope and letter should be marked “FOIA Appeal" and reference the request number.
@@ -81,25 +81,25 @@ In response to the President’s Executive Order 13,392 of December 14, 2005 "Im
 
 CHIEF FOIA OFFICER:
 
-Joan Durocher                                                                                                             \
-202-272-2117                                       \
+Joan Durocher
+202-272-2117
 [jdurocher@NCD.gov](mailto:jdurocher@NCD.gov)
 
 FOIA OFFICER:
 
-Amy Nicholas                                                     \
-202-272-2008                                                                                               \
+Amy Nicholas
+202-272-2008
 [anicholas@ncd.gov](mailto:anicholas@ncd.gov)
 
-FOIA REQUEST SERVICE CENTER\
+FOIA REQUEST SERVICE CENTER
 PRINCIPAL FOIA CONTACT:
 
-Amy Nicholas                                            \
-202-272-2008                                 \
+Amy Nicholas
+202-272-2008
 [anicholas@ncd.gov](mailto:anicholas@ncd.gov)
 
 FOIA PUBLIC LIAISON:
 
-Amy Nicholas                                            \
-202-272-2008                                 \
+Amy Nicholas
+202-272-2008
 [anicholas@ncd.gov](mailto:anicholas@ncd.gov)
