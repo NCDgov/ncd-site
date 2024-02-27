@@ -364,6 +364,51 @@ collections:
                 search_fields: ["title"]
                 value_field: "{{title}}"
                 display_fields: ["title"]
+  - label: FOIA Reports
+    name: foia_reports
+    folder: _foia-reports/
+    create: true
+    slug: "foia-report-{{slug}}"
+    path: "{{slug}}"
+    editor:
+      preview: true
+    fields:
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "post"
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Report Type"
+        name: "report_type"
+        widget: "select"
+        options: ["yearly", "quarterly", "chief-officer"]
+      - label: "Report Year"
+        name: "report_year"
+        widget: "number"
+        value_type: "int"
+        min: 1980
+        max: 2030
+        step: 1
+      - label: "Report Quarter"
+        name: "quarter"
+        widget: "number"
+        value_type: "int"
+        required: false
+        min: 1
+        max: 4
+        step: 1
+      - label: "Report Files"
+        name: report_files
+        widget: list
+        field:
+          label: "Report File"
+          name: "{{slug}}"
+          widget: "file"
+          required: false
+          allow_multiple: false
+          media_folder: "/assets/uploads/foia-reports/{{report_year}}/{{report_type}}"
   - label: Meetings & Events
     name: meetings
     folder: _meetings/

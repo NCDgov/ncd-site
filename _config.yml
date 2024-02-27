@@ -69,6 +69,8 @@ collections:
   council-members:
     output: true
     permalink: /council-members/:name/
+  foia-reports:
+    output: false
   meetings:
     output: true
     permalink: /meeting/:name/
