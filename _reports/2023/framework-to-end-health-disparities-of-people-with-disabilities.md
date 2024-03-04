@@ -33,7 +33,7 @@ These foundational planks, which lay the structural framework for a comprehensiv
 
 **RELATED:**
 
-* [Vision and Priority Statement of Chairman Gallegos](http://ncd.gov/newsroom/2021/vision-and-priority-statement-ncd-chairman-gallegos) (2021)
-* *[The Impact of COVID-19 on People with Disabilities](http://ncd.gov/progressreport/2021/2021-progress-report)* (2021)
-* *[Enforceable Accessible Medical Equipment Standards: A Necessary Means to Address the Health Care Needs of People with Mobility Disabilities](http://ncd.gov/publications/2021/enforceable-accessible-medical-equipment-standards)* (2021)
-* *[The Current State of Health Care for People with Disabilities ](http://ncd.gov/publications/2009/Sept302009)*(2009)
+* [Vision and Priority Statement of Chairman Gallegos](https://www.ncd.gov/2021/02/16/vision-and-priority-statement-of-ncd-chairman-andres-gallegos/) (2021)
+* *[The Impact of COVID-19 on People with Disabilities](https://www.ncd.gov/report/an-extra/)* (2021)
+* *[Enforceable Accessible Medical Equipment Standards: A Necessary Means to Address the Health Care Needs of People with Mobility Disabilities](https://www.ncd.gov/report/eames-report/)* (2021)
+* *[The Current State of Health Care for People with Disabilities ](https://www.ncd.gov/report/the-current-state-of-health-care-for-people-with-disabilities/)*(2009)
