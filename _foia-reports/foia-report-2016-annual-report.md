@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016 Annual Report
+title: FY2016 Annual Report
 report_type: yearly
 report_year: 2016
 report_files:
