@@ -144,92 +144,39 @@ collections:
       - { label: "Name", name: "name", widget: "string" }
       - { label: "Excerpt", name: "excerpt", required: false, widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - label: Letters
-    name: letters
-    folder: _letters/
+  - label: Congressional Budget Justification Reports
+    name: budget_reports
+    folder: _budget-reports/
     create: true
-    slug: "{{date}}-{{slug}}"
-    summary: "*{{title}}* ... ({{date}})"
-    sortable_fields:
-      - date
-      - title
-      - policy_areas
-    view_groups:
-      - label: Year
-        field: date
-        pattern: \d{4}
-      - label: Categories
-        field: categories
-      - label: Policy Areas
-        field: policy_areas
+    slug: "budget-report-{{slug}}"
+    path: "{{slug}}"
     editor:
       preview: true
     fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
-      - { label: "Title", name: "title", widget: "string" }
-      - { name: "collection_name", widget: "hidden", default: "letters" }
-      - &categories {
-          label: "Categories",
-          name: "categories",
-          widget: "select",
-          required: false,
-          multiple: true,
-          options:
-            ["toolkits", "progress reports", "frameworks", "fact sheets"],
-        }
-      - &policy-areas {
-          label: "Policy Areas",
-          name: "policy_areas",
-          widget: "relation",
-          collection: "policy-areas",
-          search_fields: ["title"],
-          value_field: "title",
-          display_fields: ["title"],
-          multiple: true,
-          min: 0,
-          max: 100,
-          required: false,
-        }
-      - *press-release
-      - &thumbnail {
-          label: "Thumbnail",
-          name: "thumbnail",
-          hint: "Add an optional thumbnail image which is approximately 250px by 250px.",
-          widget: "image",
-          required: false,
-          choose_url: false,
-          media_folder: "/assets/uploads/thumbnails",
-          public_folder: "thumbnails",
-        }
-      - {
-          label: "Publish Date",
-          name: "date",
-          widget: "datetime",
-          format: "YYYY-MM-DD",
-          date_format: "YYYY-MM-DD",
-          time_format: false,
-        }
-      - *video
-      - &miscfiles {
-          label: "Miscellaneous 1",
-          name: "misc_files_1",
-          widget: "file",
-          required: false,
-          allow_multiple: false,
-          media_folder: "/assets/uploads/{{collection_name}}/{{year}}/{{slug}}",
-          public_folder: "{{collection_name}}/{{year}}/{{slug}}",
-        }
-      - {
-        <<: *miscfiles,
-        label: "Miscellaneous 2",
-        name: "misc_files_2",
-      }
-      - {
-        <<: *miscfiles,
-        label: "Miscellaneous 3",
-        name: "misc_files_3",
-      }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "post"
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Report Year"
+        name: "report_year"
+        widget: "number"
+        value_type: "int"
+        min: 1980
+        max: 2030
+        step: 1
+      - label: "Report Files"
+        name: report_files
+        widget: list
+        field:
+          label: "Report File"
+          name: "{{slug}}"
+          widget: "file"
+          required: false
+          allow_multiple: false
+          media_folder: "/assets/uploads/budget-reports/"
   - label: Council Members
     name: council-members
     folder: _council-members/
@@ -273,7 +220,16 @@ collections:
           widget: "string",
           required: true,
         }
-      - *thumbnail
+      - &thumbnail {
+          label: "Thumbnail",
+          name: "thumbnail",
+          hint: "Add an optional thumbnail image which is approximately 250px by 250px.",
+          widget: "image",
+          required: false,
+          choose_url: false,
+          media_folder: "/assets/uploads/thumbnails",
+          public_folder: "thumbnails",
+        }
       - {
           label: "Appearance Order",
           description: "The order you want the member to appear on the /council-member/ page",
@@ -409,6 +365,83 @@ collections:
           required: false
           allow_multiple: false
           media_folder: "/assets/uploads/foia-reports/{{report_year}}/{{report_type}}"
+  - label: Letters
+    name: letters
+    folder: _letters/
+    create: true
+    slug: "{{date}}-{{slug}}"
+    summary: "*{{title}}* ... ({{date}})"
+    sortable_fields:
+      - date
+      - title
+      - policy_areas
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
+      - label: Categories
+        field: categories
+      - label: Policy Areas
+        field: policy_areas
+    editor:
+      preview: true
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { name: "collection_name", widget: "hidden", default: "letters" }
+      - &categories {
+          label: "Categories",
+          name: "categories",
+          widget: "select",
+          required: false,
+          multiple: true,
+          options:
+            ["toolkits", "progress reports", "frameworks", "fact sheets"],
+        }
+      - &policy-areas {
+          label: "Policy Areas",
+          name: "policy_areas",
+          widget: "relation",
+          collection: "policy-areas",
+          search_fields: ["title"],
+          value_field: "title",
+          display_fields: ["title"],
+          multiple: true,
+          min: 0,
+          max: 100,
+          required: false,
+        }
+      - *press-release
+      - *thumbnail
+      - {
+          label: "Publish Date",
+          name: "date",
+          widget: "datetime",
+          format: "YYYY-MM-DD",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+        }
+      - *video
+      - &miscfiles {
+          label: "Miscellaneous 1",
+          name: "misc_files_1",
+          widget: "file",
+          required: false,
+          allow_multiple: false,
+          media_folder: "/assets/uploads/{{collection_name}}/{{year}}/{{slug}}",
+          public_folder: "{{collection_name}}/{{year}}/{{slug}}",
+        }
+      - {
+        <<: *miscfiles,
+        label: "Miscellaneous 2",
+        name: "misc_files_2",
+      }
+      - {
+        <<: *miscfiles,
+        label: "Miscellaneous 3",
+        name: "misc_files_3",
+      }
+      - { label: "Body", name: "body", widget: "markdown" }
   - label: Meetings & Events
     name: meetings
     folder: _meetings/

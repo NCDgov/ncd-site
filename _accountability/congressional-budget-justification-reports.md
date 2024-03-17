@@ -5,7 +5,18 @@ date: March 11, 2024
 redirect_from:
   - /accountability/congressional_budget
 ---
-### Fiscal Year 2025 Budget Justification
+
+## Reports by Fiscal Year
+
+{% assign budget_years = site.budget-reports | reverse %}
+
+{% for budget_year in budget_years %}
+  {% if budget_year and budget_year != nil %}
+    {% include budget-report.html item=budget_year %}
+  {% endif %}
+{% endfor %}
+
+<!-- ### Fiscal Year 2025 Budget Justification
 
 {% include download-file.html document_type="PDF" file_path="accountability/NCD-FY2025-Budget-Submission.pdf" %}
 
@@ -39,7 +50,7 @@ redirect_from:
 
 ### Fiscal Year 2017 Budget Justification
 
-{% include download-file.html document_type="DOC" file_path="accountability/budget-submission-fy2017.docx" %}
+{% include download-file.html document_type="DOC" file_path="accountability/budget-submission-fy2017.docx" %} -->
 
 <!--
 These docs do not exist.
