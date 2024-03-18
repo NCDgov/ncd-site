@@ -14,6 +14,7 @@ March 2024
    instructions for actions to be taken when Congress fails to enact either regular appropriations, a 
    continuing resolution, or needed supplemental, resulting in an interruption of fund availability. 
    In the absence of appropriations:\
+   \
    •  NCD officers may not incur any obligations that cannot lawfully be funded from prior 
    appropriations unless such obligations are otherwise authorized by law.
    \
@@ -21,8 +22,6 @@ March 2024
    functions, but funds may not be disbursed.
 2. **SCOPE:** This plan applies to all NCD personnel including the nine Special Government Employees 
    (private citizen Presidential and Congressional appointees.)
-
-
 3. **POLICY:** In order to execute an orderly shutdown, the following information is provided:\
    •  Estimated time to complete shutdown: One half-day;
    \
@@ -37,7 +36,7 @@ March 2024
    of shutdown status;
    \
    •  Director of Administration, Finance and Operations will notify all agency personnel of 
-   shutdownstatus and will initiate action to issue furlough notices and other instructions as 
+   shutdown status and will initiate action to issue furlough notices and other instructions as 
    appropriate;
    \
    •  Director of Administration, Finance and Operations will direct Contracting Officer's 
@@ -63,6 +62,8 @@ March 2024
    •  Agency personnel will be instructed to obtain information from news outlets for when a 
    continuing resolution or an FY 2024 appropriation has been approved and that they will be expected 
    to return to work on their next regularly scheduled workday.
+
+
 4. **REFERENCES:**
    \
    •  OMB Circular No. A-ll (2015), Section 124.2, pages 1-2
