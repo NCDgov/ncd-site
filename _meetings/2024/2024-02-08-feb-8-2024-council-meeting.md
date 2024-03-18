@@ -8,7 +8,7 @@ date: 2024-02-08
 press_release: https://www.ncd.gov/2024/02/01/ncd-requests-public-comment-on-accessible-ground-transportation-at-upcoming-meeting/
 misc_files_1: meetings/2024/feb-8-2024-council-meeting/usdot-disability-policy-priorities.pptx
 misc_files_2: meetings/2024/feb-8-2024-council-meeting/acs-disability-questions-briefing.pdf
-video_url: https://www.youtube.com/watch?v=tlAmPm0UW6U
+video_url: "https://www.youtube.com/watch?v=tlAmPm0UW6U&cc_load_policy=1 "
 ---
 *The Members of the National Council on Disability (NCD) held a quarterly business meeting on Thursday, February 8, 2024, 1:00 p.m. – 5:30 p.m., Eastern Standard Time (EST) via Zoom videoconference.* 
 
