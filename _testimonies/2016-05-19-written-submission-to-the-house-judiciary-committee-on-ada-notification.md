@@ -2,7 +2,6 @@
 layout: post
 title: Written Submission to the House Judiciary Committee on ADA Notification
 date: 2016-05-19
-tag: Testimonial
 ---
 *Submitted to the House Judiciary Subcommittee on the Constitution for a hearing "Examining Legislation to Promote the Effective Enforcement of the ADA’s Public Accommodation Provisions”*
 

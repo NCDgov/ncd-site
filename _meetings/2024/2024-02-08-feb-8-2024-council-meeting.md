@@ -9,8 +9,9 @@ press_release: https://www.ncd.gov/2024/02/01/ncd-requests-public-comment-on-acc
 misc_files_1: meetings/2024/feb-8-2024-council-meeting/usdot-disability-policy-priorities.pptx
 misc_files_2: meetings/2024/feb-8-2024-council-meeting/acs-disability-questions-briefing.pdf
 video_url: "https://www.youtube.com/watch?v=tlAmPm0UW6U&cc_load_policy=1 "
+video_caption_track: /assets/uploads/video-captions/meetings/feb-8-2024-council-meeting/video-captions-20240208.vtt
 ---
-*The Members of the National Council on Disability (NCD) held a quarterly business meeting on Thursday, February 8, 2024, 1:00 p.m. – 5:30 p.m., Eastern Standard Time (EST) via Zoom videoconference.* 
+*The Members of the National Council on Disability (NCD) held a quarterly business meeting on Thursday, February 8, 2024, 1:00 p.m. – 5:30 p.m., Eastern Standard Time (EST) via Zoom videoconference.*
 
 **MATTERS TO BE CONSIDERED:** Following welcome remarks and introductions, the Council will remember Chairman Andrés Gallegos, who passed away in December; the Executive Committee will provide their report; followed by the Acting Chair’s report; Council Member community report-outs; a presentation on proposed changes to the disability questions in the Census Bureau’s American Community Survey; a break; followed by a panel on ground transportation for wheelchair users; a public comment session regarding ground transportation for wheelchair users;  policy project updates, including a summary and vote on NCD’s Germline Editing report; Council Member training on time records; and convening a short closed session, before adjourning. The end of the meeting will be closed to the public and will be conducted to discuss internal personnel rules and practices, pursuant to paragraph (c)(2) of the Sunshine Act, and in accordance with a determination made by the NCD Acting Chair.
 
@@ -48,7 +49,7 @@ video_url: "https://www.youtube.com/watch?v=tlAmPm0UW6U&cc_load_policy=1 "
 
 **PUBLIC COMMENT:** Your participation during the public comment period provides an opportunity for us to hear from you -- individuals, businesses, providers, educators, parents and advocates. Your comments are important in bringing to the Council’s attention and issues and priorities of the disability community.
 
-For the February 8 Council meeting, NCD will have a public comment session to receive input on experiences with ground transportation. 
+For the February 8 Council meeting, NCD will have a public comment session to receive input on experiences with ground transportation.
 
 Please share your experience(s) in obtaining wheelchair accessible taxis or rideshares (e.g. Uber, Lyft).
 

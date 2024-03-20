@@ -4,7 +4,6 @@ title: Written Submission to the Record for the Senate Judiciary Committee on
   Law Enforcement Responses to People with Disabilities
 collection_name: newsroom
 date: 2014-04-29
-tag: Testimonial
 ---
 
 

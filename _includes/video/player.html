@@ -1,5 +1,7 @@
 {% assign file_type = include.video_url | split: "." | last %}
 
+{% assign player_id = include.video_url | escape | slugify %}
+
 {% if file_type == "mp4" %}
     {% assign type = "video/mp4" %}
 {% elsif file_type == "webm" %}
@@ -15,7 +17,7 @@
 {% endif %}
 
 <video
-    id="my-player"
+    id="{{ player_id }}"
     class="video-js vjs-default-skin vjs-fluid"
     controls
     fluid
@@ -24,4 +26,7 @@
     {% endif %}
     preload="auto"
     data-setup='{ "sources": [{ "type": "{{ type }}", "src": "{{ include.video_url }}"}] }'>
+    {% if include.video_caption_track && include.video_caption_track != '' && include.video_caption_track != nil %}
+        <track kind="captions" src="{{ site.baseurl }}{{include.video_caption_track}}" srclang="en" label="English" default>
+    {% endif %}
 </video>

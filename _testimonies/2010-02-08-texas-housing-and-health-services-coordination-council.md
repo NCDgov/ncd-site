@@ -3,11 +3,10 @@ layout: post
 title: Texas Housing and Health Services Coordination Council
 collection_name: newsroom
 date: 2010-02-08
-tag: Testimonial
 policy_areas:
   - Health Care
 ---
-## Texas Housing and Health Services Coordination Council Testimony from Pat Pound, National Council on Disability 
+## Texas Housing and Health Services Coordination Council Testimony from Pat Pound, National Council on Disability
 
 ## February 8, 2010
 

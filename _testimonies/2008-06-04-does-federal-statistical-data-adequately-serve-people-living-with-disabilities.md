@@ -4,7 +4,6 @@ title: '"Does Federal Statistical Data Adequately Serve People Living with
   Disabilities?"'
 collection_name: newsroom
 date: 2008-06-04
-tag: Testimonial
 ---
 #### Testimony of Ms. Pat Pound, NCD Member
 

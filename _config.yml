@@ -88,6 +88,9 @@ collections:
   reports:
     output: true
     permalink: /report/:name/
+  testimonies:
+    output: true
+    permalink: /testimonies/:name/
 
 permalink: pretty
 

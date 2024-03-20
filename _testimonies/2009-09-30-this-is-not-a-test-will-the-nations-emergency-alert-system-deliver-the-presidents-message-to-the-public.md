@@ -4,7 +4,6 @@ title: "\"This is NOT a Test: Will the Nation's Emergency Alert System Deliver
   the President's Message to the Public?\""
 collection_name: newsroom
 date: 2009-09-30
-tag: Testimonial
 policy_areas:
   - Emergency Management
 ---

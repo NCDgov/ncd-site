@@ -3,7 +3,6 @@ layout: post
 title: Texas Housing and Health Services Coordination Council
 collection_name: newsroom
 date: 2010-02-08
-tag: Testimonial
 policy_areas:
   - Housing
   - Health Care

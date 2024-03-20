@@ -4,7 +4,6 @@ title: Testimony of Jeff Rosen before the Maryland Senate on the Burden of Proof
   in IDEA Due Process Hearings
 collection_name: newsroom
 date: 2013-02-28
-tag: Testimonial
 policy_areas:
   - Education
 ---

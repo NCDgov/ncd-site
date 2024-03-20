@@ -4,7 +4,6 @@ title: Statement for the Record - Senate Foreign Relations Committee Hearing on
   the U.N. Convention on the Rights of Persons with Disabilities
 collection_name: newsroom
 date: 2012-07-12
-tag: Testimonial
 policy_areas:
   - CRPD
 ---
