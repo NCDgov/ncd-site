@@ -9,6 +9,7 @@ image_alt_text: Andrés Gallegos, a hispanic male with gray hair wearing dark
   glasses and suit with white shirt and yellow tie, and an NCD lapel pin. Behind
   him is a sky background and U.S. flag.
 video_url: https://www.youtube.com/watch?v=9dgqhR1EOLE
+video_caption_track: /assets/uploads/video-captions/newsroom/ncd-colleagues-remember-andres-gallegos/gallegos-remembrance-captions.vtt
 ---
 **For Immediate Release**
 
