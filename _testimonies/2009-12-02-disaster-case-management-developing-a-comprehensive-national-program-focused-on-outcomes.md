@@ -4,7 +4,6 @@ title: "Disaster Case Management: Developing a Comprehensive National Program
   Focused on Outcomes"
 collection_name: newsroom
 date: 2009-12-02
-tag: Testimonial
 policy_areas:
   - Emergency Management
 ---

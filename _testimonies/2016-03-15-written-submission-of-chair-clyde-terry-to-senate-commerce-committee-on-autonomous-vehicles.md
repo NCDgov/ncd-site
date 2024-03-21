@@ -3,7 +3,6 @@ layout: post
 title: Written Submission of Chair Clyde Terry to Senate Commerce Committee on
   Autonomous Vehicles
 date: 2016-03-15
-tag: Testimonial
 ---
 **Testimony of Clyde Terry  \
 Chair, National Council on Disability\

@@ -4,7 +4,6 @@ title: Testimony of Robyn Powell, NCD Attorney Advisor, before the Massachusetts
   Joint Committee on the Judiciary on Rights of Parents with Disabilities
 collection_name: newsroom
 date: 2014-04-09
-tag: Testimonial
 ---
 Testimony of Robyn Powell\
 Attorney Advisor, National Council on Disability

@@ -5,7 +5,6 @@ title: Statement for the Record - House Judiciary Subcommittee on the
   and Services) Act"
 collection_name: newsroom
 date: 2012-06-27
-tag: Testimonial
 policy_areas:
   - Civil Rights
 ---

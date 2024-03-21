@@ -4,7 +4,6 @@ title: Statement for the Record - Senate Armed Services Committee Subcommittee
   on Personnel Hearing on Support for Military Families with Special Needs
 collection_name: newsroom
 date: 2012-06-20
-tag: Testimonial
 ---
 **Statement for the Record**
 

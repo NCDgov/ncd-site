@@ -4,7 +4,6 @@ title: "Emergency Management and People with Disabilities: Before, During, and
   After Congressional Briefing"
 collection_name: newsroom
 date: 2005-11-10
-tag: Testimonial
 policy_areas:
   - Emergency Management
 document: documents/ncd-emergency-management-disabilities-congressional-briefing-2005.pdf

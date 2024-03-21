@@ -3,7 +3,6 @@ layout: post
 title: NCD submits testimony for hearing on voter verification
 collection_name: newsroom
 date: 2004-06-21
-tag: Testimonial
 policy_areas:
   - Civil Rights
 document: documents/ncd-testimony-hearing-voter-verification-2004.pdf

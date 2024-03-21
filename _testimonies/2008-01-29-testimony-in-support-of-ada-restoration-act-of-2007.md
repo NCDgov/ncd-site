@@ -3,7 +3,6 @@ layout: post
 title: Testimony in Support of ADA Restoration Act of 2007
 collection_name: newsroom
 date: 2008-01-29
-tag: Testimonial
 ---
 January 29, 2008
 

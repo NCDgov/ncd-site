@@ -4,7 +4,6 @@ title: Americans with Disabilities Act at 20 - Celebrating Our Progress,
   Affirming Our Commitment
 collection_name: newsroom
 date: 2010-07-22
-tag: Testimonial
 ---
 **Testimony of Jonathan M. Young, Ph.D., J.D.**
 

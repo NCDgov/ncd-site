@@ -4,7 +4,6 @@ title: "Caring for Special Needs during Disasters: What's Being Done for
   Vulnerable Populations?"
 collection_name: newsroom
 date: 2010-06-15
-tag: Testimonial
 policy_areas:
   - Emergency Management
 ---

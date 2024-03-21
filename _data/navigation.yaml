@@ -22,7 +22,7 @@ primary:
       - name: Reports
         url: /reports/
       - name: Testimony
-        url: /Testimony
+        url: /testimony
       - name: Toolkits
         url: /toolkits/
       - name: Progress Reports

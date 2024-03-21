@@ -4,7 +4,6 @@ title: Testimony of Carol Jean Reynolds, Neurological Devices Panel of the
   Medical Devices Advisory Committee
 collection_name: newsroom
 date: 2011-01-27
-tag: Testimonial
 policy_areas:
   - Health Care
 ---

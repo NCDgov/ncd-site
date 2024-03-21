@@ -5,7 +5,6 @@ title: "Finding the Gaps: A Comparative Analysis of Disability Laws in the
   Disabilities (CRPD), Rehabilitation International (RI) 21st World Congress"
 collection_name: newsroom
 date: 2008-08-26
-tag: Testimonial
 policy_areas:
   - CRPD
 ---

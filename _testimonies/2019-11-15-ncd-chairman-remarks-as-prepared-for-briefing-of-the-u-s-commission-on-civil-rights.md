@@ -3,7 +3,6 @@ layout: post
 title: NCD Chairman remarks as prepared for briefing of the U.S. Commission on
   Civil Rights
 date: 2019-11-15
-tag: Testimonial
 policy_areas:
   - Employment
 ---

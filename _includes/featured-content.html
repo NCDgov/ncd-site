@@ -13,7 +13,7 @@
         <div class="tablet:grid-col-4 grid-col-12">
           <div class="height-full display-flex flex-row flex-align-center">
             {% if item.video_url and item.video_url != nil and item.video_url !=
-            '' %} {% include video/player.html video_url=item.video_url %} {%
+            '' %} {% include video/player.html video_url=item.video_url video_caption_track=item.video_caption_track %} {%
             elsif item.image %}
             <img
               alt="{{ item.image_alt_text }}"

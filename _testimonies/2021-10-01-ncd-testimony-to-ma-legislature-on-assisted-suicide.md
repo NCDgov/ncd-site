@@ -2,11 +2,11 @@
 layout: post
 title: NCD Testimony to MA Legislature on Assisted Suicide
 date: 2021-10-01
-tag: Testimonial
 policy_areas:
   - Health Care
   - Civil Rights
 ---
+
 **ORAL TESTIMONY** 
 
 **Anne Sommers McIntosh** 

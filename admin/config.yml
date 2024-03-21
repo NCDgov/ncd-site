@@ -75,6 +75,15 @@ collections:
           widget: "string",
           required: false,
         }
+      - &videocaptions {
+          label: "Video Caption Track File (VTT File Format)",
+          name: "video_caption_track",
+          hint: "Upload the video's caption track files. Only accepts `.vtt` format",
+          widget: "file",
+          required: false,
+          allow_multiple: false,
+          media_folder: "/assets/uploads/video-captions/{{collection_name}}/{{slug}}",
+        }
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Adhoc Pages
     name: adhoc-pages
@@ -130,6 +139,7 @@ collections:
           hint: "Enter the URL or relative path for the related press release or news post.",
         }
       - *video
+      - *videocaptions
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Committees & Communities
     name: committees-communities
@@ -422,6 +432,7 @@ collections:
           time_format: false,
         }
       - *video
+      - *videocaptions
       - &miscfiles {
           label: "Miscellaneous 1",
           name: "misc_files_1",
@@ -532,6 +543,7 @@ collections:
         name: "misc_files_3",
       }
       - *video
+      - *videocaptions
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Navigation for Site
     name: navigation
@@ -603,9 +615,6 @@ collections:
       - label: "Speech"
         field: tag
         pattern: "Speech"
-      - label: "Testimonial"
-        field: tag
-        pattern: "Testimonial"
       - label: "Newsletter"
         field: tag
         pattern: "Newsletter"
@@ -636,7 +645,6 @@ collections:
             [
               "Funding Opportunities",
               "Speech",
-              "Testimonial",
               "Newsletter",
               "Press Release",
             ],
@@ -679,6 +687,7 @@ collections:
         }
       - *thumbnail
       - *video
+      - *videocaptions
       - *miscfiles
       - {
         <<: *miscfiles,
@@ -744,6 +753,7 @@ collections:
       - *press-release
       - *thumbnail
       - *video
+      - *videocaptions
       - {
           label: "Report Document",
           name: "document",
@@ -848,6 +858,7 @@ collections:
         }
       - *thumbnail
       - *video
+      - *videocaptions
       - *miscfiles
       - {
         <<: *miscfiles,
@@ -905,7 +916,92 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Description", name: "description", widget: "string" }
           - *video
+          - *videocaptions
           - { label: "Body", name: "body", widget: "markdown" }
+  - label: Testimony
+    name: testimony
+    folder: _testimonies/
+    create: true
+    slug: "{{date}}-{{slug}}"
+    summary: "*{{title}}* ... [{{tag}}] ... ({{date}})"
+    sortable_fields:
+      - date
+      - title
+      - policy_areas
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
+      - label: Categories
+        field: categories
+      - label: Policy Areas
+        field: policy_areas
+    editor:
+      preview: true
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { name: "collection_name", widget: "hidden", default: "newsroom" }
+      - {
+          label: "Publish Date",
+          name: "date",
+          widget: "datetime",
+          format: "YYYY-MM-DD",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+        }
+      - { label: "Excerpt", name: "excerpt", required: false, widget: "text" }
+      - { label: "Permalink", name: "permalink", required: false }
+      - *policy-areas
+      - *categories
+      - {
+          label: "Document",
+          name: "document",
+          widget: "file",
+          required: false,
+          allow_multiple: false,
+          media_folder: "/assets/uploads/documents",
+          public_folder: "documents",
+        }
+      - {
+          label: "Audio",
+          name: "audio",
+          widget: "file",
+          required: false,
+          allow_multiple: false,
+          media_folder: "/assets/uploads/audios",
+          public_folder: "audios",
+        }
+      - {
+          label: "Image",
+          name: "image",
+          widget: "image",
+          required: false,
+          choose_url: false,
+          media_folder: "/assets/uploads/images",
+          public_folder: "images",
+        }
+      - {
+          label: "Image Alternative Tag",
+          name: "image_alt_text",
+          widget: "string",
+          required: false,
+        }
+      - *thumbnail
+      - *video
+      - *videocaptions
+      - *miscfiles
+      - {
+        <<: *miscfiles,
+        label: "Miscellaneous 2",
+        name: "misc_files_2",
+      }
+      - {
+        <<: *miscfiles,
+        label: "Miscellaneous 3",
+        name: "misc_files_3",
+      }
+      - { label: "Body", name: "body", widget: "markdown" }
   - label: Widgets Side Navigation
     name: widgets
     files:

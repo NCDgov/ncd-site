@@ -4,7 +4,6 @@ title: NCD Practical Discussions on International Convention on the Rights of
   Persons with Disabilities
 collection_name: newsroom
 date: 2006-10-24
-tag: Testimonial
 policy_areas:
   - CRPD
   - International
