@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 2018 Q2 Report
+title: FY2018 Q2 Report
 report_type: quarterly
-quarter: 2
 report_year: 2018
+quarter: 2
 report_files:
   - /assets/uploads/foia-reports/2018/quarterly/ncd-2018-q2.zip
 ---
