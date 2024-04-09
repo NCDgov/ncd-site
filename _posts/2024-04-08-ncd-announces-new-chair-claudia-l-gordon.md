@@ -2,7 +2,7 @@
 layout: post
 title: NCD announces new Chair Claudia L. Gordon
 collection_name: newsroom
-date: 2024-04-08
+date: 2024-04-09
 excerpt: The National Council on Disability (NCD) – an independent, nonpartisan
   federal agency that advises the President, Congress, and other federal
   agencies on disability policy – announces Claudia L. Gordon, Esq., of
