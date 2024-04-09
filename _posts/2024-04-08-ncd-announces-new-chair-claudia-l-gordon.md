@@ -9,6 +9,8 @@ excerpt: The National Council on Disability (NCD) – an independent, nonpartisa
   Washington, D.C., as its new Chair.
 tag: Press Release
 image: images/claudia-gordon-headshot.jpg
+video_url: Black woman with teal top with elbows on top of a white box and
+  interlocked fingers under her chin. There is a tan background.
 ---
 FOR IMMEDIATE RELEASE                                     
 
