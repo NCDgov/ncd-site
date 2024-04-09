@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2018 Chief Officer Report
+title: FY2018 Chief Officer Report
 report_type: chief-officer
 report_year: 2018
 report_files:
