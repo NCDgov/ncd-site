@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 2017 Q3 Report
+title: FY2017 Q3 Report
 report_type: quarterly
-quarter: 3
 report_year: 2017
+quarter: 3
 report_files:
   - /assets/uploads/foia-reports/2017/quarterly/ncd-2017-q3.zip
 ---
