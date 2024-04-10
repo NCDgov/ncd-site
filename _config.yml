@@ -76,6 +76,8 @@ collections:
   meetings:
     output: true
     permalink: /meeting/:name/
+  no-fear-act:
+    output: false
   policy-areas:
     output: false
     permalink: /policy-areas/:name/
