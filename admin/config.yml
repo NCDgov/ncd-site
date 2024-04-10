@@ -775,6 +775,49 @@ collections:
         name: "misc_files_3",
       }
       - { label: "Body", name: "body", widget: "markdown" }
+  - label: No Fear Act
+    name: no-fear-act
+    folder: _no-fear-act/
+    create: true
+    slug: "no-fear-act-{{slug}}"
+    summary: "*{{title}}*"
+    sortable_fields:
+      - date
+      - title
+    editor:
+      preview: true
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string" }
+      - label: "Report Type"
+        name: "report_type"
+        widget: "select"
+        options: ["yearly", "quarterly"]
+      - label: "Report Year"
+        name: "report_year"
+        widget: "number"
+        value_type: "int"
+        min: 1980
+        max: 2030
+        step: 1
+      - label: "Report Quarter"
+        name: "quarter"
+        widget: "number"
+        value_type: "int"
+        required: false
+        min: 1
+        max: 4
+        step: 1
+      - label: "Report Files"
+        name: report_files
+        widget: list
+        field:
+          label: "Report File"
+          name: "{{slug}}"
+          widget: "file"
+          required: false
+          allow_multiple: false
+          media_folder: "/assets/uploads/no-fear-act/{{report_year}}/{{report_type}}"
   - label: Reports
     name: reports
     folder: _reports/

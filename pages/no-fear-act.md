@@ -1,41 +1,37 @@
 ---
-layout: post
+layout: single-page
+published: true
 title: No Fear Act
-date: April 8, 2024
+permalink: /no-fear-act/
 redirect_from:
   - /Accountability/No_Fear_Act
+  - /accountability/no-fear-act
 ---
-No FEAR Act data, updated April 8, 2024
 
-## Reports to Congress
+{% assign foia_years = site.no-fear-act | map: "report_year" | reverse | uniq %}
 
-**Annual Reports**
+{% for year in foia_years %}
+  {% assign year_reports = site.no-fear-act | where: "report_year", year %}
 
-FY 2023 Report (\[PDF]({{ site.baseUrl }}/assets/uploads/docs/national-council-on-disability-no-fear-act-report-fy23.pdf)) (\[DOC]({{ site.baseUrl }}/assets/uploads/docs/national-council-on-disability-no-fear-act-report-fy2023.docx))\
-FY 2022 Report (\[PDF]({{ site.baseUrl }}/assets/uploads/docs/national-council-on-disability-no-fear-act-report-fy22.pdf)) (\[DOC]({{ site.baseUrl }}/assets/uploads/docs/national-council-on-disability-no-fear-act-report-fy2022.docx))\
-FY 2021 Report (\[PDF]({{ site.baseUrl }}/assets/uploads/docs/national-council-on-disability-no-fear-act-report-fy21.pdf)) (\[DOC]({{ site.baseUrl }}/assets/uploads/docs/national-council-on-disability-no-fear-act-report-fy2021.docx))\
-FY 2020 Report (\[PDF]({{ site.baseUrl }}/assets/uploads/docs/national-council-on-disability-no-fear-act-report-fy20.pdf)) (\[DOC]({{ site.baseUrl }}/assets/uploads/docs/national-council-on-disability-no-fear-act-report-fy2020.docx))\
-FY 2019 Report (\[PDF]({{ site.baseUrl }}/assets/uploads/docs/national-council-on-disability-no-fear-act-report-fy2019.pdf)) (\[DOC]({{ site.baseUrl }}/assets/uploads/docs/national-council-on-disability-no-fear-act-report-fy2019.docx))\
-FY 2018 Report (\[PDF]({{ site.baseUrl }}/assets/uploads/docs/national-council-on-disability-no-fear-act-report-fy2018.pdf)) (\[DOC]({{ site.baseUrl }}/assets/uploads/docs/national-council-on-disability-no-fear-act-report-fy2018.docx))
+  {% assign annual = year_reports | where: "report_type", "yearly" %}
+  {% assign annual_length = annual | size %}
 
-**Quarterly Reports**
+  {% assign quarter = year_reports | where: "report_type", "quarterly" | sort: "quarter" %}
+  {% assign quarter_length = quarter | size %}
 
-FY2024 Q1  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/docs/ncd-no-fear-act-fy24-q1.pdf))
+  <h2>{{ year }} Reports</h2>
 
-FY2023 Q4  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/docs/ncd-no-fear-act-fy23-q4.pdf))\
-FY2023 Q3  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/docs/ncd-no-fear-act-fy23-q3.pdf))\
-FY2023 Q2  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/docs/ncd-no-fear-act-fy23-q2.pdf))\
-FY2023 Q1 Report (\[PDF]({{ site.baseUrl }}/assets/uploads/docs/ncd-no-fear-act-fy23-q1.pdf))\
-\
-FY2022 Q4  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/docs/ncd-no-fear-act-fy22-q4.pdf))\
-FY2022 Q3  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/docs/ncd-no-fear-act-fy22-q3.pdf))\
-FY2022 Q2  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/docs/ncd-no-fear-act-fy22-q2.pdf))\
-FY2022 Q1  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/docs/ncd-no-fear-act-fy22-q1.pdf))\
-\
-FY2021 Q4  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/docs/ncd-no-fear-act-fy21-q4.pdf))\
-FY2021 Q3  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/docs/ncd-no-fear-act-fy21-q3.pdf))\
-FY2021 Q2  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/docs/ncd-no-fear-act-fy21-q2.pdf))\
-FY2021 Q1 Report (\[PDF]({{ site.baseUrl }}/assets/uploads/docs/ncd-no-fear-act-fy21-q1.pdf))
+  <div>
+    {% if annual and annual != nil and annual_length > 0 %}
+      {% include foia-report-list.html title="Annual Report" items=annual %}
+    {% endif %}
+
+    {% if quarter and quarter != nil and quarter_length > 0 %}
+      {% include foia-report-list.html title="Quarterly Reports" items=quarter %}
+    {% endif %}
+  </div>
+
+{% endfor %}
 
 ## **Notice**
 
