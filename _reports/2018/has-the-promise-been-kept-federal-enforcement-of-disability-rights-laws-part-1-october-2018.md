@@ -10,8 +10,8 @@ policy_areas:
   - Technology
 categories:
   - progress reports
-word_document: ""
-pdf_document: ""
+word_document: reports/2018/ncd-2018-progress-report-federal-enforcement.docx
+pdf_document: reports/2018/ncd-2018-progress-report-federal-enforcement.pdf
 image: images/ncd_progress_report_2018_coversm.jpg
 image_alt_text: U.S. flag background with silhouette of capital buildings in
   blue. NCD seal below with title of report.
