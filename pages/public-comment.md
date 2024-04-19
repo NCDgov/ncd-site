@@ -11,16 +11,22 @@ Your participation during the public comment period provides an opportunity for 
 
 **Next Public Comment Opportunity:**
 
-Thursday, February 8, 2024 during NCD's Council Meeting via Zoom.
+Thursday, May 9, 2024 during NCD's Council Meeting via Zoom.
 
 4:00 – 4:30 p.m. – Ground Transportation Experiences Public Comment 
 
-Please share your experience(s) in obtaining wheelchair accessible taxis or rideshares (e.g. Uber, Lyft).
+Please share your experiences and/or knowledge on the accessibility of municipal/county or private recreation facilities regarding –
 
-* If you requested a wheelchair accessible van (WAV) through a taxi company, did the company have a WAV? If the company did not have WAVs in its fleet, did the taxi service offer to provide you a WAV through a different company? Was the price comparable to a non-accessible taxi?
-* If you requested a WAV from a rideshare company, did the company have a WAV? If not, were you referred to a service that did? Was the price comparable to a non-accessible rideshare?
-* Have you filed a complaint with the U.S. Department of Justice or the U.S. Department of Transportation about discrimination by a taxi company or a rideshare regarding lack of WAVs? If so, what was the result?
-* Is paratransit available in your neighborhood? What are the pros and cons of using this service? What should be changed?
+* Buildings (accessibility of buildings, locker rooms, weight rooms, exercise areas)
+* Fitness equipment (exercise machines, weight machines)
+* Exercise classes (integrated classes, modifications)
+* Swimming facilities (pool lifts, entry ramps)
+* Other accessibility comments on private or federally financed recreation facilities
+
+NCD also continues to seek public comment on ground transportation. Please provide comments about –
+
+* The accessibility of rental cars (reservations, hand-controls, cars available for rental)
+* The accessibility of hotel shuttles or other public shuttles
 
 Information on our Council meeting is available on our [Upcoming Event page](https://www.ncd.gov/meeting/2024-02-08-feb-8-2024-council-meeting/).
 
