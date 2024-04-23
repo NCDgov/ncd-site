@@ -11,7 +11,7 @@ The Members of the National Council on Disability (NCD) will hold a quarterly bu
 
 To register for the Zoom webinar, please use the following URL:
 
-[https://www.zoomgov.com/webinar/register/WN_C-wldbB6SKedo9Ap4o6k-Q#/registration](https://www.zoomgov.com/webinar/register/WN_C-wldbB6SKedo9Ap4o6k-Q%23/registration%20).
+<https://www.zoomgov.com/webinar/register/WN_C-wldbB6SKedo9Ap4o6k-Q#/registration>.
 
 In the event of audio disruption or failure, attendees can follow the meeting by accessing the Communication Access Realtime Translation (CART) link provided. CART is text-only translation that occurs real time and is not an exact transcript.
 
