@@ -12,7 +12,7 @@ policy_areas:
 
 April 23, 2024
 
-**W﻿ASHINGTON--**Today the National Council on Disability released the following statement regarding Centers for Medicare & Medicaid Services (CMS) new rule on home and community based services (HCBS):
+**W﻿ASHINGTON--**Today the National Council on Disability released the following statement regarding the Centers for Medicare & Medicaid Services (CMS) new rule on home and community based services (HCBS):
 
 “NCD applauds the Biden Administration’s systemic investment in home and community based services and strengthening the direct care workforce. The CMS Access Rule in particular is necessary for people with disabilities who rely on the direct care workforce for inclusion in the community.”
 
