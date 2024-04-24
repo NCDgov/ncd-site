@@ -375,6 +375,91 @@ collections:
           required: false
           allow_multiple: false
           media_folder: "/assets/uploads/foia-reports/{{report_year}}/{{report_type}}"
+  - label: Footer Links
+    name: footer_links
+    files:
+      - label: Footer Links
+        name: footer_links
+        file: _data/footer_links.yaml
+        editor:
+          preview: true
+        fields:
+          - label: "Budget and Performance"
+            name: "budget"
+            widget: "object"
+            required: false
+            fields:
+              - label: "Name"
+                name: "name"
+                widget: "string"
+              - label: "Links"
+                name: "children"
+                widget: "list"
+                required: false
+                fields:
+                  - label: "Name"
+                    name: "name"
+                    widget: "string"
+                  - label: "Url"
+                    name: "url"
+                    widget: "string"
+          - label: "Resources"
+            name: "resources"
+            widget: "object"
+            required: false
+            fields:
+              - label: "Name"
+                name: "name"
+                widget: "string"
+              - label: "Links"
+                name: "children"
+                widget: "list"
+                required: false
+                fields:
+                  - label: "Name"
+                    name: "name"
+                    widget: "string"
+                  - label: "Url"
+                    name: "url"
+                    widget: "string"
+          - label: "Agency Governance"
+            name: "governance"
+            widget: "object"
+            required: false
+            fields:
+              - label: "Name"
+                name: "name"
+                widget: "string"
+              - label: "Links"
+                name: "children"
+                widget: "list"
+                required: false
+                fields:
+                  - label: "Name"
+                    name: "name"
+                    widget: "string"
+                  - label: "Url"
+                    name: "url"
+                    widget: "string"
+          - label: "Policies / Statements"
+            name: "policies"
+            widget: "object"
+            required: false
+            fields:
+              - label: "Name"
+                name: "name"
+                widget: "string"
+              - label: "Links"
+                name: "children"
+                widget: "list"
+                required: false
+                fields:
+                  - label: "Name"
+                    name: "name"
+                    widget: "string"
+                  - label: "Url"
+                    name: "url"
+                    widget: "string"
   - label: Letters
     name: letters
     folder: _letters/

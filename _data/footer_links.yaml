@@ -1,0 +1,44 @@
+budget:
+  name: Budget and Performance
+  children:
+    - name: Congressional Budget Justification
+      url: /accountability/congressional-budget-justification-reports/
+    - name: Financial Audits
+      url: /accountability/financial-audit-reports/
+    - name: Buy American Act
+      url: /accountability/buy-american-act-reports/
+    - name: Government Performance and Results Act
+      url: /accountability/government-performance-and-results-act-reports/
+resources:
+  name: Resources
+  children:
+    - name: Bylaws
+      url: /accountability/ncd-bylaws/
+    - name: Strategic Plan
+      url: /accountability/ncd-strategic-plan/
+    - name: Authorizing Statute
+      url: /about/authorizing-statute/
+governance:
+  name: Agency Governance
+  children:
+    - name: News
+      url: /newsroom/
+    - name: FOIA
+      url: /foia/
+    - name: Contact NCD
+      url: /contact/
+    - name: Press
+      url: /about/
+    - name: Subscribe
+      url: /subscribe/
+policies:
+  name: Policies / Statements
+  children:
+    - name: No FEAR Act Data
+      url: /accountability/no-fear-act/
+    - name: Vulnerability Disclosure Policy
+      url: /accountability/vulnerability-disclosure-policy/
+    - name: View accessibility statement
+      url: /accessibility/
+    - name: View Equity Action Plan
+      url: /accountability/ncd-equity-action-plan/

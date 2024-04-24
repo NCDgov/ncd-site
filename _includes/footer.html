@@ -3,141 +3,63 @@
     <div class="grid-container">
       <div class="grid-row grid-gap padding-top-6 padding-bottom-4">
         <div class="tablet:grid-col-3">
-          <h4>Budget and Performance</h4>
+          <h4>{{ site.data.footer_links.budget.name }}</h4>
           <ul class="add-list-reset">
+            {% for item in site.data.footer_links.budget.children %}
             <li>
               <a
                 class="usa-footer__secondary-link"
-                href="{{ site.baseurl }}/accountability/congressional-budget-justification-reports/"
+                href="{{ site.baseurl }}{{item.url}}"
               >
-                Congressional Budget Justification
-              </a
-              >
-            </li>
-            <li>
-              <a
-                class="usa-footer__secondary-link"
-                href="{{ site.baseurl }}/accountability/financial-audit-reports/"
-              >
-                Financial Audits
+               {{ item.name }}
               </a>
             </li>
-            <li>
-              <a
-                class="usa-footer__secondary-link"
-                href="{{ site.baseurl }}/accountability/buy-american-act-reports/"
-              >
-                Buy American Act
-              </a>
-            </li>
-            <li>
-              <a
-                class="usa-footer__secondary-link"
-                href="{{ site.baseurl }}/accountability/government-performance-and-results-act-reports/"
-              >
-                Government Performance and Results Act
-              </a>
-            </li>
-
+            {% endfor %}
           </ul>
         </div>
         <div class="tablet:grid-col-3">
-          <h4>Agency Governance</h4>
+          <h4>{{ site.data.footer_links.resources.name }}</h4>
           <ul class="add-list-reset">
+            {% for item in site.data.footer_links.resources.children %}
             <li>
               <a
                 class="usa-footer__secondary-link"
-                href="{{ site.baseurl }}/accountability/ncd-bylaws/"
-                >Bylaws</a
+                href="{{ site.baseurl }}{{item.url}}"
               >
+               {{ item.name }}
+              </a>
             </li>
-            <li>
-              <a
-                class="usa-footer__secondary-link"
-                href="{{ site.baseurl }}/accountability/ncd-strategic-plan/"
-                >Strategic Plan</a
-              >
-            </li>
-            <li>
-              <a
-                class="usa-footer__secondary-link"
-                href="{{ site.baseurl }}/about/authorizing-statute/"
-                >Authorizing Statute</a
-              >
-            </li>
+            {% endfor %}
           </ul>
         </div>
         <div class="tablet:grid-col-3">
-          <h4>Resources</h4>
+          <h4>{{ site.data.footer_links.governance.name }}</h4>
           <ul class="add-list-reset">
+            {% for item in site.data.footer_links.governance.children %}
             <li>
               <a
                 class="usa-footer__secondary-link"
-                href="{{ site.baseurl }}/newsroom/"
-                >News</a
+                href="{{ site.baseurl }}{{item.url}}"
               >
+               {{ item.name }}
+              </a>
             </li>
-            <li>
-              <a
-                class="usa-footer__secondary-link"
-                href="{{ site.baseurl }}/foia/"
-                >FOIA</a
-              >
-            </li>
-            <li>
-              <a
-                class="usa-footer__secondary-link"
-                href="{{ site.baseurl }}/contact/"
-                >Contact NCD</a
-              >
-            </li>
-            <li>
-              <a
-                class="usa-footer__secondary-link"
-                href="{{ site.baseurl }}/about/"
-                >Press</a
-              >
-            </li>
+            {% endfor %}
           </ul>
         </div>
         <div class="tablet:grid-col-3">
-          <h4>Policies / Statements</h4>
+          <h4>{{ site.data.footer_links.policies.name }}</h4>
           <ul class="add-list-reset">
+            {% for item in site.data.footer_links.policies.children %}
             <li>
               <a
                 class="usa-footer__secondary-link"
-                href="{{ site.baseurl }}/accountability/no-fear-act/"
-                >No FEAR Act Data</a
+                href="{{ site.baseurl }}{{item.url}}"
               >
+               {{ item.name }}
+              </a>
             </li>
-            <li>
-              <a
-                class="usa-footer__secondary-link"
-                href="{{ site.baseurl }}/accountability/vulnerability-disclosure-policy/"
-              >
-                Vulnerability Disclosure Policy
-              </a
-              >
-            </li>
-            </li>
-        <li class="usa-footer__secondary-link">
-          <a
-            class="usa-footer__secondary-link"
-            href="{{ site.baseurl }}/accessibility/"
-            title="View accessibility statement"
-          >
-            View accessibility statement
-          </a>
-        </li>
-            <li class="usa-footer__secondary-link">
-          <a
-            class="usa-footer__secondary-link"
-            href="{{ site.baseurl }}/accountability/ncd-equity-action-plan/"
-            title="Equity Action Plan"
-          >
-            View Equity Action Plan
-          </a>
-        </li>
+            {% endfor %}
           </ul>
         </div>
       </div>
