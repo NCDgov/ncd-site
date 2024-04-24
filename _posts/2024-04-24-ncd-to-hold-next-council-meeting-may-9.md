@@ -5,7 +5,11 @@ collection_name: newsroom
 date: 2024-04-24
 tag: Press Release
 ---
-WASHINGTON–The Members of the National Council on Disability (NCD) will hold a quarterly business meeting on Thursday, May 9, 2024, 1–5 p.m EDT via Zoom.
+**For Immediate Release**
+
+A﻿pril 24, 2024
+
+**WASHINGTON–**The Members of the National Council on Disability (NCD) will hold a quarterly business meeting on Thursday, May 9, 2024, 1–5 p.m EDT via Zoom.
 
 To register for the Zoom webinar, please use the following URL:
 
