@@ -8,10 +8,10 @@ backend:
   branch: main
 
 ##
-## Uncomment when doing local development on Netlify CMS
-## Run `npx netlify-cms-proxy-server` to start working locally
+## Uncomment when doing local development on Decap CMS
+## Run `npx decap-server` to start working locally
 ## In another terminal, start the app with `npm start`
-## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
+## See https://decapcms.org/docs/working-with-a-local-git-repository/
 ##
 
 # backend:
@@ -23,7 +23,7 @@ backend:
 media_folder: assets/uploads/
 public_folder: /uploads/
 publish_mode: editorial_workflow
-logo_url: https://federalist.18f.gov/assets/images/federalist-logo.png
+logo_url: https://www.ncd.gov/assets/images/ncd-logo.png
 slug:
   encoding: "ascii"
   clean_accents: true
