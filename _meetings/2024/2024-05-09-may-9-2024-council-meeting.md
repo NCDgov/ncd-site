@@ -38,7 +38,7 @@ In the event of audio disruption or failure, attendees can follow the meeting by
 
 4:30 – 5:00 p.m. – NARA training for Council members
 
-5:30 p.m. – Adjournment
+5:00 p.m. – Adjournment
 
 **PUBLIC COMMENT:** Your participation during the public comment period provides an opportunity for us to hear from you -- individuals, businesses, providers, educators, parents and advocates. Your comments are important in bringing to the Council’s attention and issues and priorities of the disability community.
 
