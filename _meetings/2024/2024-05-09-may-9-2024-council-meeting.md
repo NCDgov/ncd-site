@@ -29,7 +29,8 @@ In the event of audio disruption or failure, attendees can follow the meeting by
 
 1:35 – 2:05 p.m. – Policy Updates
 
-2:05 – 2:15 p.m. – BREAK\
+2:05 – 2:15 p.m. – BREAK
+
 2:15 – 3:15 p.m. – FY2025 Policy Proposals
 
 3:15 – 4:00 p.m. – Presentation by Intertribal Disability Advisory Council (IDAC): Living with a disability on tribal lands, and Council member Q&A
