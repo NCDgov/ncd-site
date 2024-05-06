@@ -13,7 +13,7 @@ Your participation during the public comment period provides an opportunity for 
 
 Thursday, May 9, 2024 during NCD's Council Meeting via Zoom.
 
-4:00 – 4:30 p.m. – Ground Transportation Experiences Public Comment 
+4:00 – 4:30 p.m. – Public Facilities and Transportation Public Comment 
 
 Please share your experiences and/or knowledge on the accessibility of municipal/county or private recreation facilities regarding –
 
