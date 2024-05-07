@@ -27,9 +27,7 @@ governance:
       url: /foia/
     - name: Contact NCD
       url: /contact/
-    - name: Press
-      url: /about/
-    - name: Subscribe
+    - name: Subscribe for NCD News
       url: /subscribe/
 policies:
   name: Policies / Statements
