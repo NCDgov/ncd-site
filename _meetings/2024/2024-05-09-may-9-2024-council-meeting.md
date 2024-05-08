@@ -37,7 +37,7 @@ In the event of audio disruption or failure, attendees can follow the meeting by
 
 4:00 – 4:30 p.m. – Public comment on public facilities, public transportation
 
-4:30 – 5:00 p.m. – NARA training for Council members
+4:30 – 5:00 p.m. – Council member community outreach reports
 
 5:00 p.m. – Adjournment
 
