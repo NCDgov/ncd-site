@@ -15,7 +15,8 @@ published: true
           and policymakers.
         "
       %}
-      {% for post in site.testimonies %}
+      {% assign posts = site.testimonies | reverse %}
+      {% for post in posts %}
           {%
             include paginated-collection-item.html
             post=post
