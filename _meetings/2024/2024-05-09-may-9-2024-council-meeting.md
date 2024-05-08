@@ -35,7 +35,7 @@ In the event of audio disruption or failure, attendees can follow the meeting by
 
 3:15 – 4:00 p.m. – Presentation by Intertribal Disability Advisory Council (IDAC): Living with a disability on tribal lands, and Council member Q&A
 
-4:00 – 4:30 p.m. – Public comment on public facilities, public transportation
+4:00 – 4:30 p.m. – Public comment on recreation facilities, rental cars and shuttles
 
 4:30 – 5:00 p.m. – Council member community outreach reports
 
