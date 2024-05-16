@@ -1,7 +1,7 @@
 ---
 layout: single-page
-published: false
-permalink: speaker-request
+published: true
+permalink: /speaker-request/
 redirect_from: []
 title: NCD Speaker Request Form
 ---
