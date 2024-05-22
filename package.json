@@ -13,11 +13,11 @@
   },
   "dependencies": {
     "decap-cms": "^3.1.10",
-    "uswds": "^2.13.3",
-    "video.js": "^7.0.3",
-    "videojs-youtube": "^2.6.1"
+    "uswds": "^2.14.0",
+    "video.js": "^8.12.0",
+    "videojs-youtube": "^3.0.1"
   },
   "devDependencies": {
-    "rimraf": "^3.0.2"
+    "rimraf": "^5.0.7"
   }
 }
