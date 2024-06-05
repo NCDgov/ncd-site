@@ -13,7 +13,7 @@ For Immediate Release
 
 June 5, 2024                                      
 
-**WASHINGTON--**Today, the National Council on Disability (NCD) released a first-of-its-kind federal report in which people with certain genetic and heritable disabilities speak for themselves about the current and potential impacts of prenatal interventions on the community of people with disabilities.
+**WASHINGTON--**Today, the National Council on Disability (NCD) released a first-of-its-kind federal report where people with certain genetic and heritable disabilities speak for themselves about the current and potential impacts of prenatal interventions on the disability community.
 
 NCD's [From Fetal Surgery to Gene Editing: The Current and Potential Impact of Prenatal Interventions on People with Disabilities](https://www.ncd.gov/report/from-fetal-surgery-to-gene-editing-the-current-and-potential-impact-of-prenatal-interventions-on-people-with-disabilities/) explores the potential for disparate harm from some technologies and the need for equitable access to others and offers findings and recommendations for the Administration, Congress, and states to ensure any prenatal interventions do not disproportionately harm people with disabilities as a historically marginalized population.
 
