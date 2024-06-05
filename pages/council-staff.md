@@ -23,10 +23,10 @@ General Counsel & Director of Policy
 Senior Attorney Advisor
 
 **Amy Nicholas**\
-Attorney Advisor
+Senior Attorney Advisor
 
 **Amged Soliman**\
-Attorney Advisor
+Senior Attorney Advisor
 
 ## Legislative Affairs & Outreach Team
 
@@ -41,9 +41,6 @@ Public Affairs Specialist
 ## Administration, Finance, & Operations Team
 
 The Finance, Operations & Administration Team provides critical staff support and monitors the agency's finance and accounting, information technology, and human resources management, as well as partners with the policy and outreach teams to build strategic relationships that are critical to the agency's work.
-
-**Lisa Grubb**\
-Director of Administration, Finance, & Operations
 
 **Stacey S. Brown**\
 Staff Assistant
