@@ -10,7 +10,8 @@ policy_areas:
   - Health Care
 word_document: reports/2024/ncd-fetal-surgery-genetic-editing-2024.docx
 pdf_document: reports/2024/ncd-fetal-surgery-genetic-editing.pdf
-image_alt_text: NA
+image: images/fetal-surgery-genetic-editing-cover.jpg
+image_alt_text: Baby with Down syndrome with father smiling. NCD seal and report title
 ---
 June 5, 2024
 
