@@ -42,6 +42,9 @@ Public Affairs Specialist
 
 The Finance, Operations & Administration Team provides critical staff support and monitors the agency's finance and accounting, information technology, and human resources management, as well as partners with the policy and outreach teams to build strategic relationships that are critical to the agency's work.
 
+**Lisa Grubb**\
+Director of Administration, Finance, & Operations
+
 **Stacey S. Brown**\
 Staff Assistant
 
