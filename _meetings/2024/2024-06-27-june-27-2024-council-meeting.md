@@ -5,6 +5,7 @@ collection_name: meetings
 federal_register_notice: https://www.federalregister.gov/documents/2024/06/13/2024-13191/sunshine-act-meetings
 meeting_year: 2024
 date: 2024-06-27
+press_release: https://www.ncd.gov/2024/06/17/ncd-announces-next-council-meeting-june-27/
 ---
 The Members of the National Council on Disability (NCD) will hold a quarterly business meeting on Thursday, June 27, 2024, 1:00 p.m. – 5:00 p.m., Eastern Daylight Time (EDT).
 
@@ -14,7 +15,7 @@ This meeting will occur via Zoom videoconference. Registration is required. Inte
 
 In the event of audio disruption or failure, attendees can follow the meeting by accessing the Communication Access Realtime Translation (CART) link provided. CART is text-only translation that occurs real time and is not an exact transcript.
 
-MATTERS TO BE CONSIDERED: Following welcome remarks and introductions, the Executive Committee will provide their report; followed by the Chair’s report; policy updates; a break; followed by a U.S. Department of Justice Access to Justice presentation, followed by Council member Q&A; a panel on NCD’s Fetal Surgery to Germline Editing report, followed by Council member Q&A; a break; public comment on most notable disability policy achievements since Summer 2023; and Council member community report outs; concluding with adjournment. 
+MATTERS TO BE CONSIDERED: Following welcome remarks and introductions, the Executive Committee will provide their report; followed by the Chair’s report; policy updates; a break; followed by a U.S. Department of Justice Access to Justice presentation, followed by Council member Q&A; a panel on NCD’s Fetal Surgery to Gene Editing report, followed by Council member Q&A; a break; public comment on most notable disability policy achievements since Summer 2023; and Council member community report outs; concluding with adjournment. 
 
 AGENDA: The times provided below are approximations for when each agenda item is anticipated to be discussed (all times Eastern Daylight Time):
 
@@ -32,11 +33,11 @@ Thursday, June 27, 2024
 
 2:15 – 2:59 p.m. – DOJ Access to Justice program presentation, Council Member Q&A
 
-3:00 – 3:50 p.m. – Fetal Surgery / Germline Editing report panel
+3:00 – 3:50 p.m. – Fetal Surgery to Gene Editing report panel
 
 3:51 – 4:00 p.m. – Break
 
-4:00 – 4:30 p.m. – Public Comment on most notable disability policy achievements
+4:00 – 4:30 p.m. – Public Comment on most notable disability policy achievements since Summer 2023
 
 4:30 – 5:00 p.m. – Council Member Community Report Outs
 
