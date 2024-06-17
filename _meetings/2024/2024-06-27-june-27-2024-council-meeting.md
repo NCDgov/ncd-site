@@ -2,6 +2,7 @@
 layout: post
 title: June 27, 2024 Council Meeting
 collection_name: meetings
+federal_register_notice: https://www.federalregister.gov/documents/2024/06/13/2024-13191/sunshine-act-meetings
 meeting_year: 2024
 date: 2024-06-27
 ---
@@ -9,7 +10,7 @@ The Members of the National Council on Disability (NCD) will hold a quarterly bu
 
 This meeting will occur via Zoom videoconference. Registration is required. Interested parties are encouraged to join the meeting in an attendee status by Zoom Desktop Client, Mobile App, or Telephone to dial-in.  To register for the Zoom webinar, please use the following URL: 
 
-Zoom link posted soon. 
+[https://events.zoomgov.com/​ev/​AjDobcDV\_​mghX7L5f6sWlxUKD\_​MJzSAnGh7A-lTuPauDUOd2E5XX~AvJyfkIR6R1x3lgp4sOiST1A5xJPGT-vG8sAh1wmhft2TgV6_​-VtysUgUQ](https://events.zoomgov.com/​ev/​AjDobcDV_​mghX7L5f6sWlxUKD_​MJzSAnGh7A-lTuPauDUOd2E5XX~AvJyfkIR6R1x3lgp4sOiST1A5xJPGT-vG8sAh1wmhft2TgV6_​-VtysUgUQ)
 
 In the event of audio disruption or failure, attendees can follow the meeting by accessing the Communication Access Realtime Translation (CART) link provided. CART is text-only translation that occurs real time and is not an exact transcript.
 
