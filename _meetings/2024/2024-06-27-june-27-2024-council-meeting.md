@@ -9,9 +9,9 @@ press_release: https://www.ncd.gov/2024/06/17/ncd-announces-next-council-meeting
 ---
 The Members of the National Council on Disability (NCD) will hold a quarterly business meeting on Thursday, June 27, 2024, 1:00 p.m. – 5:00 p.m., Eastern Daylight Time (EDT).
 
-This meeting will occur via Zoom videoconference. Registration is required. Interested parties are encouraged to join the meeting in an attendee status by Zoom Desktop Client, Mobile App, or Telephone to dial-in.  To register for the Zoom webinar, please use the following URL: 
+This meeting will occur via Zoom videoconference. Registration is required. Interested parties are encouraged to join the meeting in an attendee status by Zoom Desktop Client, Mobile App, or Telephone to dial-in.  To [register](https://events.zoomgov.com/ev/AjDobcDV_mghX7L5f6sWlxUKD_MJzSAnGh7A-lTuPauDUOd2E5XX~AvJyfkIR6R1x3lgp4sOiST1A5xJPGT-vG8sAh1wmhft2TgV6_-VtysUgUQ) for the Zoom webinar, please use the following URL: 
 
-[https://events.zoomgov.com/​ev/​AjDobcDV\_​mghX7L5f6sWlxUKD\_​MJzSAnGh7A-lTuPauDUOd2E5XX~AvJyfkIR6R1x3lgp4sOiST1A5xJPGT-vG8sAh1wmhft2TgV6_​-VtysUgUQ](https://events.zoomgov.com/​ev/​AjDobcDV_​mghX7L5f6sWlxUKD_​MJzSAnGh7A-lTuPauDUOd2E5XX~AvJyfkIR6R1x3lgp4sOiST1A5xJPGT-vG8sAh1wmhft2TgV6_​-VtysUgUQ)
+[https://events.zoomgov.com/ev/AjDobcDV_mghX7L5f6sWlxUKD\_MJzSAnGh7A-lTuPauDUOd2E5XX~AvJyfkIR6R1x3lgp4sOiST1A5xJPGT-vG8sAh1wmhft2TgV6\_-VtysUgUQ](https://events.zoomgov.com/ev/AjDobcDV_mghX7L5f6sWlxUKD_MJzSAnGh7A-lTuPauDUOd2E5XX~AvJyfkIR6R1x3lgp4sOiST1A5xJPGT-vG8sAh1wmhft2TgV6_-VtysUgUQ)[](https://events.zoomgov.com/​ev/​AjDobcDV_​mghX7L5f6sWlxUKD_​MJzSAnGh7A-lTuPauDUOd2E5XX~AvJyfkIR6R1x3lgp4sOiST1A5xJPGT-vG8sAh1wmhft2TgV6_​-VtysUgUQ)
 
 In the event of audio disruption or failure, attendees can follow the meeting by accessing the Communication Access Realtime Translation (CART) link provided. CART is text-only translation that occurs real time and is not an exact transcript.
 
