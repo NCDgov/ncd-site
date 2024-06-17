@@ -19,7 +19,7 @@ Full information on the event can also be found on our [event page](https://www.
 
 Following welcome remarks and introductions, the Executive Committee will provide their report, followed by the Chair’s report and policy updates.
 
-U.S. Department of Justice Access to Justice presentation, followed by Council member Q&A; a panel on NCD’s Fetal Surgery to Germline Editing report, followed by Council member Q&A
+U.S. Department of Justice will have an Access to Justice presentation, followed by Council member Q&A; a panel on NCD’s Fetal Surgery to Gene Editing report, followed by Council member Q&A
 
 The Council will receive public comment on the most notable disability policy achievements since Summer 2023. Additional information on specifics of the topic and guidelines are available on NCD’s public comment page at https://www.ncd.gov/public-comment/.
 
