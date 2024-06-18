@@ -11,24 +11,11 @@ Your participation during the public comment period provides an opportunity for 
 
 **Next Public Comment Opportunity:**
 
-Thursday, May 9, 2024 during NCD's Council Meeting via Zoom.
+Thursday, June 27, 2024 during NCD's Council Meeting via Zoom.
 
-4:00 – 4:30 p.m. – Public Facilities and Transportation Public Comment 
+4:00 – 4:30 p.m. – Public Comment on most notable disability policy achievements since Summer 2023
 
-Please share your experiences and/or knowledge on the accessibility of municipal/county or private recreation facilities regarding –
-
-* Buildings (accessibility of buildings, locker rooms, weight rooms, exercise areas)
-* Fitness equipment (exercise machines, weight machines)
-* Exercise classes (integrated classes, modifications)
-* Swimming facilities (pool lifts, entry ramps)
-* Other accessibility comments on private or federally financed recreation facilities
-
-NCD also continues to seek public comment on ground transportation. Please provide comments about –
-
-* The accessibility of rental cars (reservations, hand-controls, cars available for rental)
-* The accessibility of hotel shuttles or other public shuttles
-
-Information on our Council meeting is available on our [Upcoming Event page](https://www.ncd.gov/meeting/2024-02-08-feb-8-2024-council-meeting/).
+Information on our Council meeting is available on our [Upcoming Event page](https://www.ncd.gov/meeting/2024-06-27-june-27-2024-council-meeting/).
 
 **Format:** Virtual format -- the Council will receive public comment by email or by video or audio over Zoom. 
 
@@ -42,7 +29,7 @@ Four times a year, NCD hosts quarterly Council meetings, during which NCD design
 
 **Basic Guidelines:**
 
-* **Advanced registration is required to make public comment at a quarterly meeting**. To provide public comment during an NCD Council Meeting, NCD now requires advanced registration by sending send an email to [PublicComment@ncd.gov](mailto:PublicComment@ncd.gov) with the subject line “Public Comment” and your name, organization, state, and topic of comment included in the body of your email. Deadline for registration is the night before the meeting, by 8:00 p.m. EDT. All individuals desiring to make public comment are strongly encouraged to read NCD’s guidelines below for public comment in advance of the meeting.
+* **Advanced registration is required to make public comment at a quarterly meeting**. To provide public comment during an NCD Council Meeting, NCD now requires advanced registration by either signing up to present while registering for the meeting or sending send an email to [PublicComment@ncd.gov](mailto:PublicComment@ncd.gov) with the subject line “Public Comment” and your name, organization, state, and topic of comment included in the body of your email. Deadline for registration is the night before the meeting, by 8:00 p.m. EDT. All individuals desiring to make public comment are strongly encouraged to read NCD’s guidelines below for public comment in advance of the meeting.
 * **NCD cannot guarantee all who register will be called upon**. NCD will call upon as many individuals who registered as possible as time permits. However, all public comment submissions sent via email will be collected and provided to the Council at the conclusion of the meeting.
 * **All individuals called upon to make comments will be allotted three minutes to speak.** Due to time constraints, at the end of three minutes, individuals making comment will be asked to stop speaking.
 * **Council Members will not respond to questions or engage in discussion with commenters.** NCD’s public comment periods are opportunities for the Council Members appointed by the President and leadership in Congress to hear from the agency’s stakeholders. Council Members will not entertain questions from the public nor engage in discussion with those who seek to make comment.
