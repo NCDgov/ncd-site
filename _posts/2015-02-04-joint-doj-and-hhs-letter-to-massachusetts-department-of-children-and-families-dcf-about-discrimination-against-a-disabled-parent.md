@@ -8,13 +8,11 @@ On January 29, 2015 the United States Department of Justice and the United State
 
 The joint letter issued after the Departments’ investigation detailed concerns by the agencies over what they describe as “extensive, ongoing violations of Title II and Section 504 of the Americans with Disabilities Act of 1990 by discriminating against Sara Gordon on the basis of her disability, and denying her opportunities to benefit from supports and services numerous times over the past two years, including her existing family supports.”
 
-NCD applauds the findings of the United States Department of Justice and the United States Department of Health and Human Services, prompted in part by the awareness raised by our seminal 2012 report “[Rocking the Cradle: Ensuring the Rights of Parents with Disabilities and Their Children](https://ncd.gov/publications/2012/Sep272012/).”
+NCD applauds the findings of the United States Department of Justice and the United States Department of Health and Human Services, prompted in part by the awareness raised by our seminal 2012 report “[Rocking the Cradle: Ensuring the Rights of Parents with Disabilities and Their Children](https://www.ncd.gov/report/rocking-the-cradle-ensuring-the-rights-of-parents-with-disabilities-and-their-children/).”
 
 You can download the letter issued by the DOJ and HHS in PDF and Microsoft Word formats at the following links:
 
 PDF: <http://www.ada.gov/ma_docf_lof.pdf>
 
-Microsoft Word: <http://www.ada.gov/ma_docf_lof.doc>
-
-To get a copy of NCD’s report, “Rocking the Cradle: Ensuring the Rights of Parents with Disabilities and Their Children”\
+[](http://www.ada.gov/ma_docf_lof.doc)To get a copy of NCD’s report, “Rocking the Cradle: Ensuring the Rights of Parents with Disabilities and Their Children”\
 go to: <https://www.ncd.gov/report/rocking-the-cradle-ensuring-the-rights-of-parents-with-disabilities-and-their-children/>
