@@ -48,25 +48,25 @@ Balmar Legal Publishing Department, Washington, DC (202) 682-9800
 
 **TABLE OF CONTENTS**
 
-[INTEREST OF AMICUS](https://ncd.gov/publications/1998/Oct1998#1)
+INTEREST OF AMICUS
 
-[SUMMARY OF THE ARGUMENT](https://ncd.gov/publications/1998/Oct1998#2)
+SUMMARY OF THE ARGUMENT
 
-[ARGUMENT](https://ncd.gov/publications/1998/Oct1998#3)
+ARGUMENT
 
-1. [PROHIBITING UNNECESSARY ISOLATION AND SEGREGATION OF INDIVIDUALS WITH DISABILITIES IN TREATMENT AND HABILITATION PROGRAMS WAS A KEY COMPONENT OF THE ORIGINAL ADA PROPOSAL DEVELOPED BY *AMICUS*](https://ncd.gov/publications/1998/Oct1998#4)
+1. PROHIBITING UNNECESSARY ISOLATION AND SEGREGATION OF INDIVIDUALS WITH DISABILITIES IN TREATMENT AND HABILITATION PROGRAMS WAS A KEY COMPONENT OF THE ORIGINAL ADA PROPOSAL DEVELOPED BY *AMICUS*
 
-   A. [The National Council on Disability and the Origins of the ADA](https://ncd.gov/publications/1998/Oct1998#4a)
+   A. The National Council on Disability and the Origins of the ADA
 
-   B. [Conceptual Underpinnings of the Integration Mandate of the ADA](https://ncd.gov/publications/1998/Oct1998#4b)
-2. [THE ADA PROHIBITS UNNECESSARY ISOLATION AND SEGREGATION OF INDIVI-DUALS WITH DISABILITIES IN TREATMENT AND HABILITATION PROGRAMS](https://ncd.gov/publications/1998/Oct1998#5)
+   B. Conceptual Underpinnings of the Integration Mandate of the ADA
+2. THE ADA PROHIBITS UNNECESSARY ISOLATION AND SEGREGATION OF INDIVI-DUALS WITH DISABILITIES IN TREATMENT AND HABILITATION PROGRAMS
 
-   A. [The Statutory Language of the ADA](https://ncd.gov/publications/1998/Oct1998#5a)
+   A. The Statutory Language of the ADA
 
-   B. [The Legislative History](https://ncd.gov/publications/1998/Oct1998#5b)
+   B. The Legislative History
 
-   C. [ADA Regulations](https://ncd.gov/publications/1998/Oct1998#5c)
-3. [CONCLUSION](https://ncd.gov/publications/1998/Oct1998#6)
+   C. ADA Regulations
+3. CONCLUSION
 
 **TABLE OF AUTHORITIES**
 
