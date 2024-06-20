@@ -17,4 +17,4 @@ PDF: <http://www.ada.gov/ma_docf_lof.pdf>
 Microsoft Word: <http://www.ada.gov/ma_docf_lof.doc>
 
 To get a copy of NCD’s report, “Rocking the Cradle: Ensuring the Rights of Parents with Disabilities and Their Children”\
-go to: [/publications/2012/Sep272012](https://ncd.gov/publications/2012/Sep272012/)
+go to: <https://www.ncd.gov/report/rocking-the-cradle-ensuring-the-rights-of-parents-with-disabilities-and-their-children/>
