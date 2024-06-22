@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brief Amicus Curiae of the National Council on Disability in Support of
-  Respondents Olmstead v. L.C. HTM
+  Respondents Olmstead v. L.C.
 collection_name: reports
 date: October 1, 1998
 report_year: 1998
