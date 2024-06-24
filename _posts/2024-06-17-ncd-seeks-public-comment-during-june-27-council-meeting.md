@@ -2,7 +2,7 @@
 layout: post
 title: NCD seeks public comment during June 27 Council meeting
 collection_name: newsroom
-date: 2024-06-17
+date: 2024-06-24
 tag: Press Release
 ---
 **For Immediate Release**
