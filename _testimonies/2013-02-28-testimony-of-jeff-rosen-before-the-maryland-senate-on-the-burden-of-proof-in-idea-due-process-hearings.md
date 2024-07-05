@@ -90,16 +90,16 @@ NCD supports the intent of SB 691 in placing the burden of proof on school distr
 
 Thank you for the opportunity to testify before you today.
 
-[](<>)\[1] 20 U.S.C. §1400(d)(1)(A)
+[1] 20 U.S.C. §1400(d)(1)(A)
 
-[](<>)\[2] 20 U.S.C. §1400(d)(1)
+[2] 20 U.S.C. §1400(d)(1)
 
-[](<>)\[3]  *Schaffer v. Weast,* 546 U.S. 49 (U.S. 2005)
+[3]  *Schaffer v. Weast,* 546 U.S. 49 (U.S. 2005)
 
-[](<>)\[4] *United States Code Congressional and Administrative News 1975* (USCCAN) at page 1433.
+[4] *United States Code Congressional and Administrative News 1975* (USCCAN) at page 1433.
 
-[](<>)\[5] Id., at page 1427.
+[5] Id., at page 1427.
 
-[](<>)\[6] 20 U.S.C. §1415(c)(1) - IDEA 2004
+[6] 20 U.S.C. §1415(c)(1) - IDEA 2004
 
-[](<>)\[7] National Council on Disability, Back to School on Civil Rights (2000)
+[7] National Council on Disability, Back to School on Civil Rights (2000)

@@ -68,26 +68,26 @@ In short, we offer this simple but indispensable advice: “Professor, do your h
 
 \------------
 
-[](<>)\[1] 42 U.S.C. §12101(a)(2).
+[1] 42 U.S.C. §12101(a)(2).
 
-[](<>)\[2] Id. §12101(a)(7).
+[2] Id. §12101(a)(7).
 
-[](<>)\[3] See, e.g., Accommodating the Spectrum of Individual Abilities 17-42, 159; Alexander v. Choate, 469 U.S. 287, 295-96, 286 (quoting 117 Cong. Rec. 45,974 (1971) (statement of Rep. Vanik); 118 Cong. Rec. 526 (1972) (statement of Sen. Percy)) (1985); S. Rep. No. 116, 101st Cong., 1st Sess. 9 (1989); H.R. Rep. No. 485, 101st Cong., 2d Sess. pt. 2, at 32 (1990) (Education and Labor Committee) \[hereinafter Education & Labor Committee Report]; Task Force on the Rights & Empowerment of Americans with Disabilities, Equality for 43 Million Americans with Disabilities: A Moral and Economic Imperative 8 (1990), quoted in Education & Labor Committee Report, at 31-32; Louis Harris & Assocs., The ICD Survey of Disabled Americans: Bringing Disabled Americans into the Mainstream 70, 75 (1986); Louis Harris & Assocs., The ICD Survey II: Employing Disabled Americans 12 (1987); City of Cleburne v. Cleburne Living Center, 473 U.S. 432, 454 (Stevens, J., joined by Burger, C.J., concurring) (1985); id. at 461, 462 (Marshall, J., joined by Brennan & Blackmun, JJ., concurring in part and dissenting in part).
+[3] See, e.g., Accommodating the Spectrum of Individual Abilities 17-42, 159; Alexander v. Choate, 469 U.S. 287, 295-96, 286 (quoting 117 Cong. Rec. 45,974 (1971) (statement of Rep. Vanik); 118 Cong. Rec. 526 (1972) (statement of Sen. Percy)) (1985); S. Rep. No. 116, 101st Cong., 1st Sess. 9 (1989); H.R. Rep. No. 485, 101st Cong., 2d Sess. pt. 2, at 32 (1990) (Education and Labor Committee) \[hereinafter Education & Labor Committee Report]; Task Force on the Rights & Empowerment of Americans with Disabilities, Equality for 43 Million Americans with Disabilities: A Moral and Economic Imperative 8 (1990), quoted in Education & Labor Committee Report, at 31-32; Louis Harris & Assocs., The ICD Survey of Disabled Americans: Bringing Disabled Americans into the Mainstream 70, 75 (1986); Louis Harris & Assocs., The ICD Survey II: Employing Disabled Americans 12 (1987); City of Cleburne v. Cleburne Living Center, 473 U.S. 432, 454 (Stevens, J., joined by Burger, C.J., concurring) (1985); id. at 461, 462 (Marshall, J., joined by Brennan & Blackmun, JJ., concurring in part and dissenting in part).
 
-[](<>)\[4] U.S. Commn on Civil Rights, Accommodating the Spectrum of Individual Abilities 26 (1983)
+[4] U.S. Commn on Civil Rights, Accommodating the Spectrum of Individual Abilities 26 (1983)
 
-[](<>)\[5] School Board of Nassau County v. Arline, 480 U.S. 273, 284-85 (1987).
+[5] School Board of Nassau County v. Arline, 480 U.S. 273, 284-85 (1987).
 
-[](<>)\[6] 29 C.F.R. 406 (app. to pt. 1630) (commentary on §1630.2(l)) (1993) (can prove discrimination "by demonstrating that the exclusion was caused by one of the `common attitudinal barriers' toward individuals with disabilities such as an employer's concern about productivity, safety, insurance, liability, attendance, cost of accommodation and accessibility, workers compensation costs, and acceptance by coworkers and customers"); Wooten v. Farmland Foods, 58 F.3d 382, 385 (8th Cir. 1995) (the "regarded as" prong of the definition of disability encompasses "archaic attitudes, erroneous perceptions, and myths"). Several ADA decisions have recognized employers' "myths, fears and stereotypes associated with disabilities." See, e.g., Freund v. Lockheed Missiles and Space Co., 930 F.Supp. 613, 618 (S.D.Ga. 1996); EEOC v. Texas Bus Lines, 923 F.Supp. 965, 975 (S.D.Tex. 1996); Howard v. Navistar Internat'l Transp. Corp., 904 F.Supp. 922, 929-30 (E.D.Wis. 1995); Pritchard v. Southern Company Services, 1995 WL 338662, 4 AD Cases 465, 473 (N.D.Ala. 1995); Lussier v. Runyon, 1994 WL 129776, 3 AD Cases 223, 231 (D.Me. 1994); Scharff v. Frank, 791 F.Supp. 182, 187 (S.D.Oh. 1991) ("stereotypical treatment").
+[6] 29 C.F.R. 406 (app. to pt. 1630) (commentary on §1630.2(l)) (1993) (can prove discrimination "by demonstrating that the exclusion was caused by one of the `common attitudinal barriers' toward individuals with disabilities such as an employer's concern about productivity, safety, insurance, liability, attendance, cost of accommodation and accessibility, workers compensation costs, and acceptance by coworkers and customers"); Wooten v. Farmland Foods, 58 F.3d 382, 385 (8th Cir. 1995) (the "regarded as" prong of the definition of disability encompasses "archaic attitudes, erroneous perceptions, and myths"). Several ADA decisions have recognized employers' "myths, fears and stereotypes associated with disabilities." See, e.g., Freund v. Lockheed Missiles and Space Co., 930 F.Supp. 613, 618 (S.D.Ga. 1996); EEOC v. Texas Bus Lines, 923 F.Supp. 965, 975 (S.D.Tex. 1996); Howard v. Navistar Internat'l Transp. Corp., 904 F.Supp. 922, 929-30 (E.D.Wis. 1995); Pritchard v. Southern Company Services, 1995 WL 338662, 4 AD Cases 465, 473 (N.D.Ala. 1995); Lussier v. Runyon, 1994 WL 129776, 3 AD Cases 223, 231 (D.Me. 1994); Scharff v. Frank, 791 F.Supp. 182, 187 (S.D.Oh. 1991) ("stereotypical treatment").
 
-[](<>)\[7] Robert L. Burgdorf Jr., The Legal Rights of Handicapped Persons: Cases, Materials, and Text 8 (1980).
+[7] Robert L. Burgdorf Jr., The Legal Rights of Handicapped Persons: Cases, Materials, and Text 8 (1980).
 
-[](<>)\[8] Louis Harris & Assocs., The ICD Survey of Disabled Americans: Bringing Disabled Americans into the Mainstream 55 (1986).
+[8] Louis Harris & Assocs., The ICD Survey of Disabled Americans: Bringing Disabled Americans into the Mainstream 55 (1986).
 
-[](<>)\[9] Id. at 46, Table 19.
+[9] Id. at 46, Table 19.
 
-[](<>)\[10] Paul Steven Miller, The Impact of Assisted Suicide on Persons with Disabilities -- Is It A Right Without Freedom?, Issues in Law & Medicine 9:47, 54 (1993).
+[10] Paul Steven Miller, The Impact of Assisted Suicide on Persons with Disabilities -- Is It A Right Without Freedom?, Issues in Law & Medicine 9:47, 54 (1993).
 
-[](<>)\[11] Evan J. Kemp Jr., "Could You Please Die Now?: Disabled People Like Me Have Good Reason to Fear the Push for Assisted Suicide," The Washington Post C1 (Jan. 5, 1997).
+[11] Evan J. Kemp Jr., "Could You Please Die Now?: Disabled People Like Me Have Good Reason to Fear the Push for Assisted Suicide," The Washington Post C1 (Jan. 5, 1997).
 
-[](<>)\[12] In re Quinlan, 355 A.2d 647 (N.J. 1976).
+[12] In re Quinlan, 355 A.2d 647 (N.J. 1976).

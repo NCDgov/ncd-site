@@ -76,4 +76,4 @@ Kansas Department for Aging and Disability Services
 
  
 
-[](<>)\[1] National Council on Disability, “Managed Care for People with Disabilities: Policy and Implementation Considerations for State and Federal Policymakers,” March 2013, available at [/publications/2013/20130315/](https://ncd.gov/publications/2013/20130315/).
+[1] National Council on Disability, “Managed Care for People with Disabilities: Policy and Implementation Considerations for State and Federal Policymakers,” March 2013, available at [/publications/2013/20130315/](https://ncd.gov/publications/2013/20130315/).

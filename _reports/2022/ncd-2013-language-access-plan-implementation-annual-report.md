@@ -47,8 +47,8 @@ Determine ways to obtain meaningful stakeholder input regarding how to meet the 
 - - -
 
 \
-[](<>)\[1] U.S. Department of Justice, February 17, 2011 Federal Government’s Renewed Commitment to Language Access Obligations Under Executive Order 13166,<http://www.lep.gov/13166/AG_021711_EO_13166_Memo_to_Agencies_with_Supplement.pdf>\
-[](<>)\[2] The NCD Strategic Plan, FY2012-FY2017, Diversity statement reads:  “NCD will honor people with disabilities by embracing the broad spectrum of human difference and by learning about, including, and respecting the various perspectives and backgrounds reflected in the disability community.” [www.ncd.gov/Accountability/strategicplan/](https://ncd.gov/Accountability/strategicplan/)\
-[](<>)\[3] NCD Language Access Plan 2011 (Executive Order 13166), Revised December 2011. [/publications/2011/LAP2011](https://ncd.gov/publications/2011/LAP2011).\
-[](<>)\[4] The Plain Writing Act of 2010 requires federal agencies to write clear Government communication that the public can understand and use  <http://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf>\
-[](<>)\[5] Migration Policy Institute – an independent, nonpartisan, nonprofit think tank dedicated to the study of the movement of people worldwide provides resources through its national center in the U.S. [www.migrationinformation.org/](http://www.migrationinformation.org/).
+[1] U.S. Department of Justice, February 17, 2011 Federal Government’s Renewed Commitment to Language Access Obligations Under Executive Order 13166,<http://www.lep.gov/13166/AG_021711_EO_13166_Memo_to_Agencies_with_Supplement.pdf>\
+[2] The NCD Strategic Plan, FY2012-FY2017, Diversity statement reads:  “NCD will honor people with disabilities by embracing the broad spectrum of human difference and by learning about, including, and respecting the various perspectives and backgrounds reflected in the disability community.” [www.ncd.gov/Accountability/strategicplan/](https://ncd.gov/Accountability/strategicplan/)\
+[3] NCD Language Access Plan 2011 (Executive Order 13166), Revised December 2011. [/publications/2011/LAP2011](https://ncd.gov/publications/2011/LAP2011).\
+[4] The Plain Writing Act of 2010 requires federal agencies to write clear Government communication that the public can understand and use  <http://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf>\
+[5] Migration Policy Institute – an independent, nonpartisan, nonprofit think tank dedicated to the study of the movement of people worldwide provides resources through its national center in the U.S. [www.migrationinformation.org/](http://www.migrationinformation.org/).

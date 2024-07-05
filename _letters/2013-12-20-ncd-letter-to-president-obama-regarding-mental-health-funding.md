@@ -36,8 +36,8 @@ cc:       Vice President Joe Biden
 
 - - -
 
-[](<>)\[1]  Inclusive Livable Communities for People with Psychiatric Disabilities [/publications/2008/03172008](https://ncd.gov/publications/2008/03172008)
+[1]  Inclusive Livable Communities for People with Psychiatric Disabilities [/publications/2008/03172008](https://ncd.gov/publications/2008/03172008)
 
-[](<>)\[2] ACT and Recovery: Integrating Evidence-Based Practice and Recovery Orientation on Assertive Community Treatment Teams <http://link.springer.com/article/10.1007%2Fs10597-007-9088-5>
+[2] ACT and Recovery: Integrating Evidence-Based Practice and Recovery Orientation on Assertive Community Treatment Teams <http://link.springer.com/article/10.1007%2Fs10597-007-9088-5>
 
-[](<>)\[3]  Letter to Vice President Biden Regarding Anticipated Taskforce Recommendations[/publications/2013/Jan142013/](https://ncd.gov/publications/2013/Jan142013/)
+[3]  Letter to Vice President Biden Regarding Anticipated Taskforce Recommendations[/publications/2013/Jan142013/](https://ncd.gov/publications/2013/Jan142013/)

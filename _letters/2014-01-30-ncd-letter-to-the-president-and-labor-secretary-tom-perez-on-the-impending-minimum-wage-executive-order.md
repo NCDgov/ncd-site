@@ -50,8 +50,8 @@ Chairperson
 
 - - -
 
-[](<>)\[1] U.S. Department of Labor, Bureau of Labor Statistics, *Current Population Survey, Employment Situation: 2011*(Washington, DC: U.S. Department of Labor, Bureau of Labor Statistics, 2011).
+[1] U.S. Department of Labor, Bureau of Labor Statistics, *Current Population Survey, Employment Situation: 2011*(Washington, DC: U.S. Department of Labor, Bureau of Labor Statistics, 2011).
 
-[](<>)\[2] U.S. Department of Labor, Bureau of Labor Statistics, *Table A-6. Employment status of the civilian population by age, sex, and disability status, not seasonally adjusted* (last modified January 10, 2014), available at<http://www.bls.gov/news.release/empsit.t06.htm>.
+[2] U.S. Department of Labor, Bureau of Labor Statistics, *Table A-6. Employment status of the civilian population by age, sex, and disability status, not seasonally adjusted* (last modified January 10, 2014), available at<http://www.bls.gov/news.release/empsit.t06.htm>.
 
-[](<>)\[3] National Council on Disability, *Subminimum Wage and Supported Employment* (2012), available at[/publications/2012/August232012/](https://ncd.gov/publications/2012/August232012/).
+[3] National Council on Disability, *Subminimum Wage and Supported Employment* (2012), available at[/publications/2012/August232012/](https://ncd.gov/publications/2012/August232012/).

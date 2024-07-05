@@ -44,8 +44,8 @@ Chairperson
 
 - - -
 
-[](<>)\[1] US Census Bureau (July, 2012). Americans with Disabilities: 2010. Retrieved from<http://www.census.gov/newsroom/releases/archives/miscellaneous/cb12-134.html>
+[1] US Census Bureau (July, 2012). Americans with Disabilities: 2010. Retrieved from<http://www.census.gov/newsroom/releases/archives/miscellaneous/cb12-134.html>
 
-[](<>)\[2] National Council on Disability. (2012). Rocking the Cradle: Ensuring the Rights of Persons with Disabilities and Their Children. pp.252-257. Retrieved from [/publications/2012/Sep272012](https://ncd.gov/publications/2012/Sep272012)
+[2] National Council on Disability. (2012). Rocking the Cradle: Ensuring the Rights of Persons with Disabilities and Their Children. pp.252-257. Retrieved from [/publications/2012/Sep272012](https://ncd.gov/publications/2012/Sep272012)
 
-[](<>)\[3] The National Children’s Study: Description of Proposed Methods for the Main Study. (Aug, 2013). pp.19
+[3] The National Children’s Study: Description of Proposed Methods for the Main Study. (Aug, 2013). pp.19

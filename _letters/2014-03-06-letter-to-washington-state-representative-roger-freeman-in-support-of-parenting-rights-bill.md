@@ -36,4 +36,4 @@ Chairperson
 
 - - -
 
-[](<>)\[1] National Council on Disability, *Rocking the Cradle: Ensuring the Rights of Parents with Disabilities and their Children,* September 2012, available at [/publications/2012/Sep272012/](https://ncd.gov/publications/2012/Sep272012/).
+[1] National Council on Disability, *Rocking the Cradle: Ensuring the Rights of Parents with Disabilities and their Children,* September 2012, available at [/publications/2012/Sep272012/](https://ncd.gov/publications/2012/Sep272012/).

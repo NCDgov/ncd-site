@@ -29,7 +29,7 @@ Whether federal appropriations reflect budgetary constraints or adequate funding
 
 - - -
 
-[](<>)\[1] The NCD TCC workgroup is comprised of 14 members who are AIVR Program Directors and CANAR Leaders.  Names, Affiliation and Geographic Location are:
+[1] The NCD TCC workgroup is comprised of 14 members who are AIVR Program Directors and CANAR Leaders.  Names, Affiliation and Geographic Location are:
 
 1. Director Mary Meruvia, Mississippi Band of Choctaw Indians (MS)
 2. Director Connie Lee Berg, Red Lake Band of Chippewa Indians (MN)
@@ -46,12 +46,12 @@ Whether federal appropriations reflect budgetary constraints or adequate funding
 13. CANAR President, Treva Roanhorse, Navajo Nation (AZ)
 14. CANAR Executive Director, Joseph Kelley, Winnfield, LA
 
-[](<>)\[2] Throughout the report the term “tribal” is used operationally to include American Indian and Alaska Native people. U.S. census data also uses American Indian and Alaska Native categories.
+[2] Throughout the report the term “tribal” is used operationally to include American Indian and Alaska Native people. U.S. census data also uses American Indian and Alaska Native categories.
 
-[](<>)\[3] National Council on Disability Strategic Plan, FY 2012-2017.  Updated March 2013, Retrieved November 30, 2013 at[/Accountability/strategicplan/](https://ncd.gov/Accountability/strategicplan/).
+[3] National Council on Disability Strategic Plan, FY 2012-2017.  Updated March 2013, Retrieved November 30, 2013 at[/Accountability/strategicplan/](https://ncd.gov/Accountability/strategicplan/).
 
-[](<>)\[4] See CANAR and NCD link described in the 2012 NCD TCC annual progress report at[/publications/2012/TribalCoordination2012/](https://ncd.gov/publications/2012/TribalCoordination2012/).
+[4] See CANAR and NCD link described in the 2012 NCD TCC annual progress report at[/publications/2012/TribalCoordination2012/](https://ncd.gov/publications/2012/TribalCoordination2012/).
 
-[](<>)\[5] Disclaimer – The issues paper, inquiry, and summary responses do not reflect endorsement by NCD nor CANAR, but simply share input and expressions by people living and working with disability issues on tribal lands around this country.
+[5] Disclaimer – The issues paper, inquiry, and summary responses do not reflect endorsement by NCD nor CANAR, but simply share input and expressions by people living and working with disability issues on tribal lands around this country.
 
-[](<>)\[6] 2013 CANAR Annual Training Conference – Portland, Oregon  <http://www.canar.org/conferences>.
+[6] 2013 CANAR Annual Training Conference – Portland, Oregon  <http://www.canar.org/conferences>.

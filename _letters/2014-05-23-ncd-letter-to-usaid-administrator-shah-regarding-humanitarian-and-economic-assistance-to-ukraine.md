@@ -42,14 +42,14 @@ Chairperson
 
 - - -
 
-[](<>)\[1] National Council on Disability, *Deinstitutionalization: Unfinished Business (Companion Paper to Policy Toolkit)*, 15-16(October 23, 2012) [/publications/2012/Sept192012/](https://ncd.gov/publications/2012/Sept192012/).
+[1] National Council on Disability, *Deinstitutionalization: Unfinished Business (Companion Paper to Policy Toolkit)*, 15-16(October 23, 2012) [/publications/2012/Sept192012/](https://ncd.gov/publications/2012/Sept192012/).
 
-[](<>)\[2] National Council on Disability, *Toward the Full Inclusion of People with Disabilities*: *Examining the Accessibility of Overseas Facilities and Programs Funded by the United States*, 147 (2013)[/publications/2013/032013/](https://ncd.gov/publications/2013/032013/).
+[2] National Council on Disability, *Toward the Full Inclusion of People with Disabilities*: *Examining the Accessibility of Overseas Facilities and Programs Funded by the United States*, 147 (2013)[/publications/2013/032013/](https://ncd.gov/publications/2013/032013/).
 
-[](<>)\[3] Disability Rights International, *Left Behind: The Exclusion of Children and Adults with Disabilities from Reform and Rights Protection in the Republic of Georgia* (2013) <http://www.disabilityrightsintl.org/wordpress/wp-content/uploads/Left-Behind-final-report.pdf>.
+[3] Disability Rights International, *Left Behind: The Exclusion of Children and Adults with Disabilities from Reform and Rights Protection in the Republic of Georgia* (2013) <http://www.disabilityrightsintl.org/wordpress/wp-content/uploads/Left-Behind-final-report.pdf>.
 
-[](<>)\[4] *Id.* at 15-17.
+[4] *Id.* at 15-17.
 
-[](<>)\[5] National Council on Disability, *Deinstitutionalization Toolkit* (2012) [/publications/2012/DIToolkit/](https://ncd.gov/publications/2012/DIToolkit/).
+[5] National Council on Disability, *Deinstitutionalization Toolkit* (2012) [/publications/2012/DIToolkit/](https://ncd.gov/publications/2012/DIToolkit/).
 
-[](<>)\[6] Eric Rosenthal and Eric Mathews, Disability Rights International to U.S. and other donors to Ukraine, memorandum, “Urgent need to address humanitarian concerns of 85,000 children in Ukraine’s institutions,” April 8, 2014[http://www.disabilityrightsintl.org/?p=2075](http://www.disabilityrightsintl.org/%5EQ%5Ep=2075).
+[6] Eric Rosenthal and Eric Mathews, Disability Rights International to U.S. and other donors to Ukraine, memorandum, “Urgent need to address humanitarian concerns of 85,000 children in Ukraine’s institutions,” April 8, 2014[http://www.disabilityrightsintl.org/?p=2075](http://www.disabilityrightsintl.org/%5EQ%5Ep=2075).

@@ -94,36 +94,36 @@ Thank you again for the opportunity to provide this written testimony.
 
 - - -
 
-[](<>)\[1] Edwin Black, *War Against the Weak* (2003), 16.
+[1] Edwin Black, *War Against the Weak* (2003), 16.
 
-[](<>)\[2] Erika Harrell, Ph.D., “Crime Against Persons with Disabilities, 2009 – 2012 – Statistical Tables” (2014), at:[http://www.bjs.gov/index.cfm?ty=pbdetail&iid=4884](http://www.bjs.gov/index.cfm%5EQ%5Ety=pbdetail%7Ciid=4884).
+[2] Erika Harrell, Ph.D., “Crime Against Persons with Disabilities, 2009 – 2012 – Statistical Tables” (2014), at:[http://www.bjs.gov/index.cfm?ty=pbdetail&iid=4884](http://www.bjs.gov/index.cfm%5EQ%5Ety=pbdetail%7Ciid=4884).
 
-[](<>)\[3] *Id.*
+[3] *Id.*
 
-[](<>)\[4] National Council on Disability, *From Privileges to Rights: People Labeled with Psychiatric Disabilities Speak for Themselves* (2000) [/publications/2000/Jan202000](https://www.ncd.gov/publications/2000/Jan202000).
+[4] National Council on Disability, *From Privileges to Rights: People Labeled with Psychiatric Disabilities Speak for Themselves* (2000) [/publications/2000/Jan202000](https://www.ncd.gov/publications/2000/Jan202000).
 
-[](<>)\[5] *Id.*
+[5] *Id.*
 
-[](<>)\[6] *Id.*; National Council on Disability, *Inclusive Livable Communities for People with Psychiatric Disabilities*, 8(March 17, 2008) [/publications/2008/03172008](https://www.ncd.gov/publications/2008/03172008)(“People who have recovered from mental illnesses and have first-hand knowledge and involvement with consumer/survivor-run self-help programs need to be included in designing future anti-stigma efforts.”).
+[6] *Id.*; National Council on Disability, *Inclusive Livable Communities for People with Psychiatric Disabilities*, 8(March 17, 2008) [/publications/2008/03172008](https://www.ncd.gov/publications/2008/03172008)(“People who have recovered from mental illnesses and have first-hand knowledge and involvement with consumer/survivor-run self-help programs need to be included in designing future anti-stigma efforts.”).
 
-[](<>)\[7] Bridget O’Shea, “Psychiatric Patients with No Place to Go but Jail,” *The New York Times*, February 18, 2012,[http://www.nytimes.com/2012/02/19/health/in-chicago-mental-health-patients-have-no-place-to-go.html?pagewanted=all&_r=0](http://www.nytimes.com/2012/02/19/health/in-chicago-mental-health-patients-have-no-place-to-go.html%5EQ%5Epagewanted=all%7C_r=0).
+[7] Bridget O’Shea, “Psychiatric Patients with No Place to Go but Jail,” *The New York Times*, February 18, 2012,[http://www.nytimes.com/2012/02/19/health/in-chicago-mental-health-patients-have-no-place-to-go.html?pagewanted=all&_r=0](http://www.nytimes.com/2012/02/19/health/in-chicago-mental-health-patients-have-no-place-to-go.html%5EQ%5Epagewanted=all%7C_r=0).
 
-[](<>)\[8] National Council on Disability, *Inclusive Livable Communities for People with Psychiatric Disabilities* (2008), at:[/publications/2008/03172008](https://www.ncd.gov/publications/2008/03172008).
+[8] National Council on Disability, *Inclusive Livable Communities for People with Psychiatric Disabilities* (2008), at:[/publications/2008/03172008](https://www.ncd.gov/publications/2008/03172008).
 
-[](<>)\[9] Michelle P. Salyers Ph.D., Sam Tsemberis Ph.D.,  “ACT and Recovery: Integrating Evidence-Based Practice and Recovery Orientation on Assertive Community Treatment Teams,” *Community Mental Health Journal* 43  (2007).<http://link.springer.com/article/10.1007%2Fs10597-007-9088-5>
+[9] Michelle P. Salyers Ph.D., Sam Tsemberis Ph.D.,  “ACT and Recovery: Integrating Evidence-Based Practice and Recovery Orientation on Assertive Community Treatment Teams,” *Community Mental Health Journal* 43  (2007).<http://link.springer.com/article/10.1007%2Fs10597-007-9088-5>
 
-[](<>)\[10] National Council on Disability, *National Disability Policy: A Progress Report* (2013), at:[/progress_reports/10312013](https://www.ncd.gov/progress_reports/10312013).
+[10] National Council on Disability, *National Disability Policy: A Progress Report* (2013), at:[/progress_reports/10312013](https://www.ncd.gov/progress_reports/10312013).
 
-[](<>)\[11] National Council on Disability, *From Privileges to Rights,* 72.
+[11] National Council on Disability, *From Privileges to Rights,* 72.
 
-[](<>)\[12] Doris J. James and Lauren E. Glaze, *Bureau of Justice Statistics Special Report: Mental Health Problems of Prison and Jail Inmates* (Washington, DC: U.S. Department of Justice, 2006).
+[12] Doris J. James and Lauren E. Glaze, *Bureau of Justice Statistics Special Report: Mental Health Problems of Prison and Jail Inmates* (Washington, DC: U.S. Department of Justice, 2006).
 
-[](<>)\[13] *Id.*
+[13] *Id.*
 
-[](<>)\[14] "SPLC Launches School to Prison Reform Project to Help At-Risk Children Get Special Education Services, Avoid Incarceration''(2007),Southern Poverty Law Center, <http://www.splcenter.org/get-informed/news/splc-launches-school-to-prison-reform-project-to-help-at-risk-children-get-special>.
+[14] "SPLC Launches School to Prison Reform Project to Help At-Risk Children Get Special Education Services, Avoid Incarceration''(2007),Southern Poverty Law Center, <http://www.splcenter.org/get-informed/news/splc-launches-school-to-prison-reform-project-to-help-at-risk-children-get-special>.
 
-[](<>)\[15] *Id.*
+[15] *Id.*
 
-[](<>)\[16] Second Chance Act of 2007: Community Safety Through Recidivism Prevention, Pub. L. No. 110-199, 122 Stat. 657 (2007).
+[16] Second Chance Act of 2007: Community Safety Through Recidivism Prevention, Pub. L. No. 110-199, 122 Stat. 657 (2007).
 
-[](<>)\[17] National Council on Disability, *National Disability Policy: A Progress Report* (2011), at:[/progress_reports/Oct312011](https://www.ncd.gov/progress_reports/Oct312011).
+[17] National Council on Disability, *National Disability Policy: A Progress Report* (2011), at:[/progress_reports/Oct312011](https://www.ncd.gov/progress_reports/Oct312011).

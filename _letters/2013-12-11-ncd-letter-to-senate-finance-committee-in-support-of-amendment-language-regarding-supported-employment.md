@@ -61,14 +61,14 @@ Chairperson
 
 - - -
 
-[](<>)\[1] General Accounting Office (GAO), September 2001, Special Minimum Wage Program, *Centers Offer Employment and Support Services to Workers with Disabilities, But Labor Should Improve Oversight* GAO-01-886, Page 4.
+[1] General Accounting Office (GAO), September 2001, Special Minimum Wage Program, *Centers Offer Employment and Support Services to Workers with Disabilities, But Labor Should Improve Oversight* GAO-01-886, Page 4.
 
-[](<>)\[2] Centers for Medicare & Medicaid Services, Center for Medicaid, CHIP and Survey & Certification (CMCS Informational Bulletin), *Updates to the Section 1915(c) Waiver Instructions and Technical Guide regarding Employment and Employment-Related Services*, September 16, 2011, Page 2.
+[2] Centers for Medicare & Medicaid Services, Center for Medicaid, CHIP and Survey & Certification (CMCS Informational Bulletin), *Updates to the Section 1915(c) Waiver Instructions and Technical Guide regarding Employment and Employment-Related Services*, September 16, 2011, Page 2.
 
-[](<>)\[3] General Accounting Office (GAO), September 2001, Special Minimum Wage Program, *Centers Offer Employment and Support Services to Workers with Disabilities, But Labor Should Improve Oversight* GAO-01-886, Page 4.
+[3] General Accounting Office (GAO), September 2001, Special Minimum Wage Program, *Centers Offer Employment and Support Services to Workers with Disabilities, But Labor Should Improve Oversight* GAO-01-886, Page 4.
 
  
 
-[](<>)\[4] Robert Evert Cimera Ph.D., *Does Being in Sheltered Workshops Improve the Employment Outcomes of Supported Employees with Intellectual Disabilities?* Journal of Vocational Rehabilitation, Kent State University, (March, 2011), Pages 8, 9.
+[4] Robert Evert Cimera Ph.D., *Does Being in Sheltered Workshops Improve the Employment Outcomes of Supported Employees with Intellectual Disabilities?* Journal of Vocational Rehabilitation, Kent State University, (March, 2011), Pages 8, 9.
 
-[](<>)\[5] Robert Evert Cimera, *The cost-trends of supported employment versus sheltered employment*, Journal of Vocational Rehabilitation, Kent State University (2008), 15-20, Pages 18, 19.
+[5] Robert Evert Cimera, *The cost-trends of supported employment versus sheltered employment*, Journal of Vocational Rehabilitation, Kent State University (2008), 15-20, Pages 18, 19.

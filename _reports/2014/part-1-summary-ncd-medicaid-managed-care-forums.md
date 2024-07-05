@@ -155,44 +155,44 @@ The major push to expand managed LTSS in Medicaid across the country provides op
 
 - - -
 
-[](<>)\[1] National Council on Disability. 2012.  “Guiding Principles: Successfully Enrolling People with Disabilities in Managed Care Plan.” [/publications/2012/Feb272012/](https://ncd.gov/publications/2012/Feb272012/). (Accessed October 23, 2014.)
+[1] National Council on Disability. 2012.  “Guiding Principles: Successfully Enrolling People with Disabilities in Managed Care Plan.” [/publications/2012/Feb272012/](https://ncd.gov/publications/2012/Feb272012/). (Accessed October 23, 2014.)
 
-[](<>)\[2] National Council on Disability. 2012.“Analysis and Recommendations for the Implementation of Managed Care in Medicaid and Medicare Programs for People with Disabilities.”[/publications/2012/CMSFebruary272012/](https://ncd.gov/publications/2012/CMSFebruary272012/), (Accessed October 23, 2014.)
+[2] National Council on Disability. 2012.“Analysis and Recommendations for the Implementation of Managed Care in Medicaid and Medicare Programs for People with Disabilities.”[/publications/2012/CMSFebruary272012/](https://ncd.gov/publications/2012/CMSFebruary272012/), (Accessed October 23, 2014.)
 
-[](<>)\[3] National Council on Disability. (2013). “Medicaid Managed Care for People with Disabilities.”[/publications/2013/20130315/](https://ncd.gov/publications/2013/20130315/). (Accessed October 23, 2014.)
+[3] National Council on Disability. (2013). “Medicaid Managed Care for People with Disabilities.”[/publications/2013/20130315/](https://ncd.gov/publications/2013/20130315/). (Accessed October 23, 2014.)
 
-[](<>)\[4] Kaiser Family Foundation.2014. “Medicaid Moving Forward.”<http://kff.org/medicaid/fact-sheet/the-medicaid-program-at-a-glance-update/>. (Accessed June 17, 2014.)
+[4] Kaiser Family Foundation.2014. “Medicaid Moving Forward.”<http://kff.org/medicaid/fact-sheet/the-medicaid-program-at-a-glance-update/>. (Accessed June 17, 2014.)
 
-[](<>)\[5] U.S. Department of Health and Human Services Centers for Medicare & Medicaid Services. 2014.“Section 2402(a) of the Affordable Care Act Guidance for Implementing Standards for Person-Centered Planning and Self –Direction in Home and Community-Based Services Program.” <http://www.acl.gov/Programs/CDAP/OIP/docs/2402-a-Guidance.pdf>. (Accessed October 23, 2014.)
+[5] U.S. Department of Health and Human Services Centers for Medicare & Medicaid Services. 2014.“Section 2402(a) of the Affordable Care Act Guidance for Implementing Standards for Person-Centered Planning and Self –Direction in Home and Community-Based Services Program.” <http://www.acl.gov/Programs/CDAP/OIP/docs/2402-a-Guidance.pdf>. (Accessed October 23, 2014.)
 
-[](<>)\[6] Edwards, Barbara. “CMS Perspective: How Healthcare Reform has Changed the Healthcare Landscape in the Past Year & What Lies Ahead into 2015 and Beyond.” Presentation at 2014 Medicaid Managed Care Conference, Chicago, IL, March 21, 2014.
+[6] Edwards, Barbara. “CMS Perspective: How Healthcare Reform has Changed the Healthcare Landscape in the Past Year & What Lies Ahead into 2015 and Beyond.” Presentation at 2014 Medicaid Managed Care Conference, Chicago, IL, March 21, 2014.
 
-[](<>)\[7] U.S. Department of Health and Human Services, Centers for Medicare & Medicaid Services. 2013.  “Information Bulletin.”<http://www.medicaid.gov/Federal-Policy-Guidance/downloads/CIB-05-21-2013.pdf>. (Accessed May 21, 2013.)
+[7] U.S. Department of Health and Human Services, Centers for Medicare & Medicaid Services. 2013.  “Information Bulletin.”<http://www.medicaid.gov/Federal-Policy-Guidance/downloads/CIB-05-21-2013.pdf>. (Accessed May 21, 2013.)
 
-[](<>)\[8]  42 CFR § 430-456.
+[8]  42 CFR § 430-456.
 
-[](<>)\[9] Dembner, Alice. 2012. Putting Consumers First: Promising Practices for Medicaid Managed Long-Term Services and Supports. Boston, MA: Community Catalyst.
+[9] Dembner, Alice. 2012. Putting Consumers First: Promising Practices for Medicaid Managed Long-Term Services and Supports. Boston, MA: Community Catalyst.
 
-[](<>)\[10]  Ibid.
+[10]  Ibid.
 
-[](<>)\[11] Dooha, Susan M., Letter to Mr. Mark Kissinger, New York State Department of Health on ADA Compliance by Managed Long-term Care Plans in New York State, October 5, 2012. <http://tinyurl.com/CIDNY-MLTC-ADA>.<http://tinyurl.com/CIDNY-MLTC-ADA-chart-xls> . (Accessed October 2014.)
+[11] Dooha, Susan M., Letter to Mr. Mark Kissinger, New York State Department of Health on ADA Compliance by Managed Long-term Care Plans in New York State, October 5, 2012. <http://tinyurl.com/CIDNY-MLTC-ADA>.<http://tinyurl.com/CIDNY-MLTC-ADA-chart-xls> . (Accessed October 2014.)
 
-[](<>)\[12] American Health Lawyers Association, “Top 10 Health Law Issues 2012, AHLA Connections, February 2012,<http://www.healthlawyers.org/News/Connections/Pages/default.aspx>
+[12] American Health Lawyers Association, “Top 10 Health Law Issues 2012, AHLA Connections, February 2012,<http://www.healthlawyers.org/News/Connections/Pages/default.aspx>
 
-[](<>)\[13] Kaiser Family Foundation. 2012. “Quick Take: Medicaid MCOs and Medical Loss Ratio (MLR) Requirements.” <http://kff.org/medicaid/fact-sheet/medicaid-mcos-and-medical-loss-ratio-mlr/>. (Accessed October 23, 2014).
+[13] Kaiser Family Foundation. 2012. “Quick Take: Medicaid MCOs and Medical Loss Ratio (MLR) Requirements.” <http://kff.org/medicaid/fact-sheet/medicaid-mcos-and-medical-loss-ratio-mlr/>. (Accessed October 23, 2014).
 
-[](<>)\[14] General Accounting Office. 2014. *Medicaid Program Integrity. Increased Oversight Needed to Ensure Integrity of Growing Managed Care Expenditures*.GAO-14-341May 19.
+[14] General Accounting Office. 2014. *Medicaid Program Integrity. Increased Oversight Needed to Ensure Integrity of Growing Managed Care Expenditures*.GAO-14-341May 19.
 
-[](<>)\[15] Ibid. 9.
+[15] Ibid. 9.
 
-[](<>)\[16] Ibid. 1.
+[16] Ibid. 1.
 
-[](<>)\[17] U.S. Senate Health, Education, Labor and Pensions Committee*.* 2013. “Separate and Unequal: States Fail to Fulfill the Community Living Promise of the Americans with Disabilities Act.”<http://www.harkin.senate.gov/documents/pdf/OlmsteadReport.pdf>. (Accessed October 23, 2014.)
+[17] U.S. Senate Health, Education, Labor and Pensions Committee*.* 2013. “Separate and Unequal: States Fail to Fulfill the Community Living Promise of the Americans with Disabilities Act.”<http://www.harkin.senate.gov/documents/pdf/OlmsteadReport.pdf>. (Accessed October 23, 2014.)
 
-[](<>)\[18] Ibid.
+[18] Ibid.
 
-[](<>)\[19] Ibid.
+[19] Ibid.
 
-[](<>)\[20] “Federal Policy Guidance,” U.S. Department of Health and Human Services, Centers for Medicare and Medicaid Services, accessed October 23, 2014, <http://www.medicaid.gov/Federal-Policy-Guidance/Federal-Policy-Guidance.html>.
+[20] “Federal Policy Guidance,” U.S. Department of Health and Human Services, Centers for Medicare and Medicaid Services, accessed October 23, 2014, <http://www.medicaid.gov/Federal-Policy-Guidance/Federal-Policy-Guidance.html>.
 
-[](<>)\[21] Ibid.
+[21] Ibid.

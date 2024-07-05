@@ -74,4 +74,4 @@ Chairperson
 
 - - -
 
-[](<>)\[i] National Council on Disability, “The State of 21st Century Long-Term Services and Supports: Financing and Systems Reform for Americans with Disabilities,” December 2005, available at [/publications/2005/12152005](https://ncd.gov/publications/2005/12152005).
+[i] National Council on Disability, “The State of 21st Century Long-Term Services and Supports: Financing and Systems Reform for Americans with Disabilities,” December 2005, available at [/publications/2005/12152005](https://ncd.gov/publications/2005/12152005).

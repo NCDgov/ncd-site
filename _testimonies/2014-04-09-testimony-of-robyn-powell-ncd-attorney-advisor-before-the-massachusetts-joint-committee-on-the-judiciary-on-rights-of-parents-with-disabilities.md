@@ -88,42 +88,42 @@ Thank you for the opportunity to provide this written testimony.
 
 - - -
 
-[](<>)\[1] National Council on Disability, *Rocking the Cradle: Ensuring the Rights of Parents with Disabilities and Their Children,*September 2012, [/publications/2012/Sep272012/](https://www.ncd.gov/publications/2012/Sep272012/).
+[1] National Council on Disability, *Rocking the Cradle: Ensuring the Rights of Parents with Disabilities and Their Children,*September 2012, [/publications/2012/Sep272012/](https://www.ncd.gov/publications/2012/Sep272012/).
 
-[](<>)\[2] Stephen H. Kaye, *Population Estimates and Demographics of Parents with Disabilities in the United States* (Berkeley, CA: Through the Looking Glass, 2011).
+[2] Stephen H. Kaye, *Population Estimates and Demographics of Parents with Disabilities in the United States* (Berkeley, CA: Through the Looking Glass, 2011).
 
-[](<>)\[3] Stephen H. Kaye, *Unpublished Tabulations from the 2008 and 2009 American Community Survey* (Berkeley, CA: Through the Looking Glass, 2012).
+[3] Stephen H. Kaye, *Unpublished Tabulations from the 2008 and 2009 American Community Survey* (Berkeley, CA: Through the Looking Glass, 2012).
 
-[](<>)\[4] Paul Preston, “Parents with Disabilities,” International Encyclopedia of Rehabilitation, edited by J.H. Stone and M. Blouin (2011), <http://cirrie.buffalo.edu/encyclopedia/en/article/36/>
+[4] Paul Preston, “Parents with Disabilities,” International Encyclopedia of Rehabilitation, edited by J.H. Stone and M. Blouin (2011), <http://cirrie.buffalo.edu/encyclopedia/en/article/36/>
 
-[](<>)\[5] Michelle R. Smith, Associated Press, “Man who Lost his Legs in Boston Bombing is Engaged,” March 23, 2014,<http://www.boston.com/news/local/massachusetts/2014/03/23/man-who-lost-his-legs-boston-bombing-engaged/dg6ZZVwQp6AyqY5OiiICLK/story.html>.
+[5] Michelle R. Smith, Associated Press, “Man who Lost his Legs in Boston Bombing is Engaged,” March 23, 2014,<http://www.boston.com/news/local/massachusetts/2014/03/23/man-who-lost-his-legs-boston-bombing-engaged/dg6ZZVwQp6AyqY5OiiICLK/story.html>.
 
-[](<>)\[6] Reid Grinspoon, “’The Burden of Feeble-Mindedness:’The History of Eugenics and Sterilization in Massachusetts,” *New England Journal of History* 70(1) (2013).
+[6] Reid Grinspoon, “’The Burden of Feeble-Mindedness:’The History of Eugenics and Sterilization in Massachusetts,” *New England Journal of History* 70(1) (2013).
 
-[](<>)\[7] *Buck v. Bell*, 274 U.S. 200 (1927), at 208.
+[7] *Buck v. Bell*, 274 U.S. 200 (1927), at 208.
 
-[](<>)\[8] Ella Callow, “Maintaining Families When Parents have Disabilities,” *ABA Child Law Practice* 28(9) (2009): 134.
+[8] Ella Callow, “Maintaining Families When Parents have Disabilities,” *ABA Child Law Practice* 28(9) (2009): 134.
 
-[](<>)\[9] 42 U.S.C. § 671(a)(15)(A), 42 U.S.C. § 671(a)(15)(D)(i), 65 Fed. Reg. 4060 (Jan. 25, 2000).
+[9] 42 U.S.C. § 671(a)(15)(A), 42 U.S.C. § 671(a)(15)(D)(i), 65 Fed. Reg. 4060 (Jan. 25, 2000).
 
-[](<>)\[10] Kathleen S. Bean, “Aggravated Circumstances, Reasonable Efforts, and ASFA,” *Boston College Third World Law Journal* 29 (2009): 226 (internal citations omitted).
+[10] Kathleen S. Bean, “Aggravated Circumstances, Reasonable Efforts, and ASFA,” *Boston College Third World Law Journal* 29 (2009): 226 (internal citations omitted).
 
-[](<>)\[11] S. Singh, et al., “Parental Disability and Termination of Parental Rights in Child Welfare, Minn-LInK Brief No. 12,” (Center for Advance Studies in Child Welfare, 2012), accessed March 8, 2012,<http://www.cehd.umn.edu/ssw/cascw/research/minnlink/minnlinkpublications.asp>.
+[11] S. Singh, et al., “Parental Disability and Termination of Parental Rights in Child Welfare, Minn-LInK Brief No. 12,” (Center for Advance Studies in Child Welfare, 2012), accessed March 8, 2012,<http://www.cehd.umn.edu/ssw/cascw/research/minnlink/minnlinkpublications.asp>.
 
-[](<>)\[12] Loran B. Kundra and Leslie B. Alexander, “Termination of Parental Rights Proceedings: Legal Considerations and Practical Strategies for Parents with Psychiatric Disabilities and the Practitioners Who Serve Them,” *Psychiatric Rehabilitation Journal* 33(2) (2009): note 249, 143.
+[12] Loran B. Kundra and Leslie B. Alexander, “Termination of Parental Rights Proceedings: Legal Considerations and Practical Strategies for Parents with Psychiatric Disabilities and the Practitioners Who Serve Them,” *Psychiatric Rehabilitation Journal* 33(2) (2009): note 249, 143.
 
-[](<>)\[13] Elizabeth Lightfoot, Katharine Hill, and Traci LaLiberte, “The Inclusion of Disability as a Condition for Termination of Parental Rights,” *Child Abuse and Neglect* 34 (2010): 928; Maurice Feldman, “Parents with Intellectual Disabilities: Implications and Interventions,” in J. Lutzker (Ed.), *Handbook on Child Abuse Research and Treatment* (pp. 401–420) (New York, Plenum Press: 1998).
+[13] Elizabeth Lightfoot, Katharine Hill, and Traci LaLiberte, “The Inclusion of Disability as a Condition for Termination of Parental Rights,” *Child Abuse and Neglect* 34 (2010): 928; Maurice Feldman, “Parents with Intellectual Disabilities: Implications and Interventions,” in J. Lutzker (Ed.), *Handbook on Child Abuse Research and Treatment* (pp. 401–420) (New York, Plenum Press: 1998).
 
-[](<>)\[14] *Id.* at 129.
+[14] *Id.* at 129.
 
-[](<>)\[15] Elizabeth Lightfoot, Katharine Hill, and Traci LaLiberte, “The Inclusion of Disability as a Condition for Termination of Parental Rights,” *Child Abuse and Neglect* 34 (2010):, 930 (citing Phillip Swain and Nadine Cameron, “‘Good Enough Parenting:’ Parental Disability and Child Protection,” *Disability and Society* 18(2) (2003): 165–177).
+[15] Elizabeth Lightfoot, Katharine Hill, and Traci LaLiberte, “The Inclusion of Disability as a Condition for Termination of Parental Rights,” *Child Abuse and Neglect* 34 (2010):, 930 (citing Phillip Swain and Nadine Cameron, “‘Good Enough Parenting:’ Parental Disability and Child Protection,” *Disability and Society* 18(2) (2003): 165–177).
 
-[](<>)\[16] Chris Heide, University of Washington Daily, “More to Marriage than It Seems,” accessed March 2, 2012,[http://dailyuw.com/archive/2007/02/09/imported/more-marriage-it-seems#.U0X4xlcvmJs](http://dailyuw.com/archive/2007/02/09/imported/more-marriage-it-seems@.U0X4xlcvmJs).
+[16] Chris Heide, University of Washington Daily, “More to Marriage than It Seems,” accessed March 2, 2012,[http://dailyuw.com/archive/2007/02/09/imported/more-marriage-it-seems#.U0X4xlcvmJs](http://dailyuw.com/archive/2007/02/09/imported/more-marriage-it-seems@.U0X4xlcvmJs).
 
-[](<>)\[17] Ella Callow, Kelly Buckland, and Shannon Jones, “Parents with Disabilities in the United States: Prevalence, Perspectives, and a Proposal for Legislative Change to Protect the Right to Family in the Disability Community,” *Texas Journal of Civil Liberties and Civil Rights* 17 (2011): 9–42.
+[17] Ella Callow, Kelly Buckland, and Shannon Jones, “Parents with Disabilities in the United States: Prevalence, Perspectives, and a Proposal for Legislative Change to Protect the Right to Family in the Disability Community,” *Texas Journal of Civil Liberties and Civil Rights* 17 (2011): 9–42.
 
-[](<>)\[18] U.S. Developmental Disabilities Act, 42 U.S.C.A. §15001 (2000).
+[18] U.S. Developmental Disabilities Act, 42 U.S.C.A. §15001 (2000).
 
-[](<>)\[19] Megan Kirshbaum, Daniel Taube, and Rosalind Lasian Baer, “Parents with Disabilities: Problems in Family Court Practice,” *Journal of the Center for Families, Children and the Courts* 4 (2003): 37-38.
+[19] Megan Kirshbaum, Daniel Taube, and Rosalind Lasian Baer, “Parents with Disabilities: Problems in Family Court Practice,” *Journal of the Center for Families, Children and the Courts* 4 (2003): 37-38.
 
-[](<>)\[20] *Id.*, at 38.
+[20] *Id.*, at 38.

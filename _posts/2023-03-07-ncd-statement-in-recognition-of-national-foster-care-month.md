@@ -28,6 +28,6 @@ Indisputably, foster care is both a child welfare issue *and* a disability iss
 
 - - -
 
-[](<>)\[1] Casey Family Programs, “Moving toward Hope,” (2013), accessed May 6, 2014,<http://www.casey.org/resources/publications/ar/download/downloadpdf.htm>.
+[1] Casey Family Programs, “Moving toward Hope,” (2013), accessed May 6, 2014,<http://www.casey.org/resources/publications/ar/download/downloadpdf.htm>.
 
-[](<>)\[2] Children’s Rights and United Cerebral Palsy, “Forgotten Children: A Case for Action for Children and Youth with Disabilities in Foster Care,” (2006), accessed May 6, 2014,<http://www.childrensrights.org/policy-projects/foster-care/children-with-disabilities-in-foster-care/2/>.
+[2] Children’s Rights and United Cerebral Palsy, “Forgotten Children: A Case for Action for Children and Youth with Disabilities in Foster Care,” (2006), accessed May 6, 2014,<http://www.childrensrights.org/policy-projects/foster-care/children-with-disabilities-in-foster-care/2/>.

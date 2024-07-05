@@ -1341,7 +1341,7 @@ Current efforts to improve the nation's schools involve increasing the accountab
 
 [](<>)* For example, the 1990 Math Proficiency scores for NAEP's Trial State Assessment reveal that the average score for all students was 261, and the average score for students with IEPs was 234.
 
-[](<>)\*\* An analysis of all students' responses when compared with responses of students with disabilities shows few differences for most of the items on the 1990 NELS report.
+*\* An analysis of all students' responses when compared with responses of students with disabilities shows few differences for most of the items on the 1990 NELS report.
 
 [](<>)1 J.G. Chambers and W.T. Hartman (1983). *Special Education Policies: Their History, Implementation, and Finance*. Temple University Press: Philadelphia, PA.
 
