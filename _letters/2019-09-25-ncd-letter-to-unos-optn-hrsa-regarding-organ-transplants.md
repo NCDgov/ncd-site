@@ -48,4 +48,4 @@ Chairman
 
 - - -
 
-[1](https://ncd.gov/publications/2019/ncd-letter-unos-optn-hrsa-regarding-organ-transplants#_ftnref1) <https://www.ncd.gov/publications/2019/bioethics-report-series>
+1 <https://www.ncd.gov/publications/2019/bioethics-report-series>

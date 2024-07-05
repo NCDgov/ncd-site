@@ -324,8 +324,7 @@ The goals of the ADA are consistent with the purpose and goals of the Panel. The
 
 We are excited to be working on these issues together with our federal partners as we strive to make the goals of the ADA a reality for every American with a disability.
 
-Sincerely,\
-![](http://web.archive.org/web/20150417194248/http:/www.ncd.gov/publications/2006/ada16years_clip_image003_0000.gif)\
+Sincerely,
 Berthy De La Rosa-Aponte, Chair
 
  

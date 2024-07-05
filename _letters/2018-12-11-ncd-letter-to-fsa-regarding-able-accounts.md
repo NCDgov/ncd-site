@@ -38,7 +38,7 @@ Chairman
 
 - - -
 
-[1](https://ncd.gov/publications/2019/ncd-letter-fsa-regarding-able-accounts#_ftnref1) [115 H. Rpt. 862](https://advance.lexis.com/api/document/collection/statutes-legislation/id/5SWM-64C1-F08P-2256-00000-00?cite=115%20H.%20Rpt.%20862&context=1000516)
+1 [115 H. Rpt. 862](https://advance.lexis.com/api/document/collection/statutes-legislation/id/5SWM-64C1-F08P-2256-00000-00?cite=115%20H.%20Rpt.%20862&context=1000516)
 
  
 

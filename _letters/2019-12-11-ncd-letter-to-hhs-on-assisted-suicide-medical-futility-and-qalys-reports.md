@@ -82,16 +82,16 @@ Washington, D.C. 20530
 
 - - -
 
-[1](https://ncd.gov/publications/2019/ncd-letter-hhs-3-bioethics-reports#_ftnref1) <https://ncd.gov/publications/2019/ncd-letter-hhs-and-doj-organ-transplants>
+[1] <https://ncd.gov/publications/2019/ncd-letter-hhs-and-doj-organ-transplants>
 
-[2](https://ncd.gov/publications/2019/ncd-letter-hhs-3-bioethics-reports#_ftnref2) <https://ncd.gov/publications/2019/bioethics-report-series>
+[2] <https://ncd.gov/publications/2019/bioethics-report-series>
 
-[3](https://ncd.gov/publications/2019/ncd-letter-hhs-3-bioethics-reports#_ftnref3) <{{ site.baseUrl }}/assets/uploads/docs/ncd-assisted-suicide-report-508.pdf>
+[3] <{{ site.baseUrl }}/assets/uploads/docs/ncd-assisted-suicide-report-508.pdf>
 
-[4](https://ncd.gov/publications/2019/ncd-letter-hhs-3-bioethics-reports#_ftnref4) <{{ site.baseUrl }}/assets/uploads/docs/ncd-quality-adjusted-life-report-508.pdf>
+[4] <{{ site.baseUrl }}/assets/uploads/docs/ncd-quality-adjusted-life-report-508.pdf>
 
-[5](https://ncd.gov/publications/2019/ncd-letter-hhs-3-bioethics-reports#_ftnref5) <{{ site.baseUrl }}/assets/uploads/docs/ncd-medical-futility-report-508.pdf>> 
+[5] <{{ site.baseUrl }}/assets/uploads/docs/ncd-medical-futility-report-508.pdf>> 
 
-[6](https://ncd.gov/publications/2019/ncd-letter-hhs-3-bioethics-reports#_ftnref6) <https://ncd.gov/publications/1997/03241997>
+[6] <https://ncd.gov/publications/1997/03241997>
 
-[7](https://ncd.gov/publications/2019/ncd-letter-hhs-3-bioethics-reports#_ftnref7) <https://ncd.gov/publications/2005/cover-memorandum-upon-reissuance-ncd-statement-opposing-legalization-assisted-suicide>
+[7] <https://ncd.gov/publications/2005/cover-memorandum-upon-reissuance-ncd-statement-opposing-legalization-assisted-suicide>

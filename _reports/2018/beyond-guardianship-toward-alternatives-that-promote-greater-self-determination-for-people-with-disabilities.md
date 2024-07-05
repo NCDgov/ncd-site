@@ -19,7 +19,15 @@ image_alt_text: na
 ---
 
 
-**[Full Report (PDF)]({{ site.baseUrl }}/assets/uploads/docs/ncd-guardianship-report-accessible.pdf)****[Full Report (DOC)]({{ site.baseUrl }}/assets/uploads/docs/ncd-guardianship-report-interior.docx)****[Literature Review (DOC)]({{ site.baseUrl }}/assets/uploads/docs/beyond-guardianship-literature-review.docx)****[Qualitative Research Report Summary (DOC)]({{ site.baseUrl }}/assets/uploads/docs/beyond-guardianship-qualitative-study-report-summary.docx)****[Press Release (HTML)](https://ncd.gov/newsroom/2018/federal-report-examines-guardianships)**
+**[Full Report (PDF)]({{ site.baseUrl }}/assets/uploads/docs/ncd-guardianship-report-accessible.pdf)**
+
+**[Full Report (DOC)]({{ site.baseUrl }}/assets/uploads/docs/ncd-guardianship-report-interior.docx)**
+
+**[Literature Review (DOC)]({{ site.baseUrl }}/assets/uploads/docs/beyond-guardianship-literature-review.docx)**
+
+**[Qualitative Research Report Summary (DOC)]({{ site.baseUrl }}/assets/uploads/docs/beyond-guardianship-qualitative-study-report-summary.docx)**
+
+**[Press Release (HTML)](https://ncd.gov/newsroom/2018/federal-report-examines-guardianships)**
 
 **SCOPE:** NCD undertook this report to foster a greater understanding of guardianship within the context of disability law and policy; to examine the treatment of people with disabilities within the legal system that establishes guardianship; to examine the use of alternatives to guardianship such as supported decision-making; and to make recommendations that will help align the use of guardianship and decision-making alternatives with the Americans with Disabilities Act (ADA) with particular focus on the integration mandate. The report's findings and recommendations are the product of qualitative research on the experiences with guardianship and decision making alternatives of people with disabilities, their families, and professionals within the guardianship system gleaned through interviews; in addition to an extensive review of relevant scholarship and recent studies.
 

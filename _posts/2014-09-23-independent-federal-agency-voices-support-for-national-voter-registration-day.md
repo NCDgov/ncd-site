@@ -24,6 +24,6 @@ In addition, NCD urges the Administration and Congress to take steps to ensure t
 
 “NCD calls on Independent Living Centers, State Independent Living Councils, those conducting youth leadership forums, protection and advocacy organizations, and activist groups across the nation to make voter registration a priority – including registration drives at conferences and events – between now and the 25th anniversary of the Americans with Disabilities Act in July 2015,” said Rebecca Cokley, NCD Executive Director. “The constitutional right to vote is an invaluable cornerstone of civic participation in a democracy.  One that should never be taken for granted. Registering to vote is one way we can ensure that this treasured principle and the fights which helped guarantee them are honored.”
 
-**For more information on the National Council on Disability go to:** [](https://www.ncd.gov/)
+**For more information on the National Council on Disability go to:** <https://www.ncd.gov/>
 
 **To get a copy of NCD’s 2013 report “Experience of Voters with Disabilities in the 2012 Election Cycle” go to**: [/publications/2013/10242013/](https://www.ncd.gov/publications/2013/10242013/)

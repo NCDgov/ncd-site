@@ -37,7 +37,7 @@ Chairperson 
 
 - - -
 
-[1](https://ncd.gov/publications/2015/ncd-letter-small-business-administration#_ftnref1) <http://dredf.org/media-disability>
+1 <http://dredf.org/media-disability>
 
 [2](https://ncd.gov/publications/2015/ncd-letter-small-business-administration#_ftnref2) [http://www.disabilityscoop.com/2014/09/18/report-disabilities-poverty/19...](http://www.disabilityscoop.com/2014/09/18/report-disabilities-poverty/19683/)
 

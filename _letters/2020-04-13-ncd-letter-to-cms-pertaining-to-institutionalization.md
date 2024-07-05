@@ -36,16 +36,15 @@ Chairperson
 
 - - -
 
- [1](https://ncd.gov/publications/2020/ncd-letter-cms-institutionalization#_ftnref1) National Council on Disability. "Preserving Our Freedom, Ending Institutionalization of People with Disabilities During and After Disasters." NCD.gov. <{{ site.baseUrl }}/assets/uploads/docs/ncd-preserving-our-freedom-508.pdf>
+1 National Council on Disability. "Preserving Our Freedom, Ending Institutionalization of People with Disabilities During and After Disasters." NCD.gov. <{{ site.baseUrl }}/assets/uploads/docs/ncd-preserving-our-freedom-508.pdf>
 
 (accessed April 8, 2020)
 
- [2](https://ncd.gov/publications/2020/ncd-letter-cms-institutionalization#_ftnref2) ibid.
+2 ibid.
 
- [3](https://ncd.gov/publications/2020/ncd-letter-cms-institutionalization#_ftnref3) Freeman, Vernon Jr.. "COVID-19 Death Toll at Henrico Nursing Home Rises to 35. WTVR.com[. Https://www.wtvr.com/news/coronavirus/covid-19-death-toll-at-henrico-nursing-home-rises-to-33](file:///C:/Users/kadedrawalters/Library/Containers/com.microsoft.Word/Data/Downloads/.%20Https:/www.wtvr.com/news/coronavirus/covid-19-death-toll-at-henrico-nursing-home-rises-to-33) (access April 9, 2020)
+3 Freeman, Vernon Jr.. "COVID-19 Death Toll at Henrico Nursing Home Rises to 35. WTVR.com. <https://www.wtvr.com/news/coronavirus/covid-19-death-toll-at-henrico-nursing-home-rises-to-33> (access April 9, 2020)
 
- [4](https://ncd.gov/publications/2020/ncd-letter-cms-institutionalization#_ftnref4) Stranglin, Doug. Coronavirus Deaths are Rising at Virginia, New Jersey Nursing Homes: at Least 43 Residents Have Died Since mid-March. USAToday.com. <https://www.usatoday.com/story/news/nation/2020/04/08/coronavirus-death-toll-virginia-nursing-home-soar-33/2971642001/> (access April 9, 2020)
+4 Stranglin, Doug. Coronavirus Deaths are Rising at Virginia, New Jersey Nursing Homes: at Least 43 Residents Have Died Since mid-March. USAToday.com. <https://www.usatoday.com/story/news/nation/2020/04/08/coronavirus-death-toll-virginia-nursing-home-soar-33/2971642001/> (access April 9, 2020)
 
- [5](https://ncd.gov/publications/2020/ncd-letter-cms-institutionalization#_ftnref5) WJZ. Coronavirus Latest: Cases of COVID-19 Reported at 90 Maryland Nursing Homes, Care Facilities. WJZ.com.
-
-<https://baltimore.cbslocal.com/2020/04/07/coronavirus-latest-maryland-nursing-homes/>flight should be taken (access April 9, 2020)
+5 WJZ. Coronavirus Latest: Cases of COVID-19 Reported at 90 Maryland Nursing Homes, Care Facilities. WJZ.com.
+<https://baltimore.cbslocal.com/2020/04/07/coronavirus-latest-maryland-nursing-homes/> flight should be taken (access April 9, 2020)

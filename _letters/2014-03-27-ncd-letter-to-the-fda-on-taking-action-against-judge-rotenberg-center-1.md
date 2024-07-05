@@ -70,13 +70,13 @@ James Swink, Medical Devices Advisory Panel Coordinator
 
 [ii](https://ncd.gov/publications/2014/03272014#_ednref2) National Council on Disability, *From Privileges to Rights: People Labeled with Psychiatric Disabilities Speak for Themselves* (2002), available at [/publications/2000/Jan202000](https://ncd.gov/publications/2000/Jan202000); National Council on Disability, *Improving the Implementation of the Individuals with Disabilities Education Act: Making Schools Work for All of America's Children* (1995), available at [/publications/1995/09051995](https://ncd.gov/publications/1995/09051995).
 
-[[](https://ncd.gov/publications/2014/03272014#_ednref3)[iii](https://ncd.gov/publications/2014/03272014#_ednref3) *Id*.
+[iii] *Id*.
 
 [iv](https://ncd.gov/publications/2014/03272014#_ednref4) Mental Disability Rights International, *Torture Not Treatment: Electric Shock and Long-Term Restraint in the United States on Children and Adults with Disabilities at the Judge Rotenberg Center* (2010), 6, available at <http://www.disabilityrightsintl.org/wordpress/wp-content/uploads/USReportandUrgentAppeal.pdf>.
 
 [v](https://ncd.gov/publications/2014/03272014#_ednref5) TIME, *‘Shock’ School Trial: Where Is the Evidence that Abuse Helps Treat Autism?* (2012), available at [http://healthland.time.com/2012/04/23/shock-school-trial-where-is-the-evidence-that-abuse-helps-treat-autism/#ixzz2IFduZZLs](http://healthland.time.com/2012/04/23/shock-school-trial-where-is-the-evidence-that-abuse-helps-treat-autism/@ixzz2IFduZZLs).
 
-[[](https://ncd.gov/publications/2014/03272014#_ednref6)[vi](https://ncd.gov/publications/2014/03272014#_ednref6) Politico, *Teen Electrocuted for Refusing to take of his Coat*, available at <http://www.politicolnews.com/teen-electrocuted-for-refusing-to-take-off-his-coat/>.
+[vi](https://ncd.gov/publications/2014/03272014#_ednref6) Politico, *Teen Electrocuted for Refusing to take of his Coat*, available at <http://www.politicolnews.com/teen-electrocuted-for-refusing-to-take-off-his-coat/>.
 
 [vii](https://ncd.gov/publications/2014/03272014#_ednref7) Email sent to NCD from Nancy Weiss, Director of the National Leadership Consortium on Developmental Disabilities at the University of Delaware, on behalf of former JRC student, January 17, 2013.
 

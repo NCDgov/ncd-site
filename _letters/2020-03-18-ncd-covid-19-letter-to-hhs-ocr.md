@@ -40,9 +40,9 @@ Chairman
 
 - - -
 
- [1](https://ncd.gov/publications/2020/ncd-covid-19-letter-hhs-ocr#_ftnref1) <https://ncd.gov/publications/2019/bioethics-report-series>
+ 1 <https://ncd.gov/publications/2019/bioethics-report-series>
 
- [2](https://ncd.gov/publications/2020/ncd-covid-19-letter-hhs-ocr#_ftnref2) <https://www.washingtonpost.com/health/2020/03/15/coronavirus-rationing-us/>; <https://www.nytimes.com/2020/03/12/opinion/coronavirus-hospital-shortage.html>;
+ 2 <https://www.washingtonpost.com/health/2020/03/15/coronavirus-rationing-us/>; <https://www.nytimes.com/2020/03/12/opinion/coronavirus-hospital-shortage.html>;
 
 <https://www.washingtonpost.com/opinions/2020/03/15/nightmare-rationing-health-care/>
 

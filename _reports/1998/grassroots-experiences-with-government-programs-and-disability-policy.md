@@ -11,7 +11,7 @@ Proceedings from a Public Hearing in New Orleans, Louisiana
 National Council on Disability\
 October 1, 1998
 
-This public domain document is also available in alternative formats and on the Internet ().
+This public domain document is also available in alternative formats and on the Internet.
 
 The views contained in this report do not necessarily represent those of the Administration, as this document has not been subjected to the A-19 Executive Branch review process.
 

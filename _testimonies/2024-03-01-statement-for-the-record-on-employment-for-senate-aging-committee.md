@@ -48,12 +48,12 @@ keacobacci@ncd.gov
 
 [1]<!--\[endif]-->](#_ftnref1) See Policies for the Past in a Modern Era: The Unintended Consequences of the AbilityOne Program and Section 14(c) available at:  https://www.ncd.gov/report/policies-from-the-past-in-a-modern-era-the-unintended-consequences-of-the-abilityone-program-section-14-c/.
 
-[2]<!--\[endif]-->](#_ftnref2) NCD’s 2020 report, *Policies from the Past in a Modern Era: The Unintended Consequences of the AbilityOne Program in a Modern Era,* available at: [ncd-abilityone-2020 (2).pdf](file://local.ncd.gov/ncd/Redirected/keacobacci/Downloads/ncd-abilityone-2020%20(2).pdf) and NCD’s 2019 report, A Cursory Look at the AbilityOne Program, available at: [a-cursory-look-at-abilityone.pdf (ncd.gov)](file://local.ncd.gov/ncd/Redirected/keacobacci/Downloads/a-cursory-look-at-abilityone.pdf).
+[2]<!--\[endif]-->](#_ftnref2) NCD’s 2020 report, *Policies from the Past in a Modern Era: The Unintended Consequences of the AbilityOne Program in a Modern Era,* available at: [ncd-abilityone-2020 (2).pdf](https://www.ncd.gov/ncd/Redirected/keacobacci/Downloads/ncd-abilityone-2020%20(2).pdf) and NCD’s 2019 report, A Cursory Look at the AbilityOne Program, available at: [a-cursory-look-at-abilityone.pdf (ncd.gov)](https://www.ncd.gov/ncd/Redirected/keacobacci/Downloads/a-cursory-look-at-abilityone.pdf).
 
-[3]<!--\[endif]-->](#_ftnref3) [ncd-abilityone-2020 (2).pdf](file://local.ncd.gov/ncd/Redirected/keacobacci/Downloads/ncd-abilityone-2020%20(2).pdf).
+[3]<!--\[endif]-->](#_ftnref3) [ncd-abilityone-2020 (2).pdf](https://www.ncd.gov/ncd/Redirected/keacobacci/Downloads/ncd-abilityone-2020%20(2).pdf).
 
 [4]<!--\[endif]-->](#_ftnref4) See U.S. AbilityOne Commission Fiscal Year 2023 Performance and Accountability Report available at:  [U.S. AbilityOne Commission FY23 Performance and Accountability Report](https://www.abilityone.gov/Commission/documents/U.S.%20AbilityOne%20Commission%20FY2023%20PAR%2015Nov2023%20signed%20508.pdf).
 
-[5]<!--\[endif]-->](#_ftnref5) [ncd-subminimum-wage-supported-employment-2012.pdf](file://local.ncd.gov/ncd/Redirected/keacobacci/Downloads/ncd-subminimum-wage-supported-employment-2012.pdf).
+[5]<!--\[endif]-->](#_ftnref5) [ncd-subminimum-wage-supported-employment-2012.pdf](https://www.ncd.gov/ncd/Redirected/keacobacci/Downloads/ncd-subminimum-wage-supported-employment-2012.pdf).
 
-[6]<!--\[endif]-->](#_ftnref6) [ncd_new_deal_to_real_deal.pdf](file://local.ncd.gov/ncd/Redirected/keacobacci/Downloads/ncd_new_deal_to_real_deal.pdf)
+[6]<!--\[endif]-->](#_ftnref6) [ncd_new_deal_to_real_deal.pdf](https://www.ncd.gov/ncd/Redirected/keacobacci/Downloads/ncd_new_deal_to_real_deal.pdf)

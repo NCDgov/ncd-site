@@ -22,7 +22,7 @@ May 15, 2000
 202-272-2074 TTY\
 202-272-2022 Fax
 
-This report is also available in alternative formats and on NCD's award-winning Web site ().
+This report is also available in alternative formats and on NCD's award-winning Web site.
 
 The views contained in this report do not necessarily represent those of the Administration, as this document has not subjected to the A-19 Executive Branch review process.
 

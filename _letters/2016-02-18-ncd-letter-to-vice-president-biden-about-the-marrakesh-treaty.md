@@ -36,4 +36,4 @@ Chair
 
 - - -
 
-[1](https://ncd.gov/publications/2016/ncd-letter-vice-president-biden-about-marrakesh-treaty#_ftnref1)  [42 U.S.C. § 12101(b)(1)](https://advance.lexis.com/document/teaserdocument/?pdmfid=1000516&crid=a74af3b2-1b2d-4f2a-9917-57a8f8b32752&pddocfullpath=%2Fshared%2Fdocument%2Fcases%2Furn%3AcontentItem%3A3WSC-DG90-004C-2009-00000-00&pddocid=urn%3AcontentItem%3A3WSC-DG90-004C-2009-00000-00&pdcontentcomponentid=6443&pdteaserkey=h1&ecomp=_thhk&earg=sr0&prid=4e99c99d-de54-4cd8-918a-90b5e463a533)
+1 [42 U.S.C. § 12101(b)(1)](https://advance.lexis.com/document/teaserdocument/?pdmfid=1000516&crid=a74af3b2-1b2d-4f2a-9917-57a8f8b32752&pddocfullpath=%2Fshared%2Fdocument%2Fcases%2Furn%3AcontentItem%3A3WSC-DG90-004C-2009-00000-00&pddocid=urn%3AcontentItem%3A3WSC-DG90-004C-2009-00000-00&pdcontentcomponentid=6443&pdteaserkey=h1&ecomp=_thhk&earg=sr0&prid=4e99c99d-de54-4cd8-918a-90b5e463a533)

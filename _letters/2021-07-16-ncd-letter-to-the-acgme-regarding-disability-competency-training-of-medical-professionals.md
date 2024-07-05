@@ -49,14 +49,14 @@ Chicago, Illinois 60611
 
 - - -
 
-[1](https://ncd.gov/publications/2021/ncd-letter-acgme-regarding-disability-competency-training-medical-professionals#_ftnref1) Also see NCD’s most recent report, [Enforceable Accessible Medical Equipment Standards: A Necessary Means to Address the Health Care Needs of People with Mobility Disabilities](https://ncd.gov/publications/2021/enforceable-accessible-medical-equipment-standards) (2021), which describes the considerable body of research on the health disparities of people with disabilities and focuses on the role of inaccessible medical diagnostic equipment in health care settings as both a major barrier to equitable health care and a perpetuator of health disparities for people with mobility disabilities. In this report, NCD recommends that ACGME require all federally funded medical residency programs to include disability competency training, which includes the importance of accessible medical diagnostic equipment to help ensure equitable access to health care and reduce health care disparities.
+1 Also see NCD’s most recent report, [Enforceable Accessible Medical Equipment Standards: A Necessary Means to Address the Health Care Needs of People with Mobility Disabilities](https://ncd.gov/publications/2021/enforceable-accessible-medical-equipment-standards) (2021), which describes the considerable body of research on the health disparities of people with disabilities and focuses on the role of inaccessible medical diagnostic equipment in health care settings as both a major barrier to equitable health care and a perpetuator of health disparities for people with mobility disabilities. In this report, NCD recommends that ACGME require all federally funded medical residency programs to include disability competency training, which includes the importance of accessible medical diagnostic equipment to help ensure equitable access to health care and reduce health care disparities.
 
-[2](https://ncd.gov/publications/2021/ncd-letter-acgme-regarding-disability-competency-training-medical-professionals#_ftnref2) [ADA.org: ADA Principles of Ethics and Code of Conduct](https://www.ada.org/~/media/ADA/Member%20Center/Ethics/ADA_Code_Of_Ethics_November_2020.pdf?la=en)
+2 [ADA.org: ADA Principles of Ethics and Code of Conduct](https://www.ada.org/~/media/ADA/Member%20Center/Ethics/ADA_Code_Of_Ethics_November_2020.pdf?la=en)
 
-[3](https://ncd.gov/publications/2021/ncd-letter-acgme-regarding-disability-competency-training-medical-professionals#_ftnref3) The Commission on Dental Accreditation. “Accreditation Standards
+3 The Commission on Dental Accreditation. “Accreditation Standards
 
 For Dental Education Programs.” <https://www.ada.org/~/media/CODA/Files/predoc_standards.pdf?la=en>. (Accessed July 1, 2021.)
 
-[4](https://ncd.gov/publications/2021/ncd-letter-acgme-regarding-disability-competency-training-medical-professionals#_ftnref4)  29 U.S.C. § 794.
+4  29 U.S.C. § 794.
 
-[5](https://ncd.gov/publications/2021/ncd-letter-acgme-regarding-disability-competency-training-medical-professionals#_ftnref5)  42 U.S.C. § 12101.
+5 42 U.S.C. § 12101.

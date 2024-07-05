@@ -45,4 +45,4 @@ Chair
 
 - - -
 
-[1](https://ncd.gov/publications/2019/ncd-letter-senators-murray-and-sanders-raise-wage-act#_ftnref1) <https://ncd.gov/publications/2012/August232012>
+1 <https://ncd.gov/publications/2012/August232012>

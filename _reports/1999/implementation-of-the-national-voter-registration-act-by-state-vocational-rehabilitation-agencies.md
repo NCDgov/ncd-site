@@ -11,7 +11,7 @@ image_alt_text: NA
 ---
 October 1, 1999
 
-This report is also available in braille and large print, on diskette and audiocassette, and on the Internet at the National Council on Disability's award-winning Web page ().
+This report is also available in braille and large print, on diskette and audiocassette, and on the Internet at the National Council on Disability's award-winning Web page.
 
 The views contained in this executive summary do not necessarily represent those of the Administration because this document has not been subjected to the A-19 Executive Branch review process.
 

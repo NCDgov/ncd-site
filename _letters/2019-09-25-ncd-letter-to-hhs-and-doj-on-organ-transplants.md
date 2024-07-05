@@ -54,4 +54,4 @@ Chairman
 
 - - -
 
-[1](https://ncd.gov/publications/2019/ncd-letter-hhs-and-doj-organ-transplants#_ftnref1) <https://ncd.gov/publications/2019/bioethics-report-series>
+1 <https://ncd.gov/publications/2019/bioethics-report-series>
