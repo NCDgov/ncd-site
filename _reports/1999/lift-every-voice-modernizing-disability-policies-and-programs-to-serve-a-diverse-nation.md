@@ -173,7 +173,7 @@ CONTENTS
 
 - - -
 
-[](<>)**EXECUTIVE SUMMARY**
+**EXECUTIVE SUMMARY**
 
 On July 26, 1990, President George Bush signed into law the Americans with Disabilities Act (ADA), one of the most sweeping civil rights laws ever enacted. During the signing ceremony, President Bush emphasized the historic importance of the signing of the Act by comparing it to the fall of the Berlin Wall. "And now I sign legislation which takes a sledgehammer to another wall," he said, "one which has, for too many generations, separated Americans with disabilities from the freedom they could glimpse, but not grasp. Once again, we rejoice as this barrier falls, proclaiming together we will not accept, we will not excuse, we will not tolerate discrimination in America." Then, as he lifted his pen to sign ADA, Bush concluded his remarks by declaring, "Let the shameful wall of exclusion finally come tumbling down."
 
@@ -205,7 +205,7 @@ NCD looks forward to working with the broader disability and civil rights commun
 
 - - -
 
-[](<>)**I. HAVING A SEAT AT THE TABLE: BARRIERS TO RESOURCES**[](<>)A. BARRIERS TO EMPLOYMENT
+**I. HAVING A SEAT AT THE TABLE: BARRIERS TO RESOURCES**A. BARRIERS TO EMPLOYMENT
 
 NCD found in 1993 that "persons from minority backgrounds with disabilities...do not have appropriate training and career development opportunities." NCD believes this finding is still applicable today. On the basis of the low employment numbers for minorities with disabilities and the testimony presented at the 1998 NCD hearing in San Francisco, it is apparent that minority individuals with disabilities still have tremendous difficulty gaining access to culturally appropriate job training and career development opportunities. Although all people with disabilities confront these barriers, the barriers are more persistent and more pronounced for people with disabilities from diverse cultural backgrounds.
 
@@ -237,7 +237,7 @@ Recommendations for Improving Access to Childcare:
 * *Congress should appropriate funding to increase the supply of accessible, affordable, and integrated childcare and after-school programs and should require that all federally funded programs not only meet federal disability access standards but also demonstrate the capacity to meet the language, cultural, and disability needs of their entire service population.*
 * *The Departments of Education, Justice, and Health and Human Services (HHS), including the federally funded legal services programs and protection and advocacy systems, should increase outreach efforts to parents of minority children with disabilities regarding their rights under ADA, IDEA, section 504 of the Rehabilitation Act, the Fair Housing Act, and other federal disability civil rights laws.*
 
-[](<>)B. BARRIERS TO PUBLIC ACCOMMODATIONS
+B. BARRIERS TO PUBLIC ACCOMMODATIONS
 
 NCD's 1993 finding that "persons from minority backgrounds with disabilities...have greater difficulty...gaining access to public accommodations...than do other Americans with disabilities" is still applicable today. More than 20 percent of the witnesses who testified at the San Francisco hearing said they confronted multiple barriers when trying to gain access to public accommodations such as restaurants, markets, and other local establishments, and that this often occurred in their own cultural communities (such as Chinatown in San Francisco). Minority individuals with disabilities and their family members who testified attributed the continued lack of access to public accommodations to the lack of compliance with existing access mandates in Title III of ADA and to the lack of awareness of those requirements among protected individuals and covered entities in minority communities.
 
@@ -250,7 +250,7 @@ Recommendations for Improving Access to Public Accommodations:
 * *Congress should ensure that civil rights enforcement agencies have adequate financial and staffing resources to address the needs of their entire service areas effectively.*
 * *Congress and the Bureau of Indian Affairs should provide federal financial support and assistance for the development of tribal disability rights legislation.*
 
-[](<>)C. BARRIERS TO TRANSPORTATION
+C. BARRIERS TO TRANSPORTATION
 
 NCD's 1993 finding that "persons from minority backgrounds with disabilities...have greater difficulty...gaining access to...transportation than do other Americans with disabilities" is still applicable today. Nearly one in five witnesses who testified at the hearing in San Francisco said they encountered multiple barriers.
 
@@ -265,7 +265,7 @@ Recommendations for Improving Access to Transportation:
 * *DOT should make funds available for local transportation providers to offer ongoing diversity and disability awareness training for all public transportation personnel, as well as specific training on the public transportation provisions of ADA.*
 * *DOT should create incentives for local transportation providers to increase efforts to hire bilingual public transportation personnel in service areas with high concentrations of non-English speakers.*
 
-[](<>)D. BARRIERS TO CULTURALLY COMPETENT SERVICE DELIVERY
+D. BARRIERS TO CULTURALLY COMPETENT SERVICE DELIVERY
 
 1. Minority Representation in Disability Service Professions
 
@@ -349,7 +349,7 @@ Recommendations for Removing Language and Communication Barriers:
 
 - - -
 
-[](<>)**II. GETTING IN THE DOOR: BARRIERS TO CITIZENSHIP**
+**II. GETTING IN THE DOOR: BARRIERS TO CITIZENSHIP**
 
 The United States has a long and well-documented history of actively discouraging and restricting the immigration and citizenship of people with disabilities, especially those from certain racial and ethnic communities. This historical pattern continues today through the subtle yet equally exclusionary practice of denying immigrants with disabilities their right to reasonable accommodations in the naturalization process.
 
@@ -371,7 +371,7 @@ Recommendations for Improving the Naturalization Process:
 
 - - -
 
-[](<>)**III. BEING RECOGNIZED: THE NEED FOR ACCURATE DEMOGRAPHIC DATA**
+**III. BEING RECOGNIZED: THE NEED FOR ACCURATE DEMOGRAPHIC DATA**
 
 Over the past 30 years, the United States has seen significant changes in the racial and ethnic makeup of its population. Many of these changes were felt first and most powerfully in California, a harbinger of what other large states will encounter. With the turn of the century, California becomes the first continental state in America with a majority population of racial and ethnic minorities. This shift has substantial political, economic, and social ramifications.
 
@@ -389,7 +389,7 @@ Recommendations for Improving the Accuracy of Demographic Data:
 
 NCD believes that every person with a disability, regardless of race or ethnicity, should have the opportunity to realize the promise of freedom and equality made in ADA. The importance of racial and ethnic diversity must be recognized as a key component of the disability civil rights movement in the new millennium. These recommendations are submitted in the belief that they will promote that recognition and begin the process of tearing down the shameful wall of exclusion that has prevented minority racial and ethnic individuals with disabilities and their families from participating fully in all aspects of American society.
 
-[](<>)A. INTRODUCTION
+A. INTRODUCTION
 
 On July 26, 1990, President George Bush signed into law one of the most sweeping civil rights laws ever created, the Americans with Disabilities Act. During the signing ceremony, President Bush emphasized the historic importance of the signing of the Act by comparing it to the recent fall of the Berlin Wall. "And now I sign legislation which takes a sledgehammer to another wall," he said, "one which has, for too many generations, separated Americans with disabilities from the freedom they could glimpse, but not grasp. Once again, we rejoice as this barrier falls, proclaiming together we will not accept, we will not excuse, we will not tolerate discrimination in America."[1](https://web.archive.org/web/20150323230116/https://ncd.gov/publications/1999/Dec11999#foot1) Then, as he lifted his pen to sign ADA, Bush exhorted, "Let the shameful wall of exclusion finally come tumbling down."
 
@@ -421,7 +421,7 @@ The primary goal of this report, therefore, is not to identify the general issue
 
 The following pages propose specific steps to address these barriers. This report outlines an agenda that requires immediate attention. If implemented, this agenda will be a sledgehammer on the "shameful wall of exclusion" that continues to exclude minorities with disabilities from full participation in American society.
 
-[](<>)B. BARRIERS TO RESOURCES
+B. BARRIERS TO RESOURCES
 
 1. Overview
 
@@ -633,7 +633,7 @@ Many factors contribute to the inability of minority group members with disabili
 
 Effective regulation and enforcement of the transportation provisions of ADA is critical to addressing the unique needs of people with disabilities from diverse cultural backgrounds. Testimony presented at the 1998 NCD hearing suggests a major need to provide ongoing diversity and disability awareness training for all public transportation personnel. Additional training is needed to ensure that public transportation personnel are aware of the access mandates embedded in federal law for people with disabilities, as well as the accountability measures that will be undertaken in the event of noncompliance. They need to know that there are consequences for failing to honor federal access requirements, as well as rewards for success.
 
-[](<>)C. BARRIERS TO CULTURALLY COMPETENT SERVICE DELIVERY
+C. BARRIERS TO CULTURALLY COMPETENT SERVICE DELIVERY
 
 1. Overview
 
@@ -921,7 +921,7 @@ In order to address the lack of language capacity among many disability service 
 
 Although several disability service agencies have recognized the importance of readily available interpreter and translation services, few funding sources are available to provide these services. To address this situation, several witnesses at the hearing suggested that more funding should be provided for interpretation and translation of important agency materials into both bilingual and alternative formats. Funding was also requested for the specific purpose of translating agency materials and placing them on videotape for minority individuals and their families who may be illiterate or have a significant learning disability.
 
-[](<>)D. BARRIERS TO CITIZENSHIP
+D. BARRIERS TO CITIZENSHIP
 
 1. Overview
 
@@ -1026,7 +1026,7 @@ For these reasons, NCD recommends that the following actions be taken:
 
 In testimony at the 1998 NCD hearing, Eva Casas-Sarmiento, statewide outreach coordinator for Protection & Advocacy, Inc., asked the members of NCD to "make sure that people with disabilities who apply to become citizens are not placed at the bottom of the list. Right now, they are at the bottom of the list, and they're having to wait longer than other people to become citizens." In order to prevent the unnecessary delays described previously, NCD recommends that INS implement procedures to ensure that naturalization applications by people with disabilities are processed as efficiently as others.
 
-[](<>)E. BARRIERS TO ACCURATE DEMOGRAPHIC DATA
+E. BARRIERS TO ACCURATE DEMOGRAPHIC DATA
 
 1. Overview
 
@@ -1100,7 +1100,7 @@ Research should be supported that studies in-group variability based on quantifi
 
 - - -
 
-[](<>)**IV. CONCLUSION**
+**IV. CONCLUSION**
 
 More than two centuries ago, a promise was made to the American people in the Declaration of Independence--a promise that "all men are created equal" and "are endowed by their Creator with certain unalienable Rights," including the right to "Life, Liberty and the pursuit of Happiness."[129](https://web.archive.org/web/20150323230116/https://ncd.gov/publications/1999/Dec11999#foot129) Less than a century later, in 1863, President Abraham Lincoln reminded America of this promise of freedom and equality in his address at Gettysburg, Pennsylvania, and vowed to fight until that promise was fulfilled for all of the nation's people, regardless of race: "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal."[130](https://web.archive.org/web/20150323230116/https://ncd.gov/publications/1999/Dec11999#foot130) On January 1, 1863, President Lincoln officially renewed this promise by signing the Emancipation Proclamation, and in 1865, it was added to the Bill of Rights when Congress approved the Thirteenth Amendment to the Constitution, which outlawed slavery in the United States.
 
@@ -1120,273 +1120,273 @@ In order to "tear down this wall" of exclusion once and for all, people with dis
 
 - - -
 
-[](<>)**V. NOTES**\
+**V. NOTES**\
 \
-[](<>)1 President George Bush, "ADA: A Special Issue." *Worklife*, no. 3 (Fall 1990), p. 11.
+1 President George Bush, "ADA: A Special Issue." *Worklife*, no. 3 (Fall 1990), p. 11.
 
-[](<>)2 Tennyson J. Wright and Paul Leung, *Meeting the Unique Needs of Minorities with Disabilities: A Report to the President and the Congress*. National Council on Disability, Washington, DC, 1993, p. 16.
+2 Tennyson J. Wright and Paul Leung, *Meeting the Unique Needs of Minorities with Disabilities: A Report to the President and the Congress*. National Council on Disability, Washington, DC, 1993, p. 16.
 
-[](<>)3 Jonathan M. Young, "Equality of Opportunity: The Making of the Americans with Disabilities Act." National Council on Disability, Washington, DC, 1997, p. 179.
+3 Jonathan M. Young, "Equality of Opportunity: The Making of the Americans with Disabilities Act." National Council on Disability, Washington, DC, 1997, p. 179.
 
-[](<>)4 Sylvia Walker et al. "An Examination of the Impact of Federally Supported Community Services and Educational Systems on Underserved People with Disabilities from Diverse Cultural Populations." Howard University Research and Training Center for Access to Rehabilitation and Economic Opportunity, Washington, DC, 1996, p. 12.
+4 Sylvia Walker et al. "An Examination of the Impact of Federally Supported Community Services and Educational Systems on Underserved People with Disabilities from Diverse Cultural Populations." Howard University Research and Training Center for Access to Rehabilitation and Economic Opportunity, Washington, DC, 1996, p. 12.
 
-[](<>)5 Young, 1997.
+5 Young, 1997.
 
-[](<>)6 Office of Planning and Resource Development, California Department of Rehabilitation, "The Rehab Act of 1992: A Compilation of the Rehabilitation Act of 1973 as Amended by the Rehabilitation Act Amendments of 1992, Public Law 102-569." Rehabilitation Services Administration, Sacramento, CA, 1993, Sec. 21(a)(2).
+6 Office of Planning and Resource Development, California Department of Rehabilitation, "The Rehab Act of 1992: A Compilation of the Rehabilitation Act of 1973 as Amended by the Rehabilitation Act Amendments of 1992, Public Law 102-569." Rehabilitation Services Administration, Sacramento, CA, 1993, Sec. 21(a)(2).
 
-[](<>)7 California Department of Rehabilitation, "Department of Rehabilitation Action Plan to Provide Racially Equitable Vocational Rehabilitation Services." California Department of Rehabilitation, Sacramento, CA, 1995, p. 2.
+7 California Department of Rehabilitation, "Department of Rehabilitation Action Plan to Provide Racially Equitable Vocational Rehabilitation Services." California Department of Rehabilitation, Sacramento, CA, 1995, p. 2.
 
-[](<>)8 California Department of Rehabilitation Statistics Unit, "Statewide Summary, Distribution of Consumers by Race and Status, Fiscal Year 1996/7, and Fiscal Year 1997/8." California Department of Rehabilitation, Sacramento, CA, 1998.
+8 California Department of Rehabilitation Statistics Unit, "Statewide Summary, Distribution of Consumers by Race and Status, Fiscal Year 1996/7, and Fiscal Year 1997/8." California Department of Rehabilitation, Sacramento, CA, 1998.
 
-[](<>)9 California Department of Rehabilitation Statistics Unit, "District Level Summary, Distribution of Consumers by Race and Status, Fiscal Year 1997/8." California Department of Rehabilitation, Sacramento, CA, 1998.
+9 California Department of Rehabilitation Statistics Unit, "District Level Summary, Distribution of Consumers by Race and Status, Fiscal Year 1997/8." California Department of Rehabilitation, Sacramento, CA, 1998.
 
-[](<>)10 California Department of Rehabilitation Statistics Unit, "Statewide Summary, Reasons for Closure in Status 28, Reasons for Closure by Race and Fiscal Year, Fiscal Year 1996/7, and Fiscal Year 1997/8." California Department of Rehabilitation, Sacramento, CA, 1998.
+10 California Department of Rehabilitation Statistics Unit, "Statewide Summary, Reasons for Closure in Status 28, Reasons for Closure by Race and Fiscal Year, Fiscal Year 1996/7, and Fiscal Year 1997/8." California Department of Rehabilitation, Sacramento, CA, 1998.
 
-[](<>)11 California Department of Rehabilitation Statistics Unit, "Statewide Summary, Training and Placement Services Received by Consumers in Status 26, Fiscal Year 1997/8." California Department of Rehabilitation, Sacramento, CA, 1998.
+11 California Department of Rehabilitation Statistics Unit, "Statewide Summary, Training and Placement Services Received by Consumers in Status 26, Fiscal Year 1997/8." California Department of Rehabilitation, Sacramento, CA, 1998.
 
-[](<>)12 Jen Sermoneta, "Minutes of the 7/28 Meeting of the Youth Project for Inclusion of Minority, Low-Income and Disabled Youth." Center for Independent Living, Oakland, CA, July 28, 1998, p. 1.
+12 Jen Sermoneta, "Minutes of the 7/28 Meeting of the Youth Project for Inclusion of Minority, Low-Income and Disabled Youth." Center for Independent Living, Oakland, CA, July 28, 1998, p. 1.
 
-[](<>)13 The Americans with Disabilities Act of 1990 (42 USC 12101 et seq.). 101st Congress, 2nd session, Washington, DC, 1990).
+13 The Americans with Disabilities Act of 1990 (42 USC 12101 et seq.). 101st Congress, 2nd session, Washington, DC, 1990).
 
-[](<>)14 Sermoneta, 1998.
+14 Sermoneta, 1998.
 
-[](<>)15 U.S. Department of Justice, "The Americans with Disabilities Act Title III Technical Assistance Manual Covering Public Accommodations and Commercial Facilities." Edited by Public Access Section, Civil Rights Division, U.S. Department of Justice, Washington, DC, November 1993.
+15 U.S. Department of Justice, "The Americans with Disabilities Act Title III Technical Assistance Manual Covering Public Accommodations and Commercial Facilities." Edited by Public Access Section, Civil Rights Division, U.S. Department of Justice, Washington, DC, November 1993.
 
-[](<>)16 Equal Employment Opportunity Commission and U.S. Department of Justice, *Americans with Disabilities Act Handbook*. BNI Publications, Inc., Los Angeles, CA, 1991.
+16 Equal Employment Opportunity Commission and U.S. Department of Justice, *Americans with Disabilities Act Handbook*. BNI Publications, Inc., Los Angeles, CA, 1991.
 
-[](<>)17 Elizabeth B. Bazan, *Congressional Research Service Report for Congress: The Possible Applicability of the Americans with Disabilities Act to Indian Tribes*. Library of Congress, American Law Division, Washington, DC, June 11, 1991.
+17 Elizabeth B. Bazan, *Congressional Research Service Report for Congress: The Possible Applicability of the Americans with Disabilities Act to Indian Tribes*. Library of Congress, American Law Division, Washington, DC, June 11, 1991.
 
-[](<>)18 American Indian Disability Legislation Project, "American Indian Approaches to Disability Policy, Establishing Legal Protections for Tribal Members with Disabilities: Five Case Studies." University of Montana, Research and Training Center on Rural Rehabilitation, Rural Institute on Disabilities, Missoula, MT.
+18 American Indian Disability Legislation Project, "American Indian Approaches to Disability Policy, Establishing Legal Protections for Tribal Members with Disabilities: Five Case Studies." University of Montana, Research and Training Center on Rural Rehabilitation, Rural Institute on Disabilities, Missoula, MT.
 
-[](<>)19 Walker et al., 1996.
+19 Walker et al., 1996.
 
-[](<>)20 Developmental Disabilities Assistance and Bill of Rights Act Amendments of 1994 (42 USC 6001). 103rd Congress, Washington, DC, 1994.
+20 Developmental Disabilities Assistance and Bill of Rights Act Amendments of 1994 (42 USC 6001). 103rd Congress, Washington, DC, 1994.
 
-[](<>)21 Office of the Legislative Analyst, *1994 California Voter Information: Analysis of Proposition 187 by the Legislative Analyst*. Available from http://ca94.election.digital.com/e/prop/187/analysis.html (cited 1998).
+21 Office of the Legislative Analyst, *1994 California Voter Information: Analysis of Proposition 187 by the Legislative Analyst*. Available from http://ca94.election.digital.com/e/prop/187/analysis.html (cited 1998).
 
-[](<>)22 Office of the Legislative Analyst, *Analysis of Proposition 209 by the Legislative Analyst*. Available from [http://www.ss.ca.gov/Vote96/html/BP/209analysis.htm](https://web.archive.org/web/20150323230116/https://ncd.gov/linkWarning?target=http://www.ss.ca.gov/Vote96/html/BP/209analysis.htm) (cited 1998).
+22 Office of the Legislative Analyst, *Analysis of Proposition 209 by the Legislative Analyst*. Available from [http://www.ss.ca.gov/Vote96/html/BP/209analysis.htm](https://web.archive.org/web/20150323230116/https://ncd.gov/linkWarning?target=http://www.ss.ca.gov/Vote96/html/BP/209analysis.htm) (cited 1998).
 
-[](<>)23 Richard B. Rice, William A. Bullough, and Richard J. Orsi, *The Elusive Eden: A New History of California*, 1st edition. McGraw-Hill, New York, 1988.
+23 Richard B. Rice, William A. Bullough, and Richard J. Orsi, *The Elusive Eden: A New History of California*, 1st edition. McGraw-Hill, New York, 1988.
 
-[](<>)24 Office of the Legislative Analyst, *Proposition 227: Analysis by the Legislative Analyst*. Available from [http://primary98.ss.ca.gov/VoterGuide/Propositions/227analysis.htm](https://web.archive.org/web/20150323230116/https://ncd.gov/linkWarning?target=http://primary98.ss.ca.gov/VoterGuide/Propositions/227analysis.htm) (cited 1998).
+24 Office of the Legislative Analyst, *Proposition 227: Analysis by the Legislative Analyst*. Available from [http://primary98.ss.ca.gov/VoterGuide/Propositions/227analysis.htm](https://web.archive.org/web/20150323230116/https://ncd.gov/linkWarning?target=http://primary98.ss.ca.gov/VoterGuide/Propositions/227analysis.htm) (cited 1998).
 
-[](<>)25 Kevin Starr, *California--The Dream & The Challenge*. Available from [http://www.ca.gov/s/history/cahdream.html](https://web.archive.org/web/20150323230116/https://ncd.gov/linkWarning?target=http://www.ca.gov/s/history/cahdream.html), California home page, 1995 (cited October 12, 1998).
+25 Kevin Starr, *California--The Dream & The Challenge*. Available from [http://www.ca.gov/s/history/cahdream.html](https://web.archive.org/web/20150323230116/https://ncd.gov/linkWarning?target=http://www.ca.gov/s/history/cahdream.html), California home page, 1995 (cited October 12, 1998).
 
-[](<>)26 Robert R. Davila, "Goals for Improving Services to Minority Individuals with Disabilities." *OSERS News In Print: Disability And People From Minority Backgrounds*, vol. 3, No. 4 (Spring 1991), p. 4.
+26 Robert R. Davila, "Goals for Improving Services to Minority Individuals with Disabilities." *OSERS News In Print: Disability And People From Minority Backgrounds*, vol. 3, No. 4 (Spring 1991), p. 4.
 
-[](<>)27 California Department of Rehabilitation and State Independent Living Council, "The Annual Performance Report for the State Independent Living Services Program, Centers for Independent Living Program, Part 1." Sacramento, CA, 1997, p. I-4.
+27 California Department of Rehabilitation and State Independent Living Council, "The Annual Performance Report for the State Independent Living Services Program, Centers for Independent Living Program, Part 1." Sacramento, CA, 1997, p. I-4.
 
-[](<>)28 California Department of Rehabilitation and State Independent Living Council, 1997.
+28 California Department of Rehabilitation and State Independent Living Council, 1997.
 
-[](<>)29 Federal Glass Ceiling Commission, "A Solid Investment: Making Full Use of the Nation's Human Capital." U.S. Government Printing Office, Washington, DC, November 1995.
+29 Federal Glass Ceiling Commission, "A Solid Investment: Making Full Use of the Nation's Human Capital." U.S. Government Printing Office, Washington, DC, November 1995.
 
-[](<>)30 Federal Glass Ceiling Commission, 1995.
+30 Federal Glass Ceiling Commission, 1995.
 
-[](<>)31 Rehabilitation Services Administration Commissioner Fredric K. Schroeder, "RSA's Capacity Building Project." *American Rehabilitation*, vol. 22, no. 1, Spring 1996, p. 1.
+31 Rehabilitation Services Administration Commissioner Fredric K. Schroeder, "RSA's Capacity Building Project." *American Rehabilitation*, vol. 22, no. 1, Spring 1996, p. 1.
 
-[](<>)32 Walker et al., 1996.
+32 Walker et al., 1996.
 
-[](<>)33 Virginia Thompson, "Independent and Interdependent Views of Self: Implications for Culturally Sensitive Vocational Rehabilitation Services." Journal of Rehabilitation, vol. 63, no. 4, October/November/December 1997), pp. 16-20.
+33 Virginia Thompson, "Independent and Interdependent Views of Self: Implications for Culturally Sensitive Vocational Rehabilitation Services." Journal of Rehabilitation, vol. 63, no. 4, October/November/December 1997), pp. 16-20.
 
-[](<>)34 Fred R. McFarlane et al., "Embracing Diversity in Rehabilitation Within Pacific Cultures." *American Rehabilitation*, vol. 22, no. 2 (Summer 1996), pp. 20-28.
+34 Fred R. McFarlane et al., "Embracing Diversity in Rehabilitation Within Pacific Cultures." *American Rehabilitation*, vol. 22, no. 2 (Summer 1996), pp. 20-28.
 
-[](<>)35 Paul Leung, "Asian Pacific Americans and Section 21 of the Rehabilitation Act Amendments of 1992." *American Rehabilitation*, vol. 22, no. 1 (Spring 1996), pp. 2-6.
+35 Paul Leung, "Asian Pacific Americans and Section 21 of the Rehabilitation Act Amendments of 1992." *American Rehabilitation*, vol. 22, no. 1 (Spring 1996), pp. 2-6.
 
-[](<>)36 Anna M. Santiago, Francisco Villarruel, and Michael J. Leahy, "Latino Access to Rehabilitation Services: Evidence from Michigan." *American Rehabilitation*, vol. 22, no. 1 (Spring 1996), pp. 10-17.
+36 Anna M. Santiago, Francisco Villarruel, and Michael J. Leahy, "Latino Access to Rehabilitation Services: Evidence from Michigan." *American Rehabilitation*, vol. 22, no. 1 (Spring 1996), pp. 10-17.
 
-[](<>)37 Carol Locust and Jerry Lang, "Walking in Two Worlds: Native Americans and the VR System." *American Rehabilitation*, vol. 22, no. 2 (Summer 1996), pp. 2-12.
+37 Carol Locust and Jerry Lang, "Walking in Two Worlds: Native Americans and the VR System." *American Rehabilitation*, vol. 22, no. 2 (Summer 1996), pp. 2-12.
 
-[](<>)38 Joseph Shapiro, *No Pity: People with Disabilities Forging a New Civil Rights Movement*. Random House, New York, 1994.
+38 Joseph Shapiro, *No Pity: People with Disabilities Forging a New Civil Rights Movement*. Random House, New York, 1994.
 
-[](<>)39 Thompson, 1997.
+39 Thompson, 1997.
 
-[](<>)40 California State Independent Living Council, "Independent Living: Report to the California Legislature on State Services which Foster the Ability of People to Live Independently." Sacramento, CA, March 1998, p. A1.
+40 California State Independent Living Council, "Independent Living: Report to the California Legislature on State Services which Foster the Ability of People to Live Independently." Sacramento, CA, March 1998, p. A1.
 
-[](<>)41 Thompson, 1997.
+41 Thompson, 1997.
 
-[](<>)42 Wright and Leung, 1993.
+42 Wright and Leung, 1993.
 
-[](<>)43 Thompson, 1997.
+43 Thompson, 1997.
 
-[](<>)44 Associated Press, "Blacks Lag in Health Care Despite Other Gains: Economic Gap with Whites Narrowing." *Oakland Tribune*, August 18, 1998, front page.
+44 Associated Press, "Blacks Lag in Health Care Despite Other Gains: Economic Gap with Whites Narrowing." *Oakland Tribune*, August 18, 1998, front page.
 
-[](<>)45 Mary Bodily, "Disability Services Outreach to Minorities Brings Majority Enrichment." In *Bridges: Dignity, Equality, Independence Through Employment*. Produced by the Howard University Research and Training Center and the President's Committee on Employment of People with Disabilities, Washington, DC, Winter 1997, pp. 9-10.
+45 Mary Bodily, "Disability Services Outreach to Minorities Brings Majority Enrichment." In *Bridges: Dignity, Equality, Independence Through Employment*. Produced by the Howard University Research and Training Center and the President's Committee on Employment of People with Disabilities, Washington, DC, Winter 1997, pp. 9-10.
 
-[](<>)46 Community Resources for Independence, "Native American Independent Living Center Grant Application." Santa Rosa, CA, 1998, p. 8.
+46 Community Resources for Independence, "Native American Independent Living Center Grant Application." Santa Rosa, CA, 1998, p. 8.
 
-[](<>)47 Community Resources for Independence, 1998.
+47 Community Resources for Independence, 1998.
 
-[](<>)48 Tanner Silva, "Native American Community Organizing Project (NACOP) recap notes." Community Resources for Independence, Ukiah, CA, 1998, p. 1.
+48 Tanner Silva, "Native American Community Organizing Project (NACOP) recap notes." Community Resources for Independence, Ukiah, CA, 1998, p. 1.
 
-[](<>)49 Silva, 1998.
+49 Silva, 1998.
 
-[](<>)50 Community Resources for Independence, 1998.
+50 Community Resources for Independence, 1998.
 
-[](<>)51 Schroeder, 1996.
+51 Schroeder, 1996.
 
-[](<>)52 Bobbie J. Atkins, "Prototype of Participatory Capacity Building Project (PCB): PCB Quarterly Report." San Diego State University, Interwork Institute, San Diego, CA, September, 1998, p. 2.
+52 Bobbie J. Atkins, "Prototype of Participatory Capacity Building Project (PCB): PCB Quarterly Report." San Diego State University, Interwork Institute, San Diego, CA, September, 1998, p. 2.
 
-[](<>)53 Paula Sotnik and Rooshey Hasnain, "E-Mail Correspondence between Capacity Building Project and CBMO Representatives." October 16, 1998.
+53 Paula Sotnik and Rooshey Hasnain, "E-Mail Correspondence between Capacity Building Project and CBMO Representatives." October 16, 1998.
 
-[](<>)54 Sotnik and Hasnain, 1998.
+54 Sotnik and Hasnain, 1998.
 
-[](<>)55 Leung, 1996.
+55 Leung, 1996.
 
-[](<>)56 Charles A. Riley II, "The World According to Soros: Reaching to Extremes with Strategic Philanthropy." WE, 1998, p. 18.
+56 Charles A. Riley II, "The World According to Soros: Reaching to Extremes with Strategic Philanthropy." WE, 1998, p. 18.
 
-[](<>)57 O. Ha., editor, *Legislation Regulating Immigration. Funk & Wagnalls New Encyclopedia*, vol. 13, Funk & Wagnalls Corporation, 1994.
+57 O. Ha., editor, *Legislation Regulating Immigration. Funk & Wagnalls New Encyclopedia*, vol. 13, Funk & Wagnalls Corporation, 1994.
 
-[](<>)58 Leon J. Kamin, The Science and Politics of I.Q. Halstead Press, New York, 1974.
+58 Leon J. Kamin, The Science and Politics of I.Q. Halstead Press, New York, 1974.
 
-[](<>)59 James W. Trent, Jr., *Inventing the Feeble Mind: A History of Mental Retardation in the United States*. In *Medicine and Society*, edited by Andrew Scull, University of California Press, Berkeley and Los Angeles, CA, 1994.
+59 James W. Trent, Jr., *Inventing the Feeble Mind: A History of Mental Retardation in the United States*. In *Medicine and Society*, edited by Andrew Scull, University of California Press, Berkeley and Los Angeles, CA, 1994.
 
-[](<>)60 E.J. Emerick, "Progress in the Care of the Feeble-Minded in Ohio." *Journal of Psycho-Asthenics*, vol. 22, 1917, pp. 73-79.
+60 E.J. Emerick, "Progress in the Care of the Feeble-Minded in Ohio." *Journal of Psycho-Asthenics*, vol. 22, 1917, pp. 73-79.
 
-[](<>)61 Trent, Jr., 1994.
+61 Trent, Jr., 1994.
 
-[](<>)62 Henry Goddard, "The Binet Tests in Relation to Immigration." *Journal of Psycho- Asthenics*, vol. 18, December 1913, pp. 105-107.
+62 Henry Goddard, "The Binet Tests in Relation to Immigration." *Journal of Psycho- Asthenics*, vol. 18, December 1913, pp. 105-107.
 
-[](<>)63 Madison Grant, *The Passing of the Great Race; or the Racial Basis of European History*. New York, 1921.
+63 Madison Grant, *The Passing of the Great Race; or the Racial Basis of European History*. New York, 1921.
 
-[](<>)64 E. Arthur Whitney, "Our Horizon." *American Journal of Mental Deficiency*, vol. 50 (1945), pp. 218-230.
+64 E. Arthur Whitney, "Our Horizon." *American Journal of Mental Deficiency*, vol. 50 (1945), pp. 218-230.
 
-[](<>)65 Trent, Jr., 1994.
+65 Trent, Jr., 1994.
 
-[](<>)66 National Council on Disability, "Impact of the Welfare Reform Legislation on Legal Immigrants with Disabilities." Washington, DC, June 23, 1997.
+66 National Council on Disability, "Impact of the Welfare Reform Legislation on Legal Immigrants with Disabilities." Washington, DC, June 23, 1997.
 
-[](<>)67 Legislative Analyst's Office, "Federal Welfare Reform (H.R. 3734): Fiscal Effect on California." Sacramento, CA, August 20, 1996.
+67 Legislative Analyst's Office, "Federal Welfare Reform (H.R. 3734): Fiscal Effect on California." Sacramento, CA, August 20, 1996.
 
-[](<>)68 Legislative Analyst's Office, "LAO Analysis of the 1997-98 Budget Bill. Health and Social Services Departmental Issues, 1-c." Sacramento.
+68 Legislative Analyst's Office, "LAO Analysis of the 1997-98 Budget Bill. Health and Social Services Departmental Issues, 1-c." Sacramento.
 
-[](<>)69 National Council on Disability, 1997.
+69 National Council on Disability, 1997.
 
-[](<>)70 Immigration and Naturalization Service, FACT SHEET: Alien Eligibility for and Access to Public Benefits. Available from [http://www.ins.usdoj.gov/hqopp/factsfin.htm](https://web.archive.org/web/20150323230116/https://ncd.gov/linkWarning?target=http://www.ins.usdoj.gov/hqopp/factsfin.htm) (cited 1997).
+70 Immigration and Naturalization Service, FACT SHEET: Alien Eligibility for and Access to Public Benefits. Available from [http://www.ins.usdoj.gov/hqopp/factsfin.htm](https://web.archive.org/web/20150323230116/https://ncd.gov/linkWarning?target=http://www.ins.usdoj.gov/hqopp/factsfin.htm) (cited 1997).
 
-[](<>)71 Stephen Rosenbaum, written testimony presented at the 1998 NCD Public Hearing on Meeting the Unique Needs of Persons with Disabilities from Diverse Cultural Backgrounds. San Francisco, CA, August 5, 1998.
+71 Stephen Rosenbaum, written testimony presented at the 1998 NCD Public Hearing on Meeting the Unique Needs of Persons with Disabilities from Diverse Cultural Backgrounds. San Francisco, CA, August 5, 1998.
 
-[](<>)72 National Council on Disability, 1997.
+72 National Council on Disability, 1997.
 
-[](<>)73 Stephen A. Rosenbaum Esq. et al., "Title II of the Americans with Disabilities Act/Section 504 of the Rehabilitation Act of 1973 Discrimination Complaint." Attorneys for complainants, Berkeley, CA, July 2, 1998, attachment.
+73 Stephen A. Rosenbaum Esq. et al., "Title II of the Americans with Disabilities Act/Section 504 of the Rehabilitation Act of 1973 Discrimination Complaint." Attorneys for complainants, Berkeley, CA, July 2, 1998, attachment.
 
-[](<>)74 Richard K. Scotch, *From Good Will to Civil Rights*. Temple University Press, Philadelphia, 1984.
+74 Richard K. Scotch, *From Good Will to Civil Rights*. Temple University Press, Philadelphia, 1984.
 
-[](<>)75 Rosenbaum, Esq. et al., 1998.
+75 Rosenbaum, Esq. et al., 1998.
 
-[](<>)76 Rosenbaum, Esq. et al., 1998.
+76 Rosenbaum, Esq. et al., 1998.
 
-[](<>)77 "Groups Attack INS for Not Making Visits." *San Francisco Chronicle*, July 3, 1998, p. D5.
+77 "Groups Attack INS for Not Making Visits." *San Francisco Chronicle*, July 3, 1998, p. D5.
 
-[](<>)78 Janet Dang, "INS Accused of Neglecting Disabled." *Asian Week*, July 9, 1998, p. 14.
+78 Janet Dang, "INS Accused of Neglecting Disabled." *Asian Week*, July 9, 1998, p. 14.
 
-[](<>)79 Dang, 1998.
+79 Dang, 1998.
 
-[](<>)80 Rosenbaum, Esq. et al., 1998.
+80 Rosenbaum, Esq. et al., 1998.
 
-[](<>)81 Rosenbaum, Esq.,written testimony, 1998.
+81 Rosenbaum, Esq.,written testimony, 1998.
 
-[](<>)82 Immigration and Naturalization Service, 1997.
+82 Immigration and Naturalization Service, 1997.
 
-[](<>)83 Emily Bazelon, "Tighter INS Fingerprinting Rules Frustrate a Disabled Applicant." *Washington Post*, August 9, 1998.
+83 Emily Bazelon, "Tighter INS Fingerprinting Rules Frustrate a Disabled Applicant." *Washington Post*, August 9, 1998.
 
-[](<>)84 Stephen A. Rosenbaum, Esq., "Title II of the Americans with Disabilities Act/Section 504 of the Rehabilitation Act of 1973 Discrimination Complaint." Disability Rights Education & Defense Fund, Berkeley, CA, August 11, 1998.
+84 Stephen A. Rosenbaum, Esq., "Title II of the Americans with Disabilities Act/Section 504 of the Rehabilitation Act of 1973 Discrimination Complaint." Disability Rights Education & Defense Fund, Berkeley, CA, August 11, 1998.
 
-[](<>)85 Emily Bazelon, "INS Agrees to Expedite Paperwork of Disabled Man." *Washington Post*, August 12, 1998.
+85 Emily Bazelon, "INS Agrees to Expedite Paperwork of Disabled Man." *Washington Post*, August 12, 1998.
 
-[](<>)86 Bazelon, 1998.
+86 Bazelon, 1998.
 
-[](<>)87 Rosenbaum, Esq., "Title II of the Americans with Disabilities Act/Section 504 of the Rehabilitation Act of 1973 Discrimination Complaint," 1998.
+87 Rosenbaum, Esq., "Title II of the Americans with Disabilities Act/Section 504 of the Rehabilitation Act of 1973 Discrimination Complaint," 1998.
 
-[](<>)88 Bazelon, 1998.
+88 Bazelon, 1998.
 
-[](<>)89 Rosenbaum, Esq., 1998.
+89 Rosenbaum, Esq., 1998.
 
-[](<>)90 Dang, 1998.
+90 Dang, 1998.
 
-[](<>)91 Stephen A. Rosenbaum, Esq., and Theresa A. Fisher, Esq., Correspondence between DREDF and INS regarding the denial of the naturalization application for Mr. K. 1998.
+91 Stephen A. Rosenbaum, Esq., and Theresa A. Fisher, Esq., Correspondence between DREDF and INS regarding the denial of the naturalization application for Mr. K. 1998.
 
-[](<>)92 Rosenbaum, Esq., and Fisher, Esq., 1998.
+92 Rosenbaum, Esq., and Fisher, Esq., 1998.
 
-[](<>)93 Stephen A. Rosenbaum, Esq., "Title II of the Americans with Disabilities Act/Section 504 of the Rehabilitation Act of 1973 Discrimination Complaint." Disability Rights Education & Defense Fund, Berkeley, CA, March 9, 1998.
+93 Stephen A. Rosenbaum, Esq., "Title II of the Americans with Disabilities Act/Section 504 of the Rehabilitation Act of 1973 Discrimination Complaint." Disability Rights Education & Defense Fund, Berkeley, CA, March 9, 1998.
 
-[](<>)94 National Council on Disability, 1997.
+94 National Council on Disability, 1997.
 
-[](<>)95 Jenny Ocon, "Barriers Immigrants Face When Naturalizing: The Quest for Citizenship in Northern CaliforniaNorthern California Coalition for Immigrant Rights." San Francisco, April 1998, p. 11.
+95 Jenny Ocon, "Barriers Immigrants Face When Naturalizing: The Quest for Citizenship in Northern CaliforniaNorthern California Coalition for Immigrant Rights." San Francisco, April 1998, p. 11.
 
-[](<>)96 Starr, 1998.
+96 Starr, 1998.
 
-[](<>)97 Hans Johnson, A Brief Look at the People of California. California Research Bureau, California State Library, available from [http://library.ca.gov/california/people_1.html](https://web.archive.org/web/20150323230116/https://ncd.gov/linkWarning?target=http://library.ca.gov/california/people_1.html) (cited 1995).
+97 Hans Johnson, A Brief Look at the People of California. California Research Bureau, California State Library, available from [http://library.ca.gov/california/people_1.html](https://web.archive.org/web/20150323230116/https://ncd.gov/linkWarning?target=http://library.ca.gov/california/people_1.html) (cited 1995).
 
-[](<>)98 State of California Department of Finance Demographic Research Unit, "Race/Ethnic Population Estimates: Components of Change by Race, 1990-1996." State of California, Sacramento, CA, January 1998.
+98 State of California Department of Finance Demographic Research Unit, "Race/Ethnic Population Estimates: Components of Change by Race, 1990-1996." State of California, Sacramento, CA, January 1998.
 
-[](<>)99 Johnson, 1995
+99 Johnson, 1995
 
-[](<>)100 State of California Department of Finance Demographic Research Unit, "California Population By Race and Hispanic Origin: 1980 and 1990 Census." State of California, Sacramento, CA, January 1998.
+100 State of California Department of Finance Demographic Research Unit, "California Population By Race and Hispanic Origin: 1980 and 1990 Census." State of California, Sacramento, CA, January 1998.
 
-[](<>)101 State of California Department of Finance Demographic Research Unit, "Race/Ethnic Population Estimates: Components of Change by Race, 1990-1996," 1998.
+101 State of California Department of Finance Demographic Research Unit, "Race/Ethnic Population Estimates: Components of Change by Race, 1990-1996," 1998.
 
-[](<>)102 State of California Department of Finance Demographic Research Unit, "Race/Ethnic Population Estimates: Components of Change by Race, 1990-1996," 1998.
+102 State of California Department of Finance Demographic Research Unit, "Race/Ethnic Population Estimates: Components of Change by Race, 1990-1996," 1998.
 
-[](<>)103 Office of Planning and Resource Development, California Department of Rehabilitation, 1993.
+103 Office of Planning and Resource Development, California Department of Rehabilitation, 1993.
 
-[](<>)104 Julia E. Bradsher, "Disability Among Racial and Ethnic Groups." U.S. Department of Education, National Institute on Disability and Rehabilitation Research, Washington, DC, January 1996.
+104 Julia E. Bradsher, "Disability Among Racial and Ethnic Groups." U.S. Department of Education, National Institute on Disability and Rehabilitation Research, Washington, DC, January 1996.
 
-[](<>)105 H.L. Thornhill and D.A. HoSang, "Poverty, Race, and Disability." In *Building Bridges to Independence: Employment, Successes, Problems, and Needs of African-Americans with Disabilities*, edited by S. Walker et al., Center for the Study of Handicapped Children and Youth, School of Education, Howard University, Washington, DC, 1988, pp. 148-156.
+105 H.L. Thornhill and D.A. HoSang, "Poverty, Race, and Disability." In *Building Bridges to Independence: Employment, Successes, Problems, and Needs of African-Americans with Disabilities*, edited by S. Walker et al., Center for the Study of Handicapped Children and Youth, School of Education, Howard University, Washington, DC, 1988, pp. 148-156.
 
-[](<>)106 Sylvia Walker et al., "Disability Prevalence and Demographic Association Among Race/Ethnic Minority Populations in the United States: Implications for the 21st Century." Howard University Research and Training Center for Access to Rehabilitation and Economic Opportunity, Washington, DC, 1991.
+106 Sylvia Walker et al., "Disability Prevalence and Demographic Association Among Race/Ethnic Minority Populations in the United States: Implications for the 21st Century." Howard University Research and Training Center for Access to Rehabilitation and Economic Opportunity, Washington, DC, 1991.
 
-[](<>)107 Bradsher, 1996.
+107 Bradsher, 1996.
 
-[](<>)108 Leung, 1996.
+108 Leung, 1996.
 
-[](<>)109 State of California Department of Finance Demographic Research Unit, "Race/Ethnic Population Estimates: Components of Change by Race, 1990-1996," 1998.
+109 State of California Department of Finance Demographic Research Unit, "Race/Ethnic Population Estimates: Components of Change by Race, 1990-1996," 1998.
 
-[](<>)110 Cheryl A. Utley and Festus E. Obiakor, "Addressing Diversity in Special Education Research.", June 1997.
+110 Cheryl A. Utley and Festus E. Obiakor, "Addressing Diversity in Special Education Research.", June 1997.
 
-[](<>)111 D. Enwisle and N.M. Astone, "Some practical guidelines for measuring youth's race/ethnicity and socioeconomic status." *Child Development*, vol. 65 (1994), pp. 1521-1540.
+111 D. Enwisle and N.M. Astone, "Some practical guidelines for measuring youth's race/ethnicity and socioeconomic status." *Child Development*, vol. 65 (1994), pp. 1521-1540.
 
-[](<>)112 Anita Leal-Idrogo, "Vocational Rehabilitation of People of Hispanic Origin." *Journal of Vocational Rehabilitation*, vol. 3, no. 1 (1993), pp. 27-37.
+112 Anita Leal-Idrogo, "Vocational Rehabilitation of People of Hispanic Origin." *Journal of Vocational Rehabilitation*, vol. 3, no. 1 (1993), pp. 27-37.
 
-[](<>)113 M.J. Paris, "Attitudes of Medical Students and Healthcare Professionals toward People with Disabilities." *Archives of Physical Medicine and Rehabilitation*, vol. 74, no. 3 (1993), pp. 818-825.
+113 M.J. Paris, "Attitudes of Medical Students and Healthcare Professionals toward People with Disabilities." *Archives of Physical Medicine and Rehabilitation*, vol. 74, no. 3 (1993), pp. 818-825.
 
-[](<>)114 Leung, 1996.
+114 Leung, 1996.
 
-[](<>)115 Leung, 1996.
+115 Leung, 1996.
 
-[](<>)116 Julie F. Smart and David W. Smart, "The Racial/Ethnic Demography of Disability." *Journal of Rehabilitation*, vol. 63, no. 4 (October/November/December 1997), pp. 9-15.
+116 Julie F. Smart and David W. Smart, "The Racial/Ethnic Demography of Disability." *Journal of Rehabilitation*, vol. 63, no. 4 (October/November/December 1997), pp. 9-15.
 
-[](<>)117 Leung, 1996.
+117 Leung, 1996.
 
-[](<>)118 Bureau of the Census, U.S. Department of Commerce, "Poverty Level of Hispanic Population Drops, Income Improves, Census Bureau Reports." Economic & Statistics Administration, Washington, DC, 1998.
+118 Bureau of the Census, U.S. Department of Commerce, "Poverty Level of Hispanic Population Drops, Income Improves, Census Bureau Reports." Economic & Statistics Administration, Washington, DC, 1998.
 
-[](<>)119 Santiago, Villarruel, and Leahy, 1996.
+119 Santiago, Villarruel, and Leahy, 1996.
 
-[](<>)120 Sotnik and Hasnain, 1998.
+120 Sotnik and Hasnain, 1998.
 
-[](<>)121 Sotnik and Hasnain, 1998.
+121 Sotnik and Hasnain, 1998.
 
-[](<>)122 U.S. Department of Commerce, "Social and Economic Characteristics, CALIFORNIA. 1990 Census of Population." Bureau of the Census, Washington, DC, September 1993, Table 45.
+122 U.S. Department of Commerce, "Social and Economic Characteristics, CALIFORNIA. 1990 Census of Population." Bureau of the Census, Washington, DC, September 1993, Table 45.
 
-[](<>)123 U.S. Department of Commerce, 1993.
+123 U.S. Department of Commerce, 1993.
 
-[](<>)124 U.S. Department of Commerce, 1993.
+124 U.S. Department of Commerce, 1993.
 
-[](<>)125 Walker, 1996.
+125 Walker, 1996.
 
-[](<>)126 California Department of Rehabilitation, "Fiscal Year 1997 Annual Performance Report for State Independent Living Services Program, Centers for Independent Living Program." Sacramento, CA, 1998, Subpart I-F, p. 4.
+126 California Department of Rehabilitation, "Fiscal Year 1997 Annual Performance Report for State Independent Living Services Program, Centers for Independent Living Program." Sacramento, CA, 1998, Subpart I-F, p. 4.
 
-[](<>)127 Associated Press, "Welfare Recipients May Help 2000 Census." February 11, 1999.
+127 Associated Press, "Welfare Recipients May Help 2000 Census." February 11, 1999.
 
-[](<>)128 Utley and Obiakor, 1997.
+128 Utley and Obiakor, 1997.
 
-[](<>)129 Continental Congress, "The Unanimous Declaration of the Thirteen United States of America." In *The Citizen's Handbook: Essential Documents and Speeches From American History*, edited by T.J. Stiles, Berkeley Books, New York, July 4, 1776, p. 37.
+129 Continental Congress, "The Unanimous Declaration of the Thirteen United States of America." In *The Citizen's Handbook: Essential Documents and Speeches From American History*, edited by T.J. Stiles, Berkeley Books, New York, July 4, 1776, p. 37.
 
-[](<>)130 Abraham Lincoln, "The Gettysburg Address," in *The Citizen's Handbook: Essential Documents and Speeches From American History*, edited by T.J. Stiles, Berkeley Books, New York, November 19, 1863, p. 123.
+130 Abraham Lincoln, "The Gettysburg Address," in *The Citizen's Handbook: Essential Documents and Speeches From American History*, edited by T.J. Stiles, Berkeley Books, New York, November 19, 1863, p. 123.
 
-[](<>)131 Martin Luther King, Jr., "I Have a Dream." In *Contemporary American Voices: Significant Speeches in American History*, 1945-Present, edited by James Andrews and David Zarefsky, Longman Publishing Group, White Plains, NY, 1963, pp. 79-81.
+131 Martin Luther King, Jr., "I Have a Dream." In *Contemporary American Voices: Significant Speeches in American History*, 1945-Present, edited by James Andrews and David Zarefsky, Longman Publishing Group, White Plains, NY, 1963, pp. 79-81.
 
 - - -
 
-[](<>)**APPENDIX**
+**APPENDIX**
 
 **MISSION OF THE NATIONAL COUNCIL ON DISABILITY**
 

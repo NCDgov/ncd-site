@@ -13,7 +13,7 @@ Washington, DC  20201
 
 Dear Mr. Charrow:
 
-Thank you for your letter of April 16, 2020, responding to my letter of March 31 to Secretary Azar, which expressed NCD’s concerns about a statement in the March 28 “Bulletin: Civil Rights, HIPPA and the Coronavirus Disease 2019 (COVID-19),”  issued by HHS’ Office on Civil Rights (OCR), indicating immunity against enforcement of civil rights laws under the PREP Act.[\[1]](https://ncd.gov/publications/2020/ncd-letter-responding-hhs-office-general-counsel-covid-19-related-immunity#_ftn1)
+Thank you for your letter of April 16, 2020, responding to my letter of March 31 to Secretary Azar, which expressed NCD’s concerns about a statement in the March 28 “Bulletin: Civil Rights, HIPPA and the Coronavirus Disease 2019 (COVID-19),”  issued by HHS’ Office on Civil Rights (OCR), indicating immunity against enforcement of civil rights laws under the PREP Act.[1](https://ncd.gov/publications/2020/ncd-letter-responding-hhs-office-general-counsel-covid-19-related-immunity#_ftn1)
 
 In your letter, you clarify that the PREP Act does not immunize anyone from federal enforcement action under civil rights laws, and that OCR has full authority to continue its normal enforcement activities. You also clarify that while the PREP Act replaces the right to bring a court action with a no-fault compensation system for certain injuries, it does not remove the right of anyone whose civil rights have been violated to bring a federal court action for injunctive relief under federal civil rights statutes.
 
@@ -32,4 +32,4 @@ Cc: Roger Severino, Director, Office for Civil Rights
 
 
 
-[\[1]](https://ncd.gov/publications/2020/ncd-letter-responding-hhs-office-general-counsel-covid-19-related-immunity#_ftnref1) Pub. L. No. 109148, Public Health Service Act 319F-3, 42 U.S.C. 247d-6d and 42 U.S.C. 247d-6e
+[1](https://ncd.gov/publications/2020/ncd-letter-responding-hhs-office-general-counsel-covid-19-related-immunity#_ftnref1) Pub. L. No. 109148, Public Health Service Act 319F-3, 42 U.S.C. 247d-6d and 42 U.S.C. 247d-6e

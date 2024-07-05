@@ -39,7 +39,7 @@ The treatment being provided at JRC is contrary to federal policy and the findin
 
 The practices of JRC are equally contrary to the Developmental Disabilities Assistance and Bill of Rights Act (DD Act) which states in part:
 
-…The Federal Government and the States both have an obligation to ensure that public funds are provided only to institutional programs, residential programs, and other community programs, including educational programs in which individuals with developmental disabilities participate, that… meet minimum standards relating to— provision of care that is free of abuse, neglect, sexual and financial exploitation, and violations of legal and human rights and that subjects individuals with developmental disabilities to ***no greater risk of harm than others in the general population***… and prohibition of the use of such restraint and seclusion as a punishment or as a substitute for a habilitation program… (emphasis added).[xiii]](#xiii)
+…The Federal Government and the States both have an obligation to ensure that public funds are provided only to institutional programs, residential programs, and other community programs, including educational programs in which individuals with developmental disabilities participate, that… meet minimum standards relating to— provision of care that is free of abuse, neglect, sexual and financial exploitation, and violations of legal and human rights and that subjects individuals with developmental disabilities to ***no greater risk of harm than others in the general population***… and prohibition of the use of such restraint and seclusion as a punishment or as a substitute for a habilitation program… (emphasis added).[xiii](#xiii)
 
 The objectionable practices at JRC have not only attracted national attention but have also been scrutinized internationally.  In June 2010, the United Nations Special Rapporteur on Torture stated that the practices of the Judge Rotenberg Center in Canton, Massachusetts equate to torture and urged the US government to appeal.[xiv](#xiv)
 
@@ -66,7 +66,7 @@ James Swink, Medical Devices Advisory Panel Coordinator
 
 ### Footnotes
 
-#### i 
+#### i
 National Council on Disability, *Letter to DOJ Disability Rights Section Chief Allison Nichol on the Judge Rotenberg Center* (April 12, 2012), available at[/publications/2012/DOJApril132012/](https://www.ncd.gov/publications/2012/DOJApril132012/);  National Council on Disability,*Comments of the National Council on Disability in Support of Proposed Amendments to Regulations on Behavior Modification at 115 CMR 5.14*, (July 18, 2011), available at[/publications/2011/July182011](https://www.ncd.gov/publications/2011/July182011).
 
 #### ii

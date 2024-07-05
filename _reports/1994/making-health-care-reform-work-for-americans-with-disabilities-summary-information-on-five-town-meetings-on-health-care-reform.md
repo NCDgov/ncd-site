@@ -115,7 +115,7 @@ Attachments
 
 - - -
 
-[](<>)NATIONAL COUNCIL MEMBERS AND STAFF
+NATIONAL COUNCIL MEMBERS AND STAFF
 
 MEMBERS
 
@@ -151,13 +151,13 @@ Mark S. Quigley, Public Affairs Specialist
 
 - - -
 
-[](<>)INTRODUCTION
+INTRODUCTION
 
 During the months of March and April, 1994, the National Council on Disability held five "town meetings" across the United States in order to provide persons with disabilities, family members, and other interested citizens with an opportunity to express their views on the various proposals for health care reform which are currently being considered by the Federal government. The purpose of these town meetings was to identify the concerns of consumers regarding current proposals for reform and to learn of possible ways in which these concerns might be addressed as the various plans go forward. A summary of the process used to conduct the hearings is found in Attachment A.
 
 - - -
 
-[](<>)TOWN MEETINGS SCHEDULE
+TOWN MEETINGS SCHEDULE
 
 Town meetings were held on the following dates in these locations:
 
@@ -175,11 +175,11 @@ Hundreds of people with disabilities and other interested citizens attended thes
 
 - - -
 
-[](<>)THEMES
+THEMES
 
 - - -
 
-[](<>)*People with Disabilities Are Treated Quite Poorly Under the Current System.*
+*People with Disabilities Are Treated Quite Poorly Under the Current System.*
 
 - - -
 
@@ -255,7 +255,7 @@ Indeed, there are now entire States wherein, for example, nobody with a developm
 
 - - -
 
-[](<>)*People with Disabilities Live in Fear of the Repercussions of Many of the Current Health Care Reform Proposals.*
+*People with Disabilities Live in Fear of the Repercussions of Many of the Current Health Care Reform Proposals.*
 
 - - -
 
@@ -305,7 +305,7 @@ Finally, several witnesses stated that they feared that cost control measures (w
 
 - - -
 
-[](<>)*The Goals of Universal Coverage and Comprehensive Benefits for Persons with Disabilities Can Be Achieved.*
+*The Goals of Universal Coverage and Comprehensive Benefits for Persons with Disabilities Can Be Achieved.*
 
 - - -
 
@@ -399,7 +399,7 @@ Finally, any effective effort at health care reform should break the current str
 
 - - -
 
-[](<>)*Strategies Can Be Developed to Make Health Care Reform Responsive to the Needs of Americans with Disabilities.*
+*Strategies Can Be Developed to Make Health Care Reform Responsive to the Needs of Americans with Disabilities.*
 
 - - -
 
@@ -421,13 +421,13 @@ Recent Federal legislation has referred to the fact that disability, far from be
 
 - - -
 
-[](<>)CONCLUSION
+CONCLUSION
 
 This brief report summarizes the many hours of testimony provided to the National Council on Disability during its five town meetings on *Making Health Care Reform Work for Americans with Disabilities*. We are quite grateful to all who took the time and made the effort to attend these meetings, meetings which exemplified one of the best traditions of American democracy. The National Council on Disability looks forward to continuing its work with the community of people with disabilities, the Administration, and the Congress toward the creation of a health care system that meets the needs of all Americans in the near future.
 
 - - -
 
-[](<>)ATTACHMENT A:
+ATTACHMENT A:
 
 A DESCRIPTION OF THE PROCESS USED TO CONDUCT THE NATIONAL COUNCIL ON DISABILITY'S HEALTH CARE REFORM HEARINGS
 
@@ -446,7 +446,7 @@ Finally, Ed Burke, Acting Executive Director of the National Council, described 
 
 - - -
 
-[](<>)ATTACHMENT B:
+ATTACHMENT B:
 
 CONSORTIUM FOR CITIZENS WITH DISABILITIES HEALTH TASK FORCE
 
@@ -599,7 +599,7 @@ Perhaps our greatest contribution will be in clarifying the principles which sho
 
 - - -
 
-[](<>)ATTACHMENT C:
+ATTACHMENT C:
 
 NCD PARTICIPANT LIST
 
@@ -1373,7 +1373,7 @@ Philadelphia, PA 19103-1039\
 
 - - -
 
-[](<>)ATTACHMENT D:
+ATTACHMENT D:
 
 Mission of the National Council on Disability
 

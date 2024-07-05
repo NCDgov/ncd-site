@@ -54,7 +54,7 @@ Several points bear mentioning. The U.S. legal system is a federalist one, meani
 
 The ultimate conclusion of this paper is that there is no legal impediment to U.S. signature and ratification on the basis that, in large measure, the legal standards articulated in the CRPD align with U.S. disability law.
 
-The U.S. disability rights agenda, premised on a social model of disability, has exerted a powerful international influence in revising legal regimes affecting people with disabilities.  But the U.S. scheme, which is primarily an antidiscrimination one, has limits that are reflected in the gaps. Specifically, it has proven difficult to transform society's institutional structures and attitudes towards marginalized individuals. Further complicating the U.S. disability antidiscrimination project have been cramped judicial interpretations on threshold definition of disability issues,[\[i]](https://ncd.gov/newsroom/Testimony/2008/08262008#_edn1) as well as uneven implementation of existing federal law.[\[ii]](https://ncd.gov/newsroom/Testimony/2008/08262008#_edn2)
+The U.S. disability rights agenda, premised on a social model of disability, has exerted a powerful international influence in revising legal regimes affecting people with disabilities.  But the U.S. scheme, which is primarily an antidiscrimination one, has limits that are reflected in the gaps. Specifically, it has proven difficult to transform society's institutional structures and attitudes towards marginalized individuals. Further complicating the U.S. disability antidiscrimination project have been cramped judicial interpretations on threshold definition of disability issues,[i](https://ncd.gov/newsroom/Testimony/2008/08262008#_edn1) as well as uneven implementation of existing federal law.[ii](https://ncd.gov/newsroom/Testimony/2008/08262008#_edn2)
 
 #### **V.         One Example**
 
@@ -66,8 +66,8 @@ These gaps are capable of being narrowed or eradicated through either more rigor
 
 - - -
 
-[\[i]](https://ncd.gov/newsroom/Testimony/2008/08262008#_ednref1) *See* National Council on Disability, *The Americans with Disabilities Act Policy Brief Series: Righting the ADA, No. 6: Defining "Disability" in a Civil Rights Context: The Courts' Focus on Extent of Limitations as Opposed to Fair Treatment and Equal Opportunity* (Feb. 2003), available at <[/publications/2003/extentoflimitations](https://ncd.gov/publications/2003/Feb242003)>.
+[i](https://ncd.gov/newsroom/Testimony/2008/08262008#_ednref1) *See* National Council on Disability, *The Americans with Disabilities Act Policy Brief Series: Righting the ADA, No. 6: Defining "Disability" in a Civil Rights Context: The Courts' Focus on Extent of Limitations as Opposed to Fair Treatment and Equal Opportunity* (Feb. 2003), available at <[/publications/2003/extentoflimitations](https://ncd.gov/publications/2003/Feb242003)>.
 
-[\[ii]](https://ncd.gov/newsroom/Testimony/2008/08262008#_ednref2) *See* National Council on Disability, *Implementation of the ADA : Challenges, Best Practices, and New Opportunities for Success* (July 2007), available at <[/publications/2007/implementation_07-26-07](https://ncd.gov/publications/2007/July262007)>.
+[ii](https://ncd.gov/newsroom/Testimony/2008/08262008#_ednref2) *See* National Council on Disability, *Implementation of the ADA : Challenges, Best Practices, and New Opportunities for Success* (July 2007), available at <[/publications/2007/implementation_07-26-07](https://ncd.gov/publications/2007/July262007)>.
 
 <!--EndFragment-->

@@ -108,7 +108,7 @@ APPENDICES
 
 - - -
 
-[](<>)**MISSION OF THE NATIONAL COUNCIL ON DISABILITY**
+**MISSION OF THE NATIONAL COUNCIL ON DISABILITY**
 
 The National Council on Disability is an independent federal agency composed of 15 members appointed by the President of the United States and confirmed by the U.S. Senate. It was established in 1978 as an advisory board within the Department of Education. The Rehabilitation Act Amendments of 1984 transformed the Council into an independent agency. The mission of the National Council on Disability is to provide leadership in the identification of emerging issues affecting people with disabilities and in the development and recommendation of disability policy to the President and the Congress. The statutory mandate of the National Council includes the following:
 
@@ -129,7 +129,7 @@ While many government agencies address issues and programs affecting people with
 
 - - -
 
-[](<>)**NATIONAL COUNCIL ON DISABILITY, MEMBERS AND STAFF**
+**NATIONAL COUNCIL ON DISABILITY, MEMBERS AND STAFF**
 
 Members
 
@@ -162,7 +162,7 @@ Lorraine Williams, Office Automation Clerk
 
 - - -
 
-[](<>)**PROJECT STAFF**
+**PROJECT STAFF**
 
 National Council on Disability\
 Initiative on Minorities with Disabilities
@@ -203,7 +203,7 @@ This report summarizes the papers commissioned by the National Council for the c
 
 - - -
 
-[](<>)**CONFERENCE PAPERS**
+**CONFERENCE PAPERS**
 
 1. Introduction: Minorities with Disabilities
 
@@ -276,7 +276,7 @@ This report summarizes the papers commissioned by the National Council for the c
 
 - - -
 
-[](<>)**EXECUTIVE SUMMARY**
+**EXECUTIVE SUMMARY**
 
 > *People with disabilities have always been excluded from the bounty of our nation's resources. Minorities with disabilities, in particular, have been the most disenfranchised of the disenfranchised. It is time that we bring them into the fold as full, first-class participants in our society.*
 
@@ -396,7 +396,7 @@ The following are recommendations of witnesses from the ADA Watch hearing on min
 
 - - -
 
-[](<>)**1. INTRODUCTION: MINORITIES WITH DISABILITIES**
+**1. INTRODUCTION: MINORITIES WITH DISABILITIES**
 
 > *Minority persons with disabilities are among the most untapped of our nation's resources. Most have not been given an opportunity to contribute productively to the well-being of our society. It is essential to the success of our country in the 21st Century to utilize the resources of minority persons with disabilities.*
 
@@ -512,7 +512,7 @@ A complete copy of the conference proceedings is available from the National Cou
 
 - - -
 
-[](<>)**2. EDUCATION**
+**2. EDUCATION**
 
 > *Our education system is overloaded, confused, and bogged down. We need to refocus our educational priorities and concentrate on the restructuring of our educational system. We need to go back and take a page out of the successful methodologies used in the one-room school house. We do not need to segregate students. We need to find ways to mainstream.*
 
@@ -562,7 +562,7 @@ Recommendations
 
 - - -
 
-[](<>)**3. VOCATIONAL REHABILITATION**
+**3. VOCATIONAL REHABILITATION**
 
 > *In general, minorities with disabilities are less likely to be accepted or found eligible for state/federal vocational rehabilitation services when compared to Whites with disabilities. If accepted for vocational rehabilitation services, minorities are less likely to be rehabilitated and are provided fewer opportunities for academic training as compared to Whites.*
 
@@ -611,7 +611,7 @@ Recommendations on Vocational Rehabilitation
 
 - - -
 
-[](<>)**4. EMPLOYMENT**
+**4. EMPLOYMENT**
 
 > *We must establish an \[employment] agenda for minorities with disabilities which will be multifaceted. Indeed, this interrelatedness of disability, poverty and undereducation dictate implementation of a multidisciplinary, intergovernmental, and interagency approach to the problem.*
 
@@ -661,7 +661,7 @@ Recommendations on Employment
 
 - - -
 
-[](<>)**5. EMPOWERMENT**
+**5. EMPOWERMENT**
 
 > *We, in the U.S., are faced with a dilemma of staggering seriousness. Our minority citizens with disabilities are born identified as a minority within a minority. They suffer and are ignored. They are disenfranchised, discriminated against, and are dying physically and spiritually; they are hungry, unclothed, unemployed, unsheltered, and completely unaware of the quality of life which is their constitutional right and guarantee.*
 
@@ -690,7 +690,7 @@ Britt stated that serious problems demand creative solutions. Among the solution
 
 - - -
 
-[](<>)**6. MENTAL HEALTH**
+**6. MENTAL HEALTH**
 
 > *Members of minority groups perceive themselves as different from the majority group and they are perceived as being different by Whites. These perceived differences, the historical context of the groups' interactions, and their place in economic history have resulted in a complexity of feelings, attitudes and perceptions. These differences have often resulted in differential treatment which permeates the U.S. and its institutions including the mental health system.*
 
@@ -716,7 +716,7 @@ Recommendations on Mental Health
 
 - - -
 
-[](<>)**7. PHYSICAL HEALTH**
+**7. PHYSICAL HEALTH**
 
 > *Disability is not yet fully a part of the debate on the need for better health care for minorities, in particular minorities with disabilities. Instead, epidemiology studies . . . \[focus] on pathology and ignore disabilities, to the chagrin of the disability studies' field.*
 
@@ -788,7 +788,7 @@ Among Dr. Leal's recommendations were the following:
 
 - - -
 
-[](<>)**8. PREVENTION OF DISABILITIES**
+**8. PREVENTION OF DISABILITIES**
 
 > *Strategies need to be developed in which American Indians and other minorities are included in an immediate national agenda for prevention. This will be the only way to ensure that minority populations will have a voice in the development of prevention programs that are relevant to them.*
 
@@ -811,7 +811,7 @@ Recommendations on Prevention
 
 - - -
 
-[](<>)**9. SUBSTANCE ABUSE**
+**9. SUBSTANCE ABUSE**
 
 > *Alcohol and substance abuse is a problem for many persons with physical and/or mental disabilities which further complicates rehabilitation. Rehabilitation services must be offered with an understanding and knowledge of racial/ethnic/cultural groups, disability, and substance abuse if successful rehabilitation is to occur.*
 
@@ -897,7 +897,7 @@ The following are among the recommendations concerning minority populations iden
 
 - - -
 
-[](<>)**10. RESEARCH NEEDS**
+**10. RESEARCH NEEDS**
 
 > *Previous research has often related only to the agenda of the researcher, and results of research frequently have not been shared with those who participated. One aspect of research must involve developing trust with, and a commitment of, the community. The objectives must be shared, developed and implemented with the people who will benefit from the research.*
 
@@ -940,7 +940,7 @@ Recommendations on Research
 
 - - -
 
-[](<>)**REFERENCES**
+**REFERENCES**
 
 Asbury, C. A., Walker. S. Maholmes, V., Rackley, R., & White, S. (1991). Disability prevalence and demographic association among race/ethnic minority populations in the United States: Implications for the 21st century. Washington, DC: Howard University Research and Training Center.
 
@@ -1036,7 +1036,7 @@ Wright, T. J. (1988). Enhancing the professional preparation of rehabilitation c
 
 - - -
 
-[](<>)**APPENDIX D**
+**APPENDIX D**
 
 **NATIONAL COUNCIL MEMBER AND STAFF BIOGRAPHIES**
 

@@ -40,7 +40,7 @@ Without the critical services provided by direct care workers that allow people 
 
 Therefore, if the HCBS system upon which so many people with disabilities and seniors rely begins to falter, a great many people may find themselves or their loved ones not only stripped of their independence, but their lives substantially imperiled given the correlation of congregate settings to infection rates.
 
-This advice from NCD at this time, while novel in application to COVID-19, is not at all new but rather longstanding advice to Congress across numerous administrations that “America needs a coherent and comprehensive framework for its \[long-term services and supports] policies, programs, and funding” based in part on the assumption that “formal and informal caregiving must be sustained, including examination of family needs and workforce recruitment and retention challenges.”[\[1]](https://ncd.gov/publications/2020/letter-congressional-leaders-hcbs-inclusion-next-covid-19-package#_edn1) It is true that these are not new challenges, but the length of time in which they have gone holistically unaddressed in national policy and investment has truly come home to roost during this current national testing. I urge you to take decisive action to save lives.
+This advice from NCD at this time, while novel in application to COVID-19, is not at all new but rather longstanding advice to Congress across numerous administrations that “America needs a coherent and comprehensive framework for its \[long-term services and supports] policies, programs, and funding” based in part on the assumption that “formal and informal caregiving must be sustained, including examination of family needs and workforce recruitment and retention challenges.”[1](https://ncd.gov/publications/2020/letter-congressional-leaders-hcbs-inclusion-next-covid-19-package#_edn1) It is true that these are not new challenges, but the length of time in which they have gone holistically unaddressed in national policy and investment has truly come home to roost during this current national testing. I urge you to take decisive action to save lives.
 
 The next COVID-19 legislative package presents a critical opportunity to:
 
@@ -60,4 +60,4 @@ Chairman
 
  
 
-[\[1]](https://ncd.gov/publications/2020/letter-congressional-leaders-hcbs-inclusion-next-covid-19-package#_ednref1) National Council on Disability, *The State of 21st Century Long-Term Services and Supports: Financing and Systems Reform for Americans with Disabilities* (2005). <http://www.ncd.gov/publications/2005/12152005> (Accessed April 23, 2020).
+[1](https://ncd.gov/publications/2020/letter-congressional-leaders-hcbs-inclusion-next-covid-19-package#_ednref1) National Council on Disability, *The State of 21st Century Long-Term Services and Supports: Financing and Systems Reform for Americans with Disabilities* (2005). <http://www.ncd.gov/publications/2005/12152005> (Accessed April 23, 2020).

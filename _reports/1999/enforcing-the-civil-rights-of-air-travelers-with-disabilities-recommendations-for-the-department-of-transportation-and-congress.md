@@ -256,7 +256,7 @@ Table 1 -- Summary of ACAA Informal Consumer Complaints--April 5, 1990-October 2
 
 - - -
 
-[](<>)ACKNOWLEDGMENTS
+ACKNOWLEDGMENTS
 
 All research, data collection, and analysis for this study were conducted under contract for the National Council on Disability's (NCD) Disability Civil Rights Monitoring Project by the Disability Rights Education and Defense Fund (DREDF). Kathleen Blank, J.D., was the principal researcher and lead author for this report before she joined the NCD staff in the spring of 1998. Nancy Mudrick, Ph.D., senior data and methodological consultant; Mary Lou Breslin, project director; and Jane West, Ph.D., research director, were co-authors. Statistical analysis of complaint data was performed under the direction of Nancy Mudrick. Jennifer Thau and Anne Marie Sullivan, social work graduate students at Syracuse University, provided research assistance.
 
@@ -266,7 +266,7 @@ Finally, we wish to thank the many stakeholder group representatives, from both 
 
 - - -
 
-[](<>)EXECUTIVE SUMMARY
+EXECUTIVE SUMMARY
 
 The Air Carrier Access Act (ACAA) became law in 1986, prohibiting discrimination against passengers with disabilities by air carriers in providing air transportation services.1 Congress charged the Secretary of Transportation with promulgating the implementing regulations within 120 days of the statute's enactment. Following deadlocked regulatory negotiations and a notice of proposed rulemaking that produced more than 300 stakeholder comments, 14 CFR Part 382 went into effect on April 5, 1990, with many issues still unresolved.2 These unresolved issues, coupled with a regulatory environment dating back to the Reagan administration that encourages voluntary compliance and minimizes federal oversight, have contributed to an enforcement effort that is both inconsistent and limited in scope.
 
@@ -359,7 +359,7 @@ This report candidly assesses current federal enforcement of the ACAA and recomm
 
 - - -
 
-[](<>)INTRODUCTION
+INTRODUCTION
 
 Background
 
@@ -412,7 +412,7 @@ The report is presented in four parts. Part I provides background on the enactme
 
 - - -
 
-[](<>)PART I: THE LAW, THE REGULATION, AND THE CONTEXT
+PART I: THE LAW, THE REGULATION, AND THE CONTEXT
 
 1.0 The Law: The Air Carrier Access Act (ACAA) of 1986
 
@@ -488,11 +488,11 @@ The following section provides a summary of key Part 382 implementation provisio
 
 - - -
 
-[](<>)2.0 The Implementing Regulation: 14 CFR Part 382--Nondiscrimination on the Basis of Disability in Air Travel
+2.0 The Implementing Regulation: 14 CFR Part 382--Nondiscrimination on the Basis of Disability in Air Travel
 
 The purpose of Part 382 is to implement the ACAA nondiscrimination mandate: "\[N]o air carrier may discriminate against any otherwise qualified individual with a disability, by reason of such disability, in the provision of air transportation."32 Part 382 details the actions necessary for compliance. Although clear in many respects, the regulation's areas of uncertainty and stalemate continue to hamper its effectiveness. And clarity notwithstanding, many of the basic Part 382 requirements are poorly understood and not consistently implemented.
 
-[](<>)2.1 Definitions
+2.1 Definitions
 
 2.1.1 Who is an "Individual with a Disability?"
 
@@ -528,7 +528,7 @@ Air carriers shall also ensure that their contractors who provide services to pa
 * perform their activities on behalf of the air carriers consistent with Part 382; and
 * comply with directives issued by the air carriers' complaint resolution officers (CROs).41
 
-[](<>)2.2 Implementation Requirements
+2.2 Implementation Requirements
 
 2.2.1 Implementation Issues
 
@@ -633,9 +633,9 @@ Since 1986, no ACAA amendments have been passed, but Part 382 has been modified 
 
 - - -
 
-[](<>)3.0 Recently Approved Changes to the Regulation and Proposed Changes to the Law
+3.0 Recently Approved Changes to the Regulation and Proposed Changes to the Law
 
-[](<>)3.1 Final Rule Amending Part 382, Issued March 4, 1998
+3.1 Final Rule Amending Part 382, Issued March 4, 1998
 
 3.1.1 Clarification of the Definition of Nondiscrimination
 
@@ -660,7 +660,7 @@ Air carriers are required to accept a passenger's battery-powered wheelchair as 
 
 In the 1996 NPRM, DOT also sought comment on additional accommodations for persons with hearing impairments and the provision of a smoke-free accessible path through airports for persons with respiratory disabilities. DOT deferred decisions on whether to propose rules on both of these matters until after further consideration.85
 
-[](<>)3.2 Proposed Amendments to the Air Carrier Access Act
+3.2 Proposed Amendments to the Air Carrier Access Act
 
 3.2.1 Draft Miller Amendment
 
@@ -679,7 +679,7 @@ In light of this background on ACAA's history and the continuing problems in rea
 
 - - -
 
-[](<>)**PART II. THE ROLE OF THE UNITED STATES DEPARTMENT OF TRANSPORTATION (DOT)**
+**PART II. THE ROLE OF THE UNITED STATES DEPARTMENT OF TRANSPORTATION (DOT)**
 
 4.0 Background on DOT Enforcement Philosophy and Operations
 
@@ -717,7 +717,7 @@ Finally, the filing of formal ACAA complaints seeking enforcement action has not
 
 - - -
 
-[](<>)5.0 DOT Organizational Components Involved in ACAA Enforcement
+5.0 DOT Organizational Components Involved in ACAA Enforcement
 
 Figure 1 identifies the ACAA/Part 382 implementation and enforcement functions carried out by DOT. Figure 2 shows DOT's organizational plan correlating the implementation and enforcement functions with the responsible organizations shown in bold. The Secretary of Transportation is ultimately responsible for Part 382 enforcement. Under the Secretary, OGC performs most of the ACAA enforcement activity, with some implementation responsibilities performed by other organizations. The overview of roles presented in this section will be followed by a more detailed description and analysis in sections 6.1 through 6.7.
 
@@ -747,7 +747,7 @@ The Enforcement Office handles formal complaints alleging any of the above infra
 
 - - -
 
-[](<>)**Figure 1.**
+**Figure 1.**
 
 U.S. Department of Transportation Air Carrier Access Act
 
@@ -820,9 +820,9 @@ As part of a comprehensive ACAA enforcement strategy, DOT must identify ways to 
 
 - - -
 
-[](<>)6.0 Implementation and Enforcement Functions
+6.0 Implementation and Enforcement Functions
 
-[](<>)6.1 Consumer Information Explaining the Law
+6.1 Consumer Information Explaining the Law
 
 Unlike some other disability rights statutes, ACAA contains no statutory requirements for the development or dissemination of public information about the rights of people with disabilities under the law and its regulation. Nonetheless, since the enactment of the law in 1986, DOT has developed a variety of public information materials related to ACAA.
 
@@ -884,7 +884,7 @@ Recommendation No. 6(b): DOT should ensure that disability community organizatio
 
 Recommendation No. 6(c): Federal officials overseeing ACAA enforcement should develop a strategy for using these statistics to hold airlines accountable for their performance.
 
-[](<>)6.2 General Guidance to the Aviation Industry
+6.2 General Guidance to the Aviation Industry
 
 Education and technical assistance to industry in implementing a regulation is an important component of a successful enforcement strategy. DOT has several approaches to providing general guidance and technical assistance to the aviation industry. This section describes each of these approaches, NCD's findings regarding how they have been carried out, and recommendations.
 
@@ -996,7 +996,7 @@ Recommendation No. 12(c): DOT should anticipate where industry noncompliance may
 
 DOT should notify airlines and aircraft manufacturers about the accessibility standards their aircraft must meet and institute periodic inspections to monitor compliance. Airlines with a demonstrated record of compliance should be given special recognition in the *Air Travel Consumer Reports*. Where noncompliance is found, enforcement action should be initiated immediately to obtain voluntary compliance; civil penalties should be levied whenever a pattern of inconsistency in meeting accessibility standards is found. Severe penalties should be imposed for every instance in which the requirement for accessible lavatories in double aisle aircraft ordered after April 1990 or delivered after April 1992 has not been met.
 
-[](<>)6.3 Technical Assistance to the Aviation Industry
+6.3 Technical Assistance to the Aviation Industry
 
 DOT has not had a formal technical assistance program to support Part 382 implementation. Aside from notifying airline officials about technical guidance available through external sources (e.g., ATA's design specification for accessible lavatories in two-aisle aircraft) and occasionally sending an implementation guidance letter, DOT technical assistance has consisted primarily of giving informal guidance to airlines, passengers, and disability rights organizations in interpreting and implementing ACAA regulations.141
 
@@ -1022,7 +1022,7 @@ Recommendation No. 14: DOT must actively encourage airlines to collaborate with 
 
 DOT has used the regulatory negotiation process to address some technical issues in the past with limited success. DOT should build on its experience with these past negotiations to address controversial access issues. The most recent advisory committee on accessible lavatories in single-aisle aircraft failed because of intransigent conflict among the stakeholders. A relatively high level of disagreement and controversy among the stakeholders is a given. It is within DOT's ACAA enforcement mandate to initiate consensus-based processes and keep participants focused on working through stalemates to solve the problems. Issues calling for immediate attention include conflicts between Part 382 requirements and airline policies that seem to circumvent ACAA requirements (e.g., changes in airline preboarding practices).
 
-[](<>)6.4 Informal Complaints Alleging Potential Violations of 14 CFR Part 382
+6.4 Informal Complaints Alleging Potential Violations of 14 CFR Part 382
 
 6.4.1 The Informal Consumer Complaint Process
 
@@ -1076,7 +1076,7 @@ Table 1. Summary of ACAA Informal Consumer Complaints not available
 
 - - -
 
-[](<>)**Table 2. ACAA Informal Complaints Against Major U.S. Carriers Received by DOT Aviation Consumer Protection Division**
+**Table 2. ACAA Informal Complaints Against Major U.S. Carriers Received by DOT Aviation Consumer Protection Division**
 
 April 5, 1990-October 23, 1997
 
@@ -1099,7 +1099,7 @@ April 5, 1990-October 23, 1997
 
 - - -
 
-[](<>)**Table 3. Informal ACAA Complaints: Disability Categories (1)**
+**Table 3. Informal ACAA Complaints: Disability Categories (1)**
 
 |                         |     |
 | ----------------------- | --- |
@@ -1124,7 +1124,7 @@ Percentages are rounded to the nearest tenth.
 
 - - -
 
-[](<>)**Table 4. ACAA Informal Complaints: Types of Disability Complaints Received (1)**
+**Table 4. ACAA Informal Complaints: Types of Disability Complaints Received (1)**
 
 |                                                                              |     |
 | ---------------------------------------------------------------------------- | --- |
@@ -1152,7 +1152,7 @@ Percentages are rounded to the nearest tenth.\
 
 - - -
 
-[](<>)**Table 5. Complaints Filed Directly with a Major Air Carrier**
+**Table 5. Complaints Filed Directly with a Major Air Carrier**
 
 **January, 1993-November, 1996 1**
 
@@ -1183,7 +1183,7 @@ F/A = flight attendant
 
 - - -
 
-[](<>)**Table 6. Complaints Filed Directly with a Major Air Carrier**
+**Table 6. Complaints Filed Directly with a Major Air Carrier**
 
 **January 1993-November 1996**
 
@@ -1296,7 +1296,7 @@ Objective criteria need to be defined for analyzing informal complaints to ident
 
 The next section presents an in-depth description of the formal complaint process and its relationship to ACAA enforcement.
 
-[](<>)6.5 Formal Complaints and Enforcement Actions
+6.5 Formal Complaints and Enforcement Actions
 
 6.5.1 Filing a Formal Complaint
 
@@ -1447,7 +1447,7 @@ Recommendation No. 20: DOT should petition DOJ to file amicus briefs in ACAA cas
 
 It is in the public interest and part of DOT's enforcement responsibility to exercise leadership in clarifying the legal implications of ACAA. Without DOT's initiative in clarifying the intent of the law and regulation, further confusion results as courts in different jurisdictions make inconsistent decisions on similar issues. It is DOT's prerogative to clarify the intent of the law when the regulation is not clear. Therefore, DOT should request notification from the general public regarding pending ACAA lawsuits, and petition DOJ to file an amicus brief in every meritorious case involving an issue of public interest.
 
-[](<>)6.6 Compliance Monitoring
+6.6 Compliance Monitoring
 
 6.6.1 Review of Airline Compliance and Personnel Training Plans
 
@@ -1477,7 +1477,7 @@ Effective enforcement of ACAA requires a robust compliance monitoring mechanism.
 * air carrier submission, within a specified time frame, of revisions to plans found insufficient; and
 * regular DOT site visits to spot-check airline ACAA compliance at airports. Adequate funds should be made available for such activities.
 
-[](<>)6.7 ACAA Rulemaking--14 CFR Part 382 and Modifications
+6.7 ACAA Rulemaking--14 CFR Part 382 and Modifications
 
 This section will review both the rulemaking and regulatory negotiation processes to evaluate their effectiveness and assess their impact on 14 CFR Part 382.
 
@@ -1529,7 +1529,7 @@ Recommendation No. 23: Tighten up the regulation with guidelines and definitions
 
 DOT has stated that the regulation provides flexibility in determining on a case-by-case basis whether its provisions constitute an undue burden or fundamentally alter the nature of an airline's program.184 At the same time, the many implementation problems indicate that more guidance is needed on how to comply without creating undue burden or fundamental program alteration. Finding solutions to difficult implementation problems requires joint participation by the concerned stakeholders in developing practical guidelines for eventual incorporation to the regulation. DOT should create avenues and encourage experimentation with alternative approaches to working through implementation issues.
 
-[](<>)6.8 Monitoring the Law
+6.8 Monitoring the Law
 
 As the executive agency responsible for ACAA enforcement, DOT plays a key role in monitoring its impact and assessing what changes are needed to achieve its legislative objectives. This monitoring responsibility includes not only ensuring compliance with the regulation by airlines and airport operators but also examining where regulatory changes are needed to clarify the requirements of the law. One area where discrimination continues legally in spite of the law is international air travel. Although the legal authority to extend a general nondiscrimination mandate to foreign air carriers exists under 49 U.S.C. §41310, DOT has applied this provision only twice in discrimination cases against foreign air carriers on the basis of disability (in September and December 1998). As the federal agency responsible for international air transportation policy, DOT negotiates the terms of international agreements under which foreign carriers must operate in the United States. DOT must ensure that foreign air carriers that have access to U.S. airport facilities and air travel markets conform to the requirements of the same civil rights laws that bind U.S. carriers. NCD urges DOT to continue exercising its authority to require all air travel service providers operating in U.S. markets to comply with the established standard of nondiscrimination.
 
@@ -1537,7 +1537,7 @@ Part III explores the views of stakeholders in the aviation industry and the dis
 
 - - -
 
-[](<>)**PART III. STAKEHOLDER VIEWS ON ACAA ENFORCEMENT**
+**PART III. STAKEHOLDER VIEWS ON ACAA ENFORCEMENT**
 
 7.0 Aviation Industry Perspectives
 
@@ -1551,7 +1551,7 @@ The ATA executives interviewed readily agreed that some follow-up mechanism is n
 
 - - -
 
-[](<>)8.0 Perspectives of Air Travelers with Disabilities
+8.0 Perspectives of Air Travelers with Disabilities
 
 Enacted almost 12 years ago, the ACAA prohibits commercial air carriers from discriminating against travelers with disabilities. Despite the sweep of the law and its potential impact on travelers with disabilities, limited research has been conducted measuring its effectiveness from the perspectives of persons with disabilities. Nevertheless, the available research, written ACAA complaints, and personal anecdotes reveal patterns of continued discrimination by air carriers and weak enforcement by DOT. The following perspectives illustrate the problems that remain and suggest areas for improving implementation and enforcement of the law.
 
@@ -1610,7 +1610,7 @@ Private litigation is not a reasonable option for many people with disabilities 
 
 - - -
 
-[](<>)**PART IV: CONCLUSION**
+**PART IV: CONCLUSION**
 
 9.0 Summary of Recommendations
 
@@ -1656,7 +1656,7 @@ There is an urgent need for change in the overall approach to ACAA enforcement i
 
 - - -
 
-[](<>)**ENDNOTES**
+**ENDNOTES**
 
 1 Air Carrier Access Act Pub. L. No. 99-435, 100 Stat. 1080 (codified at 49 U.S.C. 1374(c)(1986) (hereinafter ACAA).
 
@@ -2060,7 +2060,7 @@ There is an urgent need for change in the overall approach to ACAA enforcement i
 
 - - -
 
-[](<>)**APPENDIX A**
+**APPENDIX A**
 
 **14 CFR Part 382 Requirements**
 
@@ -2501,7 +2501,7 @@ Service Animals
 
 - - -
 
-[](<>)**APPENDIX B**
+**APPENDIX B**
 
 **Summary of Complaints Filed Directly with a Major Air Carrier\
 (January 1993-November 1996)***
@@ -2721,7 +2721,7 @@ PAX = passenger
 
 - - -
 
-[](<>)**APPENDIX C**
+**APPENDIX C**
 
 **Summarized Selected Complaints from the Consumer Protection Division**
 
@@ -2935,7 +2935,7 @@ NPRM = notice of proposed rulemaking
 
 - - -
 
-[](<>)**APPENDIX D**
+**APPENDIX D**
 
 **Glossary of Acronyms**
 
@@ -2971,7 +2971,7 @@ TTY--teletype
 
 - - -
 
-[](<>)**APPENDIX E**
+**APPENDIX E**
 
 **14 CFR 302.3 Filing of Documents**
 
@@ -3040,7 +3040,7 @@ With respect to all documents filed under this part that are scanned, the electr
 
 - - -
 
-[](<>)**APPENDIX F**
+**APPENDIX F**
 
 **List of Interviews and Consultations**
 

@@ -191,7 +191,7 @@ People with disabilities are still far from the America promised by the ADA, but
 
 - - -
 
-[](<>)
+
 
 **INTRODUCTION**
 
@@ -213,7 +213,7 @@ This issue is important to policy makers across our Nation, and it is also impor
 
 Across the world, governments have expressed interest in adopting legislation similar to the ADA. Thus, it is even more important that an accurate, reality-based assessment of progress to date occur.
 
-[](<>)
+
 
 **The National Council on Disability's Continuing Interest in the ADA**
 
@@ -233,7 +233,7 @@ In considering how best to approach the fifth anniversary of the ADA from the st
 
 Numerous studies have been completed that detail progress in implementing the technical provisions of the Act. These studies have provided valuable information and recommendations regarding continuing implementation of the law. However, very little information exists on the law's *overall* impact on the quality of life experienced by citizens. Has *the shameful wall of exclusion come tumbling down*? If so, to what degree? Where are the largest openings? Even if the wall has come down, has there been a rush across the rubble to unite previously separated parties? Overall, has this law made any real difference in the quality of life experienced by people with disabilities? By the public at large?
 
-[](<>)
+
 
 **The National Town Meeting Tour**
 
@@ -243,7 +243,7 @@ The report that follows provides a summary of the NCD's findings regarding these
 
 - - -
 
-[](<>)
+
 
 **SUMMARY OF MAJOR FINDINGS**
 
@@ -319,7 +319,7 @@ In summary, while the accessibility goals of the ADA have not yet produced unive
 > * *Hotels have redone a couple of their units to accommodate travellers with wheelchairs; and,*
 > * *In road construction . . . they have been removing old curbs and replacing them with proper curb cuts.* (Ronald Giovagnoli, New Hampshire)
 
-[](<>)
+
 
 **The ADA: Increased Access to Employment Opportunities**
 
@@ -389,7 +389,7 @@ In spite of these continuing barriers to employment, improvements such as more c
 
 > *Employers are seeing advantages to hiring people with disabilities. They are competent employees, enthusiastic and productive. My friends and I appreciate the ADA. Today I'm speaking on behalf of several friends who couldn't come because they're working. Blame the ADA for that!* (Glen Barr, Tennessee)
 
-[](<>)
+
 
 **The ADA: Easier Communication, Easier Mobility**
 
@@ -425,7 +425,7 @@ In the area of mobility, speakers provided many examples of how the ADA has made
 
 With increased opportunities in the areas of communication and mobility, people with disabilities will be able to gain access to new jobs, pursue expanded career opportunities, and interact with family members, friends, and other community members more frequently. They will reduce their dependence on government programs while making greater contributions to their communities and to the Nation as a whole.
 
-[](<>)
+
 
 **The ADA: Modest Costs in Spite of Exaggerated Predictions**
 
@@ -465,7 +465,7 @@ Finally, compliance with the ADA benefits all Americans, by creating opportuniti
 >
 > *I have placed 54 people with disabilities in jobs. In addition to being productive citizens, these people have contributed more than $91,000 in taxes to their local, State, and Federal governments.* (Kenton Dickerson, Tennessee)
 
-[](<>)
+
 
 **ADA Compliance: Chiefly Voluntary, Not Lawsuit-Based**
 
@@ -487,7 +487,7 @@ Even in situations in which people with disabilities have met with initial refus
 
 In meeting after meeting across the country, Council members asked participants to raise their hands if they had worked to negotiate with others regarding ADA compliance. Hundreds did so. When the same people were then asked if they had filed a lawsuit based on the ADA, very few raised their hands. In short, the high degree of voluntary compliance with the provisions of the ADA is a credit to those who framed the Act, citizens with disabilities who have demonstrated creativity and endurance in pursuit of their civil rights, and all of those covered entities that have chosen to comply with the Act voluntarily.
 
-[](<>)
+
 
 **The ADA: Strengthening the Roles and Self-Images of Americans with Disabilities**
 
@@ -513,7 +513,7 @@ Across the Nation, people with disabilities testified as to the major positive c
 
 Strengthened roles and more positive self-images will empower people with disabilities to achieve greater levels of independence, to participate in their communities, and to become positive examples to all citizens of the potential for achievement that rests within all people with disabilities. Through this interactive process, prejudice and discrimination will be lessened and more opportunities opened.
 
-[](<>)
+
 
 **The ADA: Creating Positive Changes in American Culture**
 
@@ -545,7 +545,7 @@ Dawn Caldwell's son has cerebral palsy. But unlike generations of parents of chi
 
 The values embodied in the Americans with Disabilities Act-equal protection under the law, individual empowerment, freedom of association, economic opportunity, etc.-are important to and for all Americans. Our national culture of participatory democracy is enriched every time a previously excluded group is empowered to become part of our expected cultural fabric. The ADA is leading us in the direction of this positive change on a daily basis.
 
-[](<>)
+
 
 **Conclusion: Equality of Opportunity, Full Participation, Independent Living, Economic Self-Sufficiency-A Formula for Success in American Public Policy**
 
@@ -567,7 +567,7 @@ The above is but a brief summary of what thousands of consumers told us about th
 
 - - -
 
-[](<>)
+
 
 **SUMMARIES OF TOWN MEETINGS**
 
@@ -612,7 +612,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **ALASKA SUMMARY REPORT\
 APRIL 25, 1995**
@@ -654,7 +654,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **ARIZONA SUMMARY REPORT\
 MAY 6, 1995**
@@ -701,7 +701,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **ARKANSAS STATE SUMMARY\
 FEBRUARY 21, 1995**
@@ -744,7 +744,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **CALIFORNIA SUMMARY REPORT\
 MARCH 1, 1995**
@@ -795,7 +795,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **COLORADO SUMMARY REPORT\
 MAY 26, 1995**
@@ -836,7 +836,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **CONNECTICUT SUMMARY REPORT\
 MARCH 29, 1995**
@@ -877,7 +877,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **DELAWARE SUMMARY REPORT\
 MARCH 2, 1995**
@@ -922,7 +922,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **WASHINGTON, D.C. SUMMARY REPORT\
 JUNE 5, 1995**
@@ -965,7 +965,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **FLORIDA SUMMARY REPORT\
 FEBRUARY 1, 1995**
@@ -1013,7 +1013,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **GEORGIA SUMMARY REPORT\
 FEBRUARY 4, 1995**
@@ -1062,7 +1062,7 @@ The following impacts of ADA's first five years were cited by several speakers.
 
 - - -
 
-[](<>)
+
 
 **HAWAII SUMMARY REPORT\
 FEBRUARY 28, 1995**
@@ -1150,7 +1150,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **ILLINOIS SUMMARY REPORT\
 JUNE 1, 1995**
@@ -1209,7 +1209,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **INDIANA SUMMARY REPORT\
 APRIL 25, 1995**
@@ -1260,7 +1260,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **IOWA SUMMARY REPORT\
 APRIL 11, 1995**
@@ -1304,7 +1304,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **KANSAS SUMMARY REPORT\
 FEBRUARY 15, 1995**
@@ -1355,7 +1355,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **KENTUCKY SUMMARY REPORT\
 FEBRUARY 7, 1995**
@@ -1399,7 +1399,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **LOUISIANA SUMMARY REPORT\
 FEBRUARY 16, 1995**
@@ -1436,7 +1436,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **MAINE SUMMARY REPORT\
 MARCH 16, 1995**
@@ -1476,7 +1476,7 @@ An important point was raised about the cost of compliance. In written testimony
 
 - - -
 
-[](<>)
+
 
 **MARYLAND SUMMARY REPORT\
 MAY 9, 1995**
@@ -1527,7 +1527,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **MASSACHUSETTS SUMMARY REPORT\
 MARCH 22, 1995**
@@ -1566,7 +1566,7 @@ The following impacts of ADA's first five years were cited by several speakers.
 
 - - -
 
-[](<>)
+
 
 **MICHIGAN SUMMARY REPORT\
 MARCH 31, 1995**
@@ -1613,7 +1613,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **MINNESOTA SUMMARY REPORT\
 MAY 10, 1995**
@@ -1671,7 +1671,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **MISSISSIPPI SUMMARY REPORT\
 FEBRUARY 2, 1995**
@@ -1715,7 +1715,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **MISSOURI SUMMARY REPORT\
 APRIL 12, 1995**
@@ -1769,7 +1769,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **MONTANA SUMMARY REPORT\
 APRIL 13, 1995**
@@ -1820,7 +1820,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **NEBRASKA SUMMARY REPORT\
 MAY 9, 1995**
@@ -1871,7 +1871,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **NEVADA SUMMARY REPORT\
 MAY 3, 1995**
@@ -1920,7 +1920,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **NEW HAMPSHIRE SUMMARY REPORT\
 MARCH 17, 1995**
@@ -1968,7 +1968,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **NEW JERSEY SUMMARY REPORT\
 MARCH 15, 1995**
@@ -2008,7 +2008,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **NEW MEXICO SUMMARY REPORT\
 FEBRUARY 17, 1995**
@@ -2048,7 +2048,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **NEW YORK SUMMARY REPORT\
 MARCH 24, 1995**
@@ -2095,7 +2095,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **NORTH CAROLINA SUMMARY REPORT\
 APRIL 28, 1995**
@@ -2146,7 +2146,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **NORTH DAKOTA SUMMARY REPORT\
 JUNE 14, 1995**
@@ -2243,7 +2243,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **OKLAHOMA SUMMARY REPORT\
 FEBRUARY 21, 1995**
@@ -2279,7 +2279,7 @@ The following impacts of ADA's first five years were cited by several speakers.
 
 - - -
 
-[](<>)
+
 
 **OREGON SUMMARY REPORT\
 APRIL 21, 1995**
@@ -2320,7 +2320,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **PENNSYLVANIA SUMMARY REPORT\
 MARCH 10, 1995**
@@ -2369,7 +2369,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **RHODE ISLAND SUMMARY REPORT\
 MARCH 21, 1995**
@@ -2419,7 +2419,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **SOUTH CAROLINA SUMMARY REPORT\
 FEBRUARY 9, 1995**
@@ -2471,7 +2471,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **SOUTH DAKOTA SUMMARY REPORT\
 JUNE 8, 1995**
@@ -2527,7 +2527,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **TENNESSEE SUMMARY REPORT\
 APRIL 6, 1995**
@@ -2577,7 +2577,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **TEXAS SUMMARY REPORT\
 FEBRUARY 22, 1995**
@@ -2616,7 +2616,7 @@ The following impacts of ADA's first five years were cited by several speakers.
 
 - - -
 
-[](<>)
+
 
 **UTAH SUMMARY REPORT\
 MAY 3, 1995**
@@ -2660,7 +2660,7 @@ The following impacts of ADA's first five years were cited by several speakers.
 
 - - -
 
-[](<>)
+
 
 **VERMONT SUMMARY REPORT\
 APRIL 14, 1995**
@@ -2709,7 +2709,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **VIRGIN ISLANDS SUMMARY REPORT\
 JUNE 19, 1995**
@@ -2748,7 +2748,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **VIRGINIA SUMMARY REPORT\
 MARCH 7, 1995**
@@ -2791,7 +2791,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **WASHINGTON SUMMARY REPORT\
 APRIL 26, 1995**
@@ -2827,7 +2827,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **WEST VIRGINIA SUMMARY REPORT\
 MARCH 9, 1995**
@@ -2878,7 +2878,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **WISCONSIN SUMMARY REPORT\
 APRIL 13, 1995**
@@ -2929,7 +2929,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **WYOMING SUMMARY REPORT\
 JUNE 2, 1995**
@@ -2976,7 +2976,7 @@ The following impacts of ADA's first five years were cited by several speakers:
 
 - - -
 
-[](<>)
+
 
 **APPENDIX A\
 A Brief Description of the Americans with Disabilities Act**
@@ -3021,7 +3021,7 @@ This title addresses such issues as the ADA's relationship to other laws includi
 
 - - -
 
-[](<>)
+
 
 **APPENDIX B\
 A Brief Description of the National Council on Disability**

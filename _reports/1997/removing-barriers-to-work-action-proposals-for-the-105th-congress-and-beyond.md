@@ -146,7 +146,7 @@ Barriers and Action Proposals
 
 - - -
 
-[](<>)EXECUTIVE SUMMARY
+EXECUTIVE SUMMARY
 
 This report by the National Council on Disability (NCD), an independent federal agency, focuses on the barriers to employment encountered by millions of individuals and on proposals that would eliminate or reduce those barriers.
 
@@ -252,7 +252,7 @@ NCD calls on Congress to take a hard look at what people with disabilities belie
 
 - - -
 
-[](<>)**INTRODUCTION**
+**INTRODUCTION**
 
 This report by the National Council on Disability (NCD), an independent federal agency, addresses the employment of people with disabilities and their experiences in trying to prepare for, gain, and maintain employment or self-employment. The report discusses the barriers encountered by a particular segment of the disability community: those who are receiving or who are eligible to receive benefits through the Disability Insurance (DI) and Supplemental Security Income (SSI) programs of the Social Security Administration (SSA). The report then presents NCD's proposals for eliminating or reducing those barriers, based on the input from the disability community.
 
@@ -274,7 +274,7 @@ Rules should not be barriers to employment. Rules should help Tiffany and others
 
 - - -
 
-[](<>)**BARRIERS AND ACTION PROPOSALS**
+**BARRIERS AND ACTION PROPOSALS**
 
 Barrier: Many People Would Be Worse Off Financially If They Worked and Earned to Their Potential Than If They Did Not Work
 
@@ -328,7 +328,7 @@ A benefits advocate said,
 
 The following action proposals to the 105th Congress and beyond address these fears and barriers.
 
-[](<>)Action Proposal 1: Provide Medical Coverage for Workers With Disabilities
+Action Proposal 1: Provide Medical Coverage for Workers With Disabilities
 
 > Congress should require States to provide Medicaid coverage (under 1619b) to all SSI recipients and DI beneficiaries who, as individuals, have earnings below their State or individual thresholds. Medicaid should cover long-term services such as personal assistance, assistive technology, housing modification, and medical supplies. For DI beneficiaries covered by Medicare and those who can access health insurance through their employers, Medicaid should provide wrap-around coverage for those services and costs not covered by Medicare or the employer's insurance.
 >
@@ -338,7 +338,7 @@ The following action proposals to the 105th Congress and beyond address these fe
 
 Loss of Medicaid or lack of access to adequate health insurance is the number one concern of people with disabilities who want to work. Consumers and advocates across the country said that they would work if they had access to Medicaid that covered not only their immediate needs but also such long-term services as personal assistance, assistive technology, housing modification, and medical supplies. Covered services should specifically include assistive services and technology needed by people with visual impairments. (See the testimony from Kansas under Action Proposal 2 for more on this point.) Medicaid wrap-around policies should be available for those who have Medicare or who can access insurance through their employers. These wrap-around policies would cover those costs normally covered under Medicaid but not under Medicare or the employer's insurance. If people with disabilities cannot get this coverage, more than one person said, then they actually fear for their lives.
 
-[](<>)Action Proposal 2: Replace the DI "Income Cliff" With Gradual Benefit Reductions
+Action Proposal 2: Replace the DI "Income Cliff" With Gradual Benefit Reductions
 
 > Congress should establish similar rules for SSI and DI that would give full benefits to those earning less than $500 per month and would reduce cash benefits by $50 for each $100 of earnings above that level--with adjustments in benefit levels made quarterly instead of monthly. This provision would replace the current trial work period provision.
 >
@@ -396,7 +396,7 @@ Index the Earned-Income Exclusion
 
 Finally, NCD recommends that the earned-income exclusion amount, $500 per month, be indexed to the CPI. This would acknowledge that people with disabilities are working within the same economic system, with the same inflationary realities, that all Americans have to deal with. It also would gradually bring the $500 threshold closer to the current $1,000 SGA for blind individuals and increasingly narrow the number of individuals who would be forced to choose between current and proposed rules.
 
-[](<>)Action Proposal 3: Ensure That People Do Not Lose Eligibility Because They Work
+Action Proposal 3: Ensure That People Do Not Lose Eligibility Because They Work
 
 > Individuals whose SSI or DI cash benefits have stopped because of their earnings--but who have not medically recovered from their disability--should remain eligible for future benefits in the event that their earning ability declines.
 >
@@ -408,7 +408,7 @@ The *New York Times* recently published the story of a Manhattan physician who
 
 Enacting the second part of this action proposal would mean that SSA would carry out CDRs in accordance with the schedule appropriate for the disability type (every 3 years for disabilities where medical improvement is possible and every 7 years when medical improvement is not expected). SSA should not schedule additional CDRs simply because an individual goes to work. Removing the earnings trigger for CDRs would mean that SSA could, as one hearing participant suggested, send new workers a letter of congratulations rather than a warning that they could lose their benefits.
 
-[](<>)Action Proposal 4: Compensate for Disability-Related Work Expenses
+Action Proposal 4: Compensate for Disability-Related Work Expenses
 
 > Congress should establish a disability work expense (DWE) tax credit that would reimburse 75 percent of an individual's disability-related work expenses. The reimbursement could not exceed the individual's gross earnings and would be capped at expenses of $15,000 per year. The credit would begin phasing out at earnings of $50,000 per year and be completely phased out at $75,000.
 >
@@ -436,13 +436,13 @@ Both under current policies and under an NCD-IRWE alternative, individuals earni
 
 > Figure 3 - This graph compares net income under current policies and impairment-related work expense and disability work expense tax credits. (The person is a Social Security Income recipient who also receives $450 per month in Disability Income and has disability-related work expenses of $400 a month when employed.)
 
-[](<>)Action Proposal 5: Remove Marriage Penalties
+Action Proposal 5: Remove Marriage Penalties
 
 > Congress should ensure that Social Security benefits are based on individual earnings and income. SSA should not penalize beneficiaries for being married or for being disabled adult children of disabled, retired, or deceased beneficiaries.
 
 Some of the most troubling and bizarre stories told during the hearings involved what beneficiaries and recipients call "the marriage penalty." (See examples of their testimony in the introduction to this section.) People who can barely survive on their current benefits find that if they marry, and often if they gain employment after they marry, they risk their very survival. The simple remedy that many suggested--which NCD agrees with--is that SSA treat individuals as individuals and discontinue the complicated provisions that treat the income of spouses as income of beneficiaries and cut off disabled adult children who marry.
 
-[](<>)Action Proposal 6: Waive No-Fault Overpayments
+Action Proposal 6: Waive No-Fault Overpayments
 
 > Congress should instruct SSA to collect SSI or DI overpayments only when an individual fails to report a change in income, intentionally misrepresents income or earnings information, or otherwise engages in fraud. Overpayment waivers should be granted quickly and routinely when SSA has made overpayments and the SSI recipient or DI beneficiary is not at fault.
 
@@ -458,19 +458,19 @@ Finally, ensuring that individuals who have not medically recovered retain their
 
 This action proposal deals with the residual overpayments that are still made. Individuals should not have to reimburse overpayments unless the individuals are at fault. Individuals would still be responsible for reporting any income changes in a timely fashion, and they would have to pay back overpayments that result from their own failures to keep SSA correctly informed of their earnings and income.
 
-[](<>)Action Proposal 7: Raise Resource Limits
+Action Proposal 7: Raise Resource Limits
 
 > Congress should raise the resource limits for SSI eligibility from $2,000 to $5,000 and exempt Super IRAs, qualified plans, and medical savings accounts from this resource limitation. These plans allow tax-favored savings for education, medical emergencies, or retirement and should not affect SSI eligibility.
 
 Even the proposed limit of $5,000 was thought too low by many who testified. They said that such limits keep them in poverty because the limits prevent them from saving in order to move, to start a business, or to have money for emergencies. NCD agrees that even the $5,000 resource limits prevent individuals from saving for business ventures and many emergencies, but the Plan for Achieving Self-Support (PASS) proposal (below) should adequately deal with the need for business startup funds. Action Proposal 1 would provide that resource limits not be imposed for Medicaid and Medicare coverage and buy-ins, the number one concern of those who testified.
 
-[](<>)Action Proposal 8: Increase SSA Accountability to Stakeholders
+Action Proposal 8: Increase SSA Accountability to Stakeholders
 
 Congress should establish an oversight group composed of stakeholders outside of SSA, including employers, service providers, and at least 51 percent consumers (beneficiaries, recipients, and a limited number of family members). This group would be federally funded, independent of SSA, and authorized by Congress to recommend employment-related regulations and to monitor their implementation.
 
 This proposal addresses the concerns of all those who testified that they have found SSA to be unresponsive to their needs. This oversight group would not replace the current appeal system for individual complaints; rather, it would deal with the larger issues of regulatory and policy matters. This group, for example, would deal with the current problems with the PASS program that were raised so frequently during the hearings.
 
-[](<>)Barrier: People With Disabilities Cannot Choose Their Own Vocational Rehabilitation Program
+Barrier: People With Disabilities Cannot Choose Their Own Vocational Rehabilitation Program
 
 When individuals apply for SSI or DI benefits, they are required first to prove that their disabilities prevent them from earning more than $500 per month. They then must wait a long time for services to help them become employed, and most never receive an offer for such services. Those who are offered vocational services have few choices in the services they can access and have little information upon which to base their choices.
 
@@ -503,7 +503,7 @@ A few hearing participants extolled SSA's PASS for allowing the purchase of serv
 
 Following are the action proposals to the 105th Congress and beyond to address these needs.
 
-[](<>)Action Proposal 9: Provide Immediate Access to Employment Counseling
+Action Proposal 9: Provide Immediate Access to Employment Counseling
 
 > Congress should designate a portion of the savings to the Social Security Trust Fund to establish grant-funded employment counseling services nationwide and ensure that all SSI and DI applicants are immediately referred to such services when they make initial application to SSA for disability benefits.
 
@@ -511,7 +511,7 @@ Employment counselors would (1) explain to applicants how to use the work incent
 
 Some participants at the Houston conference and a few of those who testified during the hearings thought that the employment counselors should be SSA employees housed at SSA field offices. However, most of those who addressed this issue stressed that such counselors should be part of organizations that have expertise in the employment area and that they should be independent of the local SSA offices.
 
-[](<>)Action Proposal 10: Increase Access to and Choice Among Service Providers by Instituting a "Ticket" or "Voucher" Program
+Action Proposal 10: Increase Access to and Choice Among Service Providers by Instituting a "Ticket" or "Voucher" Program
 
 > Congress should create a "ticket" or "voucher" program that enables most SSI recipients and DI beneficiaries to select and buy services leading to employment. Individuals should be allowed to choose from a wide array of service providers, including educational institutions, training facilities, job-coaching services, and assistive technology. The tickets should be financed from the savings to taxpayers that result from individuals going to work, thus leaving the benefit rolls. The tickets should provide sufficient reward to service providers to be an incentive for them to participate in the program. Advance payments should be made for milestones such as the completion of a training program, job placement, and a period of time on the job. Services covered by any voucher proposal should include the purchase of technology or equipment, tuition for college or vocational school, or other training and support needed to work. SSI recipients and DI beneficiaries should control the allocation of those vouchers.
 
@@ -537,7 +537,7 @@ NCD recognizes that some service providers may not choose to take the risks outl
 
 NCD recommends that a payment system be devised that rewards providers sufficiently that they will take risks by serving individuals with severe disabilities who want to work. Such a payment system, NCD believes, would overcome the resistance to the ticket proposal that surfaced in some of the testimony. Even if some agencies do not avail themselves of this funding to the extent that some advocates would hope, NCD believes that the chance to increase service availability and choice is worth the risk.
 
-[](<>)Action Proposal 11: Provide Access to Information About Providers
+Action Proposal 11: Provide Access to Information About Providers
 
 > Congress should establish, with enabling legislation if necessary, a grant program that would fund independent evaluations of rehabilitation providers around the country. The evaluations should be based primarily on outcome measures such as number and type of placements, wages, types of disabilities served, and consumer response, thereby providing users with consumer-based information to aid in their decision making. The funding should also provide for the local dissemination of the information.
 
@@ -547,7 +547,7 @@ One advocate from a California Independent Living Resource Center agreed that
 
 On the other hand, another California consumer-advocate warned against establishing yet another accreditation program, especially a program that on the local level might make one of a number of rival agencies (the one winning the grant) the judge of quality in that area. Taking this warning into account, NCD recommends that two types of information be gathered: (1) purely factual outcome data and (2) aggregated survey responses of SSI recipients and DI beneficiaries who use vouchers. The information would not duplicate the kinds of process and documentation data collected through standard accreditation evaluation techniques such as document reviews and staff interviews. The disseminated information would truly be consumer based.
 
-[](<>)Action Proposal 12: Provide Access to Investment Funding
+Action Proposal 12: Provide Access to Investment Funding
 
 > The Plan for Achieving Self-Support (PASS)--or a PASS-like program--which allows consumers to invest in training, equipment, or other assets needed for employment, should be retained, simplified, and made available to both SSI recipients and DI beneficiaries.
 
@@ -555,13 +555,13 @@ A redesigned program should restore at least the original flexibility of PASS, l
 
 Hearing participants commented that the tax credit for work-related expenses was not enough. People need up-front investment money to get assistive technology, training, and equipment to start small businesses. However, there were few positive suggestions about how the PASS program should be redesigned to be useful to more than a small minority of SSI recipients and DI beneficiaries, other than recommending that the recent changes in the PASS program be rolled back. NCD recommends, therefore, that the oversight group proposed in Action Proposal 8 develop guidelines for revamping PASS.
 
-[](<>)Action Proposal 13: Eliminate the Scholarship Penalty
+Action Proposal 13: Eliminate the Scholarship Penalty
 
 > Congress should direct SSA to exclude all scholarship and fellowship income in determining both initial eligibility for SSI and cash benefit amounts for SSI and DI.
 
 One hearing participant told of having to turn down a scholarship and forgo an educational opportunity in order to remain eligible for SSI and Medicaid coverage. A number of advocates also spoke of the absurdity of penalizing people who have earned opportunities for educational advancement. Currently, a scholarship covering $500 per month in living expenses would result in a loss of both SSI and Medicaid because such money is treated as unearned income and would not therefore qualify an individual for 1619a benefits above the SGA level. A lesser scholarship would reduce the SSI check dollar for dollar. SSI recipients should be encouraged, not discouraged, from seeking scholarships and furthering their education. Doing away with this penalty seems to be, in the words of one participant, a "no-brainer."
 
-[](<>)Barrier: People With Disabilities Lack Employment Opportunities
+Barrier: People With Disabilities Lack Employment Opportunities
 
 People with disabilities face a daunting challenge when they try to find employment. They must not only overcome the limitations imposed by their disabilities, but also compete with recent high school and college graduates, the victims of industry downsizing and relocations, and all the welfare recipients who now must go to work.
 
@@ -581,13 +581,13 @@ Another consumer said,
 
 Following are the action proposals to the 105th Congress to address these needs.
 
-[](<>)Action Proposal 14: Reimburse Employers for Disability Expenses
+Action Proposal 14: Reimburse Employers for Disability Expenses
 
 > Congress should institute a tax credit to reimburse employers for the expenses involved in providing employees with sign language interpreters, print materials in alternative formats, on-the-job personal assistance, extraordinary training, job coaches, and other accommodations that are not funded by other sources.
 
 ADA specifies that many of these costs are reasonable expenses that individual employers should bear. According to hearing participants, employers do not agree that they should have to pay for these accommodations. Consequently, potential employers find ways to avoid hiring people who need such accommodations. NCD believes that to level the playing field for job applicants with disabilities, tax credits should be available to employers that bear accommodation expenses.
 
-[](<>)Action Proposal 15: Institute a Tax Credit for Disability/Diversity Training
+Action Proposal 15: Institute a Tax Credit for Disability/Diversity Training
 
 > Congress should enact tax credits for employers that conduct disability/diversity training for all personnel within the organization. The credit should be available only for 1 year after its establishment.
 
@@ -595,7 +595,7 @@ Many of the consumers at the Houston conference advocated for disability/diversi
 
 NCD believes that making this tax credit available for only 1 year would encourage employers to move quickly toward supporting disability awareness and a new focus on employing individuals with disabilities.
 
-[](<>)One Proposal Not Endorsed
+One Proposal Not Endorsed
 
 > The final form of many of the action proposals was substantially influenced by testimony given during the 13 hearings held around the country. NCD has decided not to endorse one proposal that had been included in the recommendations circulated before the hearings because of various objections raised by hearing participants.
 
@@ -621,7 +621,7 @@ After reviewing all this testimony, NCD concluded that the arguments for includi
 
 - - -
 
-[](<>)**IN CONCLUSION**
+**IN CONCLUSION**
 
 NCD firmly believes that hundreds of thousands of the millions of working-age SSI recipients and DI beneficiaries want to go to work and would do so except for the many barriers that still exist, despite the enactment of ADA.
 
@@ -637,7 +637,7 @@ NCD issues a challenge to the 105th Congress to tap into the potential provided 
 
 - - -
 
-[](<>)**APPENDIX**
+**APPENDIX**
 
 MISSION OF THE NATIONAL COUNCIL ON DISABILITY
 
@@ -679,36 +679,36 @@ NCD was initially established in 1978 as an advisory board within the Department
 
 - - -
 
-[](<>)1 WorkWORLD is decision support software developed by the Employment Support Institute at Virginia Commonwealth University's School of Business. It helps analyze and illustrate the financial effects of alternative policy options.
+1 WorkWORLD is decision support software developed by the Employment Support Institute at Virginia Commonwealth University's School of Business. It helps analyze and illustrate the financial effects of alternative policy options.
 
-[](<>)2 Social Security Administration, Office of Research, Evaluation, and Statistics, Division of SSI Statistics and Analysis.*Quarterly Report on SSI Disabled Workers and Work Incentive Provisions*. June 1997.
+2 Social Security Administration, Office of Research, Evaluation, and Statistics, Division of SSI Statistics and Analysis.*Quarterly Report on SSI Disabled Workers and Work Incentive Provisions*. June 1997.
 
-[](<>)3 Data from an April 1996 analysis by the SSA Office of Disability for individuals under age 59.
+3 Data from an April 1996 analysis by the SSA Office of Disability for individuals under age 59.
 
-[](<>)4 See the 1994 *N.O.D./Harris Survey of Americans With Disabilities* conducted by Louis Harris and Associates for the National Organization on Disability; and *Supported Employment Research: Expanding Competitive Employment Opportunities for Persons With Significant Disabilities*, edited by P. Wehman, J. Kregel, and M. West (Richmond, VA: Rehabilitation Research and Training Center, Virginia Commonwealth University, 1997).
+4 See the 1994 *N.O.D./Harris Survey of Americans With Disabilities* conducted by Louis Harris and Associates for the National Organization on Disability; and *Supported Employment Research: Expanding Competitive Employment Opportunities for Persons With Significant Disabilities*, edited by P. Wehman, J. Kregel, and M. West (Richmond, VA: Rehabilitation Research and Training Center, Virginia Commonwealth University, 1997).
 
-[](<>)5 Quotations are from President Clinton's opening remarks at his press conference held on August 6, 1997.
+5 Quotations are from President Clinton's opening remarks at his press conference held on August 6, 1997.
 
-[](<>)6 The NCD report's full title is *Achieving Independence: The Challenge for the 21st Century--A Decade of Progress in Disability Policy--Setting an Agenda for the Future.* (July 26, 1996).
+6 The NCD report's full title is *Achieving Independence: The Challenge for the 21st Century--A Decade of Progress in Disability Policy--Setting an Agenda for the Future.* (July 26, 1996).
 
-[](<>)7 The actual reimbursement level depends on the gross earnings level and can range from no reimbursement at earnings of $65 per month to 50 percent reimbursement at earnings of $1,053 per month, for expenses up to $968 per month or $11,616 per year. Above the $1,053-per-month earnings level, the percentage of reimbursement declines at a rate dependent on the amount of expenses claimed.
+7 The actual reimbursement level depends on the gross earnings level and can range from no reimbursement at earnings of $65 per month to 50 percent reimbursement at earnings of $1,053 per month, for expenses up to $968 per month or $11,616 per year. Above the $1,053-per-month earnings level, the percentage of reimbursement declines at a rate dependent on the amount of expenses claimed.
 
-[](<>)8 NCD found this citation to be correct. It is on page 159 of *Balancing Security and Opportunity: The Challenge of Disability Income Policy* (Washington, DC: National Academy of Social Insurance, 1996). The data come from SSA's Office of Supplemental Security Income and they show that 60 percent of all individuals earning more than $65 per month in that period (95,600 individuals) were charged with overpayments.
+8 NCD found this citation to be correct. It is on page 159 of *Balancing Security and Opportunity: The Challenge of Disability Income Policy* (Washington, DC: National Academy of Social Insurance, 1996). The data come from SSA's Office of Supplemental Security Income and they show that 60 percent of all individuals earning more than $65 per month in that period (95,600 individuals) were charged with overpayments.
 
-[](<>)9 The results are shown in graphic format. This report also fully describes the significant results so that those readers who have access only to the text will have all of the relevant information.
+9 The results are shown in graphic format. This report also fully describes the significant results so that those readers who have access only to the text will have all of the relevant information.
 
-[](<>)10 "Net income" in this simple case is an individual's earnings, plus DI benefits, minus taxes paid and buy-in amounts. In a later look at the work expense proposal, WorkWORLD will also subtract work expenses.
+10 "Net income" in this simple case is an individual's earnings, plus DI benefits, minus taxes paid and buy-in amounts. In a later look at the work expense proposal, WorkWORLD will also subtract work expenses.
 
-[](<>)11 Tables showing the numbers behind all the WorkWORLD graphs are available from ESI. E-mail David Ruth at [druth@vcu.edu](mailto:druth@vcu.edu) with fax number or call 804-828-1992.
+11 Tables showing the numbers behind all the WorkWORLD graphs are available from ESI. E-mail David Ruth at [druth@vcu.edu](mailto:druth@vcu.edu) with fax number or call 804-828-1992.
 
-[](<>)12 Esther B. Fein. "What Is Disabled? He Thought He Knew: Doctor Finds That Working Too Long Costs Him Social Security Payments." *New York Times.* Tuesday, August 12, 1997 (Late Edition, Final).
+12 Esther B. Fein. "What Is Disabled? He Thought He Knew: Doctor Finds That Working Too Long Costs Him Social Security Payments." *New York Times.* Tuesday, August 12, 1997 (Late Edition, Final).
 
-[](<>)13 Such a person might be someone with a traumatic brain injury (TBI) who was injured after a few years of working and who now needs 10 hours per month of ongoing job-coaching services to maintain employment. In many States, funding for such ongoing services are not available to people with TBI.
+13 Such a person might be someone with a traumatic brain injury (TBI) who was injured after a few years of working and who now needs 10 hours per month of ongoing job-coaching services to maintain employment. In many States, funding for such ongoing services are not available to people with TBI.
 
-[](<>)14 Allen Jensen's paper, "Summaries of State Profiles of State's Initiatives to Develop Projects to Reduce Work Disincentives for Persons With Disabilities," was written under contract with SSA.
+14 Allen Jensen's paper, "Summaries of State Profiles of State's Initiatives to Develop Projects to Reduce Work Disincentives for Persons With Disabilities," was written under contract with SSA.
 
-[](<>)15 More detailed statistics are available in tables on pages 102 and 106 of *Balancing Security and Opportunity* (National Academy of Social Insurance, 1996).
+15 More detailed statistics are available in tables on pages 102 and 106 of *Balancing Security and Opportunity* (National Academy of Social Insurance, 1996).
 
-[](<>)16 See, for example, a number of the research articles in *Life Beyond the Classroom: Transition Strategies for Young People With Disabilities,* edited by P. Wehman (Baltimore, MD: Paul H. Brookes Publishing Co., 1996).
+16 See, for example, a number of the research articles in *Life Beyond the Classroom: Transition Strategies for Young People With Disabilities,* edited by P. Wehman (Baltimore, MD: Paul H. Brookes Publishing Co., 1996).
 
-[](<>)17 Testimony before the Subcommittee on Social Security, Committee on Ways and Means, House of Representatives, July 23, 1997. *Social Security Disability: Improving Return-to-Work Outcomes Important, but Trade-offs and Challenges Exist.* GAO/T-HEHS-97-186.
+17 Testimony before the Subcommittee on Social Security, Committee on Ways and Means, House of Representatives, July 23, 1997. *Social Security Disability: Improving Return-to-Work Outcomes Important, but Trade-offs and Challenges Exist.* GAO/T-HEHS-97-186.

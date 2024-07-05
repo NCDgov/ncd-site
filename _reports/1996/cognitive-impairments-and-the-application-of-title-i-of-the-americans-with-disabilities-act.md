@@ -130,7 +130,7 @@ The National Council on Disability wishes to express its sincere appreciation to
 
 - - -
 
-[](<>)*EXECUTIVE SUMMARY*
+*EXECUTIVE SUMMARY*
 
 The history of the United States has been marked by a constant evolution to open more doors, break down more barriers, and extend basic human rights to more and more people. In 1863, a century after the Declaration of Independence, Abraham Lincoln abolished slavery. Some 60 years later, in 1919, women won the right to vote. In 1964, the Civil Rights Act said "no" to discrimination based on race, color, national origin, sex, and religion. Just three years later, the Age Discrimination in Employment Act (ADEA) barred workplace bias against older Americans.
 
@@ -168,7 +168,7 @@ This report reflects NCD's commitment to and interest in determining the relatio
 
 - - -
 
-[](<>)*INTRODUCTION*
+*INTRODUCTION*
 
 Inadequate education and work preparation for youth and young adults bear both individual and social costs. The unprepared individual often forgoes significant earnings over a lifetime while contributing to lagging national productivity growth and increasing social welfare costs. For youth and young adults with disabilities, this scenario is all too typical. Youth with disabilities experience substantial difficulties in completing high school programs, accessing post-secondary education programs, and entering meaningful employment. Data from an annual report to Congress reflected that students with disabilities had a higher dropout rate (36%) than any other group of young people; fewer than 17% of youth with disabilities had gained access to post-secondary vocational programs three to five years following high school completion; approximately 43% of youth with disabilities remained unemployed three to five years following high school. Many of those who were employed only worked part-time and many received low wages, and the vast majority of these receiving no medical insurance coverage or other fringe benefits. For many youth with disabilities, the movement from school to adult life has meant sitting idly at home, dependent on family members for support well into adulthood.[(4)](https://ncd.gov/publications/1996_Publications/01261996#foot4) Minority youth with disabilities are particularly at risk. For example, Hispanic youth were more likely to drop out of school (37%) and had a higher absenteeism rate than African Americans and Caucasians--an average of 22 days absent in the most recent year, compared to 17 and 13 days for African Americans and Caucasians, respectively.[(5)](https://ncd.gov/publications/1996_Publications/01261996#foot5) According to the U.S. Census Bureau, nearly 7 in 10 Hispanics with disabilities drop out of high school--usually by sophomore year--compared to 4 in 10 non-Hispanics with disabilities. Also, according to the U.S. Census Bureau, fewer than half of Hispanic males with disabilities and about 17% of Hispanic females with disabilities are in the labor force, with only 31% of the men and 13% of the women actually working.
 
@@ -184,7 +184,7 @@ What is the guiding vision for improving the employment status of America's most
 
 - - -
 
-[](<>)*OVERVIEW AND STATUS OF ADA*
+*OVERVIEW AND STATUS OF ADA*
 
 The spirit and intent of ADA are to strike a fair and proper balance between the rights of people with disabilities and the legitimate concerns of the business community and other entities covered by the legislation. To strike that balance, the conceptual framework and language of ADA emphasize empowerment, independence, and inclusion of individuals with disabilities in all aspects of community life. By design, ADA is expected to interface with a host of existing and future laws.
 
@@ -208,7 +208,7 @@ People with disabilities are protected under ADA Title I if they are otherwise q
 
 With respect to all types of cognitive impairments, the meaning of "otherwise qualified" will depend on the situation and the unique personal characteristics of the person and the disability. For example, with people who have traumatic brain injury, which may result in occasional memory lapses that vary in intensity, the answer may be more difficult to ascertain or may change with the circumstances. In any event, the determination of whether a particular individual can--or will--carry out a job's essential functions must be made on a case-by-case basis. Once it is determined that an individual is otherwise qualified to perform the essential functions of a job--or a work training program--it is then necessary to individualize the job program.
 
-[](<>)Reasonable Accommodations
+Reasonable Accommodations
 
 The legal phrase "reasonable accommodation" was first used with regard to discrimination against people with disabilities in 1977 in the U.S. Department of Health, Education, and Welfare's regulations to implement Section 504 of the Rehabilitation Act of 1973. At that time, the phrase reasonable accommodation applied only to employment practices and was defined only by examples. The U.S. Department of Labor (DOL) also used the phrase "reasonable accommodation" in its regulations implementing Section 503 of the Rehabilitation Act. In that context, reasonable accommodation was part of the obligation of federal contractors to refrain from discrimination and to take affirmative action to employ and promote qualified people with disabilities. DOL regulations specified that contractors "must make a reasonable accommodation to the physical and mental limitations of an employee or applicant...." [(26)](https://ncd.gov/publications/1996_Publications/01261996#foot26) Section 505 of the Rehabilitation Act of 1973, passed a year after the reasonable accommodation regulations went into effect, permitted courts to consider the "reasonableness of the cost of any appropriate alternatives." [(27)](https://ncd.gov/publications/1996_Publications/01261996#foot27) In its original sense, then, reasonable accommodation referred only to modifications on the job that took into account disabilities of individual employees and applicants in order to increase their opportunities.
 
@@ -222,17 +222,17 @@ In what contexts, for whom, in what ways, and to what extent should reasonable a
 
 Concerning reasonable accommodations with respect to benefits and privileges, ADA requires that employees with cognitive disabilities receive the same benefits and privileges as other employees in similar situations. These include health insurance (ADA does not require a radical departure from standard insurance risk classification practices, but does require actuarial justification of some exclusions), vacation and leave policies (particularly as they relate to an employee's on-the-job performance), salary, holidays, and pensions.
 
-[](<>)Auxiliary Aids and Services
+Auxiliary Aids and Services
 
 Under ADA, protected individuals with disabilities are entitled to certain auxiliary aids and services that would allow them to participate in jobs or work training program activities to the same extent as other people do. How this provision applies to people with cognitive impairments is unclear. The statute divides auxiliary aids and services into four categories: three categories pertain to people with hearing and visual impairments, and a fourth catch-all category includes "other similar services and actions" but does not specify that they need to be related to hearing and vision impairments.[(33)](https://ncd.gov/publications/1996_Publications/01261996#foot33) These regulatory provisions do not mention cognitive impairments that might affect communication. While it may be more difficult to conceive of aids and services that would specifically benefit such people, communication is an area in which certain aids and services would be beneficial. For example, people with mental retardation may need assistance in reading a department store catalog, menus in a restaurant, or court documents. As a second example, people with traumatic brain injury may need help in recalling personally identifying information at a motor vehicle registration center, a fast food counter, or a local public library. Despite the unclear language of the statute, the auxiliary aids and services regulatory provision would seem to apply to all people with disabilities who experience communication disorders, including certain people with cognitive impairments.
 
-[](<>)Undue Hardship
+Undue Hardship
 
 ADA's regulations do not make undue hardship a part of the definition of reasonable accommodation, as Section 504 of the Rehabilitation Act does. Instead, undue hardship is a defense to an accusation that discrimination occurred because a reasonable accommodation was not made. From ADA's regulations, the analysis used to determine whether providing an accommodation would create an undue hardship includes factors such as the size and financial resources of the employer, the nature of the workplace, and the impact of the accommodation on the employer's operations. Given the stigma society attaches to people with cognitive impairments, it is important to note that in deciding whether an undue hardship would be created employers, may not rely on other employees' negative opinions about the proposed accommodations. To deal with this kind of problem, the employer may find it expedient to take steps to sensitize staff to the needs of employees who have cognitive impairments. Because of the potential costs involved, it is unlikely that highly intensive training would be required for all staff; yet, at a minimum, some type of training or orientation might be necessary in certain situations.
 
 For example, a Washington federal court held that a Veterans Administration (VA) hospital failed to make adequate accommodations for a laundry worker with mental retardation and emotional problems. As a result, she was discharged due to intolerable conditions.[(34)](https://ncd.gov/publications/1996_Publications/01261996#foot34) The court found that although the hospital made some efforts to accommodate her interpersonal and emotional problems, they were inadequate. The supervisor had not complied with the hospital's policy of taking a "soft approach" to disciplining her, and the hospital had not followed through on the planned sensitivity training for her coworkers. These failures rendered attempted accommodations ineffective. The court also found that the worker was discharged because of her disability. The taunting from coworkers and the criticism and inappropriate discipline by the supervisor were targeted at her disabilities. The court reinstated the worker and ordered the VA hospital to pay the reasonable costs of staff training, counseling, and rehabilitation. Decisions about what is or is not an undue hardship will be made on a case-by-case basis using the criteria set forth in ADA regulations.[(35)](https://ncd.gov/publications/1996_Publications/01261996#foot35)
 
-[](<>)The Process of Individualization
+The Process of Individualization
 
 The process of individualization involves making reasonable accommodations, providing auxiliary aids and services, and determining undue hardships. The process should proceed in a rational and systematic fashion. If a qualified employee (or trainee) with a disability identifies the need for an accommodation, the employer (or trainer) should make a fair attempt to provide an accommodation that will give the individual an opportunity to be equally effective in performing a job's essential functions and to enjoy benefits and privileges equal to those enjoyed by other employees.
 
@@ -246,7 +246,7 @@ In recognition of this need for a goodness-of-fit, federal and state service sys
 
 - - -
 
-[](<>)*TRANSITION AND SUPPORTED EMPLOYMENT: A REVIEW*
+*TRANSITION AND SUPPORTED EMPLOYMENT: A REVIEW*
 
 Historically, transition problems that followed students' graduation were demonstrated in the data on access to and results of services to adults with severe disabilities. For example, in one follow-up study of high school graduates before IDEA changed the configuration of special education programs,[(36)](https://ncd.gov/publications/1996_Publications/01261996#foot36) Stansfield found that 40% of graduates were receiving no vocational services and that 94% continued to live at home with their parents. In 1983, the U.S. Department of Education (DOED), Office of Special Education and Rehabilitative Services (OSERS), identified the transition from school to work as one of the major federal priorities of special education programs across the nation.[(37)](https://ncd.gov/publications/1996_Publications/01261996#foot37) The decision to develop this school-to-work transition initiative was prompted by numerous studies and reports conducted during the early 1980s, which uniformly found high levels of unemployment, economic instability and dependence, and social isolation among young adults with disabilities.[(38)](https://ncd.gov/publications/1996_Publications/01261996#foot38)
 
@@ -278,13 +278,13 @@ What do transition and supported employment-related programs do to individualize
 
 - - -
 
-[](<>)*TRANSITION AND SUPPORTED EMPLOYMENT: SOME CURRENT INDIVIDUALIZATION PRACTICES*
+*TRANSITION AND SUPPORTED EMPLOYMENT: SOME CURRENT INDIVIDUALIZATION PRACTICES*
 
 Public school officials, vocational specialists, and employers are requesting information and becomingly increasingly aware of the importance of being in compliance with applicable requirements of the Americans with Disabilities Act.[(49)](https://ncd.gov/publications/1996_Publications/01261996#foot49) The nation's continued emphasis on school-to-work transitions and supported employment for people with disabilities suggests that human service systems, businesses, and industries must become proficient with both ADA's technical compliance standards (e.g., reasonable accommodations) and the means to achieve meaningful implementation of those standards (e.g., through the process of individualization).
 
 Seminal efforts to document attempts to achieve meaningful implementation with select provisions of ADA Title I currently exist.[(50)](https://ncd.gov/publications/1996_Publications/01261996#foot50) However, much of this seminal information may not be readily available to segments of the public (e.g., small business employers, secondary school personnel, and individuals with cognitive impairments) that could probably benefit, for example, from having direct access to (a) the 20,000-plus barrier-solutions data--or case studies--maintained by JAN; and (b) the 25,000-plus problem-solutions data maintained by EEOC. To expand upon some of these seminal efforts regarding the implementation of select ADA Title I provisions, NCD surveyed (see Appendix A) secondary-school transition and post-secondary vocational service programs.
 
-[](<>)Questionnaire Findings
+Questionnaire Findings
 
 Three hundred questionnaires were mailed in early summer of 1994 to various program providers who were identified as serving individuals with cognitive impairments. Of that number, 73 completed questionnaires (or almost 25%) were returned by late summer of 1994. Each questionnaire consisted of 13 items involving type of worksite; number of workers or trainees and their proportion by disability group; degree of assistance required; level of inclusion of high school graduates with disabilities and types of credentials required of them; incentives for hiring individuals with disabilities; types of jobs people are trained for and average number of hours provided for training; types of reasonable accommodations provided for individuals with cognitive impairments; and additional needs in terms of expanding reasonable accommodations. The following data and discussion summarizes the findings from those 73 questionnaires (see Appendix A for complete findings).
 
@@ -308,7 +308,7 @@ NCD's report continues with an examination of ADA's relationship to: (a) the Voc
 
 - - -
 
-[](<>)**Table**
+**Table**
 
 Reasonable Accommodation Responses
 
@@ -377,7 +377,7 @@ Other Resources
 
 - - -
 
-[](<>)*INTERPLAY BETWEEN ADA AND RELATED FEDERAL LEGISLATION AND INITIATIVES*
+*INTERPLAY BETWEEN ADA AND RELATED FEDERAL LEGISLATION AND INITIATIVES*
 
 Because of the broad nature of its coverage, ADA leaves almost no aspect of life untouched. For example, ADA charges the U.S. Department of Transportation (DOT) with the enforcement of Title II. DOJ also has enforcement jurisdiction for Title II--which bans employment discrimination by state and local governments--and for Title III. The Federal Communications Commission (FCC) is responsible for enforcement of Title IV. Because of the broad scope of ADA, several federal authorities are responsible for the sometimes overlapping provisions of ADA--including its nexus to the Rehabilitation Act. For instance, the law charges EEOC, DOJ, and Office of Federal Contract Compliance Programs (in DOL) to "establish such coordinating mechanisms...in regulations implementing this title and the Rehabilitation Act of 1973 not later than 18 months after the date of enactment of this Act." [(51)](https://ncd.gov/publications/1996_Publications/01261996#foot51)
 
@@ -413,7 +413,7 @@ Consistent with this recommendation, DOL has issued a $50 million grant announce
 
 - - -
 
-[](<>)*CONCLUSIONS AND RECOMMENDATIONS FOR ACTION*
+*CONCLUSIONS AND RECOMMENDATIONS FOR ACTION*
 
 The United States' social and human service systems are undergoing rapid and immense changes, in part because of the series of work and educational reforms promoted by the Clinton Administration and by the 103rd Congress. The common programmatic themes that will drive these reforms include
 
@@ -432,27 +432,27 @@ Not surprisingly, the overall long-term prospects for all people with disabiliti
 
 As part of America's ongoing commitment to furthering the goals of ADA, two national agencies recently conducted consensus conferences designed to initiate dialogue on furthering the goals of ADA through disability policy research; identifying resources and infrastructures available to enhance the ADA implementation process; and articulating steps that can be taken to monitor the implementation of the Act.[(62)](https://ncd.gov/publications/1996_Publications/01261996#foot62) Consistent with the findings and recommendations of those conference efforts and based on the findings of NCD's present study, recommendations are now offered related to the following three themes: (a) steps for building infrastructures (e.g., greater coordination among federal agencies concerned with ADA Title I and related social policy); (b) steps in establishing priorities that could yield short-term impact (e.g., establishing a set of policy-oriented implementation indicators); and (c) steps in establishing priorities that could yield impact over the long term (e.g., developing functional data bases of reasonable accommodations).
 
-[](<>)Recommendations to Policymakers
+Recommendations to Policymakers
 
 1. Actively resist the temptation to judge ADA as strictly a compliance and enforcement mechanism. Assess ADA in terms of its function both as a coordinative or integrative mechanism for all related social policy legislation and as a technical assistance and guidance/information mechanism for those entities that implement its provisions.
 2. Review, revise, and refine current and future legislation, funding streams, and programs to comport with the spirit, intent, and language of ADA Title I, for all persons with disabilities, particularly for individuals with cognitive impairments.
 3. Promote the infusion of knowledge about ADA (e.g., what works regarding reasonable accommodations for individuals with cognitive impairments) within and across all areas of federal, state, and local governments, public-private partnerships focusing on school and workplace improvements, and among all of America's citizens.
 4. Build and reinforce data- and information-sharing crosswalks within and across executive, legislative, and judicial branch agencies regarding the implementation of ADA Title I.
 
-[](<>)Recommendations to Business and Industry Leaders
+Recommendations to Business and Industry Leaders
 
 1. Comply with the spirit and intent of ADA Title I principles such as reasonable accommodation, undue hardship, and auxiliary aids and services, particularly as they apply to individuals with cognitive impairments.
 2. Encourage the development of transition and supported employment programs between schools and businesses that realistically incorporate expectations of educational and industrial productivity among participating individuals with cognitive impairments.
 3. Expect timely and useful data and information about successful and unsuccessful accommodation strategies for individuals with cognitive impairments in workplace settings.
 
-[](<>)Recommendations to School System Personnel
+Recommendations to School System Personnel
 
 1. Teach students with cognitive impairments about the spirit, intent, and individual utility of ADA Title I, as well as the process of individualization, through meaningful life experiences.
 2. Document successful and unsuccessful examples of ADA Title I implementation, and share those examples with other educators, students, parents, and so on.
 3. Infuse ADA information throughout school systems' K-12 grade curricula.
 4. Develop and implement reasonable accommodation plans, per ADA Title I, for all students who have individualized education programs or individual transition plans.
 
-[](<>)Recommendations to the Disability Community
+Recommendations to the Disability Community
 
 1. Ensure that all people with disabilities, especially individuals with cognitive impairments, are empowered with functional knowledge about ADA Title I.
 2. Expect that schooling and employment service systems will fully and faithfully comply, through the process of individualization, with fundamental ADA Title I mandates regarding reasonable accommodation, undue hardship, and auxiliary aids and services.
@@ -460,7 +460,7 @@ As part of America's ongoing commitment to furthering the goals of ADA, two nati
 
 - - -
 
-[](<>)**APPENDIX A**
+**APPENDIX A**
 
 *NCD QUESTIONNAIRE\
 ADA AND INDIVIDUALS WITH COGNITIVE IMPAIRMENTS*
@@ -782,7 +782,7 @@ ADA AND INDIVIDUALS WITH COGNITIVE IMPAIRMENTS*
 
 - - -
 
-[](<>)**APPENDIX B**
+**APPENDIX B**
 
 *NATIONAL COUNCIL ON DISABILITY:\
 A BRIEF DESCRIPTION*
@@ -815,11 +815,11 @@ NCD plays a major role in developing disability policy in America. In fact, it w
 
 - - -
 
-[](<>)1 Senate Committee on Labor and Human Resources Report. The Americans with Disabilities Act of 1989. S. Rep. 101-116. Washington, DC: Author.
+1 Senate Committee on Labor and Human Resources Report. The Americans with Disabilities Act of 1989. S. Rep. 101-116. Washington, DC: Author.
 
-[](<>)2 Senate Committee on Labor and Human Resources Report. The Americans with Disabilities Act of 1989. S. Rep. 101-116. Washington, DC: Author.
+2 Senate Committee on Labor and Human Resources Report. The Americans with Disabilities Act of 1989. S. Rep. 101-116. Washington, DC: Author.
 
-[](<>)3 Baffuto, T., & Boggs, E.M. (1991). What ADA has meant and what it can mean for people with mental retardation.American Rehabilitation, 16(4), 10-14.
+3 Baffuto, T., & Boggs, E.M. (1991). What ADA has meant and what it can mean for people with mental retardation.American Rehabilitation, 16(4), 10-14.
 
 Herr, S. (1993). The ADA in International and Developmental Disabilities Perspectives. In: Gostin, L.O., & Beyer, H.A. (Eds.).Implementing the Americans with Disabilities Act. Baltimore, MD: Paul H. Brookes Publishing Co., 229-250.
 
@@ -827,142 +827,142 @@ Parry, J. (1994). Mental Disabilities and the Americans with Disabilities Act: 
 
 The Arc and Great Lakes DBTAC (1994). The Americans with Disabilities Act (ADA) and Working: An Easy-to-Read Book for People with Disabilities. Arlington, TX: The Arc Publications.
 
-[](<>)4 Office of Special Education Programs (1994). Fifteenth Annual Report to the U.S. Congress on the Implementation of the Individuals with Disabilities Education Act. Washington, DC: U.S. Department of Education.
+4 Office of Special Education Programs (1994). Fifteenth Annual Report to the U.S. Congress on the Implementation of the Individuals with Disabilities Education Act. Washington, DC: U.S. Department of Education.
 
-[](<>)5 Peters-Rivera, V., and Paulino, E. (1993). Disabilities in the Hispanic Community. Washington, DC: Center for Health Promotion, National Council of La Raza.
+5 Peters-Rivera, V., and Paulino, E. (1993). Disabilities in the Hispanic Community. Washington, DC: Center for Health Promotion, National Council of La Raza.
 
-[](<>)6 United States General Accounting Office (1994). Testimony for the Committee on Government Operations, House of Representatives. Multiple Employment Training Programs: Major Overhaul Is Needed. (GAO/T-HEHS-94-109). Washington, DC: Author.
+6 United States General Accounting Office (1994). Testimony for the Committee on Government Operations, House of Representatives. Multiple Employment Training Programs: Major Overhaul Is Needed. (GAO/T-HEHS-94-109). Washington, DC: Author.
 
-[](<>)7 United States General Accounting Office (1993). Testimony for the Committee on Labor and Human Relations, U.S. Senate. Transition From School to Work: S. 1361 Addresses Components of Comprehensive Strategy. (GAO/T-HRD-93-31). Washington, DC: Author.
+7 United States General Accounting Office (1993). Testimony for the Committee on Labor and Human Relations, U.S. Senate. Transition From School to Work: S. 1361 Addresses Components of Comprehensive Strategy. (GAO/T-HRD-93-31). Washington, DC: Author.
 
-[](<>)8 United States General Accounting Office (1993). Report to the Chairman, Subcommittee on Select Education and Civil Rights. Vocational Rehabilitation: Evidence for Federal Program's Effectiveness Is Mixed. (GAO/PEMD-93-19). Washington, DC: Author.
+8 United States General Accounting Office (1993). Report to the Chairman, Subcommittee on Select Education and Civil Rights. Vocational Rehabilitation: Evidence for Federal Program's Effectiveness Is Mixed. (GAO/PEMD-93-19). Washington, DC: Author.
 
-[](<>)9 SRI International (1993). The Transition Experiences of Young People with Disabilities: Implications for Policy and Programs. (Contract No. 300-87-0054). Washington, DC: Office of Special Education Programs, U.S. Department of Education.
+9 SRI International (1993). The Transition Experiences of Young People with Disabilities: Implications for Policy and Programs. (Contract No. 300-87-0054). Washington, DC: Office of Special Education Programs, U.S. Department of Education.
 
-[](<>)10 Lou Harris and Associates, Inc. (1994). NOD/Harris Survey of Americans with Disabilities. New York, NY: Author.
+10 Lou Harris and Associates, Inc. (1994). NOD/Harris Survey of Americans with Disabilities. New York, NY: Author.
 
-[](<>)11 U.S. Department of Commerce (1993). Americans with Disabilities: 1991-92. Data from the Survey of Income and Program Participation, Current Population Reports, P70-33, Household Economic Studies. Washington, DC: Author, p.63.
+11 U.S. Department of Commerce (1993). Americans with Disabilities: 1991-92. Data from the Survey of Income and Program Participation, Current Population Reports, P70-33, Household Economic Studies. Washington, DC: Author, p.63.
 
-[](<>)12 Blanck, P.D. (1994). Empirical Study of the Americans with Disabilities Act (1990-1993). Journal of Vocational Rehabilitation, 4(3), 211-223.
+12 Blanck, P.D. (1994). Empirical Study of the Americans with Disabilities Act (1990-1993). Journal of Vocational Rehabilitation, 4(3), 211-223.
 
-[](<>)13 42 U.S.C. 126, Secs. 12101-12213.
+13 42 U.S.C. 126, Secs. 12101-12213.
 
-[](<>)14 EEOC Tops 33,000 Charges. Disability Compliance Bulletin (September 28, 1994), 5 (10), 5. Horsham, PA: LRP Publications, Inc.
+14 EEOC Tops 33,000 Charges. Disability Compliance Bulletin (September 28, 1994), 5 (10), 5. Horsham, PA: LRP Publications, Inc.
 
-[](<>)15 U.S. General Accounting Office (1993). Report to the Chairman, Subcommittee on Select Education and Civil Rights, House of Representatives. Americans with Disabilities Act: Initial Accessibility Good but Important Barriers Remain. (GAO/PEMD-93-16). Washington, DC: Author.
+15 U.S. General Accounting Office (1993). Report to the Chairman, Subcommittee on Select Education and Civil Rights, House of Representatives. Americans with Disabilities Act: Initial Accessibility Good but Important Barriers Remain. (GAO/PEMD-93-16). Washington, DC: Author.
 
 U.S. General Accounting Office (1994). Report to the Chairman, Subcommittee on Select Education and Civil Rights, House of Representatives. Americans with Disabilities Act: Effects of the Law on Access to Goods and Services. (GAO/PEMD-94-14). Washington, DC: Author.
 
-[](<>)16 Emery, B.D., & Mancuso, L.L. (1993). The ADA and Psychiatric Disabilities: Human Resources to Assist in Implementing Title I. (NTIS PB 94-140902). Springfield, VA: Author.
+16 Emery, B.D., & Mancuso, L.L. (1993). The ADA and Psychiatric Disabilities: Human Resources to Assist in Implementing Title I. (NTIS PB 94-140902). Springfield, VA: Author.
 
 Tanasichuk, K.A., & Kirchner, K.A. (1993). Psychological Testing, the ADA, and Mental Illness. Washington, DC: Washington Business Group on Health.
 
-[](<>)17 U.S. Congress Office of Technology Assessment (1994). Psychiatric Disabilities, Employment, and the Americans with Disabilities Act. (OTA-BP-BBS-124). Washington, DC: U.S. Government Printing Office.
+17 U.S. Congress Office of Technology Assessment (1994). Psychiatric Disabilities, Employment, and the Americans with Disabilities Act. (OTA-BP-BBS-124). Washington, DC: U.S. Government Printing Office.
 
-[](<>)18 United Cerebral Palsy Associations (1992). National Survey Results Look t Readiness for ADA Access. Washington, DC: Author.
+18 United Cerebral Palsy Associations (1992). National Survey Results Look t Readiness for ADA Access. Washington, DC: Author.
 
 United Cerebral Palsy Associations (1993). ADA Report Card on America: Report on ADA in American Businesses. Washington, DC: Author.
 
 United Cerebral Palsy Associations (1994). ADA Report Card on America. Washington, DC: Author.
 
-[](<>)19 The President's Committee on Employment of People with Disabilities (1994). Worksite Accommodations for People with Cognitive Disabilities. Morgantown, WV: The Job Accommodation Network.
+19 The President's Committee on Employment of People with Disabilities (1994). Worksite Accommodations for People with Cognitive Disabilities. Morgantown, WV: The Job Accommodation Network.
 
-[](<>)20 Burkhauser, R.V. (1990). Morality on the Cheap: The Americans with Disabilities Act. Regulation, 3, 47- 56.
+20 Burkhauser, R.V. (1990). Morality on the Cheap: The Americans with Disabilities Act. Regulation, 3, 47- 56.
 
-[](<>)21 Berkeley Planning Associates (1982). A Study of Accommodations Provided to Handicapped Employees by Federal Contractors. Oakland, CA: Berkeley Planning Associates.
+21 Berkeley Planning Associates (1982). A Study of Accommodations Provided to Handicapped Employees by Federal Contractors. Oakland, CA: Berkeley Planning Associates.
 
-[](<>)22 Job Accommodation Network (1987). Evaluation Survey, April 1987. Washington, DC: President's Committee on Employment of People with Disabilities.
+22 Job Accommodation Network (1987). Evaluation Survey, April 1987. Washington, DC: President's Committee on Employment of People with Disabilities.
 
-[](<>)23 United Cerebral Palsy Associations (1992). National Survey Results Look at Readiness for ADA Access. Washington, DC; Author.
+23 United Cerebral Palsy Associations (1992). National Survey Results Look at Readiness for ADA Access. Washington, DC; Author.
 
-[](<>)24 Job Accommodation Network (1994). Accommodations Cost/Benefit Analysis. Morgantown, WV: The Job Accommodation Network.
+24 Job Accommodation Network (1994). Accommodations Cost/Benefit Analysis. Morgantown, WV: The Job Accommodation Network.
 
-[](<>)25 29 C.F.R. 1630.2(m).
+25 29 C.F.R. 1630.2(m).
 
-[](<>)26 See 41 C.F.R. 60.741.6(d) (1982). The regulations used the term reasonable accommodation to cover such workplace modifications as including special equipment, changing the physical layout of the job, eliminating certain duties relating to the job, or providing other accommodations.
+26 See 41 C.F.R. 60.741.6(d) (1982). The regulations used the term reasonable accommodation to cover such workplace modifications as including special equipment, changing the physical layout of the job, eliminating certain duties relating to the job, or providing other accommodations.
 
-[](<>)27 29 U.S.C. 794a(a)(1)(Supp. V 1981).
+27 29 U.S.C. 794a(a)(1)(Supp. V 1981).
 
-[](<>)28 New Mexico Association for Retarded Citizens v. New Mexico, 678 F.2d 847, 852-55 (10th Cir. 1982).
+28 New Mexico Association for Retarded Citizens v. New Mexico, 678 F.2d 847, 852-55 (10th Cir. 1982).
 
-[](<>)29 Irving Independent School District v. Tatro, 104 S. Ct. 3371 (1984).
+29 Irving Independent School District v. Tatro, 104 S. Ct. 3371 (1984).
 
-[](<>)30 The Americans with Disabilities Act, Section 102(b)(5)(A).
+30 The Americans with Disabilities Act, Section 102(b)(5)(A).
 
-[](<>)31 See Statement of Rep. Edwards, 136 Cong.Rec. H.4624 (July 12, 1990); See also Statement of Rep. Owens, 136 Cong.Rec. H.4623 (July 12, 1990). Americans with Disabilities Act, Section 101(9). A reasonable accommodation could also include providing an attendant.
+31 See Statement of Rep. Edwards, 136 Cong.Rec. H.4624 (July 12, 1990); See also Statement of Rep. Owens, 136 Cong.Rec. H.4623 (July 12, 1990). Americans with Disabilities Act, Section 101(9). A reasonable accommodation could also include providing an attendant.
 
-[](<>)32 EEOC & DOJ, 1991, p. I-59, Regulation 1630.9.
+32 EEOC & DOJ, 1991, p. I-59, Regulation 1630.9.
 
 EEOC (1992). A Technical Assistance Manual on the Employment Provisions (Title I) of the Americans with Disabilities Act. Washington, DC: Author.
 
 EEOC & DOJ (1991). The Americans with Disabilities Act Handbook. Washington, DC: Author.
 
-[](<>)33 42 U.S.C. 12102.
+33 42 U.S.C. 12102.
 
-[](<>)34 Kent v. Derwinski, 790 F. Supp. 1032 (E.D. Wash. 1991), 16 MPDLR 519.
+34 Kent v. Derwinski, 790 F. Supp. 1032 (E.D. Wash. 1991), 16 MPDLR 519.
 
-[](<>)35 29 C.F.R. 1630.2(p)(2)(i-v).
+35 29 C.F.R. 1630.2(p)(2)(i-v).
 
-[](<>)36 Stansfield, J.S. (1976). Graduation: What happens to the retarded child when he grows up? Exceptional Children, 39, 548.
+36 Stansfield, J.S. (1976). Graduation: What happens to the retarded child when he grows up? Exceptional Children, 39, 548.
 
-[](<>)37 Will, M. (1983). OSERS Programming for the Transition of Youth with Severe Disabilities: Bridges From School to Work Life. Washington, DC: OSERS.
+37 Will, M. (1983). OSERS Programming for the Transition of Youth with Severe Disabilities: Bridges From School to Work Life. Washington, DC: OSERS.
 
-[](<>)38 Mithaug, D.E., Horiuchi, C.N., & Fanning, P.N. (1985). A report on the Colorado statewide follow-up survey of special education students. Exceptional Children, 51(6), 397-404.
+38 Mithaug, D.E., Horiuchi, C.N., & Fanning, P.N. (1985). A report on the Colorado statewide follow-up survey of special education students. Exceptional Children, 51(6), 397-404.
 
 Schalock, R.L., Wolzen, B., Feis, P., Werbel, G., & Peterson, K. (1984). Post-secondary committee placement of individuals with mental retardation: A five-year follow-up analysis. Paper presented at the American Association on Mental Deficiency. Annual Convention, Minneapolis, MN.
 
-[](<>)39 Leach, L.N., & Harmon, A.S. (1993). Annotated Bibliography on Secondary Special Education and Transitional Services,v.8. (H158T00001). By the Transition Research Institute of Illinois, for the U.S. Department of Education. Champaign, IL: Author.
+39 Leach, L.N., & Harmon, A.S. (1993). Annotated Bibliography on Secondary Special Education and Transitional Services,v.8. (H158T00001). By the Transition Research Institute of Illinois, for the U.S. Department of Education. Champaign, IL: Author.
 
-[](<>)40 Chadsky-Rusch, J., Rusch, F., & O'Reilly, M.F. (1991). Transition from school to integrated communities. Remedial and Special Education, 12(6), 23-33.
+40 Chadsky-Rusch, J., Rusch, F., & O'Reilly, M.F. (1991). Transition from school to integrated communities. Remedial and Special Education, 12(6), 23-33.
 
-[](<>)41 Mithaug, D.E., Martin, J.E., Agran, M., & Rusch, F. (1988). Why Special Education Graduates Fail: How To Teach Them To Succeed. Colorado Springs, CO: Ascent Publications.
+41 Mithaug, D.E., Martin, J.E., Agran, M., & Rusch, F. (1988). Why Special Education Graduates Fail: How To Teach Them To Succeed. Colorado Springs, CO: Ascent Publications.
 
-[](<>)42 Wehman, P. (1992). Achievements and Challenges: A Five-Year Report on the Status of the National Supported Employment Initiative. Virginia Commonwealth University (Cooperative Agreement #footH133B8005291), U.S. Department of Education, National Institute on Disability and Rehabilitation Research. Richmond, VA: Author.
+42 Wehman, P. (1992). Achievements and Challenges: A Five-Year Report on the Status of the National Supported Employment Initiative. Virginia Commonwealth University (Cooperative Agreement #footH133B8005291), U.S. Department of Education, National Institute on Disability and Rehabilitation Research. Richmond, VA: Author.
 
-[](<>)43 Kazdis, R. and Barton, P. (1993). Improving the Transition from School to Work in the United States. Washington, DC: American Youth Policy Forum.
+43 Kazdis, R. and Barton, P. (1993). Improving the Transition from School to Work in the United States. Washington, DC: American Youth Policy Forum.
 
-[](<>)44 Office of Research (1994). National Assessment of Vocational Education: Interim Report to Congress. Washington, DC: U.S. Department of Education, Office of Educational Research and Improvement.
+44 Office of Research (1994). National Assessment of Vocational Education: Interim Report to Congress. Washington, DC: U.S. Department of Education, Office of Educational Research and Improvement.
 
 United States General Accounting Office (1993). Report to Congressional Requesters, U.S. Senate. Vocational Education: Status in 2-Year Colleges in 1990-91 and Early Signs of Change. (GAO/HRD-93-89). Washington, DC: Author.
 
-[](<>)45 United States General Accounting Office (1993). Report to the Chairman, Subcommittee on Select Education and Civil Rights. Vocational Rehabilitation: Evidence for Federal Program's Effectiveness Is Mixed. (GA/PEMD-93-19). Washington, DC: Author.
+45 United States General Accounting Office (1993). Report to the Chairman, Subcommittee on Select Education and Civil Rights. Vocational Rehabilitation: Evidence for Federal Program's Effectiveness Is Mixed. (GA/PEMD-93-19). Washington, DC: Author.
 
-[](<>)46 United States General Accounting Office (1993). The Job Training Partnership Act: Potential for Program Improvements but National Job Training Strategy Needed. (GAO/T-HRD-93-18). Washington, DC: Author.
+46 United States General Accounting Office (1993). The Job Training Partnership Act: Potential for Program Improvements but National Job Training Strategy Needed. (GAO/T-HRD-93-18). Washington, DC: Author.
 
-[](<>)47 United States General Accounting Office (1994). Testimony Before the Committee on Government Operations, House of Representatives. Multiple Employment Training Programs: Major Overhaul Is Needed. (GAO/T-HEHS-94-109). Washington, DC: Author.
+47 United States General Accounting Office (1994). Testimony Before the Committee on Government Operations, House of Representatives. Multiple Employment Training Programs: Major Overhaul Is Needed. (GAO/T-HEHS-94-109). Washington, DC: Author.
 
-[](<>)48 Mank, D. (1994). The underachievement of supported employment: A call for reinvestment. Journal of Disability Policy Studies, 5(2), 13-17.
+48 Mank, D. (1994). The underachievement of supported employment: A call for reinvestment. Journal of Disability Policy Studies, 5(2), 13-17.
 
-[](<>)49 Zirkel, P.A. (1994). New section 504/ADA checklist. The Special Educator, 10, 33-38.
+49 Zirkel, P.A. (1994). New section 504/ADA checklist. The Special Educator, 10, 33-38.
 
-[](<>)50 The President's Committee on Employment of People with Disabilities (1994). Worksite Accommodations for People with Cognitive Disabilities. Morgantown, WV: The Job Accommodation Network.
+50 The President's Committee on Employment of People with Disabilities (1994). Worksite Accommodations for People with Cognitive Disabilities. Morgantown, WV: The Job Accommodation Network.
 
 Hagner, D., and Abdow, E. (1994). A Closer Look at Workplace Support. Presentation at the American Association on Mental Retardation Annual Conference, Boston, MA.
 
 Abt Associates, Inc. (1994). The Second Year (FY-1993) of the NIDRR ADA Technical Assistance Initiative: Promoting Implementation of the Americans with Disabilities Act of 1990. (Contract No. HN91041001). Cambridge, MA: Author.
 
-[](<>)51 42 U.S.C. 12117(b).
+51 42 U.S.C. 12117(b).
 
-[](<>)52 National Council on Disability (1993). Meeting the Unique Needs of Minorities with Disabilities. Washington, DC: Author.
+52 National Council on Disability (1993). Meeting the Unique Needs of Minorities with Disabilities. Washington, DC: Author.
 
-[](<>)53 Federal Register (March 9, 1994) v 59 (46) 11155.
+53 Federal Register (March 9, 1994) v 59 (46) 11155.
 
-[](<>)54 House Report 101-544, pp. 10-11.
+54 House Report 101-544, pp. 10-11.
 
-[](<>)55 34 C.F.R. 300.18(b)(2)(i).
+55 34 C.F.R. 300.18(b)(2)(i).
 
-[](<>)56 United States General Accounting Office (1993). Report to Congressional Requesters, U.S. Senate. Vocational Education: Status in School Year 1990-91 and Early Signs of Change at Secondary Level. (GAO/HRD-93-71: 63). Washington, DC: Author.
+56 United States General Accounting Office (1993). Report to Congressional Requesters, U.S. Senate. Vocational Education: Status in School Year 1990-91 and Early Signs of Change at Secondary Level. (GAO/HRD-93-71: 63). Washington, DC: Author.
 
-[](<>)57 Ibid. 67.
+57 Ibid. 67.
 
-[](<>)58 Ibid. 70-71.
+58 Ibid. 70-71.
 
-[](<>)59 45 C.F.R. 2522.210(b)(1)(C).
+59 45 C.F.R. 2522.210(b)(1)(C).
 
-[](<>)60 Gore, A. (1993). Creating a Government That Works Better and Costs Less: Report of the National Performance Review. (ISBN:0-8129-2365-0), 1. Washington, DC: U.S. Government Printing Office.
+60 Gore, A. (1993). Creating a Government That Works Better and Costs Less: Report of the National Performance Review. (ISBN:0-8129-2365-0), 1. Washington, DC: U.S. Government Printing Office.
 
-[](<>)61 Federal Register (July 15, 1994) v 59(135) 36225.
+61 Federal Register (July 15, 1994) v 59(135) 36225.
 
-[](<>)62 National Council on Disability (1993). Furthering the Goals of the Americans with Disabilities Act Through Disability Policy Research in the 1990s. Washington, DC: Author.
+62 National Council on Disability (1993). Furthering the Goals of the Americans with Disabilities Act Through Disability Policy Research in the 1990s. Washington, DC: Author.
 
 President's Committee on Employment of People with Disabilities (1993). Operation People First: Towards a National Disability Policy**.** Washington, DC: Author.

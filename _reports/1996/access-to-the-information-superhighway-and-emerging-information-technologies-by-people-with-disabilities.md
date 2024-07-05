@@ -96,7 +96,7 @@ The National Council on Disability wishes to express its appreciation to Dr. Gre
 
 - - -
 
-[](<>)
+
 
 **PREFACE**
 
@@ -104,7 +104,7 @@ The National Council on Disability would like to remind the reader that the topi
 
 - - -
 
-[](<>)
+
 
 **EXECUTIVE SUMMARY**
 
@@ -278,7 +278,7 @@ Motivation can be increased by all players by providing documentation to industr
 
 - - -
 
-[](<>)
+
 
 **BRIEFLY, WHAT IS THE NATIONAL INFORMATION INFRASTRUCTURE, AND WHAT CAN I DO WITH IT?**
 
@@ -448,7 +448,7 @@ For all the information, services, and capabilities that NII has to offer, it is
 
 - - -
 
-[](<>)
+
 
 **COMPONENTS OF NII**
 
@@ -532,7 +532,7 @@ Other systems will require no training and will be easier to use than a VCR or a
 
 - - -
 
-[](<>)
+
 
 **WHERE IS NII GOING?**
 
@@ -619,7 +619,7 @@ In addition to the more straightforward applications and characteristics of the 
 
 - - -
 
-[](<>)
+
 
 **IMPLICATIONS FOR PEOPLE WITH DISABILITIES**
 
@@ -878,7 +878,7 @@ In general, interactive television will be operated using a remote control of so
 
 - - -
 
-[](<>)
+
 
 **GENERAL ACCESSIBILITY GUIDELINES**
 
@@ -930,7 +930,7 @@ An external standard connection point that can be used to connect alternative di
 
 - - -
 
-[](<>)
+
 
 **GOALS**
 
@@ -978,7 +978,7 @@ Thus, striving toward the above goals is not counter to standard design practice
 
 - - -
 
-[](<>)
+
 
 **OPTIONS**
 
@@ -1038,7 +1038,7 @@ This problem is considerably compounded by the diversity of forms, shapes, sizes
 
 - - -
 
-[](<>)
+
 
 **FORCES THAT CAUSE CHANGE IN DESIGN AND ACCESSIBILITY**
 
@@ -1061,7 +1061,7 @@ Other motivating forces mentioned included larger market (usually deemed negligi
 
 - - -
 
-[](<>)
+
 
 **STRATEGIES FOR ACHIEVING CHANGE**
 
@@ -1201,7 +1201,7 @@ Legislative or regulatory action is a critical strategy for providing motivation
 
 - - -
 
-[](<>)
+
 
 **CONCLUSION**
 
@@ -1209,7 +1209,7 @@ There are many potentials and many potential problems regarding access to the in
 
 - - -
 
-[](<>)
+
 
 **ADDITIONAL READINGS**
 
@@ -1249,7 +1249,7 @@ Vanderheiden, Gregg C. 1996. "Design of HTML (Mosaic) pages to increase their ac
 
 - - -
 
-[](<>)
+
 
 **APPENDIX**
 

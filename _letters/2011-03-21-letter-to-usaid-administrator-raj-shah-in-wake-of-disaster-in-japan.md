@@ -24,7 +24,7 @@ We must not forget how Hurricanes Katrina and Rita in the U.S. and the Asian Tsu
 
 We are already working with the Department of State (DOS) and contacts in your agency in determining the extent of assistance needed in Japan.  We understand DOS and USAID are in the process of compiling resources and have offered assistance through diplomatic channels to the government of Japan in addressing the needs of people with disabilities.
 
-Although there is no silver lining to such a horrific loss of life and property, we will have a chance help rebuild a stronger Japan, including by constructing new and more accessible residences and providing better [](<>)access to schools, hospitals, and government buildings. The United States is well-positioned to lead the world in the re-building efforts in Japan, and demonstrate again how to build on the tremendous human potential of the more than 600 million people who have disabilities. NCD stands ready to assist.
+Although there is no silver lining to such a horrific loss of life and property, we will have a chance help rebuild a stronger Japan, including by constructing new and more accessible residences and providing better access to schools, hospitals, and government buildings. The United States is well-positioned to lead the world in the re-building efforts in Japan, and demonstrate again how to build on the tremendous human potential of the more than 600 million people who have disabilities. NCD stands ready to assist.
 
 Sincerely, 
 

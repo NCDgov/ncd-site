@@ -11,7 +11,7 @@ policy_areas:
 
 January 27, 2011
 
-### **Written Testimony of National Council on Disability Member Carol Jean Reynolds**[\[1]](https://ncd.gov/newsroom/Testimony/blank.htm#_edn1) **before the Neurological Devices Panel of the Medical Devices Advisory Committee for the U.S. Food and Drug Administration**
+### **Written Testimony of National Council on Disability Member Carol Jean Reynolds**[1](https://ncd.gov/newsroom/Testimony/blank.htm#_edn1) **before the Neurological Devices Panel of the Medical Devices Advisory Committee for the U.S. Food and Drug Administration**
 
 Thank you for permitting me, as well as other members of \[the] public, to provide comments at this important meeting. I would first like to applaud this panel for coming together on a matter of critical importance to people with disabilities.  I am here in my capacity as a board member of the National Council on Disability (NCD), an independent federal agency, which advises the President and Congress on all issues affecting people with disabilities.  But I also want to let you know that I'm a psychiatric survivor myself, and therefore can speak as a person with a disability who has been impacted in a profound way by the subject at hand.  I have been in recovery from bipolar disorder, alcoholism and substance abuse for 25 years.  I had the **privilege** of having had excellent medical care when I was sick--something that so many of my brothers and sisters do not have access to.  At the same time, I would like to thank the FDA for approving the medications Lamictal and Seroquel--those are the two medications I take.
 
@@ -21,4 +21,4 @@ Public policy needs to move in the direction of a totally voluntary community-ba
 
 - - -
 
-[\[1]](https://ncd.gov/newsroom/Testimony/Jan272011#_ednref1) Ms. Reynolds is also a Board Member for the National Council on Independent Living, and the Executive Director for a Disability Center for Independent Living.
+[1](https://ncd.gov/newsroom/Testimony/Jan272011#_ednref1) Ms. Reynolds is also a Board Member for the National Council on Independent Living, and the Executive Director for a Disability Center for Independent Living.

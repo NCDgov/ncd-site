@@ -218,7 +218,7 @@ CONTENTS
 
 - - -
 
-[](<>)EXECUTIVE SUMMARY
+EXECUTIVE SUMMARY
 
 In 1999, public policy results in an unemployment rate for people with disabilities exceeding 70 percent. Public policy and expenditures give priority to institutional placements and segregated housing over independent living with appropriate support services. For households including youth with disabilities, 68 percent of the households had incomes of less than $25,000, while in the general population--households with nondisabled youth--only 18 percent had incomes of less than $25,000. A majority of the nation's 6 million students with disabilities are not receiving special education and related services in regular education environments. State and local governments are challenging the constitutionality of civil rights under the Americans with Disabilities Act (ADA).
 
@@ -242,7 +242,7 @@ One of the fundamental civil rights of Americans is exercising the right to vote
 
 - - -
 
-[](<>)PUBLIC POLICY 2000 PLATFORM SPIRIT OF ADA FEDERAL DISABILITY POLICY FOR POLICYMAKERS AND LEADERS
+PUBLIC POLICY 2000 PLATFORM SPIRIT OF ADA FEDERAL DISABILITY POLICY FOR POLICYMAKERS AND LEADERS
 
 *The Public Policy 2000 Platform is a nonexhaustive set of statements to inform the policy visions of potential new leaders in Washington, DC, and across the country. Individuals with disabilities, advocates, and parents are looking for vision and platform statements from potential Presidential and congressional leaders that advance the independence, full participation, and productivity of people with disabilities. In exercising one of the fundamental rights in a democratic society--voting--these Americans are looking for specifics on how we:*
 
@@ -265,7 +265,7 @@ Enforce human and civil rights laws protecting individuals with disabilities, in
 > of the Work Incentives Improvement Act of\
 > 1999.
 
-[](<>)INTRODUCTION
+INTRODUCTION
 
 The most significant legislative achievement for people with disabilities of the past year was the milestone passage of the Work Incentives Improvement Act of 1999. Enactment of this employment initiative will facilitate and catalyze the spirit of equality, justice, and opportunity embodied in the Americans with Disabilities Act (ADA). At the signing ceremony on the site of the FDR Memorial, President Clinton said:
 
@@ -299,9 +299,9 @@ This report, which updates the Progress Report issued by NCD in 1998, will descr
 
 - - -
 
-[](<>)PROGRESS, CONCERNS, AND RECOMMENDATIONS
+PROGRESS, CONCERNS, AND RECOMMENDATIONS
 
-[](<>)A. DISABILITY DEMOGRAPHICS AND DISABILITY RESEARCH
+A. DISABILITY DEMOGRAPHICS AND DISABILITY RESEARCH
 
 1. Census 2000
 
@@ -357,7 +357,7 @@ The challenge ahead is for data and research to meet the decisionmaking needs of
 
 *NCD recommends that the federal research community emphasize cross-cultural studies and the experiences the environment presents to people with disabilities in all age brackets. NCD recommends that the Interagency Committee on Disability Research, required by the reauthorized Rehabilitation Act, be provided with adequate resources.*
 
-[](<>)B. CIVIL RIGHTS
+B. CIVIL RIGHTS
 
 *"We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain inalienable rights." The United States Congress and the President have recognized the fundamental rights of people with disabilities to make choices, pursue meaningful careers, live independently, and participate fully in all aspects of society.*
 
@@ -545,7 +545,7 @@ On December 13, 1999, David Satcher, M.D., Surgeon General of the United States,
 
 *Unlike NCD's Report of the Albany Conference, the Surgeon General's report does not adequately address the issue of coercion. NCD shares the view of the Bazelon Center for Mental Health Law that this is especially regrettable because a climate of coercion significantly impedes the help-seeking behavior that is the Surgeon General's principal recommendation to the public.*
 
-[](<>)C. EDUCATION
+C. EDUCATION
 
 Efforts continued on the part of the Administration and Congress to increase opportunities for all children to learn to high standards; however, students with disabilities, parents, and advocates across the country still continue to document high levels of noncompliance with IDEA, particularly related to placement in the least restrictive environment, transition services, and the requirements for a free, appropriate, public education (FAPE).
 
@@ -622,7 +622,7 @@ Because of significant changes in education laws for persons with disabilities, 
 
 The U.S. DOED's Office of Postsecondary Education has initiated a discretionary grant program to increase the number of students with disabilities who persist in attaining a four-year degree. Approximately 20 grants were funded in 1999 that provide technical assistance and professional development activities for faculty and administrators in institutions of higher education, in order to provide a quality education to students with disabilities. This program is newly authorized by the Higher Education Act Amendments of 1998 and funded for the first time in FY 1999 at $5 million.
 
-[](<>)D. HEALTH CARE
+D. HEALTH CARE
 
 1. Protections in Managed Care
 
@@ -664,7 +664,7 @@ The U.S. House of Representatives passed the Pain Relief Promotion Act (H.R. 226
 
 In a similar vein, NCD, represented by Marca Bristo, the chairperson of the National Council on Disability, joined with the Princeton \[University] Students Against Infanticide, Not Dead Yet, and others to protest the appointment of Peter Singer as a teacher of ethics to undergraduates at Princeton. Peter Singer, in his book Practical Ethics, writes that some people with disabilities have lives that are not worth living. Singer argues that disabled infants may be killed ethically because they are not sentient (conscious) beings. He bases this justification for killing on the future quality of life of the disabled person. Yet people with disabilities usually have a much higher perception of the quality of their lives than people without disabilities have for them.[(5)](https://ncd.gov/progress_reports/May2000#foot5)
 
-[](<>)E. LONG-TERM SERVICES AND SUPPORTS
+E. LONG-TERM SERVICES AND SUPPORTS
 
 > *As we move to implement the Olmstead decision, there are three basic principles that all of us can agree on, now. We can agree that no American should have to live in a nursing home or state institution if that individual can live in a community with the right mix of affordable supports. We can agree that we all have the right to interact with family and friends in our communities_to make a living_and to make a life. And we can agree that it will take time, effort, creativity, and commitment from all of us to make this a reality.*
 >
@@ -724,7 +724,7 @@ Despite the fact that the number of children enrolled in the Children's Health I
 
 More than 1,500 schools in 49 states have joined the "Insure Kids Now! Through Schools" campaign to conduct outreach for and enrollment in Medicaid and CHIP through regular school activities, including parents' nights, registration, and school physicals, and in letters sent to parents about immunization. *NCD recommends that aggressive steps be taken to increase the enrollment of uninsured children, many of whom are children with disabilities.*
 
-[](<>)F. YOUTH
+F. YOUTH
 
 An increasing number of youth with disabilities apply for SSI or SSDI each year, despite significant investments in special education. According to the Social Security Administration (SSA), approximately 60,000 youth between 18 and 24 years of age come on the rolls for SSI and SSDI annually. Among SSDI recipients, fewer than 1 percent ever leave the program.
 
@@ -755,7 +755,7 @@ Three main purposes were established for the conference:
 
 *NCD will continue to support the National Leadership Conference for Youth with Disabilities to ensure that new generations of leaders for the disability rights movement are supported. NCD will encourage states and other entities to emulate the success of the Leadership Conference among youth with disabilities within their geographic areas.*
 
-[](<>)G. IMMIGRANTS AND RACIAL AND ETHNIC MINORITIES WITH DISABILITIES
+G. IMMIGRANTS AND RACIAL AND ETHNIC MINORITIES WITH DISABILITIES
 
 1. White House Forum on Disability and Cultural Diversity
 
@@ -777,7 +777,7 @@ Upon signing the 1996 welfare reform law, President Clinton made a commitment to
 
 The Balanced Budget Act of 1997 and the Noncitizen Benefit Clarification and Other Technical Amendments Act of 1998 invested $11.5 billion to restore disability and health benefits to 380,000 legal immigrants who were in this country before welfare reform became law (August 22, 1996). Restoration of eligibility for SSI and Medicaid to legal immigrants who enter the country after that date, if they have been in the United States for five years and become disabled after entering the United States, should be the next step in policy. *NCD calls upon the Administration and Congress to restore this program eligibility and the funds to support it.*
 
-[](<>)H. SOCIAL SECURITY WORK INCENTIVES AND SSA AND MEDICARE SOLVENCY
+H. SOCIAL SECURITY WORK INCENTIVES AND SSA AND MEDICARE SOLVENCY
 
 1. Work Incentives Improvement Act
 
@@ -815,7 +815,7 @@ In previous actions, NCD recommended to the Bipartisan Commission on the Future 
 
 *NCD recommends a comprehensive, bipartisan plan to strengthen and modernize Medicare. Such a proposal must make the program more efficient and competitive and increase access to preventive care critical to individuals with disabilities to prevent the development of secondary conditions. The proposal must dedicate a portion of the existing budget surplus to keep Medicare solvent past 2025 and help to pay for a long overdue voluntary prescription drug program.*
 
-[](<>)I. EMPLOYMENT
+I. EMPLOYMENT
 
 > *We need to do more to expand employment opportunities; expand educational opportunities; invest in new technologies to make our society more accessible; and enforce our civil rights laws--so discrimination on the basis of disability becomes an ugly relic of the past.*
 >
@@ -880,7 +880,7 @@ On October 16, 1999, the President released a plan titled *Accessing Opportunit
 
 *NCD commends the President for giving federal agencies detailed and practical information on ways to recruit people with disabilities for positions at all levels of government; to provide opportunities for students with disabilities; to ensure career opportunities for people with disabilities; to collect and maintain data to monitor their success; and to provide reasonable accommodations for applicants and employees with disabilities.*
 
-[](<>)J. WELFARE-TO-WORK
+J. WELFARE-TO-WORK
 
 1. Federal/State Efforts
 
@@ -926,7 +926,7 @@ The report recommends the following steps that welfare agencies should take to b
 
 The Welfare-to-Work Initiative has been extended, and several states, including Missouri, Wisconsin, and Nevada, have targeted all or a significant amount of their Welfare-to-Work funds to serving noncustodial parents. *NCD commends the President and Congress for recognizing the need to address housing, transportation, and other barriers to enable people on welfare to obtain and retain employment. NCD encourages another extension of the Welfare-to-Work program. NCD encourages the President and administering agencies for these new programs to recognize that a large percentage of the population remaining on Temporary Assistance for Needy Families has disabilities ranging from learning disabilities to psychiatric disabilities to substance abuse issues. Accordingly, many of these individuals must have their disability-related needs addressed in order for the goal of obtaining long-term employment to be realized. Moreover, NCD encourages the President and Congress to recognize that the current efforts to move people from welfare to work may have important lessons for the growing effort to move people from reliance on disability benefit programs to employment. Issues such as housing, transportation, and health care must be addressed for the SSI and SSDI populations as well, if the transition to work is to be successful.*
 
-[](<>)K. HOUSING
+K. HOUSING
 
 In FY 1999, policy changes in the definition of housing for individuals with disabilities, the concept of visitability, and an emphasis on TBRA and home ownership began to be a part of the practices and operations of HUD. This integration of earlier policy victories into the operations of federal housing agencies establishes the environment of statistical support and program successes necessary for further policy changes toward a true civil rights approach to meeting the housing needs of Americans with disabilities.
 
@@ -956,7 +956,7 @@ In February 1999, HUD announced three programs that can provide housing for peop
 
 HUD set aside 30 percent of the total funding made available through the McKinney Homeless Assistance Program to be used to fund permanent housing projects for homeless persons including the Supportive Housing Program--permanent housing for persons with disabilities. It is this type of housing that likely segregates this group of individuals with disabilities into a geographical area with support services linked to a single provider system. *NCD recommends that HUD reform the programs under which people with disabilities receive assistance with housing to ensure that these programs reflect the most integrated setting requirement of section 504 and independent living philosophy of the disability rights movement.*
 
-[](<>)L. TRANSPORTATION
+L. TRANSPORTATION
 
 > *The programs and policies we are announcing today affirm that transportation is about more than concrete, asphalt, and steel. It is the means by which people get to where they need to go: to jobs, to schools, to markets. All Americans must have access to all opportunities our great nation offers. Accessibility is a civil right.*
 >
@@ -1005,7 +1005,7 @@ The DOJ reached an out-of-court agreement with Greyhound, the nation's largest i
 
 *NCD strongly encourages enforcement strategies on the over-the-road bus regulations to erase the brazen disregard for the law, demonstrated by the largest intercity bus company, since the passage of the ADA. The data collection provisions of the over-the-road regulations, coupled with the DOJ settlement, provide DOT with basic information for altering enforcement and technical assistance activities to ensure full compliance by the date established in the regulations.*
 
-[](<>)M. TECHNOLOGY AND TELECOMMUNICATIONS
+M. TECHNOLOGY AND TELECOMMUNICATIONS
 
 Technology and telecommunications are becoming increasingly more critical factors in the education, employment, and independence of the daily lives of all Americans. Making sure individuals with disabilities have equitable access to technology and telecommunications becomes imperative for these same aspects of their lives. Recent legislation is in place to bring us closer to this goal. The Federal Government's strong enforcement of these laws, reinforcement of research in universal design in technology and telecommunications systems and products, and use of its huge purchasing power in accessible electronic and information technology becomes the focus of determining progress in disability policy in this area.
 
@@ -1057,7 +1057,7 @@ A $23 million request by the Administration for technology initiatives for the N
 
 Progress in international technology access policy included the Irish and Portuguese governments issuing requirements that all government websites must be accessible to persons with disabilities. The World Economic Development Congress publication "World Markets in 2000" selected the web accessibility article "The Growing Digital Divide in Access for People with Disabilities: Overcoming Barriers to Participation" for distribution at their World Bank International Monetary Fund (IMF) Summit and to government cabinets around the world. The article was developed for the first U.S. conference on the impact of the digital economy, convened by President Clinton.
 
-[](<>)N. INTERNATIONAL ISSUES
+N. INTERNATIONAL ISSUES
 
 The year 1999 witnessed several important successes for people with disabilities around the world. On March 1, the International Treaty to Ban Landmines became international law, having been ratified by 40 countries in just eight months. The treaty is a critical step in eliminating landmines; landmines continue to create physical impairments among people worldwide. In July, the Organization of American States ratified the Inter-American Convention on the Elimination of All Forms of Discrimination against Persons with Disabilities. The U.S. Agency for International Development (USAID) issued its first year self-assessment of its policy to integrate disability concerns into all development activities of the agency. The World Bank extended its look at economic development and the need to incorporate strategies to serve populations with disabilities. However, a 1991 General Accounting Office report entitled "Assistance to Disabled Persons in Developing Countries" characterizes U.S. assistance as "sporadic." As of 1999, this assessment remains accurate.
 
@@ -1099,7 +1099,7 @@ All of these recommendations are to respond to the many challenges for persons w
 
 - - -
 
-[](<>)CONCLUSION
+CONCLUSION
 
 This report reflects the large and small steps taken by America in the last year of the 20th century to ensure that people with disabilities enjoy the full benefits of American citizenship and prosperity. Within these pages are the incremental events, legal actions, legislative victories and defeats, and policy actions for one year out of more than three decades of such activities that make up the movement for civil and human rights and access to society for individuals with disabilities. It began as a grassroots movement of small groups of individuals establishing their concerns and demands for opportunities and human rights to the greater society. That movement has taken on the sophistication of maneuvering in the halls of legislatures and policymakers at the local, state, and federal levels, but much of the energy, vision, and force remains at the grassroots.
 
@@ -1123,9 +1123,9 @@ Let this new millennium mark a realignment of commitment from government, privat
 
 - - -
 
-[](<>)APPENDIX
+APPENDIX
 
-[](<>)MISSION OF THE NATIONAL COUNCIL ON DISABILITY
+MISSION OF THE NATIONAL COUNCIL ON DISABILITY
 
 Overview and Purpose
 
@@ -1166,16 +1166,16 @@ NCD was initially established in 1978 as an advisory board within the Department
 
 - - -
 
-[](<>)1 The three questions on disability were evolved from a concerted interagency effort of the Federal Government. Quoted from Kathryn J. Maney, Partnership and Stakeholders Branch, Census 2000, U.S. Census Bureau, U.S. Department of Commerce.
+1 The three questions on disability were evolved from a concerted interagency effort of the Federal Government. Quoted from Kathryn J. Maney, Partnership and Stakeholders Branch, Census 2000, U.S. Census Bureau, U.S. Department of Commerce.
 
-[](<>)2 Cited in the Presidential Task Force on Employment of Adults with Disabilities, Re-Charting the Course: If Not Now, When? Printed November 15, 1999, and prepared with the assistance of Health Systems Research, Inc. A copy of this report can be found at [www.dol.gov](http://www.dol.gov/).
+2 Cited in the Presidential Task Force on Employment of Adults with Disabilities, Re-Charting the Course: If Not Now, When? Printed November 15, 1999, and prepared with the assistance of Health Systems Research, Inc. A copy of this report can be found at [www.dol.gov](http://www.dol.gov/).
 
-[](<>)3 See the National Council on Disability report, National Disability Policy: A Progress Report to the 105th Congress, February 16, 1999. This report can be found at NCD's website [www.ncd.gov](http://www.ncd.gov/).
+3 See the National Council on Disability report, National Disability Policy: A Progress Report to the 105th Congress, February 16, 1999. This report can be found at NCD's website [www.ncd.gov](http://www.ncd.gov/).
 
-[](<>)4 A paper prepared by the Georgetown Federal Legislation Clinic for the Consortium for Citizens with Disabilities. The paper is titled Principles for Health Information Privacy Legislation \[no date provided]. For more information, contact Jeff Crowley, NAPWA, at 202-898-0414.
+4 A paper prepared by the Georgetown Federal Legislation Clinic for the Consortium for Citizens with Disabilities. The paper is titled Principles for Health Information Privacy Legislation \[no date provided]. For more information, contact Jeff Crowley, NAPWA, at 202-898-0414.
 
-[](<>)5 See Singer, Peter, Practical Ethics \[2nd edition]. Cambridge University Press, Cambridge, England, 1998, and also the fact sheet from the Center on Disability and Health by Bob Griss, Washington, DC, 1999; and the New Yorker magazine article titled "The Dangerous Philosopher" by Michael Specter, September 6, 1999.
+5 See Singer, Peter, Practical Ethics \[2nd edition]. Cambridge University Press, Cambridge, England, 1998, and also the fact sheet from the Center on Disability and Health by Bob Griss, Washington, DC, 1999; and the New Yorker magazine article titled "The Dangerous Philosopher" by Michael Specter, September 6, 1999.
 
-[](<>)6 The executive summary of Lift Every Voice: Modernizing Disability Policies and Programs to Serve a Diverse Nation can be found at NCD's website [www.ncd.gov/newsroom/publications/1999/lift_report.htm](http://www.ncd.gov/newsroom/publications/1999/lift_report.htm).
+6 The executive summary of Lift Every Voice: Modernizing Disability Policies and Programs to Serve a Diverse Nation can be found at NCD's website [www.ncd.gov/newsroom/publications/1999/lift_report.htm](http://www.ncd.gov/newsroom/publications/1999/lift_report.htm).
 
-[](<>)7 For more information, a fact sheet, and questions and answers about the Work Incentives Improvement Act of 1999, go to the Social Security Administration's website at [www.ssa.gov](http://www.ssa.gov/).
+7 For more information, a fact sheet, and questions and answers about the Work Incentives Improvement Act of 1999, go to the Social Security Administration's website at [www.ssa.gov](http://www.ssa.gov/).

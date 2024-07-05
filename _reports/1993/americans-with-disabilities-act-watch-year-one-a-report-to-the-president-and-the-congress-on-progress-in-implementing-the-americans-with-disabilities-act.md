@@ -127,7 +127,7 @@ LIST OF FIGURES
 
 - - -
 
-[](<>)**MISSION OF THE NATIONAL COUNCIL ON DISABILITY**
+**MISSION OF THE NATIONAL COUNCIL ON DISABILITY**
 
 The National Council on Disability is an independent federal agency composed of 15 members appointed by the President of the United States and confirmed by the U.S. Senate. It was established in 1978 as an advisory board within the Department of Education. The Rehabilitation Act Amendments of 1984 transformed the Council into an independent agency. The mission of the National Council on Disability is to provide leadership in the identification of emerging issues affecting people with disabilities and in the development and recommendation of disability policy to the President and the Congress. The statutory mandate of the National Council during the first year of ADA Watch included the following:
 
@@ -148,7 +148,7 @@ While many government agencies address issues and programs affecting people with
 
 - - -
 
-[](<>)**NATIONAL COUNCIL ON DISABILITY, MEMBERS AND STAFF**
+**NATIONAL COUNCIL ON DISABILITY, MEMBERS AND STAFF**
 
 Members
 
@@ -181,7 +181,7 @@ Lorraine Williams, Office Automation Clerk
 
 - - -
 
-[](<>)**PROJECT STAFF**
+**PROJECT STAFF**
 
 National Council on Disability\
 Committee on Public Policy
@@ -222,7 +222,7 @@ Judy Cleary/EEI
 
 - - -
 
-[](<>)**EXECUTIVE SUMMARY**
+**EXECUTIVE SUMMARY**
 
 > *My highest priorities as your next President are to restore economic opportunity and rebuild a sense of community in our great nation. That is why I believe the ADA is so important. In a competitive global economy, our country doesn't have a single person to waste-- opportunity must be open to everyone. I am strongly committed to full implementation and enforcement of the ADA, because I believe our entire nation will share in the economic and social benefits that will result from full participation of Americans with disabilities in our society.*
 >
@@ -326,7 +326,7 @@ Overall, the ADA continues to be a major success of American public policy. Coun
 
 - - -
 
-[](<>)**I. INTRODUCTION: THE AMERICANS WITH DISABILITIES ACT**
+**I. INTRODUCTION: THE AMERICANS WITH DISABILITIES ACT**
 
 The Americans with Disabilities Act of 1990 (ADA) was first proposed by the National Council on Disability under the leadership of Chairperson Sandra Swift Parrino and Executive Director Lex Frieden. In February 1986, the Council issued a report to the President and the Congress entitled *Toward Independence,* which recommended enactment of a comprehensive law requiring equal opportunity for individuals with disabilities.
 
@@ -412,11 +412,11 @@ To sustain the substantial progress achieved in implementing the ADA during its 
 
 - - -
 
-[](<>)II. EFFORTS TO IMPLEMENT THE ADA
+II. EFFORTS TO IMPLEMENT THE ADA
 
 This section of the report describes efforts by interested parties to implement the ADA, beginning with the federal agencies having statutory responsibility for ADA implementation. The efforts of the disability community, covered entities, nonprofit organizations, and entrepreneurial ventures are also discussed.
 
-[](<>)*Federal Government*
+*Federal Government*
 
 Finding 1: The federal government has, overall, performed well in its ADA implementation responsibilities.
 
@@ -441,7 +441,7 @@ Most of the regulations were also published on time in accessible formats, inclu
 
 - - -
 
-[](<>)**Table 1**
+**Table 1**
 
 **RELEASE DATES OF FEDERAL REGULATIONS**
 
@@ -529,7 +529,7 @@ Several basic documents have had a wide circulation, most notably the *ADA Hand
 
 - - -
 
-[](<>)**Table 2**
+**Table 2**
 
 **MATERIALS DISTRIBUTED BY NIDRR REGIONAL CENTERS***
 
@@ -620,7 +620,7 @@ Total Documents Distributed -- 40,056
 
 - - -
 
-[](<>)**Table 3**
+**Table 3**
 
 **SOME ADA PUBLICATIONS PREPARED BY FEDERAL AGENCIES**
 
@@ -673,7 +673,7 @@ Architectural & Transportation Barriers Compliance Board
 
  
 
-[](<>)*People with Disabilities*
+*People with Disabilities*
 
 Finding 2: The disability community has generally, in these early days of the ADA, taken an ADA implementation strategy of "educate and negotiate, and litigate as a last resort."
 
@@ -704,7 +704,7 @@ This problem was confirmed by a survey of 91 companies and 25 advocacy groups in
 
 *With these suspicions, it is not surprising that businesses would seek the assistance of even high-priced attorneys and consultants before that of disability groups and individuals with disabilities. It will be important for disability groups to address this issue of perception if they hope to serve a key role in assisting covered entities with ADA implementation*.
 
-[](<>)*Covered Entities*
+*Covered Entities*
 
 Finding 3: Many organizations serving covered entities, such as trade associations, have initiated significant efforts to assist their members with ADA implementation.
 
@@ -748,7 +748,7 @@ For example, virtually all public transit providers submitted their paratransit 
 
 One particular success story related to implementation of the ADA's transportation provisions concerns the development of the Oregon State Securement Device. This device has apparently resolved many questions about wheelchair lifts and consequently has enabled the DOT to focus more of its efforts on solutions to transportation accessibility for people with hearing and vision impairments.
 
-[](<>)*Nonprofit Organizations*
+*Nonprofit Organizations*
 
 Finding 5: The ADA has opened up new opportunities for disability-related activities in the nonprofit community.
 
@@ -760,7 +760,7 @@ The selection criteria for grantees under the Partnership emphasized the potent
 
 The programs funded were those demonstrating new methods for service delivery: training, technical assistance, and education efforts, particularly on the ADA; and research and dissemination projects to evaluate and promote successful activities under the ADA.
 
-[](<>)*Entrepreneurs*
+*Entrepreneurs*
 
 Finding 6: Entrepreneurial activities stimulated by the ADA have had very mixed results; some have been helpful, others highly counterproductive.
 
@@ -799,11 +799,11 @@ Two Department of Justice grantees--the Council of Better Business Bureaus Found
 
 - - -
 
-[](<>)III. FORMAL AND INFORMAL COMPLAINTS: EVIDENCE OF CONTINUED NEED FOR THE ADA
+III. FORMAL AND INFORMAL COMPLAINTS: EVIDENCE OF CONTINUED NEED FOR THE ADA
 
 The need for comprehensive civil rights legislation to protect the rights of people with disabilities has become even clearer as implementation of the ADA has progressed. Reports of discrimination abound in formal actions through the courts and federal agencies, in statistical survey data, and in anecdotal evidence. The number of legal actions has remained relatively low because of the restraint of people with disabilities and organizations that represent and serve them, as well as the willingness of many covered entities to try to resolve problems when confronted with them. This section discusses some of the reports of discrimination and efforts to address them.
 
-[](<>)*Formal Complaints/Lawsuits*
+*Formal Complaints/Lawsuits*
 
 Finding 7: Complaints filed under the ADA thus far indicate that certain key areas need greater attention, including, for example, accommodating current employees with disabilities under Title I.
 
@@ -845,7 +845,7 @@ The DOJ Title II complaint data must be viewed somewhat cautiously because of th
 
 - - -
 
-[](<>)**Table 4**
+**Table 4**
 
 **TITLE II COMPLAINTS CONCERNING STATE AND LOCAL GOVERNMENT ENTITIES FILED WITH THE DEPARTMENT OF JUSTICE (DOJ)***
 
@@ -893,7 +893,7 @@ The EEOC has filed the first lawsuit for the federal government under the ADA on
 
 - - -
 
-[](<>)**Table 5**
+**Table 5**
 
 **TITLE III COMPLAINTS FILED WITH THE DEPARTMENT OF JUSTICE**
 
@@ -1000,7 +1000,7 @@ Other ADA-related court cases include the following:
 
 These cases indicate some of the kinds of issues likely to surface in litigation under the ADA.
 
-[](<>)*Accounts of Discrimination*
+*Accounts of Discrimination*
 
 Finding 8: Early efforts by covered entities to implement the ADA's employment provisions have helped to remove formal barriers to employment of people with disabilities, but many barriers still exist.
 
@@ -1018,7 +1018,7 @@ ADA Watch has identified many examples of actual or alleged discrimination throu
 
 - - -
 
-[](<>)Table 6
+Table 6
 
 *CAREERS & the disABLED*\
 1992 Reader Survey
@@ -1064,11 +1064,11 @@ These examples illustrate that discrimination against people with disabilities i
 
 - - -
 
-[](<>)**IV. EXEMPLARY EFFORTS TO COMPLY WITH THE ADA**
+**IV. EXEMPLARY EFFORTS TO COMPLY WITH THE ADA**
 
 It is still very early in the implementation of the ADA to adequately assess efforts to comply. Many organizations have just begun to take steps toward full implementation; others have yet to see whether the steps they have taken thus far will prove effective in removing barriers for people with disabilities. With this caveat, the following discussion is designed to identify a few approaches that hold promise and to try to indicate some general patterns in those organizations that have most effectively moved forward in complying with the ADA.
 
-[](<>)*Partnerships*
+*Partnerships*
 
 Finding 9: Some of the most productive ADA implementation activities have involved cooperative efforts between and among government agencies, businesses and business organizations, and the disability community.
 
@@ -1089,7 +1089,7 @@ A somewhat different example of cooperation involves a group of businesses in th
 
 *Such cooperative efforts have created the accurate perception that ADA implementation need not be an adversarial activity but can be accomplished through partnerships and direct communication among those having a stake in compliance.*
 
-[](<>)*Exemplary Programs/Actions*
+*Exemplary Programs/Actions*
 
 At this stage of ADA implementation, most of the well-publicized exemplary efforts in employing and serving people with disabilities involve organizations that have been actively involved in this area for a long time.
 
@@ -1140,7 +1140,7 @@ Many more such examples could be cited.
 
 - - -
 
-[](<>)**V. NEEDED ADA TECHNICAL ASSISTANCE/INFORMATION**
+**V. NEEDED ADA TECHNICAL ASSISTANCE/INFORMATION**
 
 One of the great concerns among people with disabilities and covered entities is that, despite extraordinary efforts by federal agencies, obtaining federal technical assistance has been very frustrating and difficult--some say impossible. This lack of assistance does not appear to be a result of insufficient effort or inefficiency on the part of the agencies. It is simply a matter of too much demand for the current staff and resources to meet. The problem exists at virtually every agency with ADA responsibility.
 
@@ -1158,7 +1158,7 @@ Implementation of the ADA is off to a much better start than implementation of t
 
 *Without some course corrections in information dissemination and technical assistance strategies under the ADA, the demand will continue to overwhelm government resources.*
 
-[](<>)*Lack of Awareness*
+*Lack of Awareness*
 
 Finding 11: While efforts to inform people with disabilities and covered entities about the ADA have been substantial, many large gaps still exist.
 
@@ -1224,7 +1224,7 @@ Federal technical assistance projects should be established in Alaska, Hawaii, a
 
 *Funding for technical assistance must be sustained for a sufficient period of time to ensure that the benefits of the ADA are not lost through lack of awareness.*
 
-[](<>)*Need for Targeted Assistance*
+*Need for Targeted Assistance*
 
 Finding 13: As organizations and individuals advance in their knowledge of the ADA, their questions are becoming increasingly sophisticated and technical, often requiring complex responses.
 
@@ -1276,11 +1276,11 @@ This leadership in the private sector, both in the disability community and in t
 
 - - -
 
-[](<>)**VI. ADA ISSUES REQUIRING FEDERAL ACTION**
+**VI. ADA ISSUES REQUIRING FEDERAL ACTION**
 
 While many dedicated people helped to create the ADA, no one could have anticipated all of the specific questions or issues that would ultimately arise under this new law. This section provides an overview of the emerging issues under the ADA; it is not exhaustive, but only indicative of the issues that will require the attention of the federal government in the coming years.
 
-[](<>)*The ADA and Other Disability Laws*
+*The ADA and Other Disability Laws*
 
 Finding 15: As ADA regulations become more refined, the ADA's relationship to other federal disability nondiscrimination laws is becoming clearer in certain areas and more confused in others.
 
@@ -1314,7 +1314,7 @@ The Department of Justice, the Equal Employment Opportunity Commission, the Depa
 
 - - -
 
-[](<>)*Key Implementation Issues*
+*Key Implementation Issues*
 
 The early days of ADA implementation have progressed smoothly, given the comprehensiveness and complexity of the law. However, the list of implementation issues to be addressed continues to grow as the details of the law and regulations are applied in practice. The evolving interpretation and application of the ADA is raising significant issues with potentially wide application.
 
@@ -1398,7 +1398,7 @@ For example, government funding should be redirected to enable:
 
 - - -
 
-[](<>)**VII. RESEARCH AGENDA**
+**VII. RESEARCH AGENDA**
 
 The data available on people with disabilities have, historically, been very limited. Census data regarding work disabilities and activity limitations have provided useful but limited information for public policy decision making. Other data sources have not been sufficiently comprehensive or focused to allow for informed disability policy analysis. There are very few national data bases that address disability.
 
@@ -1406,7 +1406,7 @@ For example, the Survey of Disability and Work conducted by the Social Security 
 
 As a second illustration of the problem, estimates of the number of children with disabilities range from 1 million to 10 million, clearly too large a range to be very useful in developing disability policy. Similarly, it is very difficult to obtain good data on many low-prevalence conditions such as Friedreich's Ataxia and Tourette's Syndrome, or even spinal cord injury. The ADA has created a need and an opportunity for an expanded research agenda.
 
-[](<>)*Current Research*
+*Current Research*
 
 Finding 21: There is a growing body of information about such issues as perceptions of the ADA, costs of implementation, and attitudes toward ADA responsibilities that will enable policymakers to prioritize implementation efforts more effectively.
 
@@ -1420,7 +1420,7 @@ Finding 22: The progress and impact of the ADA cannot be fully determined with e
 
 The availability of disability statistics will probably increase somewhat in the years to come. For example, the Department of Health and Human Services held a two-day conference in December 1992 to discuss directions for the development of statistical data on disability. The conference was scheduled to follow immediately the research conference sponsored by the National Council on Disability in Washington, DC. As data of all kinds become increasingly available, one very substantial task will be to coordinate the information, interpret it, and apply it to policy questions; the need is not just for information, but for a framework to analyze it.
 
-[](<>)*Needed Research*
+*Needed Research*
 
 Given the gaps in existing data and the need to know with some confidence how to direct resources, the time has come to make a concerted effort at the federal level to develop a strong research agenda on disability-related concerns and issues.
 
@@ -1462,7 +1462,7 @@ Funding for federal government ADA information dissemination, technical assistan
 
 - - -
 
-[](<>)**APPENDIX B**
+**APPENDIX B**
 
 **NATIONAL COUNCIL ON DISABILITY ADA WATCH**
 

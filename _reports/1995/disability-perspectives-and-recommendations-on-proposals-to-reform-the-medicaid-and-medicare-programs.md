@@ -150,13 +150,13 @@ TABLE OF CONTENTS
 
 - - -
 
-[](<>)INTRODUCTION
+INTRODUCTION
 
 The 104th Congress is considering the Omnibus Budget Reconciliation Act of 1995, (the "budget bill") which seeks to balance the federal budget by the year 2002, significantly restructure the Medicaid and Medicare programs, reform federal welfare programs, and provide substantial tax relief to many taxpayers. Medicaid and Medicare are among the fastest growing sectors of the federal budget. Because Medicaid expenses are shared between the federal government and the states, many governors have called for reforms in the program. Medicare is a federal program that the trustees of the Medicare Trust Fund have forecasted will be in bankruptcy by 2002 under current law. While Medicare and Medicaid spending represent 17% of the annual federal budget, 45% of the spending reductions necessary to balance the federal budget by 2002 will come from these two programs under the current version of the budget bill.
 
 - - -
 
-[](<>)THE CURRENT MEDICAID PROGRAM
+THE CURRENT MEDICAID PROGRAM
 
 The Medicaid program is the primary federal program providing health and long-term care to low-income families, the elderly, and people with disabilities. Of the 36 million people covered by Medicaid, 4.9 million are children or adults who are blind or have other significant disabilities. In fact, 15% of Medicaid beneficiaries (blind and disabled) accounted for 39% of expenditures in 1993. Medicaid is a means-tested entitlement program that is funded by states and the federal government and is administered by the states. People who meet federal eligibility criteria are entitled to be covered by the program (i.e., people receiving Supplemental Security Income "SSI" or pregnant women and children with incomes under a certain level of poverty), but states determine additional financial eligibility criteria and have the option of covering additional groups of individuals. States that meet the federal eligibility and benefit guidelines receive federal matching payments ranging from 50% to 80%, depending upon the state's per capita income and other factors.
 
@@ -168,7 +168,7 @@ The human side of the Medicaid program is compelling. Medicaid serves as the fin
 
 - - -
 
-[](<>)THE CURRENT MEDICARE PROGRAM
+THE CURRENT MEDICARE PROGRAM
 
 Although Medicare serves the health care needs of approximately 36 million senior citizens, the program also covers 4.2 million people with disabilities below 65 years of age. These people with disabilities qualify for Medicare coverage through the Social Security Disability Insurance (SSDI) program after a two-year waiting period, through the End Stage Renal Disease (ESRD) program after their private insurance is exhausted, or as a disabled dependent of a retired, deceased, or disabled worker. Eligibility is based on work history and other eligibility criteria.
 
@@ -178,7 +178,7 @@ According to the Congressional Budget Office (C.B.O.), over 90 percent of Medica
 
 - - -
 
-[](<>)THE IMPORTANCE OF PRIVATE INSURANCE REFORMS
+THE IMPORTANCE OF PRIVATE INSURANCE REFORMS
 
 The National Council on Disability (NCD) has a strong interest in reform of our nation's health care system based on the disability community's principles of nondiscrimination, comprehensive-ness, appropriateness, equity and efficiency. Only through reforms based on these principles can we ensure that our nation's health system serves the needs of all Americans, including Americans with disabilities. See, *"Making Health Care Reform Work for Americans with Disabilities: Summary Information on Five "Town Meetings" on Health Care Reform" A Report to the President and the Congress of the United States*, NCD, July 26, 1994.
 
@@ -186,7 +186,7 @@ The dramatic growth in the Medicaid and Medicare programs can be attributed, in 
 
 - - -
 
-[](<>)STATEMENT OF POLICY
+STATEMENT OF POLICY
 
 NCD recognizes the need to reduce the rate at which the costs of the Medicaid and Medicare programs are rising and supports constructive change in these programs to promote the goals of enhanced coverage and quality, increased efficiency, elimination of fraud, waste, and abuse, and delivery of benefits that meet the health and long-term care needs of people with disabilities and chronic illnesses. NCD believes that Medicaid and Medicare changes must be enacted in the context of system-wide reform in order to maintain the quality and effectiveness of our nation's health care system. Further, if the national goals of independence, economic self-sufficiency, and inclusion of people with disabilities--embodied in the Americans with Disabilities Act of 1990--are to become a reality, access to affordable and quality health care is a necessity.
 
@@ -196,13 +196,13 @@ The proposals also fail to promote the cross-subsidization which is necessary to
 
 - - -
 
-[](<>)THE PROPOSED MEDICAID REFORMS
+THE PROPOSED MEDICAID REFORMS
 
 The Medicaid provisions included in the House and Senate versions of the budget bill represent dramatic change in the nation's health care program for low income families, children, and people with disabilities. Congress proposes to reduce spending in the Medicaid program by $170 billion over the seven-year period ending in 2002 by completely eliminating the individual entitlement to Medicaid coverage in the House budget bill and reducing the rate at which program spending increases in future years. In the Senate, the budget bill calls for the same level of savings but proposes to continue some form of individual federal Medicaid entitlement for certain pregnant mothers, children through the age of 12, and people with disabilities.
 
 The House and Senate bills would place a cap on federal Medicaid payments to states based on a complex funding formula designed to bring the rate of annual Medicaid growth down to approximately 4.5 percent. Federal Medicaid funds would be sent to the states in the form of block grants with few federal requirements for use of federal dollars. Medicaid is the largest single source of federal funds to the states and many of the nation's governors support the block grant approach. They have assured Congress that by allowing the states flexibility in the design and implementation of their Medicaid programs, the states will adequately provide for the health and long-term care needs of their residents.
 
-[](<>)Recommendation No. 1: The National Council on Disability recommends that Congress significantly reduce the level of proposed Medicaid cuts over the next seven years in order to ensure the continued vital assistance that Medicaid provides to people with disabilities.
+Recommendation No. 1: The National Council on Disability recommends that Congress significantly reduce the level of proposed Medicaid cuts over the next seven years in order to ensure the continued vital assistance that Medicaid provides to people with disabilities.
 
 The Consequences of the Proposed Medicaid Changes
 
@@ -230,13 +230,13 @@ Reductions in the rate of growth of Medicaid spending could be achieved in a num
 
 The Senate version of the budget bill retains a guarantee of Medicaid coverage to certain low-income pregnant mothers, children through the age of 12, and people with disabilities. The definition of "people with disabilities" in the Senate bill relies on the SSI definition of disability (as amended by the welfare bill) which currently applies to 3.9 out of 4.9 million people with disabilities receiving Medicaid services. This individual federal Medicaid entitlement for people with disabilities has been strongly opposed by many of the nation's governors who would prefer that the definition of disability be determined on a state by state basis, or that no federal entitlement remain for people with disabilities.
 
-[](<>)**Recommendation No. 2: The National Council on Disability recommends that Congress retain the current individual federal entitlement to Medicaid and not block grant this vital program to the states. To control the rate of growth in Medicaid spending, options such as a per capita cap on federal Medicaid dollars and incentives for home and community-based care--instead of institutional care--should be considered. The Senate language, which only retains the individual federal entitlement for people with disabilities and other at-risk populations, is a major setback from current law and is only supportable in comparison to the complete elimination of the individual federal Medicaid entitlement as in the House bill. Any significant changes in the Medicaid program should be phased-in to ensure a smooth transition for Medicaid beneficiaries.**
+**Recommendation No. 2: The National Council on Disability recommends that Congress retain the current individual federal entitlement to Medicaid and not block grant this vital program to the states. To control the rate of growth in Medicaid spending, options such as a per capita cap on federal Medicaid dollars and incentives for home and community-based care--instead of institutional care--should be considered. The Senate language, which only retains the individual federal entitlement for people with disabilities and other at-risk populations, is a major setback from current law and is only supportable in comparison to the complete elimination of the individual federal Medicaid entitlement as in the House bill. Any significant changes in the Medicaid program should be phased-in to ensure a smooth transition for Medicaid beneficiaries.**
 
 The Private Right of Action and Application of Federal Civil Rights Law
 
 The House Medicaid proposal expressly denies a private citizen--including a beneficiary, a provider, or a health plan--the right to bring a federal cause of action against a state to enforce compliance with provisions of the Medicaid program. This proposal removes the existing right of a Medicaid beneficiary to sue to require enforcement of the Medicaid statute and regulations. The Americans with Disabilities Act of 1990 and the Rehabilitation Act of 1973 would no longer be available to Medicaid beneficiaries with disabilities in challenging the Medicaid decisions of states. Provisions eliminating the federal cause of action were struck from the Senate bill before passage.
 
-[](<>)Recommendation No. 3: The National Council on Disability recommends that Congress maintain the existing federal private right of action against states to enforce compliance with the Medicaid statute and regulations and to ensure that state Medicaid programs fully comply with the Americans with Disabilities Act of 1990 and the Rehabilitation Act of 1973.
+Recommendation No. 3: The National Council on Disability recommends that Congress maintain the existing federal private right of action against states to enforce compliance with the Medicaid statute and regulations and to ensure that state Medicaid programs fully comply with the Americans with Disabilities Act of 1990 and the Rehabilitation Act of 1973.
 
 Consumer Representation in Decision-Making
 
@@ -244,7 +244,7 @@ With the emphasis on state flexibility, the nexus of decision-making will devolv
 
 To promote greater public accountability, it is critical that representatives of consumer groups, particularly people with disabilities, are accounted for and actively participate in every level of decision-making concerning the provision of health and long-term services and supports to each states' Medicaid population. Consumers should be represented on all state, regional, and local advisory boards, policy panels, and Medicaid committees. This includes the creation of ombudspersons to represent the interests of consumers within each state's Medicaid program and in all managed care plans serving Medicaid beneficiaries. The current versions of Medicaid reforms are wholly inadequate with regard to consumer participation.
 
-[](<>)Recommendation No. 4: The National Council on Disability recommends that Congress include specific provisions in its Medicaid reforms to ensure the active participation of persons with disabilities at every level of decision-making in the Medicaid program.
+Recommendation No. 4: The National Council on Disability recommends that Congress include specific provisions in its Medicaid reforms to ensure the active participation of persons with disabilities at every level of decision-making in the Medicaid program.
 
 The Elimination of Federal Standards in Nursing Homes and Managed Care Plans
 
@@ -252,11 +252,11 @@ The House proposal dramatically reduces, and in some cases, eliminates consumer 
 
 The House and Senate proposals permit states to shift Medicaid beneficiaries into managed care plans with inadequate consumer protections related to access and quality of care. For instance, the proposals eliminate the federal requirement that managed care plans which serve Medicaid beneficiaries must maintain at least 25% of their enrollees as private purchasers of health coverage. In addition, the health status of people with disabilities who are often underserved in capitated health plans may be placed at risk under provisions that allow states to use mandatory managed care for Medicaid beneficiaries. In fact, HCFA recently denied a waiver request from New York City based on federal civil rights law to use mandatory managed care for its Medicaid population until it could demonstrate appropriate quality assurance protections for people with disabilities.
 
-[](<>)Recommendation No. 5: The National Council on Disability recommends that federal standards of consumer protection and quality assurance be maintained in Medicaid-funded facilities--such as nursing homes, ICFs-MR, and community-based programs--and in all Medicaid-funded managed care. Managed care should be an "option" and not the only choice for Medicaid beneficiaries with disabilities and should include strong protections for timely and appropriate access to all necessary services, supports, and providers.
+Recommendation No. 5: The National Council on Disability recommends that federal standards of consumer protection and quality assurance be maintained in Medicaid-funded facilities--such as nursing homes, ICFs-MR, and community-based programs--and in all Medicaid-funded managed care. Managed care should be an "option" and not the only choice for Medicaid beneficiaries with disabilities and should include strong protections for timely and appropriate access to all necessary services, supports, and providers.
 
 - - -
 
-[](<>)THE PROPOSED MEDICARE REFORMS
+THE PROPOSED MEDICARE REFORMS
 
 Currently, Medicare beneficiaries may choose any provider and/or specialist they wish under the fee-for-service Medicare program or can choose to enter into the Medicare Risk Contract Program to receive health care through a managed care plan. The Congressional leadership's Medicare proposals represent a substantial restructuring of the nation's health program for senior citizens and people with disabilities under 65 years of age. Congress proposes to reduce spending in the Medicare program by $270 billion over the seven-year period ending in 2002 by sharply reducing the rate of growth in fees to hospitals and other providers, creating incentives to shift large numbers of beneficiaries from the Medicare fee-for-service program into private managed care plans, and by increasing the share that beneficiaries will pay under the program. The House and Senate bills are designed to bring annual Medicare growth in spending down from just over 10 percent to approximately 7 percent.
 
@@ -268,7 +268,7 @@ Under the Medicare proposals, some beneficiaries will spend significantly more f
 
 While this approach may be effective in reducing the growth of Medicare spending, these significant fee reductions for Medicare providers will likely cause access and quality concerns for Medicare beneficiaries. Access concerns are raised when Medicare provider fees become so low in comparison to other payors that providers simply refuse to treat Medicare patients. Quality concerns are raised as providers cut corners in the provision of care (i.e., shortened office visits; less comprehensive examinations) in order to limit the impact of lower reimbursement levels.
 
-[](<>)Recommendation No. 6: The National Council on Disability recommends a significant reduction in the proposed level of spending cuts to be taken out of the Medicare program in order to maintain access and quality of health care services for people with disabilities.
+Recommendation No. 6: The National Council on Disability recommends a significant reduction in the proposed level of spending cuts to be taken out of the Medicare program in order to maintain access and quality of health care services for people with disabilities.
 
 Managed Care and People with Disabilities
 
@@ -288,7 +288,7 @@ Unfortunately, the current version of the Senate bill does not prohibit managed 
 
 The Medicare proposals maintain the long-standing prohibition against balance billing in the fee-for-service program and in Medicare managed care plans, but the federal prohibition against balance billing will be eliminated for all out-of-network services accessed by Medicare managed care beneficiaries. Balance billing occurs when a physician or other Medicare provider is allowed to charge the patient directly for the difference between the amount that Medicare pays and the provider's customary fee. This provision will likely lead to increased out-of-pocket expenses for Medicare managed care beneficiaries who access out-of-network services or providers, particularly where there is a lack of competition in the managed care marketplace.
 
-[](<>)Recommendation No. 7: The National Council on Disability recommends that the premium collected by Medicare managed care plans be limited to the government contribution for the individual beneficiary, adjusted for the age and health status of the enrollee. NCD further recommends that Congress maintain the provisions related to guaranteed issue and renewability of Medicare managed care plans and continue the prohibition against balance billing throughout the Medicare program.
+Recommendation No. 7: The National Council on Disability recommends that the premium collected by Medicare managed care plans be limited to the government contribution for the individual beneficiary, adjusted for the age and health status of the enrollee. NCD further recommends that Congress maintain the provisions related to guaranteed issue and renewability of Medicare managed care plans and continue the prohibition against balance billing throughout the Medicare program.
 
 Medical Savings Accounts May Act as a Drain on the Medicare Trust Fund
 
@@ -298,7 +298,7 @@ Medicare beneficiaries would be expected to pay for the cost of health services 
 
 From a disability perspective, this proposal could result in a drain of health dollars out of the Medicare Part A Trust Fund at a time when the long term solvency of this Fund is at genuine risk. Establishing MSAs in the Medicare program sets a bad precedent for the private insurance market, where adverse selection becomes a problem for people with disabilities. In the Senate, the Medicare MSA proposal was dropped from the budget bill under the "Byrd" rule because it would have increased the federal deficit by $3.5 billion over seven years.
 
-[](<>)Recommendation No. 8: The National Council on Disability recommends that Congress reject Medicare Medical Savings Accounts. If Medicare MSAs are authorized, however, Congress should risk adjust the capitated government contribution toward MSAs and strictly limit the use of MSA funds to health, long-term care, and independent living expenses only.
+Recommendation No. 8: The National Council on Disability recommends that Congress reject Medicare Medical Savings Accounts. If Medicare MSAs are authorized, however, Congress should risk adjust the capitated government contribution toward MSAs and strictly limit the use of MSA funds to health, long-term care, and independent living expenses only.
 
 Quality Assurance in Medicare Managed Care Plans
 
@@ -308,7 +308,7 @@ Another important quality assurance mechanism is the requirement that Medicare m
 
 The Senate proposal includes a provision that requires all closed-panel plans serving Medicare beneficiaries to offer a point-of-service option at the time of enrollment. Under the Senate bill, however, the beneficiary could be liable for as much as 100% of the cost of care received outside the managed care network, a major disincentive for accessing out-of-network providers. A point-of-service option must not be allowed to take pressure off the managed care plan to provide appropriate care or pay for the out-of-network referral if the managed care plan cannot provide it. The House bill does not address the point-of-service issue.
 
-[](<>)Recommendation No. 9: The National Council on Disability recommends that the 30-day disenrollment provision be maintained in order to ensure that Medicare managed care plans provide access, quality, and accountability to all Medicare beneficiaries. In addition, Medicare managed care plans should ensure access to out-of-network providers through an affordable point-of-service option.
+Recommendation No. 9: The National Council on Disability recommends that the 30-day disenrollment provision be maintained in order to ensure that Medicare managed care plans provide access, quality, and accountability to all Medicare beneficiaries. In addition, Medicare managed care plans should ensure access to out-of-network providers through an affordable point-of-service option.
 
 Shifting to Managed Care Requires Federal Standards to Ensure Access and Quality
 
@@ -318,17 +318,17 @@ The Medicare and Medicaid managed care standards at issue include the disenrollm
 
 Ensuring access to specialty care is a primary concern of people with disabilities in managed care plans. The point-of-service option described above is an effective method of improving access to specialists but additional consumer safeguards are necessary. These safeguards include provisions allowing beneficiaries with disabilities and chronic illnesses to choose a specialist as a primary care "gatekeeper," allowing direct and ongoing access to specialists when medically indicated, ensuring access to centers of specialized treatment expertise, and the prohibition of physician incentive plans that reward physicians for not making referrals to specialists.
 
-[](<>)Recommendation No. 10: The National Council on Disability recommends the inclusion in the Medicare and Medicaid proposals of federal standards for managed care plans. These standards should address the critical issues of access and quality of care for Medicare and Medicaid beneficiaries with disabilities and chronic illnesses who enroll in managed care plans. Without adequate quality assurance standards, managed care is likely to be discriminatory against people with disabilities in the near term and against all people in managed care over time.
+Recommendation No. 10: The National Council on Disability recommends the inclusion in the Medicare and Medicaid proposals of federal standards for managed care plans. These standards should address the critical issues of access and quality of care for Medicare and Medicaid beneficiaries with disabilities and chronic illnesses who enroll in managed care plans. Without adequate quality assurance standards, managed care is likely to be discriminatory against people with disabilities in the near term and against all people in managed care over time.
 
 - - -
 
-[](<>)CONCLUSION
+CONCLUSION
 
 NCD encourages Congress and the President to assess in detail the far-reaching impact of the current Medicare and Medicaid proposals on people with disabilities and chronic illnesses. NCD welcomes the opportunity to advise policymakers as to the disability perspective on Medicare and Medicaid issues and provides these recommendations for your consideration.
 
 - - -
 
-[](<>)APPENDIX A: SUMMARY RECOMMENDATIONS
+APPENDIX A: SUMMARY RECOMMENDATIONS
 
 Recommendation No. 1: The National Council on Disability recommends that Congress significantly reduce the level of proposed Medicaid cuts over the next seven years in order to ensure the continued vital assistance that Medicaid provides to people with disabilities.
 
@@ -352,7 +352,7 @@ Recommendation No. 10: The National Council on Disability recommends the inclusi
 
 - - -
 
-[](<>)APPENDIX B: NCD: A BRIEF DESCRIPTION
+APPENDIX B: NCD: A BRIEF DESCRIPTION
 
 Overview and Purpose
 

@@ -100,7 +100,7 @@ Report 9. Summary of Recommendations from Three Regional Public Forums
 
 - - -
 
-[](<>)
+
 
 **MISSION OF THE NATIONAL COUNCIL ON DISABILITY**
 
@@ -122,7 +122,7 @@ While many government agencies deal with issues and programs affecting people wi
 
 - - -
 
-[](<>)
+
 
 **NATIONAL COUNCIL ON DISABILITY, MEMBERS AND STAFF***
 
@@ -158,7 +158,7 @@ Lorraine Williams, Office Automation Clerk
 
 - - -
 
-[](<>)
+
 
 **MEMBERS OF THE ADVISORY COMMITTEE**
 
@@ -182,7 +182,7 @@ Rachel Wobschall, St. Paul, Minnesota
 
 - - -
 
-[](<>)
+
 
 **PROJECT STAFF**
 
@@ -230,7 +230,7 @@ Jenifer Simpson
 
 - - -
 
-[](<>)
+
 
 **EXECUTIVE SUMMARY**
 
@@ -462,7 +462,7 @@ These recommendations represent the urgent voices of people with disabilities an
 
 - - -
 
-[](<>)
+
 
 **INTRODUCTION**
 
@@ -505,7 +505,7 @@ This report is the outcome of 19 months of research. It consists of a review of 
 
 - - -
 
-[](<>)
+
 
 **DEFINITION OF ASSISTIVE TECHNOLOGY DEVICES AND SERVICES**
 
@@ -529,7 +529,7 @@ For the purpose of this study, the definition of assistive technology devices an
 
 - - -
 
-[](<>)
+
 
 **A NEW DEFINITION OF DISABILITY**
 
@@ -594,7 +594,7 @@ For the purposes of this study, individuals with disabilities of all ages, from 
 
 - - -
 
-[](<>)
+
 
 **DEFINING THE PROBLEM**
 
@@ -610,7 +610,7 @@ The Council is committed to the challenge of ensuring that children, youth, and 
 
 - - -
 
-[](<>)
+
 
 **STATEMENT OF FINDINGS**
 
@@ -628,7 +628,7 @@ The research of the Council has been reviewed, analyzed, and synthesized into a 
 
 - - -
 
-[](<>)
+
 
 **RESEARCH FINDINGS**
 
@@ -684,7 +684,7 @@ There is no one answer to the complex problem of assistive technology funding fo
 
 - - -
 
-[](<>)
+
 
 **Table 1**
 
@@ -784,7 +784,7 @@ There is no one answer to the complex problem of assistive technology funding fo
 
 - - -
 
-[](<>)
+
 
 **STATEMENT OF RESEARCH FINDINGS**
 
@@ -871,7 +871,7 @@ Despite oversight requirements, there has been only a limited effort at the fede
 
 - - -
 
-[](<>)
+
 
 **Table 2**
 
@@ -985,7 +985,7 @@ There are no incentives in current federal policy either to encourage the poolin
 
 - - -
 
-[](<>)
+
 
 **Table 3**
 
@@ -1148,7 +1148,7 @@ For a discussion of the benefit-cost study design and results, see Supplementary
 
 - - -
 
-[](<>)
+
 
 **Table 4**
 
@@ -1304,7 +1304,7 @@ The Council's analysis, "Equality of Access to Knowledge Through Telecommunicati
 
 - - -
 
-[](<>)
+
 
 **POLICY RECOMMENDATIONS**
 
@@ -1388,7 +1388,7 @@ Table 5, "Assistive Technology Funding Access: System Reform Options," on page 6
 
 - - -
 
-[](<>)
+
 
 **Table 5**
 
@@ -1905,7 +1905,7 @@ Table 6, "Federal Income Tax Recommendations for Assistive Technology," summariz
 
 - - -
 
-[](<>)
+
 
 **Table 6**
 
@@ -2015,7 +2015,7 @@ Jurisdiction: Senate Committee on Commerce, Science and Transportation; House Co
 
 - - -
 
-[](<>)
+
 
 **TOPICS FOR FURTHER RESEARCH**
 
@@ -2052,7 +2052,7 @@ In Recommendation 13 of this study, the Council asked the Department of the Trea
 
 - - -
 
-[](<>)
+
 
 **CONCLUSION**
 
@@ -2072,7 +2072,7 @@ In 1982, the Office of Technology Assessment raised many of the same implication
 
 - - -
 
-[](<>)
+
 
 **REFERENCES**
 

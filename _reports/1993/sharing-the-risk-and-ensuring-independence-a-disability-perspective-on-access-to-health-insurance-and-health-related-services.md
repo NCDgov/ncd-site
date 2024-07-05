@@ -101,7 +101,7 @@ APPENDIX
 
 - - -
 
-[](<>)
+
 
 **Mission of the National Council on Disability**
 
@@ -123,7 +123,7 @@ While many government agencies deal with issues and programs affecting people wi
 
 - - -
 
-[](<>)
+
 
 **National Council on Disability, Members and Staff***
 
@@ -158,7 +158,7 @@ Lorraine Williams, Office Automation Clerk
 
 - - -
 
-[](<>)
+
 
 **Members of the Advisory Committee**
 
@@ -183,7 +183,7 @@ Irving Kenneth Zola, Ph.D., Waltham, Massachusetts
 
 - - -
 
-[](<>)
+
 
 **Project Staff**
 
@@ -214,7 +214,7 @@ Jane West and Associates
 
 - - -
 
-[](<>)
+
 
 **Executive Summary**
 
@@ -400,7 +400,7 @@ The problems persons with disabilities face in accessing health insurance and he
 
 - - -
 
-[](<>)
+
 
 A Disability Perspective on Health Insurance
 
@@ -424,7 +424,7 @@ A disability perspective on health care reform can inform this debate by providi
 
 - - -
 
-[](<>)
+
 
 **BACKGROUND AND INTRODUCTION TO THE REPORT**
 
@@ -441,7 +441,7 @@ The Council intends to engage policymakers, the disability community, and others
 
 - - -
 
-[](<>)
+
 
 **FINDINGS ON BARRIERS TO HEALTH INSURANCE AND HEALTH-RELATED SERVICES**
 
@@ -619,7 +619,7 @@ As the debate moves forward, persons with disabilities, advocates, and others ha
 
 - - -
 
-[](<>)
+
 
 **RECOMMENDATIONS OF THE NATIONAL COUNCIL**
 
@@ -639,7 +639,7 @@ The recommendations developed by the Council are designed to respond to the stud
 * Develop an integrated and coordinated delivery system.
 * Establish a research agenda of disability and health issues.
 
-[](<>)
+
 
 **A. Expand Access to Health Insurance**
 
@@ -745,7 +745,7 @@ States currently have the option of implementing Medicaid buy-in programs under 
 
 The Medicaid buy-in can have other important implications. Persons with disabilities who are currently receiving Medicaid report that they often turn down employment because the insurance coverage, if available, would be insufficient to meet their needs as well as Medicaid does. Under a Medicaid buy-in, many persons with disabilities would likely seek and obtain employment not otherwise accessible to them because of unavailable or inadequate insurance. The buy-in could also permit employers to pay the premium on behalf of eligible employees. The advantages of such provisions include potential savings to the SSI program as people achieve economic self-sufficiency, in addition to improved self-esteem, mental and physical health, and independence.
 
-[](<>)
+
 
 **B. Reduce Barriers to Employment**
 
@@ -761,7 +761,7 @@ Like Medicaid, Medicare limits earning levels for its beneficiaries with disabil
 
 > *Extending Section 1619 provisions to Medicare would reduce employment disincentives for Medicare beneficiaries.*
 
-[](<>)
+
 
 **C. Improve Adequacy of Health Services Coverage**
 
@@ -805,7 +805,7 @@ Expanding personal assistance services could have far-reaching benefits. The ava
 
 > *The availability of personal assistance and assistive technology will reduce hospitalization and institutionalization for many persons with disabilities.*
 
-[](<>)
+
 
 **D. Develop an Integrated and Coordinated Delivery System**
 
@@ -845,7 +845,7 @@ In order to better serve the population with disabilities, health-professional t
 
 Such a curriculum should be an integral component of a broader educational approach to providers of health services that includes curing, restoring, and maintaining functional capacity. By studying the needs of persons with disabilities and the importance of ongoing services to maintain health, providers may gain insight and perspective on their role in promoting health outcomes in the larger community.
 
-[](<>)
+
 
 **E. Establish a Research Agenda of Disability and Health Issues**
 
@@ -903,7 +903,7 @@ Americans with disabilities find that the acute care orientation of the health c
 
 - - -
 
-[](<>)
+
 
 **NATIONAL COUNCIL MEMBER AND STAFF BIOGRAPHIES**
 

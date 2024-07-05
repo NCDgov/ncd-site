@@ -156,7 +156,7 @@ APPENDIX
 
 - - -
 
-[](<>)
+
 
  
 
@@ -252,7 +252,7 @@ NCD's 2002 *Progress Report* contains the following major findings and recomme
 
 *Recommendations*-Emergency preparedness planning around the country presents many issues relating to the inclusion of people with disabilities. All too often a sense of urgency leads to the legitimate concerns of this sector of the population being swept aside. Yet in areas ranging from the accessibility of emergency information to the evacuation plans for high-rise buildings, great urgency surrounds the need for preparedness planning to be done inclusively. The report cannot make detailed recommendations, given the variety of issues already brought to our attention. Instead, we give several examples of effective planning and strive to create awareness and discussion of the issues, as part of the evolving national response to the threats that all too tragically characterize our age.
 
-[](<>)
+
 
 **PART I\
 Introduction: Major Trends**
@@ -313,7 +313,7 @@ Reflexive budget cutting, though an understandable reaction to short-term crises
 
 But public officials, however beleaguered, cannot be allowed to evade responsibility for the long-term implications of their decisions.
 
-[](<>)
+
 
 **Disability Statistics and Research**
 
@@ -383,7 +383,7 @@ Third and finally, many measures in disability policy are likely to have positiv
 
 For all these reasons, NCD recommends that the CBO undertake a review of these issues, including the extent to which it can seek input directly from individuals with disabilities on issues of concern to their lives, the extent to which nonfiscal impacts can be captured by existing scoring assumptions and methodologies, the feasibility of rescoring selected existing programs where appropriate, and the capacity of current techniques to reliably take longer-term forecasts and extrapolations and cross-agency budget relationships into account. The CBO should report to Congress and to the nation on its findings at the earliest possible time, and should be given the resources needed to gather the expertise it will need to authoritatively answer these key questions in forming public policy.
 
-[](<>)
+
 
 **Civil Rights**
 
@@ -481,7 +481,7 @@ In anticipation of this report, NCD has become increasingly concerned with the e
 
 NCD recommends that DOJ publicly affirm its commitment to the principles and the use of Section 504 as an important instrument for ensuring full access and civil rights for all citizens. In this connection, we also recommend that the Administration revitalize and empower the Interagency Disability Coordinating Council as a major vehicle for the coordination of Section 504 policy and implementation among the numerous federal agencies that must be engaged if the law is to achieve its full potential.
 
-[](<>)
+
 
 
 
@@ -607,7 +607,7 @@ In 2002, ED commenced an effort with various stakeholders to develop voluntary t
 
 Assuming that viable standards can be developed, NCD recommends that ED make these standards mandatory. We believe that federal law, including Title II of ADA and Sections 504 and 508 of the Rehabilitation Act, as well as provisions of IDEA, supports such action. In any event, the IDEA reauthorization should include provisions making clear that accessibility of textbooks and other educational media and materials is required, no less than accessible building entrances are. Accordingly, NCD recommends that ED take steps to implement regulations making mandatory such textbook accessibility standards as its current voluntary consensus-building effort yields, and if its efforts result in no such consensus, that the department nevertheless adopt suitable regulations by no later than the end of 2003, based on the findings made and the best practices discovered during the next year.
 
-[](<>)
+
 
 
 
@@ -723,7 +723,7 @@ Through close supervision, case management and coordinated provision of necessar
 
 At a time when rising prison populations are coming under scrutiny in states facing budget crises, measures that combine the protection of society with the more appropriate treatment of offenders are increasingly worthy of exploration and development. For people with disabilities, whose imprisonment is likely to accomplish little by way of meaningful punishment, rehabilitation or deterrence, the need for alternatives is especially great. Provided that coercive participation, compulsory treatment and other counterproductive measures can be avoided, such programs as the mental health courts should hold out potential of reducing the costs of incarceration, protecting society from crime and contributing to the return to a fuller participation in society of a substantial number of persons. Such an opportunity should not be missed, but until data are made available on what the program has done and learned so far, planning for additional measures remains tentative. We recommend that DOJ seize the opportunity offered here to help develop the most effective possible interplay between the criminal justice and mental health systems, bearing in mind that even a public mental health system that operates far short of the ideal is still in most cases superior to prison, brutalization and recidivism for persons who can readily be spared a life of futility or crime.
 
-[](<>)
+
 
 
 
@@ -779,7 +779,7 @@ The prospect in many states of huge cuts in Medicaid to help close budget defici
 
 More broadly, NCD recommends that the Administration conduct and publish a comprehensive audit of all state-based*Olmstead* implementation activities, designed to describe what has worked, to name names of states that have been successful or that have at least tried as well as of those that have not, and to make certain that citizens and voters are as fully informed as possible about the values at stake in the responsiveness or unresponsiveness of their state officials and leaders. Anecdotal information about state responses to *Olmstead* suggests that neither partisan affiliation nor position of the state government on the ideological spectrum is a predictor of states' responses. Only when we know what has worked, why some states have embraced *Olmstead* and others not and why some have met with noticeably more success than others can we hope to engender the galvanized response so desperately needed if the transition and deinstitutionalization that *Olmstead* betokens can reach critical mass across our nation.
 
-[](<>)
+
 
 
 
@@ -839,7 +839,7 @@ The environment for labor market entrants today is as grim as any time in the pa
 
 With WIA also due for reauthorization, the question of whether or not and in what form these local youth councils should be continued takes on new importance. As part of the reauthorization process, NCD recommends that Congress seek testimony from young workers to determine how their input into the operation of programs affecting them can be most usefully provided, and how such programs can be most effectively designed and implemented.
 
-[](<>)
+
 
 
 
@@ -922,7 +922,7 @@ Tax policy will likely play a pivotal role in economic recovery and growth propo
 
 Pending details of the economic stimulus tax proposals, discussion of specific recommendations would be premature. Historically, there has been no consideration of inclusion of persons with disabilities in the development of such proposals. NCD offers its resources and expertise to the Administration and Congress in developing proposals that will reach the greatest number of intended beneficiaries, and we are confident that with attention to the details of stimulus proposals, the goals of economic recovery and of the New Freedom Initiative can be simultaneously and reciprocally advanced.
 
-[](<>)
+
 
 
 
@@ -964,7 +964,7 @@ A final consideration relates to an issue of unique importance to many welfare r
 
 Welfare reform rests on three interrelated premises: that returning people to work is economically good for the federal budget, that it is morally good for the recipients and that former welfare recipients can be assisted to live independently and with dignity. The issues raised and suggestions made in this chapter are predicated upon these values. For those who believe (particularly as welfare reform prepares to enter its second phase) that success must involve more than simply purging the rolls, we believe these recommendations will contribute to an effective and humane process.
 
-[](<>)
+
 
 
 
@@ -1060,7 +1060,7 @@ This being so, the basic question for any HUD strategic plan is not how this or 
 
 Without a strategic plan for anticipating and meeting this rising tidal wave of need, HUD must at least begin to marshal the best thinking and best practices that can be brought to bear from around the country. NCD recommends that a high-level national commission be appointed by the President and Congress to study America's housing needs over the next generation and to make detailed recommendations for how they can be met. Deliberations of the commission should include ways that the variety of federal involvements in the private housing market can be used, noncoercively but effectively, to encourage accessibility; how disclosure and lending practices can be modified to raise awareness of and clarify informational requirements pertaining to accessibility; how the significant tax subsidization of residential real estate can be refined to promote greater accessibility; how contractor, architect and other licensing requirements can be updated to ensure full awareness of contemporary design possibilities and available materials; how intergenerational or cooperative housing ventures can be used to enhance accessibility and community participation; and how coordination with other systems can be structured to maximize the goals of community living and aging-in-place.
 
-[](<>)
+
 
 
 
@@ -1158,7 +1158,7 @@ A related issue concerns the right to next-day service. Two cases on this subjec
 
 As local and state budgetary problems lead to cutbacks in fixed-route mass transit service, more and more people with disabilities are likely to need paratransit services owing to increased difficulties, ranging from longer periods waiting in extreme hot or cold to increased personal security concerns at isolated stops. Transit agencies are likely to make increased use of trip-eligibility criteria or to try to impose longer advance-notice requirements for trip requests. Under these circumstances, whatever the TEA-21 reauthorization ultimately specifies, DOT must be all the more vigilant in maintaining the fairness and effectiveness of paratransit while maximizing its flexibility in dealing with new needs and potential new customers.
 
-[](<>)
+
 
 
 
@@ -1326,7 +1326,7 @@ The E-Government Act represents nothing less than the preference for electronic 
 
 If done right, e-government will be one of the greatest forces for inclusion and empowerment in our history. If e-government is done wrong, Americans with disabilities may be condemned for generations to inequality, isolation and despair. For their sakes as individuals and for the sake of our society that so greatly needs their diverse skills and energies, we must make sure it is done right.
 
-[](<>)
+
 
 
 
@@ -1376,7 +1376,7 @@ Beyond the answers to specific questions such as these, more fundamental questio
 
 To deal with these issues systematically, NCD recommends that the Office of the U.S. Trade Representative establish procedures for assessing the disability policy implications of all trade agreements and negotiations. Trade policy can be an effective and potentially profitable tool for encouraging development and use of assistive and accessible technology around the world, provided that trade policy and negotiations are informed with knowledge and awareness of the issues and possibilities.
 
-[](<>)
+
 
 
 
@@ -1408,7 +1408,7 @@ NCD stands ready to assist the new HSD with these and other matters of mutual co
 
 In order to ensure that civil rights issues receive the attention they need in the crucial formative days of new HSD systems and cultures, NCD recommends that the HSD designate a high-level official to act as liaison with NCD and with other federal agencies in relation to civil rights matters, and that the new department designate contact persons with department-wide authority for each of the major disability civil rights statutes of concern to citizens, employees or contractors with disabilities.
 
-[](<>)
+
 
 
 
@@ -1580,54 +1580,54 @@ NCD recommends that the HSD designate a high-level official to act as liaison wi
 
 
 
-### PART II [](<>)Major Activities Summary FY 2002
+### PART II Major Activities Summary FY 2002
 
 
 
-[](<>)
+
 
 The National Council on Disability (NCD) continues to be a leader in the development and analysis of disability civil rights policies that affect 54 million Americans with disabilities and their families. With a budget authorization of $2,830,000, NCD conducted numerous activities in fiscal year (FY) 2002. Those activities highlighted policies, programs, practices and procedures that guarantee equal opportunity for all individuals with disabilities, regardless of the nature or severity of the disability, from all cultural backgrounds. They also helped people with disabilities realize the promise of the Americans with Disabilities Act (ADA) by empowering them to achieve economic self-sufficiency, independent living, inclusion and integration into all aspects of society.
 
-[](<>)
+
 
 In FY 2002, NCD continued to review and evaluate new and emerging policy issues that impact people with disabilities. NCD continued to identify the overall needs and concerns of people with disabilities by conducting hearings, forums and conferences throughout the country, and by responding to thousands of telephone, e-mail and written inquiries on ADA and other disability civil rights issues.
 
-[](<>)
+
 
 NCD also continued its Disability Civil Rights Monitoring Project by releasing research and comprehensive reviews of the first 12 years of enforcement efforts under the 1988 Fair Housing Amendments Act and related legislation and of the first 27 years of enforcement efforts under Section 504 of the Rehabilitation Act of 1973, as amended.
 
-[](<>)
+
 
 The Disability Civil Rights Monitoring Project or Unequal Protection Under Law series grew out of NCD's 1996 national policy summit, where more than 300 disability community leaders from diverse backgrounds called upon NCD to work with federal agencies to develop strategies for greater enforcement of existing disability civil rights laws. On March 18, 1999, NCD produced its first report, *Enforcing the Civil Rights of Air Travelers with Disabilities*. The second report, *Back to School on Civil Rights*, on the enforcement of the Individuals with Disabilities Education Act, was issued on January 25, 2000. The third report, *Promises to Keep: A Decade of Federal Enforcement of the Americans with Disabilities Act*, was released on June 27, 2000. The fourth report, *The Accessible Future*, was issued on June 21, 2001. The fifth report,*Reconstructing Fair Housing*, was released on November 6, 2001. The enforcement reports to follow in this series will be on Section 504 of the Rehabilitation Act and the Civil Rights of Institutionalized Persons Act.
 
-[](<>)
+
 
 Major activities for FY 2002 also included the release of *Understanding the Role of an International Convention on the Human Rights of People with Disabilities, Supreme Court Decisions Interpreting the Americans with Disabilities Act, Position Paper on Genetic Discrimination Legislation, Principles for Genetic Discrimination Legislation*, and *Brief Amicus Curiae of the National Council on Disability in Support of Respondents, Chevron U.S.A. Inc. v. Mario Echazabal*.
 
-[](<>)
+
 
 In addition, six of President Bush's nominees to NCD were confirmed by the U.S. Senate: Lex Frieden, Houston, Texas; Robert R. Davila, Ph.D., Rochester, New York; Young Woo Kang, Ph.D., Munster, Indiana; Kathleen Martinez, Oakland, California; Carol Hughes Novak, Tampa, Florida; and Patricia Pound, Austin, Texas.
 
-[](<>)
+
 
 ### ACTIVITIES FOR FY 2002
 
-[](<>)
+
 
 NCD conducted a variety of activities in FY 2002 that significantly increased consumer input into public policy issues impacting people with disabilities and provided information on NCD's daily operations. A summary of those activities follows:
 
-[](<>)
+
 
 **NCD Evaluates HUD's Enforcement of Fair Housing**\
 November 6, 2001, Washington, DC
 
-[](<>)
+
 
 NCD conducted a news conference to highlight the release of its report on the U.S. Department of Housing and Urban Development's (HUD) fair housing enforcement at the National Press Club in Washington, DC.
 
-[](<>)
 
-[](<>)The report, *Reconstructing Fair Housing* ([/newsroom/publications/fairhousing.html](https://ncd.gov/newsroom/publications/fairhousing.html)), evaluates HUD's enforcement of the Fair Housing Amendments Act of 1988 and Section 504 of the Rehabilitation Act as they relate to housing for people with disabilities and HUD's overall record during the past 12 years in enforcing the civil rights of people with disabilities under these laws.
+
+The report, *Reconstructing Fair Housing* ([/newsroom/publications/fairhousing.html](https://ncd.gov/newsroom/publications/fairhousing.html)), evaluates HUD's enforcement of the Fair Housing Amendments Act of 1988 and Section 504 of the Rehabilitation Act as they relate to housing for people with disabilities and HUD's overall record during the past 12 years in enforcing the civil rights of people with disabilities under these laws.
 
 NCD found that despite legislation from1988 that mandated improving fair housing, fair housing enforcement remains an unfulfilled promise for Americans with disabilities.
 
@@ -1874,27 +1874,27 @@ August 19-20, 2002, Los Angeles, CA
 
 
 
-### APPENDIX [](<>)Mission of the National Council on Disability
+### APPENDIX Mission of the National Council on Disability
 
 
 
-[](<>)
+
 
 **Overview and Purpose**
 
-[](<>)
+
 
 The National Council on Disability (NCD) is an independent federal agency with 15 members appointed by the President of the United States and confirmed by the U.S. Senate. The overall purpose of NCD is to promote policies, programs, practices and procedures that guarantee equal opportunity for all individuals with disabilities, regardless of the nature or significance of the disability, and to empower individuals with disabilities to achieve economic self-sufficiency, independent living and inclusion and integration into all aspects of society.
 
-[](<>)
+
 
 **Specific Duties**
 
-[](<>)
+
 
 The current statutory mandate of NCD includes the following:
 
-[](<>)
+
 
 * Reviewing and evaluating, on a continuing basis, policies, programs, practices and procedures concerning individuals with disabilities conducted or assisted by federal departments and agencies, including programs established or assisted under the Rehabilitation Act of 1973, as amended, or under the Developmental Disabilities Assistance and Bill of Rights Act, as well as all statutes and regulations pertaining to federal programs that assist such individuals with disabilities, in order to assess the effectiveness of such policies, programs, practices, procedures, statutes and regulations in meeting the needs of individuals with disabilities.
 * Reviewing and evaluating, on a continuing basis, new and emerging disability policy issues affecting individuals with disabilities at the federal, state and local levels and in the private sector, including the need for and coordination of adult services, access to personal assistance services, school reform efforts and the impact of such efforts on individuals with disabilities, access to health care, and policies that act as disincentives for individuals to seek and retain employment.
@@ -1907,39 +1907,39 @@ The current statutory mandate of NCD includes the following:
 * Providing advice regarding priorities for the activities of the Interagency Disability Coordinating Council and reviewing the recommendations of this council for legislative and administrative changes to ensure that such recommendations are consistent with NCD's purpose of promoting the full integration, independence and productivity of individuals with disabilities.
 * Preparing and submitting to the President and Congress an annual report titled *National Disability Policy: A Progress Report*.
 
-[](<>)
+
 
 **International**
 
-[](<>)
+
 
 In 1995, NCD was designated by the Department of State to be the U.S. government's official contact point for disability issues. Specifically, NCD interacts with the special rapporteur of the United Nations Commission for Social Development on disability matters.
 
-[](<>)
+
 
 **Consumers Served and Current Activities**
 
-[](<>)
+
 
 Although many government agencies deal with issues and programs affecting people with disabilities, NCD is the only federal agency charged with addressing, analyzing and making recommendations on issues of public policy that affect people with disabilities regardless of age, disability type, perceived employment potential, economic need, specific functional ability, veteran status or other individual circumstance. NCD recognizes its unique opportunity to facilitate independent living, community integration and employment opportunities for people with disabilities by ensuring an informed and coordinated approach to addressing the concerns of people with disabilities and eliminating barriers to their active participation in community and family life.
 
-[](<>)
+
 
 NCD plays a major role in developing disability policy in America. In fact, NCD originally proposed what eventually became the Americans with Disabilities Act. NCD's present list of key issues includes improving personal assistance services, promoting health-care reform, including students with disabilities in high-quality programs in typical neighborhood schools, promoting equal employment and community housing opportunities, monitoring the implementation of ADA, improving assistive technology and ensuring that those persons with disabilities who are members of diverse cultures fully participate in society.
 
-[](<>)
+
 
 ### Statutory History
 
-[](<>)
+
 
 NCD was initially established in 1978 as an advisory board within the Department of Education (P.L. 95-602). The Rehabilitation Act Amendments of 1984 (P.L. 98-221) transformed NCD into an independent agency.
 
-[](<>)
+
 
 - - -
 
-[](<>)
+
 
 |                                                                                  |     |                                             |
 | -------------------------------------------------------------------------------- | --- | ------------------------------------------- |
@@ -1947,22 +1947,22 @@ NCD was initially established in 1978 as an advisory board within the Department
 |                                                                                  |     |                                             |
 | Official Business Penalty for Private Use, $300                                  |     |                                             |
 
-[](<>)
+
 
 ADDRESS CORRECTION REQUESTED
 
-﻿ ﻿﻿﻿[](<>)
+﻿ ﻿﻿﻿
 
 - - -
 
-[](<>)
+
 
 |     |
 | --- |
 
-[](<>)
 
-[](<>)1Promises to Keep: A Decade of Federal Enforcement of the Americans with Disabilities Act (National Council on Disability 2000) (currently available at [/newsroom/publications/promises_1.html#main](https://ncd.gov/newsroom/%20%20%20publications/promises_1.html#main)); Back to School on Civil Rights (NCD 2000) (currently available at [/newsroom/publications/backtoschool_1.html](https://ncd.gov/newsroom/publications/backtoschool_1.html)); Enforcing the Civil Rights of Air Travelers with Disabilities: Recommendations for the Department of Transportation and Congress (NCD 1999) (currently available at [/newsroom/publications/acaa.html](https://ncd.gov/newsroom/publications/acaa.html)); The Accessible Future (NCD 2001) (currently available at [/newsroom/publications/accessiblefuture.html](https://ncd.gov/newsroom/publications/accessiblefuture.html)); and Reconstructing Fair Housing (NCD 2001) (currently available at [/newsroom/publications/fairhousing.html](https://ncd.gov/newsroom/publications/fairhousing.html)).
+
+1Promises to Keep: A Decade of Federal Enforcement of the Americans with Disabilities Act (National Council on Disability 2000) (currently available at [/newsroom/publications/promises_1.html#main](https://ncd.gov/newsroom/%20%20%20publications/promises_1.html#main)); Back to School on Civil Rights (NCD 2000) (currently available at [/newsroom/publications/backtoschool_1.html](https://ncd.gov/newsroom/publications/backtoschool_1.html)); Enforcing the Civil Rights of Air Travelers with Disabilities: Recommendations for the Department of Transportation and Congress (NCD 1999) (currently available at [/newsroom/publications/acaa.html](https://ncd.gov/newsroom/publications/acaa.html)); The Accessible Future (NCD 2001) (currently available at [/newsroom/publications/accessiblefuture.html](https://ncd.gov/newsroom/publications/accessiblefuture.html)); and Reconstructing Fair Housing (NCD 2001) (currently available at [/newsroom/publications/fairhousing.html](https://ncd.gov/newsroom/publications/fairhousing.html)).
 
 An additional civil rights monitoring report on Section 504 of the Rehabilitation Act is scheduled for publication in the first quarter of 2003.
 

@@ -125,7 +125,7 @@ FIGURES
 
 - - -
 
-[](<>)**MISSION OF THE NATIONAL COUNCIL ON DISABILITY**
+**MISSION OF THE NATIONAL COUNCIL ON DISABILITY**
 
 The National Council on Disability is an independent federal agency composed of 15 members appointed by the President of the United States and confirmed by the U.S. Senate. The National Council was established in 1978 as an advisory board within the Department of Education (P.L. 95-602). The Rehabilitation Act Amendments of 1984 (P.L. 98-221) transformed the National Council into an independent agency. The statutory mandate of the National Council at the time of this study assigned the Council the following duties:
 
@@ -145,7 +145,7 @@ While many government agencies deal with issues and programs affecting people wi
 
 - - -
 
-[](<>)**NATIONAL COUNCIL ON DISABILITY, MEMBERS AND STAFF***
+**NATIONAL COUNCIL ON DISABILITY, MEMBERS AND STAFF***
 
 Members
 
@@ -179,7 +179,7 @@ Lorraine Williams, Office Automation Clerk
 
 - - -
 
-[](<>)**CHAIRPERSON NATIONAL COUNCIL ON DISABILITY COMMITTEE ON EDUCATION**
+**CHAIRPERSON NATIONAL COUNCIL ON DISABILITY COMMITTEE ON EDUCATION**
 
 Mary Raether
 
@@ -192,7 +192,7 @@ STUDY STAFF (Towson State University)
 
 - - -
 
-[](<>)**SPECIAL ADVISORS TO THE NATIONAL COUNCIL ON DISABILITY**
+**SPECIAL ADVISORS TO THE NATIONAL COUNCIL ON DISABILITY**
 
 Robert Hochstein\
 Assistant to the President\
@@ -206,7 +206,7 @@ Newport News, Virginia
 
 - - -
 
-[](<>)**ADVISORS**
+**ADVISORS**
 
 Frederick D. Bedell, Ed.D.\
 Robert Bruininks, Ph.D.\
@@ -221,7 +221,7 @@ Barbara Wilcox, Ph.D.
 
 - - -
 
-[](<>)**PREFACE**
+**PREFACE**
 
 Educational reform is part of the fabric of societal change in America. The 1970s were known as the decade of educational "equity" reforms. The 1980s were hailed as the decade of educational "excellence" reforms. The 1990s are rapidly becoming known as the decade of educational "accountability" reforms. The major education reform of the 1990s is known as *America 2000: An Education Strategy*, which espouses six goals:
 
@@ -245,7 +245,7 @@ Federal and state education policymakers should recognize that students with dis
 
 - - -
 
-[](<>)**EXECUTIVE SUMMARY**
+**EXECUTIVE SUMMARY**
 
 Prior to the enactment of federal laws providing public education entitlements to all students with disabilities, vast numbers of these students either received an education that did not meet their needs or received no education at all. It was not until 1975, when the U.S. Congress passed P.L. 94-142 (now referred to as the Individuals with Disabilities Education Act--IDEA, P.L. 102-119), that conditions began to change substantially. The purpose of P.L. 94-142 was to guarantee that all children and youth with disabilities receive a free, appropriate public education in the least restrictive environment, relying in large measure on input from parents into decision-making activities.
 
@@ -544,7 +544,7 @@ Recommendations for Researchers
 
 - - -
 
-[](<>)**INTRODUCTION: OVERVIEW OF PUBLIC EDUCATION FOR INDIVIDUALS\
+**INTRODUCTION: OVERVIEW OF PUBLIC EDUCATION FOR INDIVIDUALS\
 WITH DISABILITIES**
 
 As early as the 1820s, support was growing for free public schools. By the 1850s, a number of states had enacted compulsory attendance laws; yet the majority of children and youth with disabilities did *not* receive a free public education. The relatively few families whose children with disabilities attended schools were rarely consulted when educational decisions were made about their children's education. This situation continued throughout the 19th century and for the first half of the 20th century.
@@ -567,7 +567,7 @@ From 1976 to 1988, student enrollments in federally supported special education 
 
 - - -
 
-[](<>)**STUDENTS WITH DISABILITIES: CURRENT STATUS**
+**STUDENTS WITH DISABILITIES: CURRENT STATUS**
 
 This study considers four policy themes: the individualized education program, the concept of least restrictive environment, the procedural safeguards system, and multicultural and multidisciplinary issues. These four themes represent major elements of federal special education law and are interdependent in nature. By law, they must be implemented in a systematic manner by school systems for children and youth with disabilities who have special education needs.
 
@@ -838,7 +838,7 @@ Similarly, institutions of higher education should be expected to improve teache
 
 - - -
 
-[](<>)**SCHOOL REFORM IN THE 1990'S**
+**SCHOOL REFORM IN THE 1990'S**
 
 This section of the report focuses on school reform efforts for the various student populations in the country. The first subsection highlights the perceived impact of school reform on students with disabilities. The second subsection is an assessment and summary of initiatives for the range and diversity of student groups in the nation. The third subsection describes cyclical school reform. The fourth subsection provides an overview of school reform perspectives that involve (1) national education goals and (2) the states' and local school districts' various education reform plans.
 
@@ -1118,7 +1118,7 @@ Source: State publications. In order for a state to be listed under any of the o
 
 - - -
 
-[](<>)**A LOOK AT THE PRESENT: STUDENT ACCOMPLISHMENTS AND OUTCOMES**
+**A LOOK AT THE PRESENT: STUDENT ACCOMPLISHMENTS AND OUTCOMES**
 
 To understand the accomplishments and outcomes attained by students with disabilities in America, attention must first be focused on relevant data in OSEP's annual reports to Congress for the period 1986-1989. The chief source of annual national outcomes data from OSEP is the basis of exit data set which represents 5% of the country's special education population of 4.54 million students. The basis of exit data set (Figure 8 and Part E in the supplement) includes the number and percentage of students who graduated with diplomas, graduated with certificates, reached maximum age of entitlement, dropped out, or used some other basis of exit.
 
@@ -1155,7 +1155,7 @@ These trends appear to correlate with trends reported by OSEP since 1985. A comp
 
 - - -
 
-[](<>)**A LOOK AHEAD: OUTCOMES AND EXPECTATIONS**
+**A LOOK AHEAD: OUTCOMES AND EXPECTATIONS**
 
 Other than the basis of exit data reported annually by OSEP to Congress, there appears to be little or no nationally representative information that annually reports the achievements of 96% of the special education population. While approximately 91% of elementary and secondary public special education students are in graded placements, those students' academic achievements are not systematically documented, reported, or disseminated. This situation is especially puzzling when, according to the *13th Annual Report to Congress on the Implementation of the Individuals with Disabilities Education Act* (1991), 93% of students aged 3-21 years with disabilities were served in regular school buildings.
 
@@ -1186,7 +1186,7 @@ These standards for quality assurance were initially developed for use by the Na
 
 - - -
 
-[](<>)**MEASURES AND INDICATORS**
+**MEASURES AND INDICATORS**
 
 Federal and state agencies are working to improve the accountability of their education systems as well as the performance of their students. Agency officials and reform advocates face the ambitious task of identifying performance indicators and measurement systems.[(36)](https://ncd.gov/publications/1993/March41993#foot36) The following policy standards are being considered, to varying degrees: (1) equity in service provision and resource distribution across the area of programming; (2) excellence in service delivery across the range of diverse student populations; (3) responsiveness to local needs; (4) responsiveness to local political preferences; (5) responsiveness to student-consumer constituencies and the needs expressed by those constituencies; (6) coordination and integration of services and supports to students and families; (7) maximum efficiency; (8) and intra-agency and interagency coordination across local, state, and federal levels of government.
 
@@ -1329,7 +1329,7 @@ A fifth strategy might include the adoption or adaptation of other existing and 
 
 - - -
 
-[](<>)**FINAL REMARKS**
+**FINAL REMARKS**
 
 Annual national reports on the achievement levels or competencies attained by preschool-, elementary-, and secondary-age students with disabilities and students who receive special education services have been extremely limited. Students with disabilities have been largely forgotten by the mainstream of our education system and by reformers of that system. America must fulfill the potential of all its citizens, including all students with disabilities, if it hopes to maintain world-class economic status in the next century.
 
@@ -1337,45 +1337,45 @@ Current efforts to improve the nation's schools involve increasing the accountab
 
 - - -
 
-[](<>)**NOTES**
+**NOTES**
 
-[](<>)* For example, the 1990 Math Proficiency scores for NAEP's Trial State Assessment reveal that the average score for all students was 261, and the average score for students with IEPs was 234.
+* For example, the 1990 Math Proficiency scores for NAEP's Trial State Assessment reveal that the average score for all students was 261, and the average score for students with IEPs was 234.
 
 *\* An analysis of all students' responses when compared with responses of students with disabilities shows few differences for most of the items on the 1990 NELS report.
 
-[](<>)1 J.G. Chambers and W.T. Hartman (1983). *Special Education Policies: Their History, Implementation, and Finance*. Temple University Press: Philadelphia, PA.
+1 J.G. Chambers and W.T. Hartman (1983). *Special Education Policies: Their History, Implementation, and Finance*. Temple University Press: Philadelphia, PA.
 
-[](<>)2 Law Review Board (1989). Teaching inequality: The problem of public school tracking. *Harvard Law Review*, *102*, 1321.
+2 Law Review Board (1989). Teaching inequality: The problem of public school tracking. *Harvard Law Review*, *102*, 1321.
 
-[](<>)3 Office of Inspector General--Office of Audit (March 11, 1991). *Stronger Enforcement of Program Requirements Could Result in Greater Benefit to Handicapped Children*. Regional Inspector General, Dallas, TX. Audit Control #06-80260.
+3 Office of Inspector General--Office of Audit (March 11, 1991). *Stronger Enforcement of Program Requirements Could Result in Greater Benefit to Handicapped Children*. Regional Inspector General, Dallas, TX. Audit Control #06-80260.
 
-[](<>)4 Government Accounting Office (April 1991). Fact Sheet for the Chair, Subcommittee on Disability Policy, Committee on Labor and Human Resources, U.S. Senate. *U.S. Department of Education Monitoring of State Formula Grants by the Office of Special Education Programs*. (GAO/HRD-91-91FS). Compare the April 1991 GAO Report with Government Accounting Office Report (November 1989), Briefing Report to the Chair, Subcommittee on Select Education and Labor, U.S. House of Representatives. *U.S. Department of Education Management of the Office of Special Education and Rehabilitative Services* (GAO/HRD-90-21BR).
+4 Government Accounting Office (April 1991). Fact Sheet for the Chair, Subcommittee on Disability Policy, Committee on Labor and Human Resources, U.S. Senate. *U.S. Department of Education Monitoring of State Formula Grants by the Office of Special Education Programs*. (GAO/HRD-91-91FS). Compare the April 1991 GAO Report with Government Accounting Office Report (November 1989), Briefing Report to the Chair, Subcommittee on Select Education and Labor, U.S. House of Representatives. *U.S. Department of Education Management of the Office of Special Education and Rehabilitative Services* (GAO/HRD-90-21BR).
 
-[](<>)5 M.W., Kirst (1990). *Policy Perspectives--Accountability:* *Implications for State and Local Policy-Makers*. U.S. Department of Education, Office of Educational Research and Improvement, Information Services, Washington, DC.
+5 M.W., Kirst (1990). *Policy Perspectives--Accountability:* *Implications for State and Local Policy-Makers*. U.S. Department of Education, Office of Educational Research and Improvement, Information Services, Washington, DC.
 
-[](<>)6 O.D. Coffey, N. Procopiow, and N. Miller (1989). *Programming* *Mentally Retarded and Learning Disabled Inmates: A Guide* *for Correctional Administrators*. National Institute of Corrections, U.S. Department of Justice.
+6 O.D. Coffey, N. Procopiow, and N. Miller (1989). *Programming* *Mentally Retarded and Learning Disabled Inmates: A Guide* *for Correctional Administrators*. National Institute of Corrections, U.S. Department of Justice.
 
 L.A. LeBlanc, and A. Ratnofsky, (1991). Unlocking learning, Chapter 1 in *Correctional Facilities*. \[Executive Summary p. 2-3]. U.S. Department of Education, Office of the Under Secretary.
 
-[](<>)7 *Education Daily* (1992). ED Rarely Investigates Special Education Appeals, V.25, No.17.
+7 *Education Daily* (1992). ED Rarely Investigates Special Education Appeals, V.25, No.17.
 
-[](<>)8 U.S. Department of Commerce, Bureau of the Census (1989). Projections of the Population of the United States, by Age, Sex, and Race: 1988 to 2080. *Current Population Reports*, Series P-25, No. 1018.
+8 U.S. Department of Commerce, Bureau of the Census (1989). Projections of the Population of the United States, by Age, Sex, and Race: 1988 to 2080. *Current Population Reports*, Series P-25, No. 1018.
 
 National Center for Education Statistics (1990). *Proceedings of the Second Annual Federal Forecasters Conference*, U.S. Department of Education, Office of Educational Research and Improvement, NCES 90-682. Office of Bilingual Education and Minority Language Affairs (1990). *Staffing the Multilingually Impacted Schools of the 1990s*. U.S. Department of Education, National Forum on Personnel Needs for Districts with Changing Demographics.
 
-[](<>)9 The Center for the Study of Social Policy (1991). *Kids Count Data Book: State Profiles of Child Well-Being* \[p.10]. Washington, DC.
+9 The Center for the Study of Social Policy (1991). *Kids Count Data Book: State Profiles of Child Well-Being* \[p.10]. Washington, DC.
 
-[](<>)10 U.S. Office of Civil Rights (1988). *The 1986 Elementary and Secondary School Civil Rights Survey*. U.S. Department of Education, Washington, D.C.
+10 U.S. Office of Civil Rights (1988). *The 1986 Elementary and Secondary School Civil Rights Survey*. U.S. Department of Education, Washington, D.C.
 
 Council of Urban Boards of Education (1990). *A Survey of Public Education in the Nation's School Districts* \[pp.9-10]. National School Boards Association, Alexandria, VA.
 
-[](<>)11 B.J Hayward (1989). *Access and Quality*. Report prepared for the National Assessment of Vocational Education.
+11 B.J Hayward (1989). *Access and Quality*. Report prepared for the National Assessment of Vocational Education.
 
-[](<>)12 J. Oakes and M. Lipton. (1992). Detracking schools: Early lessons from the field. *KAPPAN*, *73*(6), 448-454.
+12 J. Oakes and M. Lipton. (1992). Detracking schools: Early lessons from the field. *KAPPAN*, *73*(6), 448-454.
 
-[](<>)13 Lewin/ICF and Fox Health Policy Consultants (1991). *Medicaid Coverage of Health-Related Services for Children Receiving Special Education: An Examination of Federal Policies*. U.S. Department of Health and Human Services and the U.S. Department of Education U.S. Government Printing Office, 1991-617-871(41102).
+13 Lewin/ICF and Fox Health Policy Consultants (1991). *Medicaid Coverage of Health-Related Services for Children Receiving Special Education: An Examination of Federal Policies*. U.S. Department of Health and Human Services and the U.S. Department of Education U.S. Government Printing Office, 1991-617-871(41102).
 
-[](<>)14 M.S. Knapp and B.J. Turnbull (Eds.)(1990). *Study of Academic Instruction for Disadvantaged Students, Better Schooling for the Children of Poverty: Alternatives to Conventional Wisdom*. Prepared for the U.S. Department of Education, Office of Planning, Budget and Evaluation. (Contract No. LC88054001.)
+14 M.S. Knapp and B.J. Turnbull (Eds.)(1990). *Study of Academic Instruction for Disadvantaged Students, Better Schooling for the Children of Poverty: Alternatives to Conventional Wisdom*. Prepared for the U.S. Department of Education, Office of Planning, Budget and Evaluation. (Contract No. LC88054001.)
 
 J.M. McPartland and R.E. Slavin (1990). *Policy Perspectives--Increasing Achievement of At-Risk Students at Each Grade Level*. U.S. Department of Education, Office of Educational Research and Improvement.
 
@@ -1385,75 +1385,75 @@ M.T. Moore and J. Funkhouser (1990). *More Time to Learn: Extended Time Strateg
 
 B. Means and M. Knapp (Eds.) (1991). *Teaching Advanced Skills to Educationally Disadvantaged Students*. Prepared for the U.S. Department of Education, Office of Planning, Budget and Evaluation. (Contract LC89089001.)
 
-[](<>)15 The National Diffusion Network (1990). *Programs That Work for Handicapped Students: A Collection of ProvenExemplary Education Programs and Practices*. U.S. Department of Education, The Recognition Division, Washington, D.C.
+15 The National Diffusion Network (1990). *Programs That Work for Handicapped Students: A Collection of ProvenExemplary Education Programs and Practices*. U.S. Department of Education, The Recognition Division, Washington, D.C.
 
-[](<>)16 J.S. Coleman (1991). *Policy Perspectives--Parental Involvement in Education*. U.S. Department of Education, Office of Educational Research and Improvement.
+16 J.S. Coleman (1991). *Policy Perspectives--Parental Involvement in Education*. U.S. Department of Education, Office of Educational Research and Improvement.
 
 W.G. Demmert and T.H. Bell (1991). *Indian Nations at Risk: An Educational Strategy for Action*, Final Report of the Indian Nations at Risk Task Force, U.S. Department of Education.
 
-[](<>)17 ATE Task Force Report (1986). *Visions of Reform: Implications for the Education Profession*. Association of Teacher Educators: Reston, VA.
+17 ATE Task Force Report (1986). *Visions of Reform: Implications for the Education Profession*. Association of Teacher Educators: Reston, VA.
 
 ATE Special Journal Issue (Fall 1990). Diversity in Today's Classroom: Teacher Education's Challenge. *Action in Teacher Education*, *12*(3).
 
-[](<>)18 Secretary's Commission on Achieving Necessary Skills (1991). *What Work Requires of Schools: A SCANS Report for America 2000*. U.S. Department of Labor.
+18 Secretary's Commission on Achieving Necessary Skills (1991). *What Work Requires of Schools: A SCANS Report for America 2000*. U.S. Department of Labor.
 
 Department of Adult Education and Literacy (1990). *Defining Literacy and the National Adult Literacy Survey*. U.S. Department of Education.
 
 F. Swoboda (March 29, 1992). A step toward setting national job skill standards. *Washington Post*, H2.
 
-[](<>)19 Public Health Service (1991). *Healthy People 2000. National Health and Disease Prevention Objectives*. U.S. Department of Health and Human Services.
+19 Public Health Service (1991). *Healthy People 2000. National Health and Disease Prevention Objectives*. U.S. Department of Health and Human Services.
 
-[](<>)20 Public Law 102-62, The National Council on Standards and Testing, a 32-member advisory panel to the National Education Goals Panel.
+20 Public Law 102-62, The National Council on Standards and Testing, a 32-member advisory panel to the National Education Goals Panel.
 
 The American Association for the Advancement of Science (1989). *Project 2061: Science for All Americans*. Washington, DC.
 
-[](<>)21 P.D. Forgione and M.E. Orland (Eds.) (1990). *A Guide to Improving the National Education Data System*. Prepared by the National Education Statistics Agenda Committee, National Forum on Education Statistics. U.S. Department of Education, National Center for Education Statistics.
+21 P.D. Forgione and M.E. Orland (Eds.) (1990). *A Guide to Improving the National Education Data System*. Prepared by the National Education Statistics Agenda Committee, National Forum on Education Statistics. U.S. Department of Education, National Center for Education Statistics.
 
-[](<>)22 G. Bush (1991). *The National Education Goals: A Second* *Report to the Nation's Governors*. The White House. See the list of statewide initiatives provided in Table 5 of this document.
+22 G. Bush (1991). *The National Education Goals: A Second* *Report to the Nation's Governors*. The White House. See the list of statewide initiatives provided in Table 5 of this document.
 
 See series of editorials published in the *Washington Post*, November 7, 17, and 21, 1991 by Ms. Iris Rotberg and Ms. Diane Ravitch. These editorials debate some of the issues surrounding international education assessments and the comparative performance(s) of U.S. students with students from other countries. Exclusion of students who have disabilities is specifically discussed.
 
 See also, M. Jordan (February 6, 1992). U.S. students test below average: In *world, U.S. fares poorly in math, science*.*Washington Post*, Section A, pp. 1 and 4.
 
-[](<>)23 U.S. Congress Office of Technology Assessment (1991) *Federally Funded Research: Decisions for a Decade* \[p. 29]. U.S. Government Printing Office, Washington, DC.
+23 U.S. Congress Office of Technology Assessment (1991) *Federally Funded Research: Decisions for a Decade* \[p. 29]. U.S. Government Printing Office, Washington, DC.
 
-[](<>)24 National Center for Education Statistics (1991). *The State of Mathematics Achievement, NAEP's 1990 Assessmentof the Nation and the Trial Assessment of the States*. Prepared by the Educational Testing Service for the U.S.Department of Education, Office of Educational Research and Improvement. Report 21-ST-04, pp.440-441.
+24 National Center for Education Statistics (1991). *The State of Mathematics Achievement, NAEP's 1990 Assessmentof the Nation and the Trial Assessment of the States*. Prepared by the Educational Testing Service for the U.S.Department of Education, Office of Educational Research and Improvement. Report 21-ST-04, pp.440-441.
 
-[](<>)25 V. Deloria (1985). *American Indian Policy in the Twentieth Century*. Norman: University of Oklahoma Press, pp. 15-33.
+25 V. Deloria (1985). *American Indian Policy in the Twentieth Century*. Norman: University of Oklahoma Press, pp. 15-33.
 
-[](<>)26 G. San Miguel (1987). The status of historical research on Chicano education. *Review of Education Research*, *57*(4), 467-480.
+26 G. San Miguel (1987). The status of historical research on Chicano education. *Review of Education Research*, *57*(4), 467-480.
 
-[](<>)27 R.C. Salomone (1986). *Equal Education under Law: Legal Rights and Federal Policy*. St. Martin's Press: New York.
+27 R.C. Salomone (1986). *Equal Education under Law: Legal Rights and Federal Policy*. St. Martin's Press: New York.
 
-[](<>)28 H. Levin (1986). *The Educationally Disadvantaged Are Still among Us*. Stanford University Press: Stanford, CA.
+28 H. Levin (1986). *The Educationally Disadvantaged Are Still among Us*. Stanford University Press: Stanford, CA.
 
-[](<>)29 National Governors' Association (1990). *Consensus for Change. Educating America: State Strategies for Achieving the National Education Goals--Task Force Report on Education*. Washington, DC.
+29 National Governors' Association (1990). *Consensus for Change. Educating America: State Strategies for Achieving the National Education Goals--Task Force Report on Education*. Washington, DC.
 
-[](<>)30 The U.S. Department of Education, National Center for Education Statistics (1989). *Profile of Handicapped Students in Postsecondary Education, 1987* presents statistics for students with disabilities enrolled in postsecondary institutions, by select student characteristics (e.g., sex, age, race/ethnicity) and control and level of institution (e.g., public/private 2- year or 4-year college or university).
+30 The U.S. Department of Education, National Center for Education Statistics (1989). *Profile of Handicapped Students in Postsecondary Education, 1987* presents statistics for students with disabilities enrolled in postsecondary institutions, by select student characteristics (e.g., sex, age, race/ethnicity) and control and level of institution (e.g., public/private 2- year or 4-year college or university).
 
-[](<>)31 S. Parrino (July 17, 1991). Letter of Inquiry from the National Council on Disability to the National EducationGoals Panel, Washington, DC.
+31 S. Parrino (July 17, 1991). Letter of Inquiry from the National Council on Disability to the National EducationGoals Panel, Washington, DC.
 
-[](<>)32 J. Button (April 1991). Draft listing of joint initiatives between the Office of Special Education and Rehabilitation Services and other federal departments and agencies.
+32 J. Button (April 1991). Draft listing of joint initiatives between the Office of Special Education and Rehabilitation Services and other federal departments and agencies.
 
-[](<>)33 T. Tobin (1991). *A Study of Availability and Overlap of Education Data in Federal Collections*. Prepared for theNational Center for Education Statistics, U.S. Department of Education, Contract No. RS880140.
+33 T. Tobin (1991). *A Study of Availability and Overlap of Education Data in Federal Collections*. Prepared for theNational Center for Education Statistics, U.S. Department of Education, Contract No. RS880140.
 
-[](<>)34 J.R. Wright (1988). *Model Framework for Management Control over Automated Information Systems*. Executive Office of the President, Office of Management and Budget, Washington, DC.
+34 J.R. Wright (1988). *Model Framework for Management Control over Automated Information Systems*. Executive Office of the President, Office of Management and Budget, Washington, DC.
 
-[](<>)35 G.R. Bush and G.L. Cooper (1989). *Strategies for Improving Data Quality*. Prepared for the U.S. Department of Justice, Office of Justice Programs, Bureau of Justice Statistics. Report NCJ-111458.
+35 G.R. Bush and G.L. Cooper (1989). *Strategies for Improving Data Quality*. Prepared for the U.S. Department of Justice, Office of Justice Programs, Bureau of Justice Statistics. Report NCJ-111458.
 
-[](<>)36 A. Odden (1990). Educational indicators in the United States: The need for analysis. *Educational Researcher*, 24-29.
+36 A. Odden (1990). Educational indicators in the United States: The need for analysis. *Educational Researcher*, 24-29.
 
-[](<>)37 R.J. Coley and M.E. Goertz (1990). *Educational Standards in the 50 States: 1990*. Policy Information Center, Educational Testing Service: Princeton, NJ.
+37 R.J. Coley and M.E. Goertz (1990). *Educational Standards in the 50 States: 1990*. Policy Information Center, Educational Testing Service: Princeton, NJ.
 
-[](<>)38 National Center for Education Statistics (1990). *The National Education Longitudinal Study of 1988: Profile of the American Eighth Grader* (NCES 90-458). U.S. Department of Education, Office of Educational Research and Improvement, Washington, DC.
+38 National Center for Education Statistics (1990). *The National Education Longitudinal Study of 1988: Profile of the American Eighth Grader* (NCES 90-458). U.S. Department of Education, Office of Educational Research and Improvement, Washington, DC.
 
-[](<>)39 Source of data: U.S. Department of Labor, Bureau of Labor Statistic. Derived from the *Current Population Survey*: 1940-1987.
+39 Source of data: U.S. Department of Labor, Bureau of Labor Statistic. Derived from the *Current Population Survey*: 1940-1987.
 
-[](<>)40 Office of Educational Research and Improvement (1988). *Youth Indicators 1988: Trends in the Well Being of American Youth* (IS 89-183). U.S. Department of Education, Washington, DC.
+40 Office of Educational Research and Improvement (1988). *Youth Indicators 1988: Trends in the Well Being of American Youth* (IS 89-183). U.S. Department of Education, Washington, DC.
 
 - - -
 
-[](<>)**NATIONAL COUNCIL MEMBER AND STAFF BIOGRAPHIES**
+**NATIONAL COUNCIL MEMBER AND STAFF BIOGRAPHIES**
 
 **National Council Members**
 

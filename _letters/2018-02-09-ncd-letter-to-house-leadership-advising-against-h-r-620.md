@@ -22,7 +22,7 @@ Washington, D.C. 20515
 
 Dear Speaker Ryan and Leader Pelosi:
 
-I write on behalf of the National Council on Disability to restate our position that H.R. 620 (“ADA Education and Reform Act”), which is expected to be taken up by the full House in coming days, undermines the civil rights of people with disabilities by undermining the American Disabilities Act (ADA). As I, along with past chairs of NCD spanning several decades and representing both parties, averred in our September 13th, 2016 letter to Congress, this bill represents a “dangerous, misguided national policy ’solution’ ill-fit to a state law problem that is aggressively opposed by virtually every disability-related organization and should be soundly rejected by this Congress.”[\[1]](https://ncd.gov/publications/2018/ncd-letter-house-against-hr-620#_ftn1)
+I write on behalf of the National Council on Disability to restate our position that H.R. 620 (“ADA Education and Reform Act”), which is expected to be taken up by the full House in coming days, undermines the civil rights of people with disabilities by undermining the American Disabilities Act (ADA). As I, along with past chairs of NCD spanning several decades and representing both parties, averred in our September 13th, 2016 letter to Congress, this bill represents a “dangerous, misguided national policy ’solution’ ill-fit to a state law problem that is aggressively opposed by virtually every disability-related organization and should be soundly rejected by this Congress.”[1](https://ncd.gov/publications/2018/ncd-letter-house-against-hr-620#_ftn1)
 
 The ADA was signed into law in 1990 after passing in the Senate (76-8), and by the House of Representatives by unanimous voice vote. The reason that the bill achieved such overwhelming support was that after the bill was first proposed in an NCD report in 1986, a variety of groups, including the business community, civil rights organizations, and legislators from across the political spectrum, worked together to finalize legislation that balanced the need to make it possible for people with disabilities to access goods and services in the community with consideration of any burden on businesses.
 
@@ -45,4 +45,4 @@ Chairperson
 
 - - -
 
-[\[1]](https://ncd.gov/publications/2018/ncd-letter-house-against-hr-620#_ftnref1) [Letter from Current and Past NCD Chairs on ADA Notification Legislation](https://www.ncd.gov/publications/2016/letter-current-past-chairs-ada-notification)  (See also attached)
+[1](https://ncd.gov/publications/2018/ncd-letter-house-against-hr-620#_ftnref1) [Letter from Current and Past NCD Chairs on ADA Notification Legislation](https://www.ncd.gov/publications/2016/letter-current-past-chairs-ada-notification)  (See also attached)
