@@ -11,7 +11,7 @@ word_document: reports/2008/ncd-inclusive-livable-communities-2008.doc
 pdf_document: reports/2008/ncd-inclusive-livable-communities-2008.pdf
 image_alt_text: NA
 ---
-M﻿arch 17, 2008
+March 17, 2008
 
 **S﻿COPE AND PURPOSE:**
 
