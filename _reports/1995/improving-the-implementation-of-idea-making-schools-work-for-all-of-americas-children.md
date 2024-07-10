@@ -249,7 +249,7 @@ Appendices
 
 - - -
 
-[](<>)**INTRODUCTION**
+**INTRODUCTION**
 
 With the passage of the Education for All Handicapped Children Act in 1975, the nation took a giant step forward in ensuring that students with disabilities and their families would be afforded equal protection under the law. As a result of numerous exposés, court cases, and the advocacy of parent groups, the Congress responded to the historic exclusion of children with disabilities with a guarantee that children with disabilities would be afforded equal educational opportunities and the supports and services necessary to access such opportunities. Congress not only granted a right to education for all students with disabilities, it also established the mechanisms through which students and families could exercise that right. Among its many provisions, the Education for All Handicapped Children Act required parent participation at virtually all levels, fair assessment practices, the development of an individualized education program for every eligible student, the provision of related services, placement of students in the least restrictive environment, and the establishment of due process procedures through which parents and students could appeal the decisions of professionals.
 
@@ -321,7 +321,7 @@ What is needed now is significantly improved implementation, leading to a better
 
 - - -
 
-[](<>)THE INDIVIDUALS WITH DISABILITIES EDUCATION ACT: TWENTY YEARS OF PROGRESS IN EDUCATING THE NATION'S STUDENTS WITH DISABILITIES
+THE INDIVIDUALS WITH DISABILITIES EDUCATION ACT: TWENTY YEARS OF PROGRESS IN EDUCATING THE NATION'S STUDENTS WITH DISABILITIES
 
 > *IDEA has made a difference for Maddie, a difference that translates into her attendance at our public elementary school a half a block from our home with other first and second graders in her neighborhood. Her regular presence in school means that kids of all ages greet her on the playground, acknowledge her in stores, and expect that she is a part of the community. As a result of these expectations, I'm proud to say that Maddie could not be here today -because she is in school!* (Joe Wild Crea, Denver, CO) [(4)](https://ncd.gov/publications/1995/09051995#foot4)
 >
@@ -384,7 +384,7 @@ The chapters which follow provide a detailed summary, across the 10 thematic are
 
 - - -
 
-[](<>)**ZERO REJECT**
+**ZERO REJECT**
 
 Statement of Law
 
@@ -460,7 +460,7 @@ In order to ensure that IDEA's provisions prohibiting the exclusion of students 
 
 - - -
 
-[](<>)ASSESSMENT FOR ELIGIBILITY AND NONDISCRIMINATORY EVALUATION
+ASSESSMENT FOR ELIGIBILITY AND NONDISCRIMINATORY EVALUATION
 
 Statement of Law
 
@@ -741,7 +741,7 @@ In order to improve and strengthen the assessment and nondiscriminatory evaluati
 
 - - -
 
-[](<>)APPROPRIATE EDUCATION
+APPROPRIATE EDUCATION
 
 Statement of Law
 
@@ -953,19 +953,19 @@ In order to ensure that IDEA's provisions regarding appropriate education are im
 
 - - -
 
-[](<>)1 See, for example, National Council on Disability (1994). *Inclusionary education for students with disabilities: Keeping the promise*. Washington, DC: Author; and National Council on Disability (1993). *Serving the nation's students with disabilities: Progress and prospects*. Washington, DC: Author.
+1 See, for example, National Council on Disability (1994). *Inclusionary education for students with disabilities: Keeping the promise*. Washington, DC: Author; and National Council on Disability (1993). *Serving the nation's students with disabilities: Progress and prospects*. Washington, DC: Author.
 
-[](<>)2 See Gore, A. (1993). *From red tape to results: Creating a government that works better and costs less*. Washington, DC: U.S. Government Printing Office.
+2 See Gore, A. (1993). *From red tape to results: Creating a government that works better and costs less*. Washington, DC: U.S. Government Printing Office.
 
-[](<>)3 As stated earlier, the goal of the hearings was to gather information from parents, family members, and students. The NCD relied on local groups to organize the hearings, groups which employed varying levels of publicity regarding this goal. As a result, approximately 15% of the witnesses were professionals. However, the majority of these professionals were employed by parent training and disability advocacy organizations. Therefore, the vast bulk of testimony was from a customer perspective.
+3 As stated earlier, the goal of the hearings was to gather information from parents, family members, and students. The NCD relied on local groups to organize the hearings, groups which employed varying levels of publicity regarding this goal. As a result, approximately 15% of the witnesses were professionals. However, the majority of these professionals were employed by parent training and disability advocacy organizations. Therefore, the vast bulk of testimony was from a customer perspective.
 
-[](<>)4 We have endeavored to spell witnesses' names correctly. Some were difficult to read on sign-in sheets. The court reporters at the hearings worked hard to ensure correct spelling. Still, we apologize for any errors. All quotes are verbatim, with the exception that punctuation has been added for clarity, pauses have been omitted, verb tenses have been aligned, and obvious repetitions within quotes have been condensed. Also, the location listed is the hearing location, not necessarily the actual address of the witness.
+4 We have endeavored to spell witnesses' names correctly. Some were difficult to read on sign-in sheets. The court reporters at the hearings worked hard to ensure correct spelling. Still, we apologize for any errors. All quotes are verbatim, with the exception that punctuation has been added for clarity, pauses have been omitted, verb tenses have been aligned, and obvious repetitions within quotes have been condensed. Also, the location listed is the hearing location, not necessarily the actual address of the witness.
 
-[](<>)5 Name withheld to protect confidentiality.
+5 Name withheld to protect confidentiality.
 
  
 
-[](<>)LEAST RESTRICTIVE ENVIRONMENT [(6)](https://ncd.gov/publications/1995/09051995#foot6)
+LEAST RESTRICTIVE ENVIRONMENT [(6)](https://ncd.gov/publications/1995/09051995#foot6)
 
  
 
@@ -1196,7 +1196,7 @@ Therefore, in order to improve and strengthen the provisions of IDEA regarding p
 
 - - -
 
-[](<>)**PARENT PARTICIPATION AND SHARED DECISION MAKING**
+**PARENT PARTICIPATION AND SHARED DECISION MAKING**
 
 > *No parent is ready or trained to be a parent of a special needs child.* (Mary Ann Egger, Milwaukee, WI)
 >
@@ -1353,7 +1353,7 @@ Parent and student participation and collaboration in the design and delivery of
 
 - - -
 
-[](<>)**PROCEDURAL DUE PROCESS**
+**PROCEDURAL DUE PROCESS**
 
 Statement of Law
 
@@ -1528,7 +1528,7 @@ Most of the problems regarding the implementation of the due process provisions 
 
 - - -
 
-[](<>)**TRANSITION**
+**TRANSITION**
 
 Statement of Law
 
@@ -1696,7 +1696,7 @@ In order to improve the transition of students receiving special education from 
 
 - - -
 
-[](<>)DISCRETIONARY PROGRAMS
+DISCRETIONARY PROGRAMS
 
 Statement of Law
 

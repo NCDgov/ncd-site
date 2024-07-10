@@ -226,7 +226,7 @@ for the Eleventh Circuit
 THE NATIONAL COUNCIL ON DISABILITY\
 IN SUPPORT OF RESPONDENTS**
 
-[](<>)
+
 
 **INTEREST OF AMICUS CURIAE**
 
@@ -234,7 +234,7 @@ This brief amicus curiae is filed, pursuant to consents of the parties filed wit
 
 The Council plays a major role in developing disability policy in America, and, in 1986, first proposed the concept of the Americans with Disabilities Act (ADA), 42 U.S.C. § 12101 *et seq.* (1994), the statute at issue in this case. In 1988, the Council developed the original ADA bill that was introduced in the 100th Congress. Congress relied on and acknowledged the influence of the Council and its reports during congressional consideration and passage of the ADA; members and staff of the Council testified at congressional hearings on the legislation. Under its current statutory mandate, the Council is responsible for gathering information about the implementation, effectiveness, and impact of the ADA. The Council is thus intensely interested in ensuring that the ADA is implemented in a manner consistent with the purposes for which it was proposed. It is also uniquely qualified to provide the Court with information about the background and framing of the ADA, implementation of the Act, and other information concerning policy issues affecting persons with disabilities. The Council is also particularly concerned with and uniquely informed about the central issue in this case -- the integration of individuals with disabilities in the community, and, since the enactment of the ADA, has continued to assess and report on progress in regard to this critical issue.
 
-[](<>)
+
 
 **SUMMARY OF ARGUMENT**
 
@@ -248,15 +248,15 @@ Fourth, that *the prohibitions of discrimination in Title II of the ADA apply t
 
 The plain language of the statute, its legislative history, its conceptual origins and pre-legislative history, the implementing regulations, and the applicable judicial precedents all point to the same conclusion -- that Title II of the ADA requires state and local governments and their instrumentalities to provide treatment and habilitation services in the most integrated setting appropriate. In addition to all the legal signposts proclaiming such a requirement, *amicus* attests that it was, and is, good policy for individuals with disabilities and for the nation.
 
-[](<>)
+
 
 **ARGUMENT**
 
-[](<>)
+
 
 **I.** Prohibiting Unnecessary Isolation and Segregation of Individuals with Disabilities in Treatment and Habilitation Programs Was a Key Component of the Original ADA Proposal Developed by *Amicus*.
 
-[](<>)
+
 
 A. The National Council on Disability and the Origins of the ADA
 
@@ -282,7 +282,7 @@ Based upon a great quantity of statistical information about the numbers of pers
 
 At all times leading up to, during, and after developing its ADA proposal, the Council has understood integration as an inherent and indispensable element of prohibiting discrimination on the basis of disability.
 
-[](<>)
+
 
 B. Conceptual Underpinnings of the Integration Mandate of the ADA
 
@@ -326,11 +326,11 @@ This conceptual background, in which discrimination against people with disabili
 
 This societal objective was incorporated in *amicus*'s proposed ADA bill in the form of a finding that "full participation" is one of "the Nation's proper goals regarding people with disabilities." ON THE THRESHOLD OF INDEPENDENCE, at 28, § 2(a)(7). In proposing the ADA, *amicus* was fully aware of the problem of unnecessarily segregated treatment and habilitation facilities and intended its legislative proposal to address this problem.
 
-[](<>)
+
 
 **II.** The ADA Prohibits Unnecessary Isolation and Segregation of Individuals with Disabilities in Treatment and Habilitation Programs.
 
-[](<>)
+
 
 A. The Statutory Language of the ADA
 
@@ -358,7 +358,7 @@ In accordance with the *Yeskey* decision, and the ADA statutory purpose of est
 
 Indeed, Petitioners' suggestion of an exception for treatment and habilitation services for people with disabilities would undercut fundamental objectives reflected in statutory language, including the goals of "full participation," of addressing societal practices that "isolate and segregate individuals with disabilities," of eliminating persisting "discrimination against individuals with disabilities in such critical areas as ... institutionalization," and of establishing a "comprehensive national mandate for the elimination of discrimination." 42 U.S.C. §§ 12101(a)(8), (2), (3), & (b)(1) (1994). Petitioners' purported exception would exclude from the Act's coverage a class of services that can result in one of the most serious forms of isolation and unnecessary segregation of individuals with disabilities. Nothing in the Act supports such an anomaly.
 
-[](<>)
+
 
 B. The Legislative History
 
@@ -380,7 +380,7 @@ In congressional debates on the ADA, Representative Miller declared of people wi
 
 The inclusion of "institutionalization" in the list of areas of discrimination that the ADA would address was a considered and informed decision of the Congress. The legislative history further buttresses the conclusion mandated by the language of Title II and its implementing regulations, and the *Yeskey* decision, that Title II's integration mandate applies to state treatment and habilitation services for persons with disabilities as covered services, programs, or activities of a public entity.
 
-[](<>)
+
 
 C. ADA Regulations
 
@@ -392,7 +392,7 @@ Because the Title II regulations were responsive to a direct statutory mandate t
 
 The application and enforcement of 28 C.F.R. § 35.130(d) (1998) to prohibit unnecessary isolation and segregation in treatment and habilitation services for individuals with disabilities provided by instrumentalities of state and local governments is entirely consistent with the uniform and unwavering understanding of *amicus* in initiating the ADA proposal, of members of Congress in revising and passing the ADA, of the President in signing it into law, and of the Attorney General in issuing Title II regulations, that requiring integrated services and programs is a key component of prohibiting discrimination on the basis of disability.
 
-[](<>)
+
 
 **III.** Conclusion
 
@@ -428,67 +428,67 @@ Washington, DC 20008\
 
 Counsel of Record for *Amicus Curiae*
 
-[](<>)
+
 
 1 Pursuant to this Court's Rule 37.6, none of the parties authored this brief in whole or in part and no one other than*amicus* or counsel contributed money or services to the preparation and submission of this brief.
 
-[](<>)
+
 
 2 The Council was initially named the National Council on the Handicapped. Its name was changed to the National Council on Disability in 1988. Pub. L. No. 100-630, tit. II, § 205(a), 102 Stat. 3310 (1988).
 
-[](<>)
+
 
 3 The nature of such changes and the circumstances surrounding the Council's decision to agree to the changes is described in NATIONAL COUNCIL ON DISABILITY, EQUALITY OF OPPORTUNITY: THE MAKING OF THE AMERICANS WITH DISABILITIES ACT 64-66 (1997).
 
-[](<>)
+
 
 4 *See id.* App at G-4, F-31, G-34 to G-40.
 
-[](<>)
+
 
 5 The U.S. Commission on Civil Rights has described this article as "seminal." Accommodating the Spectrum at 67.
 
-[](<>)
+
 
 6 Jacobus tenBroek & Floyd W. Matson, *The Disabled and the Law of Welfare*, 54 CAL. L. REV. 809, 816 (1966).
 
-[](<>)
+
 
 7 Jacobus tenBroek, *The Right to Live in the World: The Disabled and the Law of Torts*, 54 CAL. L. REV. 841, 848-51, 847-48 (1966).
 
-[](<>)
+
 
 8 *Id.* at 843.
 
-[](<>)
+
 
 9 Richard Allen, *Legal Rights of the Disabled and Disadvantaged* 79-98 (1969); Leonard Kriegel, *Uncle Tom and Tiny Tim: Some Reflections on the Cripple As Negro*, 38 AM. SCHOLAR 412 (1969).
 
-[](<>)
+
 
 10 Richard Allen, Legal Rights of the Disabled and Disadvantaged 2-3 (1969).
 
-[](<>)
+
 
 11 *Id.* at 11, 13-20, 32-37, 48-54-55.
 
-[](<>)
+
 
 12 *Id.* at 37 (internal quotation marks omitted).
 
-[](<>)
+
 
 13 *Id.* at 7-8; *id.* at 54-55, referring to tenBroek, *The Right to Live in the World: The Disabled and the Law of Torts*, 54 CAL. L. REV. 841 (1966). The bracketed phrase "person with a disability" is substituted in the text for the phrase "handicapped person" used in the original. This change substitutes currently preferred terminology in accordance with the preference of most individuals with disabilities and consumer organizations of persons with disabilities. Similar changes, identified in brackets, are made throughout this brief; these substitutions impart no difference in meaning of quoted materials.
 
-[](<>)
+
 
 14 See also Harlan Hahn, Paternalism and Public Policy," 20 Society No. 3, 36, 38 (March/April 1983) ("the history of disabled persons in America and elsewhere has been primarily a history of segregation and discrimination").
 
-[](<>)
+
 
 15 In addition to discussing federal endorsements of the integrative or full participation approach, the Commission's report noted that many state laws incorporate similar language. *See id.* at 68 n.7. The integrative approach has been expressly adopted in United Nations declarations, in court decisions, and by the disability community and business leaders. *See*,*e.g.*, *id.* at 68B69. *See also* Mark E. Martin, Note, *Accommodating the Handicapped: The Meaning of Discrimination Under Section 504 of the Rehabilitation Act*, 55 N.Y.U. L. REV. 881, 89899 (1980).
 
-[](<>)
+
 
 16 A related finding is that individuals with disabilities are
 
@@ -498,31 +498,31 @@ Counsel of Record for *Amicus Curiae*
 
 Some commentators have argued that the ADA in effect creates a statutory requirement that government actions that segregate or otherwise disadvantage people because of disability should be subjected to strict judicial scrutiny similar to that applied to racial classifications. *See*, *e.g.*, Timothy M. Cook, *The Americans with Disabilities Act: The Move to Integration*, 64 TEMP. L. REV. 393, 433-39 (1991).
 
-[](<>)
+
 
 17 Congress was well aware of the cost data and fiscal conclusions of *amicus* in TOWARD INDEPENDENCE and ON THE THRESHOLD OF INDEPENDENCE as it considered the ADA. *See*, *e.g.*, S. REP. NO. 101-116 at 16-18 (1989) \[hereinafter SENATE REPORT]; H.R. REP. NO. 101-485 pt. 2, at 43-47 (1990) (Committee on Education and Labor), *reprinted in* 1990 U.S.C.C.A.N. 303, 325-26 \[hereinafter EDUCATION & LABOR COMMITTEE REPORT]. In introducing the 1989 version of the ADA in the 101st Congress, Senator Harkin devoted a substantial portion of his introductory statement to discussing cost ramifications. 135 CONG. REC. 8505, 8507-08 (1989) (statement of Sen. Harkin). Among other observations he stressed "the economic benefits to society in terms of reductions in the deficit from getting people . . . out of institutions . . . ." *Id.* at 8507-08 (emphasis added). *See also* 134 CONG. REC. 9375, 9378 (1988) (statement of Sen. Weicker) ("the costs associated with this bill are a small price to pay for opening up our society to persons with disabilities").
 
-[](<>)
+
 
 18 *See*, *e.g.*, *Griffin v. Oceanic Contractors, Inc.*, 458 U.S. 564, 570 (1982) ("Our task is to give effect to the will of Congress, and where its will has been expressed in reasonably plain terms, 'that language must ordinarily be regarded as conclusive"), quoting *Consumer Product Safety Comm'n v. GTE Sylvania, Inc.*, 447 U.S. 102, 108 (1980). An exception is where the plain language of a statute produces absurd results and the statute "can't mean what it says." *Green v. Bock Laundry Machine Co.*, 490 U.S. 504, 511 (1989), quoting *Campbell v. Greer*, 831 F.2d 700, 703 (7th Cir. 1987).
 
-[](<>)
+
 
 19 *See*, *e.g.*, S. REP. NO. 101-116 at 6 (1989) ("One of the most debilitating forms of discrimination is segregation") \[hereinafter SENATE REPORT]; *id.* at 20 (the ADA is "a clear and comprehensive national mandate for the elimination of discrimination and for the integration of persons with disabilities into the economic and social mainstream of American life"); H.R. REP. NO. 101-485 pt. 3, at 26 (1990) (Committee on the Judiciary), *reprinted in* 1990 U.S.C.C.A.N. 445, 449 (the ADA "promises a new future: a future of inclusion and integration, and the end of exclusion and segregation") \[hereinafter HOUSE JUDICIARY COMMITTEE REPORT]; *id.* at 49-50 (1990), *reprinted in* 1990 U.S.C.C.A.N. at 472-73 ("\[t]he purpose of title II is to continue to break down barriers to the integrated participation of people with disabilities in all aspects of community life"; "integrated services are essential to accomplishing the purposes of title II").
 
-[](<>)
+
 
 20 *See*, *e.g.*, 135 CONG. REC. 8505, 8506 (1989) (statement of Sen. Harkin, sponsor of 1989 version of ADA) (ADA "sends a clear message to ... State and local governments ... that the full force of the Federal law will come down on anyone who continues to subject persons with disabilities to discrimination by segregating them...."). *Similarly*, *see* 134 CONG. REC. 9375 (1988) (statement of Sen. Weicker); 135 CONG. REC. 19800, 19803 (1989) (statement of Sen. Harkin); 136 CONG. REC. 10872 (1990) (statement of Rep. Weiss); 135 CONG. REC. 19878 (1989) (statement of Sen. Chafee) (ADA "will integrate fully those with disabilities into everyday American life").
 
-[](<>)
+
 
 21 SENATE REPORT at 15-18; EDUCATION & LABOR COMMITTEE REPORT at 41-47, *reprinted in* 1990 U.S.C.C.A.N. at 323-29. The Committees cited testimony of various witnesses who described such effects on persons with disabilities in the following terms: "has stripped us as disabled people of pride and dignity," of which "\[t]he stigma scars for life," SENATE REPORT at 16; EDUCATION & LABOR COMMITTEE REPORT at 42, *reprinted in* 1990 U.S.C.C.A.N. at 324; caused feelings of "isolation, the sense of helplessness and the sense of no ability to relate to other people" resulting from "being held separate" and other forms of discrimination, EDUCATION & LABOR COMMITTEE REPORT at 41, *reprinted in*1990 U.S.C.C.A.N. at 323; "robbed of our dignity, of our self-respect . . ." and suffer "the elimination of dignity associated with being a human being . . . ." *Id.* The Committees concluded that such "\[d]iscrimination results in social isolation and in some cases suicide." *Id.* at 42, *reprinted in* 1990 U.S.C.C.A.N. at 324; SENATE REPORT at 16.
 
-[](<>)
+
 
 22 The Committee reports identified such consequences as the waste of human resources and the huge financial costs of maintaining individuals in "dependency." SENATE REPORT at 16-18; EDUCATION & LABOR COMMITTEE REPORT at 43-47, *reprinted in* 1990 U.S.C.C.A.N. at 325-29.
 
-[](<>)
+
 
 23 *See*, *e.g.*, *id.* at 62 (statement of Bill Knight, Chairman, Greater Waterbury Consumer Action Forum) ("services are woefully inadequate and a segregated society is created due to institutionalization"); *id.* at 65 (statement of Ed Preneta, Director, Connecticut Developmental Disabilities Office) ("people with mental retardation locked up in institutions;" ADA is "an opportunity to reach the most segregated members of our society"); *id.* at 23 (statement of Elmer Bartels, Commissioner, Massachusetts Rehabilitation Commission) (advocating "a reasonable level of services that cost less where people can live independently in the community than it costs to keep people in dependent settings within nursing homes, public health hospitals and institutions," and questioning "cost-effectiveness" of placing people with disabilities in treatment facilities equivalent to "consigning them ... to 'terminal' care in an institution"); *id.* at 101 (statement of Stanley Koslowski, Connecticut Office of Protection and Advocacy) (describing the "stigma" associated with "institutionalization" for psychiatric disabilities as "probably more severe than any other stigma"); *id.* at 1066 (statement of William Cavanaugh, consumer of Massachusetts mental health services) (complaining of "abusive treatment and human rights violations" in mental institutions). One witness with a disability spoke of what she described as her "realistic," "constant fear" that she might be "institutionalized," and described in graphic terms her experience of residential treatment facilities:
 
@@ -530,7 +530,7 @@ Some commentators have argued that the ADA in effect creates a statutory require
 
 She added her plea that Congress should "\[p]lease enact the ADA quickly." *Id.* at 172.
 
-[](<>)
+
 
 24 *See*, *e.g.*, Timothy M. Cook, *The Americans with Disabilities Act: The Move to Integration*, 64 TEMP. L. REV. 393, 407B414, 439-457 (1991) and the authorities cited therein. Among the benefits of integrated programs the author identifies, are the following:
 
@@ -539,6 +539,6 @@ She added her plea that Congress should "\[p]lease enact the ADA quickly." *Id.
 > 3. Integrated Educational and Training Programs Enhance the Skills Learned by Persons with Disabilities and Better Prepares Persons with Disabilities for Employment; and
 > 4. Integration Improves the Health, Independence, and Affect of Persons with Disabilities, and Renders Persons with Disabilities More Likely to Live, Work, and Recreate in Regular Community Settings. *Id.* at 445-456.
 
-[](<>)
+
 
 25 For current figures regarding institutional populations and comparisons of costs of institutions and community-based programs, *see* National Conference of State Legislatures, *Saving Medicaid Money: From Institutions to Community Care*, 25 STATE LEGISLATURES 7 (February 1999).

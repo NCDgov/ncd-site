@@ -103,7 +103,7 @@ TABLE OF CONTENTS
 
 - - -
 
-[](<>)EXECUTIVE SUMMARY
+EXECUTIVE SUMMARY
 
 Does the United States maintain a coherent disability policy within its foreign policy? In 1995 the National Council on Disability (NCD) was designated by the Department of State to be the official contact point within the U.S. government for disability issues. Through this study, NCD has sought to measure the extent to which U.S. disability rights laws are extended in international settings through the activities of three key U.S. foreign policy agencies: Department of State, Agency for International Development (AID), and United States Information Agency (USIA). The study examined the employment, accessibility, and outreach policies and programs of these agencies and the attitudes of their officials in light of U.S. disability rights law and democratic principles. The primary objective was to assess the impact of American foreign policy and programs on individuals with disabilities, both U.S. citizens and residents of other nations.
 
@@ -121,7 +121,7 @@ Recommendations include:
 
 - - -
 
-[](<>)PROBLEM STATEMENT
+PROBLEM STATEMENT
 
 In 1973 the U.S. Rehabilitation Act barred federal funds from programs or projects that discriminated against people with disabilities. In its 1986 report *Toward Independence*, NCD first recommended "a comprehensive law requiring equal opportunity for individuals with disabilities." This protection was further extended when President Bush signed the Americans with Disabilities Act (ADA) in 1990, establishing a national commitment to independent living, equality of opportunity, and economic self-sufficiency for people with disabilities. Never before had a country so clearly and comprehensively set as a national goal the full participation of all its citizens by proscribing discrimination on the basis of disability.
 
@@ -131,7 +131,7 @@ Advocating equality is a U.S. foreign policy tradition. In the course of its mor
 
 The U.S. government maintains thousands of international programs administered by a number of agencies at a cost of roughly $22 billion annually. Determining exactly how many of these programs specifically address disability is difficult because they are distributed through a number of agencies at different levels of funding. It is even more difficult to identify those programs that do not specifically address disability yet include, or could include, people with disabilities in their activities. Because people with disabilities are a significant portion of the world's population, with estimates ranging from 5 to 15 percent, any sizable government program overseas has the potential to attract participants with disabilities or have an influence upon them.
 
-[](<>)A Personal Account
+A Personal Account
 
 When examining the U.S. foreign policies and programs that affect individuals with disabilities in other countries, it is useful to begin with an example taken from the experience of a U.S. delegation. Certainly, the participation of Americans with disabilities in U.S. delegations to working meetings (such as the UN World Program of Action and the Standard Rules on the Equalization of Opportunities for People with Disabilities) and meetings (such as the UN World Summit for Social Development in Copenhagen) has contributed significantly to enhancing America's reputation as a democratic leader, while at the same time inspiring people with disabilities abroad to advance democratic principles in their own countries.
 
@@ -149,7 +149,7 @@ The low priority given disability issues within the U.S. foreign policy establis
 
 - - -
 
-[](<>)OBJECTIVES
+OBJECTIVES
 
 This study sought to (1) discover if the United States maintains a coherent disability policy within its foreign policy and (2) assess how this policy, or its absence, affects individuals with disabilities, both U.S. citizens and foreign nationals.
 
@@ -162,7 +162,7 @@ To this end the study asked the following questions:
 
 - - -
 
-[](<>)METHODOLOGY
+METHODOLOGY
 
 The study focused on the projects and activities of three of the four main U.S. government agencies authorized to execute foreign policy: the Department of State, AID, and USIA.
 
@@ -194,9 +194,9 @@ This study uses the following definitions:
 
 - - -
 
-[](<>)FINDINGS
+FINDINGS
 
-[](<>)Review of Existing Laws and Regulations
+Review of Existing Laws and Regulations
 
 Key disability rights laws are of ambiguous applicability outside the United States. In a landmark 1991 decision (*Equal Employment Opportunity Commission \[EEOC] v. Arabian American Oil Co.*), the principle of statutory construction limited legislation enacted by Congress to the territorial jurisdiction of the United States unless there was evidence of legislative intent to the contrary. The laws giving the greatest protections to individuals with disabilities generally do not demonstrate such an intent. ADA and the Air Carriers Act specify some specific overseas applications, but laws prohibiting the U.S. government or its agents from discriminating against people with disabilities do not have provisions extending their protections abroad. It is important to note, however, that the jurisdiction of disability rights laws has never been specifically tested in court.
 
@@ -212,7 +212,7 @@ With regard to federal regulations, the nondiscrimination regulations of the Dep
 
 Particularly contrary to U.S. antidiscrimination policy is Title VIII, Section 1182 of the United States Code. This provision authorizes the Immigration and Naturalization Service to exclude admission and deny visas to classes of aliens who "have a physical or mental disorder and behavior associated with the disorder that may pose, or has posed, a threat to the property, safety, or welfare of the alien or others" or "have had a physical or mental disorder and a history of behavior associated with the disorder, which behavior has posed a threat to the property, safety, welfare of the alien or others and which behavior is likely to recur or to lead to other harmful behavior." This provision, and another that specifically bars entry to the United States of foreign nationals with HIV/AIDS, are directly at odds with the protections of ADA. Under this section, people with disabilities from outside the United States are subject to discrimination by the U.S. government that is thoroughly illegal at home.
 
-[](<>)Agency Review: Programs and Policies
+Agency Review: Programs and Policies
 
 Although the three foreign affairs agencies examined in this study are each an instrument of the president's overall policy and often coordinate their activities, the agencies themselves are autonomous. Each agency head is accountable only to the president, and each organization has its own management structure.
 
@@ -299,7 +299,7 @@ Survey responses were classified by types of projects reported and by funding so
 
 The countries where the United States does not fund disability-related projects tend to be those receiving relatively smaller levels of assistance. Ten of the 28 countries (36 percent) receiving less than $50 million in assistance do not fund disability-related programs compared with 3 of 18 countries (17 percent) receiving $50 million or more. Embassies in countries with higher economic development are also less likely to fund disability-related projects. In countries with a per capita gross domestic product (GDP) of $3,000 or higher, 7 of 14 (50 percent) did not fund disability-related projects compared with 6 of 33 (18 percent) with a per capita GDP below $3,000.
 
-[](<>)Embassy Awareness
+Embassy Awareness
 
 One of the study objectives was to assess U.S. embassy awareness of disability rights, organizations, and issues. To this end, question 2 asked embassies if they were in contact with indigenous NGOs comprising people with disabilities. Forty-four of the 62 respondents said they were in contact with disability organizations in-country. Although a definition of organizations directed by people with disabilities was provided in the survey, many respondents did not distinguish between organizations of and for people with disabilities. Some responding embassies were unaware of the existence of such organizations within their host country, although the researchers knew of a substantial number of organizations directed by people with disabilities in these countries.
 
@@ -317,7 +317,7 @@ Question 5 sought to measure the inclusion of people with disabilities in the ge
 
 Of the 59 respondents to this question, 23 (39 percent) reported that they encourage participation, 17 (29 percent) stated nondiscrimination, and 17 (29 percent) had no policy. The remaining five respondents either did not answer completely or did not understand the question.
 
-[](<>)Analysis of Embassy Awareness
+Analysis of Embassy Awareness
 
 The five open-ended survey questions were designed to encourage respondents to provide extended answers. These answers were evaluated for quality and consistency with ADA principles, using a level of awareness scale ranging from zero (lowest awareness) to four (highest awareness). Respondents who answered all questions but did not provide details were given an overall score of two, those answering in detail received a three, and those providing details that demonstrated an exceptional understanding of disability issues received a four. Respondents omitting answers to any one of the five questions were given a score of zero for that question and an overall score of no more than one.
 
@@ -325,7 +325,7 @@ Respondents achieved the highest average score on the human rights data collecti
 
 - - -
 
-[](<>)**CONCLUSIONS**
+**CONCLUSIONS**
 
 The United States does not have a comprehensive foreign policy on disability. Those responsible for creating and implementing U.S. overseas policies and programs generally are unaware of disability issues, cannot articulate our national policies with respect to people with disabilities, do not incorporate the interests of people with disabilities into U.S. foreign policy objectives, and do not see the importance of U.S. disability advances and achievements for people with disabilities in other countries. For example, many of the officials interviewed in the course of this study contended that U.S. accessibility standards do not apply overseas, but federal accessibility regulations do not reflect this opinion. In fact accessibility standards and federal disability rights compliance regulations make no exemption for overseas U.S. operations, and there has been no definitive jurisdictional test of disability rights statutes in court.
 
@@ -346,7 +346,7 @@ Currently, disability-specific provisions of foreign operations laws exist for t
 
 - - -
 
-[](<>)RECOMMENDATIONS
+RECOMMENDATIONS
 
 Representatives of the national disability advocacy community should work with foreign affairs agencies to create measurable goals to increase the inclusion of people with disabilities in U.S. international activities. The goals should incorporate, at a minimum, the following points:
 
@@ -374,7 +374,7 @@ The machinery of U.S. foreign policy-making should be modified to include a mech
 
 - - -
 
-[](<>)APPENDIX A: POLICIES OF OTHER COUNTRIES
+APPENDIX A: POLICIES OF OTHER COUNTRIES
 
 We have included for consideration examples of policies from other countries with proven records of involving people with disabilities in development planning and projects. Both Canada and the Nordic nations have been funding organizations directed by people with disabilities to conduct development projects for over a decade. The Nordic nations have policies in place governing disability in development. Canadian disability organizations are still seeking to adopt the following policies.
 
@@ -431,7 +431,7 @@ March 6, 1991
 
 - - -
 
-[](<>)APPENDIX B: MISSION OF THE NATIONAL COUNCIL ON DISABILITY
+APPENDIX B: MISSION OF THE NATIONAL COUNCIL ON DISABILITY
 
 Overview and Purpose
 
@@ -467,4 +467,4 @@ NCD was initially established in 1978 as an advisory board within the Department
 
 - - -
 
-[](<>)1 Fricke, Yutte, "Disability and Development: The Canadian Experience," unpublished paper, 1993.
+1 Fricke, Yutte, "Disability and Development: The Canadian Experience," unpublished paper, 1993.

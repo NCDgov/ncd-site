@@ -110,7 +110,7 @@ TABLE OF CONTENTS
 
 [References](https://ncd.gov/publications/1998/April1998#10)
 
-[](<>)INTRODUCTION
+INTRODUCTION
 
 Data related to people with disabilities have increasingly gained the interest of policy makers, the disability community, and researchers over the past decade. Calls for greater policy and program accountability and effective planning, both within and outside of government, have fueled an interest in disability-related data. Policy issues on the forefront of the disability agenda, such as long-term services and employment, require relevant measures, accurate data, routinely repeated measures, sophisticated analysis, and both broad and well-targeted dissemination.
 
@@ -120,7 +120,7 @@ During the past several years, numerous conferences and workshops have been held
 
 The following action steps address six areas of primary importance in disability statistics: orienting disability data collection activities to the new paradigm of thinking about disability, improving organizational structure, refining current data collection efforts, using existing data, developing new data collection instruments, and broadening dissemination.
 
-[](<>)ORIENTING DISABILITY DATA COLLECTION ACTIVITIES TO THE NEW PARADIGM OF THINKING ABOUT DISABILITY
+ORIENTING DISABILITY DATA COLLECTION ACTIVITIES TO THE NEW PARADIGM OF THINKING ABOUT DISABILITY
 
 With the enactment of the Americans with Disabilities Act (ADA) in 1990, a new paradigm of thinking about disability was firmly established in law and policy. Moving away from the medical model that usually forms the foundation of disability policy, this new paradigm offers a civil rights orientation that focuses on societal barriers to full participation rather than the functional impairments of the individual. The disability community has embraced ADA as its declaration of independence, one that articulates a vision of an accessible and equitable society. However, the vast majority of data collection activities of the Federal Government retain the medical bias and have not yet adopted the new paradigm. Examples of medical bias are found in questions about work in population-based surveys such as the Decennial Census and the Current Population Survey (CPS). Questions in those surveys focus on the individual's impairment and functional level but fail to identify barriers in society and the environment--such as discrimination and lack of accommodations in the workplace--that are potential obstacles to employment, assuming instead that the obstacles to employment reside solely with the individual as a result of the impairment itself.
 
@@ -150,7 +150,7 @@ Disability data collection is an evolving field. A formidable amount of work rem
 
 People with disabilities should be a part of designing and refining data collection instruments, determining questions that will guide analysis, and developing dissemination strategies. Too often, data are generated that are irrelevant or unusable by people with disabilities. People with disabilities are often unaware of what is available. Inaccessible formats prevent meaningful use. People with disabilities should be provided financial support for their participation in the provision of data (e.g., responding to surveys and requests for information), the development of data activities, and the utilization of data. Information should be available in accessible formats in all phases of data collection activities.
 
-[](<>)IMPROVING ORGANIZATIONAL STRUCTURE
+IMPROVING ORGANIZATIONAL STRUCTURE
 
 Numerous federal agencies and interagency entities are involved in disability data collection activities. Furthermore, most federal surveys operate with particular constituencies, both inside and outside of government, and in political environments. Coordination and collaboration are challenging but essential for effective data collection activities.
 
@@ -162,7 +162,7 @@ Because of the complexity of this task, the range of interest involved, and the 
 
 7. Develop a mechanism for all federal agencies to exchange information regularly with the Department of Health and Human Services (HHS) Data Council, which reviews and clears all HHS surveys. The Interagency Subcommittee on Disability Statistics should be integrally involved in this effort.
 
-[](<>)REFINING CURRENT DATA COLLECTION EFFORTS
+REFINING CURRENT DATA COLLECTION EFFORTS
 
 The Federal Government routinely carries out several large surveys. Appendix I includes a partial list of those surveys and a brief description of their purposes. Numerous conferences and reports have outlined recommendations for improving the disability questions in those surveys. A compilation of those recommendations follows each survey description in the appendix.
 
@@ -190,7 +190,7 @@ This action would include information-gathering efforts related to such programs
 
 To understand the unique aspects of all people with disabilities, it is critical that all groups be adequately sampled. Frequently, too few people with a particular disability or of a particular age or ethnicity are sampled to allow for statistically sound analysis.
 
-[](<>)USING EXISTING DATA
+USING EXISTING DATA
 
 The following action steps are recommended to make better use of existing data.
 
@@ -208,7 +208,7 @@ Many informational needs (such as characteristics of low-prevalence populations 
 
 Apply algorithms used in the successful backcoding efforts of the Department of Education, the United Nations Statistical Division's DISTAT project, and the National Center for Medical Rehabilitation Research's Research Archive on Disability in the United States.
 
-[](<>)DEVELOPING NEW DATA COLLECTION INSTRUMENTS
+DEVELOPING NEW DATA COLLECTION INSTRUMENTS
 
 The following action steps are recommended to develop new data collection instruments.
 
@@ -240,7 +240,7 @@ Some of these items will require the development of new survey questions or the 
 
 26. Ensure that any new disability questions reflect variations in ethnic cultural understanding of disability.
 
-[](<>)BROADENING DISSEMINATION
+BROADENING DISSEMINATION
 
 The following action steps are recommended to broaden dissemination.
 
@@ -256,7 +256,7 @@ To put teeth into recommendations concerning accessible materials, grants and co
 
 Federal agencies could require contractors and grantees, as a part of an award stipulation, to produce an ASCII database of raw data, a file of data definitions, and files of relevant data and study documentation (properly cleaned, formatted, and disidentified) for the sponsoring government agency at the end of the project period. The agency could then determine whether to directly redistribute the data and documentation for secondary statistical analysis and educational purposes or to release the files to another organization for public access.
 
-[](<>)**Appendix I**
+**Appendix I**
 
 Major Surveys
 
@@ -325,7 +325,7 @@ Recommendations for improving the Survey of Income and Program Participation
 * Use SIPP as a complementary data source to the Current Population Survey (CPS) to describe the employment patterns of persons with work disabilities. The CPS is used to provide the monthly unemployment rate for persons in the United States. Extending that set of indicators would allow reporting not only on the unemployment rate but also on the levels of full employment among persons with and without disabilities.
 * Structure the questionnaire and code the results to ICIDH-2.
 
-[](<>)**Appendix II**
+**Appendix II**
 
 Mission of the National Council on Disability
 
@@ -365,7 +365,7 @@ Statutory History
 
 NCD was initially established in 1978 as an advisory board within the Department of Education (Public Law 95-602). The Rehabilitation Act Amendments of 1984 (Public Law 98-221) transformed NCD into an independent agency.
 
-[](<>)REFERENCES
+REFERENCES
 
 Administration on Developmental Disabilities and National Institute on Disability and Rehabilitation Research (1994, February). Data and trends in developmental disabilities. Proceedings of Invitational Conference. Washington, DC: Author.
 

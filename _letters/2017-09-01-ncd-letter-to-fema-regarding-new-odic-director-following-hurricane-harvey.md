@@ -20,7 +20,7 @@ I write on behalf of the National Council on Disability-an independent, nonparti
 
 The new ODIC Director will face many challenges from the very start. The first being Hurricane Harvey and the start of the hurricane season. It is unclear how many people with disabilities have been impacted by Harvey, but there have been many alarming stories of people with disabilities who have been adversely impacted by this storm. The recovery effort will be extensive and people with disabilities often have needs that will require additional knowledge and resources to be addressed properly. At this critical moment NCD is pleased that ODIC will have a Director to begin addressing the immediate challenges that lie ahead and we offer our assistance going forward.
 
-Lessons were learned in the aftermath of Katrina. Congress responded with the Post Katrina Emergency Management Reform Act (PKEMRA). The Act requires, among other things, that FEMA retain a Disability Coordinator (ODIC Director) who would report directly to you on matters and concerns of the disability community and that NCD and FEMA coordinate with each other in matters pertaining to emergency management.[\[1]](https://ncd.gov/publications/2017/letter-fema-odic-harvey#_ftn1)
+Lessons were learned in the aftermath of Katrina. Congress responded with the Post Katrina Emergency Management Reform Act (PKEMRA). The Act requires, among other things, that FEMA retain a Disability Coordinator (ODIC Director) who would report directly to you on matters and concerns of the disability community and that NCD and FEMA coordinate with each other in matters pertaining to emergency management.[1](https://ncd.gov/publications/2017/letter-fema-odic-harvey#_ftn1)
 
 Prior to the establishment of ODIC in 2010, many people with disabilities felt they were treated as expendable in a national emergency. ODIC has worked on changing public perception and policy so that people with disabilities’ needs are addressed and have a seat at the table.
 
@@ -47,4 +47,4 @@ Chairperson
 
  
 
-[\[1]](https://ncd.gov/publications/2017/letter-fema-odic-harvey#_ftnref1)  Pub. L. No. 102-295, sec. 646, 120 Stat. 1426.  Pub. L. No. 102-295, sec. 648, 120 Stat. 1427.  Pub. L. No. 102-295, sec. 649, 120 Stat. 1428.  Pub. L. No. 102-295, sec. 650, 120 Stat. 1428.  Pub. L. No. 102-295, sec. 689, 120 Stat. 1448. f Pub. L. No. 102-295, sec. 683, 120 Stat. 1446.
+[1](https://ncd.gov/publications/2017/letter-fema-odic-harvey#_ftnref1)  Pub. L. No. 102-295, sec. 646, 120 Stat. 1426.  Pub. L. No. 102-295, sec. 648, 120 Stat. 1427.  Pub. L. No. 102-295, sec. 649, 120 Stat. 1428.  Pub. L. No. 102-295, sec. 650, 120 Stat. 1428.  Pub. L. No. 102-295, sec. 689, 120 Stat. 1448. f Pub. L. No. 102-295, sec. 683, 120 Stat. 1446.

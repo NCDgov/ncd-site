@@ -20,7 +20,7 @@ Dear Congressman Scott and Congressman Ellison:
 
 As the Chair of the National Council on Disability (NCD), a non-partisan federal agency charged with making recommendations to the President and Congress to promote the policies, programs, practices, and procedures that advance equality of opportunity for all individuals with disabilities, I write to applaud your decision to include provisions phasing out the use and availability of 14(c) waivers as a part of the “Raise the Wage” Act.
 
-In 2012, NCD published our “Subminimum Wage and Supported Employment” report[\[1]](https://ncd.gov/publications/2019/ncd-letter-congressmen-scott-and-ellison-raise-wage-act#_ftn1), which recommended a systems change approach to phasing out the 14(c) program of the Fair Labor Standards Act, which currently allows employers who have received a waiver from the Department of Labor to compensate workers with disabilities at a rate less than the minimum wage.
+In 2012, NCD published our “Subminimum Wage and Supported Employment” report[1](https://ncd.gov/publications/2019/ncd-letter-congressmen-scott-and-ellison-raise-wage-act#_ftn1), which recommended a systems change approach to phasing out the 14(c) program of the Fair Labor Standards Act, which currently allows employers who have received a waiver from the Department of Labor to compensate workers with disabilities at a rate less than the minimum wage.
 
 Our 2012 report followed a thorough review of national research on sub-minimum wage employment, including “sheltered workshops,” as well as site visits across the country to seek out the views and experiences of workers with disabilities, family members, workshop operators, supported employment providers, and policymakers. After this thorough investigation, the Council found that:
 
@@ -45,4 +45,4 @@ Chair
 
 - - -
 
-[\[1]](https://ncd.gov/publications/2019/ncd-letter-congressmen-scott-and-ellison-raise-wage-act#_ftnref1) <https://ncd.gov/publications/2012/August232012>
+1 <https://ncd.gov/publications/2012/August232012>

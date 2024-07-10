@@ -219,7 +219,7 @@ The extent of unnecessary institutionalization of people with disabilities in th
 
 In this report, the National Council on Disability (NCD) assesses the nation's response to the United States Supreme Court's decision in *Olmstead* v. L.C., 527 U.S. 581 (1999) that the unjustified institutionalization of people with disabilities is a form of discrimination. NCD's research reports on the extent of unnecessary institutionalization in the United States, the continuing barriers to community placement, and resources and service models that facilitate community integration. NCD examines the Federal Government's implementation efforts and the strategies states and key stakeholders are using to (1) develop consensus on a coordinated action plan, (2) identify and commit the necessary resources for community-based service options, and (3) sustain collaborative action toward creating real choice for people with disabilities living in institutions.
 
-[](<>)
+
 
 **THE *OLMSTEAD* DECISION**
 
@@ -280,7 +280,7 @@ Based on its research, NCD recommendations for the Federal Government include th
 
 The *Olmstead* decision has become a powerful impetus for a national effort to increase community-based alternatives and eliminate unjustified institutional placements. Ultimately, only comprehensive amendments to Title XIX of the Social Security Act (SSA), similar to the amendments proposed in MiCASSA (the Medicaid Community-based Attendant Services and Supports Act), will overcome the institutional bias within the Medicaid program. In the meantime, however, there are many measures short of a thorough revision of Title XIX that federal agencies can and should undertake. We must continue to empower *Olmstead* stakeholders in their state "systems change activities," that is, in their efforts to redesign the state service systems to enhance choice, independence, self-determination, and community integration. Our nation will be much more prosperous when it makes real the right of people with disabilities to live in the most integrated setting.
 
-[](<>)
+
 
  Chapter I
 
@@ -673,7 +673,7 @@ MiCASSA would allow consumers to choose among various consumer-controlled servic
 
 A person unable to direct his or her own care may be assisted by an authorized representative. The bill would also cover transition costs from a nursing facility or ICF/MR to a home setting-for example, rent and utility deposits, bedding, basic kitchen supplies, and other necessities-and would allow an enhanced federal match of up to 90 percent for persons whose costs exceed 150 percent of average nursing home costs.135 The IMD exclusion would not create a barrier to eligibility for persons with mental illnesses.
 
-[](<>)
+
 
  Chapter II
 
@@ -751,7 +751,7 @@ Thus, although a clear majority of the Court held that unnecessary institutional
 
 > States are required to provide community-based treatment for persons with mental disabilities when the State's treatment professionals determine that such placement is appropriate, the affected persons do not oppose such treatment, and the placement can be reasonably accommodated taking into account the resources available to the State and the needs of others with mental disabilities.199
 
-[](<>)
+
 
  Chapter III
 
@@ -894,7 +894,7 @@ The court's finding that institutional and county staff "have no choice but to w
 
 Of the issues with which the courts have struggled since *Olmstead* v. L.C was decided, the issue of whether a proposed modification of the state's programs and services is "reasonable" has caused them the most difficulty. Issues concerning eligibility and nonopposition to community placement have not been entirely uniform, but have generated less difficulty in comparison. The "reasonable modification" inquiry is highly factual and requires examination of the pace at which the state is offering services to persons on waiting lists and the state and federal resources available. In the chapters ahead, we shall assess the states' responses to the *Olmstead* decision against the emerging legal standards for measuring compliance with the standards set forth by the Supreme Court.
 
-[](<>)
+
 
  **Chapter IV**
 
@@ -1284,7 +1284,7 @@ A comparison of the barriers to community integration identified by people with 
 
 In early 2003, the Bush Administration announced a five-year program beginning in 2004-the "Money Follows the Individual" Rebalancing Demonstration-to enable people with disabilities to move from institutions to the community. The program would provide for one year of 100 percent federal funding for home- and community-based waiver services for a person leaving an institution, after which the state would agree to continue to provide services for the person at the regular Medicaid matching rate. The Administration will seek $350 million to fund the program in 2004, with $1.75 billion in proposed funding over a five-year period.377
 
-[](<>)
+
 
  Chapter V
 
@@ -1294,7 +1294,7 @@ This chapter examines responses at the state level to *Olmstead* v. L.C. and t
 
 This chapter summarizes the progress of *Olmstead* implementation on a state-by-state basis (with the exception of the states that will be analyzed in depth in chapter VI). We shall discuss the planning process; the progress the state has made in community integration since *Olmstead* v. L.C. was decided; and state "systems change" activities, that is, efforts to redesign the state service systems to enhance choice, independence, self-determination, and community integration. Collectively, these activities are indicators of the states' overall compliance with *Olmstead*, including the states' compliance with HHS's planning instructions; movement to the community from public and private institutions, nursing facilities, psychiatric facilities, and other types of institutional settings; and reform of service delivery systems to remove barriers to community living.
 
-[](<>)
+
 
 1. ALABAMA
 
@@ -1322,7 +1322,7 @@ The reviews further concluded that the political power of the nursing home indus
 
 Information dissemination cannot overcome these significant barriers. In sum, neither the *Olmstead* planning process nor the Systems Change grants squarely address Alabama's most significant barriers to deinstitutionalization.
 
-[](<>)
+
 
 2. ALASKA
 
@@ -1344,7 +1344,7 @@ Alaska began to implement a consumer-directed program of personal assistance ser
 
 Although Alaska's institutional populations are relatively small, the state has not responded to *Olmstead* by taking steps to reduce institutional populations. Indeed, the trend is in the opposite direction.
 
-[](<>)
+
 
 3. ARKANSAS
 
@@ -1389,7 +1389,7 @@ Arkansas has a Community-Integrated Personal Assistance Services and Supports gr
 
 Arkansas also has a Real Choice Systems Change grant for adults age 19 and older. The project will examine strategies to recruit and retain in-home workers, develop a Medicaid/Medicare integrated system, provide technical assistance in consumer self-determination, and develop an assessment process based on consumer preferences.413
 
-[](<>)
+
 
 4. CALIFORNIA
 
@@ -1431,7 +1431,7 @@ California has not received a Systems Change grant. In the *Olmstead* training
 
 Californians with disabilities have filed several lawsuits to challenge the lack of movement from institutions: Davis et al. v. Department of Health and Human Services, which challenges the City of San Francisco's decision to rebuild Laguna Honda, a 1,200-bed public nursing facility, and asks that the defendants be ordered to conduct assessments, identify the long-term care needs of those they serve, and determine whether their needs can be met in an integrated, community-based setting;434 Capitol People First v. DDS, a post-Coffelt lawsuit that challenges the inappropriate institutionalization of persons with developmental disabilities in state institutions; and Sanchez v. Johnson, which challenges the great disparity in wages paid to direct support professionals who work with persons with developmental disabilities in the institutions and the wages paid to those who perform comparable work in the community.
 
-[](<>)
+
 
 5. COLORADO
 
@@ -1455,7 +1455,7 @@ Atlantis/ADAPT leaders Mike Auberger and Autumn Gold are subcontractors for Colo
 
 As in other states, Colorado's worsening fiscal situation has threatened to make *Olmstead* implementation problematic; however, the strength and unity of the disability movement in Colorado has helped advocates resist deep budget cuts. In late July 2002, the state proposed a 30 percent cut in Medicaid-based personal assistance services. As a result of unified resistance and direct action from the disability community, the state reduced the cut to 5 percent, which the disability community still would not accept.444 By the beginning of 2003, the state's worsening budget situation led the governor preliminarily to approve a 1.2 percent cutback in community programs for adults with disabilities that will preclude the development of new community services for 663 adults on waiting lists for residential services and others who were slated to move from nursing facilities.445
 
-[](<>)
+
 
 6. CONNECTICUT
 
@@ -1479,7 +1479,7 @@ A bill was passed in 2001 in the Connecticut legislature asking the governor to 
 
 Connecticut received a Nursing Facility Transition grant to transition 150 persons to the community. The Community Options Task Force was actively involved in developing the grant proposal. The Connecticut Association of Centers for Independent Living (CACIL) will be responsible for the overall management and administration of the project, which will be staffed and implemented by the state's five CILs.457 A Real Choice Systems Change grant will develop model community programs for all disability populations.458
 
-[](<>)
+
 
 7. DELAWARE
 
@@ -1549,7 +1549,7 @@ As is demonstrated by the numbers Rita Landgraf cited in her letter quoted above
 
 Delaware has a Real Choice Systems Change grant designed to increase access to assistive technology. Grant activities include conducting a needs analysis, creating an awareness campaign, conducting training activities, and developing a Web site and a tracking system for assistive technology.478 The state also received two Nursing Facility Transition grants in the second round of system change grants.479
 
-[](<>)
+
 
 8. DISTRICT OF COLUMBIA
 
@@ -1565,7 +1565,7 @@ The District of Columbia was an early leader in community integration for person
 
 The District recently received two Systems Change grants, one in the area of Community-Integrated Personal Assistance Services, the other a Real Choice grant.484
 
-[](<>)
+
 
 9. GEORGIA
 
@@ -1605,7 +1605,7 @@ On January 31, 2003, people with physical disabilities confined in nursing facil
 
 Georgia has received two Nursing Facility Transition grants, both of which are being carried out by Independent Living Centers as contractors. One will transition 24 persons from nursing facilities to the community; the other will develop a transition infrastructure within the Independent Living Network to introduce people with disabilities to peer supporters and role models. The grant, however, contains no concrete target for placing nursing home residents in the community.504
 
-[](<>)
+
 
 10. HAWAII
 
@@ -1637,7 +1637,7 @@ In 2000, the Hawaii legislature appropriated an additional $4.3 million for home
 
 Hawaii's use of its Real Choice Systems Change grant is responsive to its five-year strategic plan of December 2001. The state is using the grant to develop, demonstrate, and institutionalize a cross-agency Web-based single entry point (SEP) to provide consumers with in-depth, up-to-date information on all their available service options by private and public agencies. The SEP will use a unified database showing all long-term care services offered by the state, counties, and private organizations, with open slots listed according to geographical location; it will also include a quality assurance system that will identify service gaps by tracking service requests and allow consumers to rate the services they receive. A consumer who is also co-principal investigator for the project and has at least 51 percent consumer membership will chair the project's governing council and work groups.512
 
-[](<>)
+
 
 **12. IDAHO**
 
@@ -1659,7 +1659,7 @@ Idaho's nursing facility population, in the midrange of the states when expresse
 
 Idaho is using its Real Choice Systems Change grant to conduct a needs and resources assessment, analyze current service use, and "test and refine a community based plan."519 In 2001, the legislature and the Department of Health and Welfare initiated a new program to provide children's mental health services; however, this initiative was not a response to*Olmstead* planning but was driven by an effort to resolve the Jeff D. lawsuit filed in 1980.520
 
-[](<>)
+
 
 **13. INDIANA**
 
@@ -1725,7 +1725,7 @@ Senate Bill 215, enacted in 2001, requires the state to create and maintain a re
 
 The state is developing waivers for targeted case management and support services, leveraging federal funds by shifting state funds used to support adult day services to the Medicaid waiver program. The most recent budget contains funds for raising salaries of direct support professionals.
 
-[](<>)
+
 
 **14. IOWA**
 
@@ -1759,7 +1759,7 @@ The work group acknowledged that many nonelderly persons living in nursing facil
 
 Although the Iowa *Olmstead* plan does not contain an evaluation of the adequacy of current assessment processes, the state's *Olmstead* planning group participated actively in developing the state's Real Choice System Change grant proposal, the focus of which is "establishing a flexible, consumer-centered, individual assessment process emphasizing consumer preferences" and "developing a coordinated system of transition and community support services."543
 
-[](<>)
+
 
 **15. KANSAS**
 
@@ -1785,7 +1785,7 @@ In mid-May 2002, the Department of Social and Rehabilitation Services predicted 
 
 Kansas has received two Systems Change grants for a total of $2 million. One of the grants, for personal assistance services, is to be administered by the University of Kansas Center for Research; the Department of Social and Rehabilitation Services will administer the other.551
 
-[](<>)
+
 
 <16. KENTUCKY
 
@@ -1811,7 +1811,7 @@ The Policy Recommendations for the state *Olmstead* plan include provisions th
 
 The state is using its Systems Change Grant, in part, to develop pilot nursing facility transition projects in two regions of the state (urban and rural) to assess the availability and accessibility of housing and service options for transitioning out of institutions into the community.563
 
-[](<>)
+
 
 **17. LOUISIANA**
 
@@ -1841,7 +1841,7 @@ In July 2001, after months of intense advocacy for DHH to submit an application 
 
 A class action lawsuit filed in federal court in April 2000, Barthelemy v. Department of Health and Hospitals, has had far greater impact on the progress of community integration and systems change in Louisiana that formal *Olmstead* planning. Barthelemy was filed by the Advocacy Center, Louisiana's Protection and Advocacy system, on behalf of persons in nursing facilities or at imminent risk of placement in those facilities. In October 2001, the court approved a settlement agreement requiring the defendants to reduce waiting lists for waiver services to 90 days over the next four years; increase the number of waiver slots by 1,850, amend the state plan to add the personal care option for persons in nursing facilities or at imminent risk of nursing facility placement for up to 56 hours a week, increase the wages of personal care attendants and case management fees, develop assessment-driven plans of care, and implement a variety of methods for ensuring that nursing facility and residents and persons referred for long-term care services are adequately advised about the availability of community services.578 In summer 2002, the parties negotiated a modification of the settlement agreement adding 500 waiver slots to the 1,850 already agreed to, obligating the defendants to use their best efforts to fill 100 percent of the slots by the end of the six-month period in which they become available, and requiring consumer-directed implementation of the new personal care option. Some of the timelines in the original agreement were modified, but most provisions of the agreement will become operational in 2003.579 Barthelemy has enormous potential to expand the availability of community services as an alternative to nursing facility services in Louisiana.
 
-[](<>)
+
 
 **18. MAINE**
 
@@ -1924,7 +1924,7 @@ The discussion was tabled, and the issue was never resolved. The minutes reflect
 
   In 2000, 145 persons with developmental disabilities lived in nursing facilities in Maine; more than 150 persons were housed in ICFs/MR of seven or more persons; and the state had more than 5,300 licensed beds in large board and care facilities, more than 80 percent of them housing more than 10 residents.595 Maine's nursing home population is falling: It decreased by 12.3 percent from 1996 to 2001, to 7,189; the number of beds fell by a comparable percentage; and Medicaid spending on nursing facility services fell by almost 10 percent during the same period.596 One reason for decreasing nursing facility use may be Maine's use of pre-admission screening, using a uniform assessment instrument and a single, independent agency performing the assessments, to reduce reliance on institutional care.597 Another may be the rise in the use of assisted living facility services. The population of these facilities more than doubled between 1995 and 2001, from 2,174 to 4,602.598 Given the breadth of the work group's charge and the large number of Maine elders living in congregate settings, it is rather surprising that the work group did not more explicitly address the unnecessary segregation of elders. Notably, the AAAs and grassroots organizations of elders did not appear to be represented on the work group.599
 
-  [](<>)
+
 
   **19. MARYLAND**
 
@@ -1962,7 +1962,7 @@ The discussion was tabled, and the issue was never resolved. The minutes reflect
 
   When the Glendening administration ignored the coalition's recommendations, Maryland advocates turned to the legislature, which observers claim "has historically taken an active role in shaping Maryland's health care policy."614 In the 2002 legislative session, bills were enacted requiring residential facilities to provide information to residents about home- and community-based options at the time of admission and on an annual basis; providing a $14 million increase in direct care rates; and approving funding for 100 persons under the Community Choices waiver. However, legislation to establish a traumatic brain injury rehabilitation fund by increasing court costs and to capture Medicaid funding that is available to provide services to children at home who without services will be hospitalized did not pass.615
 
-  [](<>)
+
 
   * Support consumer-directed outreach and support for people in institutions by funding expanded outreach programs.
   * Raise the income level for eligibility for Medicaid from 49 percent to 100 percent of the poverty level.
@@ -2010,7 +2010,7 @@ Massachusetts is still a heavily institutional state. It housed 2,792 persons wi
 
 In 2001, 528 persons in state psychiatric facilities had lived in those facilities for more than a year. Massachusetts has one of the highest nursing facility populations in the nation. In 2001, it ranked sixth in nursing facility population when expressed as a percentage of the population as a whole. Both the number of nursing facility residents and the bed supply have increased by more than 2 percent from 1996 to 2001, but surprisingly, this has been accompanied by a decrease by 14 percent in Medicaid spending during the same period.630
 
-[](<>)
+
 
 **21. MINNESOTA**
 
@@ -2046,7 +2046,7 @@ The report used a set of "long-term care benchmarks" to measure the progress of 
 
 Another promising practice in the 2001 legislation is offering incentives for closing nursing facility beds. Most states have an oversupply of nursing facility beds; Minnesota had dealt with this phenomenon with legislation in 2000 that allowed nursing facility operators to place beds in "layaway" for up to five years, that is, to take them temporarily out of service and have them be treated as unlicensed during that interval. In the first 18 months of the "layaway" program, nursing facility operators had taken 2,350 nursing facility beds (of a total of 45,103) out of service. The 2001 legislation goes further and establishes the goal of closing or partially closing up to 5,140 beds during fiscal years 2002 and 2003.640 This approach is innovative and has made Minnesota one of the leading states in the nation in reduction of nursing home beds: The state accomplished a 9.5 percent reduction from 1996 to 2001. Certainly that sort of reduction is warranted in a state with such heavy use of nursing facility services.641 With 38,052 persons living in nursing homes in 2001, Minnesota ranked second highest in the nation in nursing facility population when expressed as a percentage of the population as a whole age 65 and older.642
 
-[](<>)
+
 
 22. MISSOURI
 
@@ -2100,7 +2100,7 @@ Missouri's nursing facility population was 38,706 in 2001, making it 11th in the
 
 Like its *Olmstead* plan, Missouri's Systems Change grant focuses on facilitating informed choice. The grant is being used to develop resources for training on informed choice, train consumers on how to exercise informed choice, and conduct a pilot study to determine which strategies are most successful in facilitating movement to community settings.661
 
-[](<>)
+
 
 23. MONTANA
 
@@ -2126,7 +2126,7 @@ Institutionalization of children and adolescents with mental illness has increas
 
 Montana has a Community-Integrated Personal Assistance Services and Supports grant to alleviate competition for personal assistance personnel. Grant activities include developing a central mechanism for recruiting, screening, and training attendants; tapping underused sources of recruitment, such as older workers; developing a public relations campaign; and developing training modules and caregiver support groups.673
 
-[](<>)
+
 
 24. NEBRASKA
 
@@ -2146,7 +2146,7 @@ An unusual study of the residential and daytime settings in which people in Nebr
 
 The Nebraska Health and Human Services System (HHSS) has received a Real Choice grant to develop consumer-directed services for people with developmental disabilities and behavioral health needs and elders. Activities to be supported by the grant include access to services through a single point of entry; standardization of regulations, policies, procedures, and contractual language; development of a training curriculum; and public awareness.680
 
-[](<>)
+
 
 25. NEW JERSEY
 
@@ -2178,7 +2178,7 @@ Since 1997, New Jersey has operated a Cash and Counseling demonstration project 
 
 New Jersey also has a Real Choice Systems Change grant to expand housing and personal assistance resource for people with disabilities. Activities include seed money for innovative housing projects, creation of a personal assistant registry, creation of a rapid response personal assistant backup system, and development of an educational program for case managers and other frontline staff on the benefits of consumer-directed service models.699
 
-[](<>)
+
 
 26. NEW MEXICO
 
@@ -2225,7 +2225,7 @@ Coupled with the Department of Health's disinterest in *Olmstead* planning is 
 
 The committee concluded that it needed more data, and more accurate data, on the cost of various long-term care services, the numbers of people using those services, how resources are being used, and staff retention.720
 
-[](<>)
+
 
 27. NORTH CAROLINA
 
@@ -2265,7 +2265,7 @@ At the end of 2001, 626 of approximately 3,500 persons institutionalized in stat
 
 The NCHHS plan for reforming the long-term Blueprint for Change calls for reorganizing the department from its present divisional model of "essentially freestanding, single-disability silos" that operate independently of one another to a cross-disability framework that is intended to foster the development of common approaches to similar issues. The Area Agencies that currently provide services will be reorganized into Local Management Entities (LMEs) that will develop local business plans for development of services and manage a network of providers. To receive public funds, the provider must be a member of the network. Access to the reformed system at the local level will be through a "uniform portal."746Although implementation of the new system has barely begun, it is a promising design that has the potential to enhance and integrate planning and development of community services at the local level and divert persons of all disabilities from institutions.
 
-[](<>)
+
 
 28. NORTH DAKOTA
 
@@ -2297,7 +2297,7 @@ In September 2002, North Dakota received a Real Choices Systems Change grant to 
 
 The long-term care planning effort to address overuse of nursing facilities referred to above predates the formation of the Governor's *Olmstead* Commission. In 2000, the Task Force on Long Term Care recommended that a targeted case management option be implemented to ensure that persons who were eligible for long-term care understood the options available to them before making a final decision about where to receive services. The task force also recommended the establishment of a rent subsidy program and a pre-admission assessment process before admission to a nursing facility.767 A state law enacted in 2001, House Bill 1196, which established a revolving loan fund for long-term care facilities, also authorized DHS to pay incentives of up to $15,000 per bed to nursing facility operators to reduce capacity. By September 2002, the DHS had paid $3.2 million to nursing facilities to eliminate only 265 beds.768
 
-[](<>)
+
 
 29. OHIO
 
@@ -2343,7 +2343,7 @@ By summer 2002, some of the measures to reduce incentives for building unneeded 
 
 Ohio has an administrative rule providing that a third of the proceeds from the collection of franchise permit fees and penalties paid by nursing facilities and hospitals are to be deposited in a "home and community-based services for the aged fund" and used to fund programs for Medicaid beneficiaries, including the PASSPORT waiver for persons older than 60 who are at risk of nursing facility placement. However, in an amendment that became effective on September 30, 2002, the percentage of the fees paid into the home- and community-based services fund was reduced to 23 percent for fiscal years 2003 through 2005.797
 
-[](<>)
+
 
 30. OKLAHOMA
 
@@ -2369,7 +2369,7 @@ In the 1980s, Oklahoma was last in the nation in community services for persons 
 
 In 2001, Oklahoma's nursing facility population of 22,640 made it 10th in the nation in nursing facility use when expressed as a percentage of the state's total population age 65 and older. Although the nursing facility population decreased by 11.5 percent from 1996 to 2001, one of the most significant declines in the nation during that period, decrease in the number of beds was only 2.4 percent, and Medicaid spending on nursing facilities actually increased by 53 percent.806 The population of Oklahoma's state psychiatric institutions is relatively small in comparison, but about half the population has lived there for more than a year.807
 
-[](<>)
+
 
 31. OREGON
 
@@ -2461,7 +2461,7 @@ In 2000, Oregon received approval from HHS for a Section 1115 waiver to conduct 
 
 Oregon received a Real Choice Systems Change grant in 2001 with a particular focus on persons with mental illness, designed to promote consumer direction and increase community capacity.862 The grant supports a pilot project in one Oregon county of a consumer-directed brokerage model for people with mental illness: an independent organization that employs or contracts with person agents to assist consumers to define their personal goals, access community resources to achieve those goals through networking and community development, and manage the financial administration, contracting, and paperwork required to pay for individual support.863 The grant also provides funds for the development of drop-in centers, supports cross-disability events and conferences, and supports change in the individual planning used by the mental health system to a person-centered model.864
 
-[](<>)
+
 
 32. PENNSYLVANIA
 
@@ -2505,7 +2505,7 @@ Another barrier is the state's failure to permit interim presumptive eligibility
 
 The Pennsylvania Intra-Governmental Council on Long Term Care, which includes wide representation from elders, people with disabilities, providers, unions, and other stakeholders, has consistently made constructive recommendations to overcome the barriers to community integration in the service delivery system for elders. However, many of its recommendations for systemic change have not been adopted; advocates point to the fact that the council is housed in the Department of Aging and that its recommendations have not always been embraced by the state Medicaid agency, the Department of Public Welfare, as an additional barrier to change.
 
-[](<>)
+
 
 33. RHODE ISLAND
 
@@ -2539,7 +2539,7 @@ By fall 2002, the efforts of the Rhode Island DCYF to bring children home from o
 
 Rhode Island has a Community-Integrated Personal Assistance Services and Support grant to provide consumer-directed personal assistance services for children and families to children and families with all types of disabilities. The grant is designed to fill a gap in personal assistance services, which under the state plan are not available to children outside residential facilities.912
 
-[](<>)
+
 
 34. SOUTH CAROLINA
 
@@ -2587,7 +2587,7 @@ Even before the state's *Olmstead* task force had begun its work, South Caroli
 
 South Carolina received a Real Choice Systems grant of $2,300,000 to carry out two projects. One is a database of information about services for children and adults; the other is a pilot program in two parts of the state to create the infrastructure to support consumer-directed services across disability groups, including the development of support coordination, fiscal intermediaries, and the use of cash equivalencies.951
 
-[](<>)
+
 
 35. SOUTH DAKOTA
 
@@ -2607,7 +2607,7 @@ Although South Dakota, with 6,952 nursing facility residents, ranks second in th
 
 In 2002, the state enacted H.B. 1132, establishing a Children's Mental Health Task Force. The task force is charged with investigating alternatives to parents' having to relinquish custody to obtain out-of-home mental health services as well as barriers to service delivery, such as professional shortages, funding adequacy, and access in rural areas.957
 
-[](<>)
+
 
 **36. TENNESSEE**
 
@@ -2645,7 +2645,7 @@ Tennessee received a Real Choice Systems Change Grant in 2001 to design and impl
 
 include hiring four consumer housing specialists and facilitating a series of housing academies and summits.976 In 2002, Tennessee received a Community-Integrated Personal Assistance Services and Supports Grant to develop and pilot a system of consumer-directed personal assistance.977
 
-[](<>)
+
 
 37. UTAH
 
@@ -2697,7 +2697,7 @@ At its outset, the project had an advantage: The director of the state Departmen
 
 Although the study as designed did not reach most nursing facility residents who under the *Olmstead* standard have a right to services outside the institution because it assessed only those persons who affirmatively expressed a desire to move, it provides valuable insight into the barriers to movement from nursing facilities. In the meantime, advocates report that such progress as has been made in moving people out of nursing facilities is largely due to the work of ILCs that manage to patch together community services for people whom they advocate.1002
 
-[](<>)
+
 
 38. VERMONT
 
@@ -2729,7 +2729,7 @@ Vermont has a Real Choice Systems Change grant of $2,000,000 to improve integrat
 
 In addition, the Vermont Department of Aging has a grant to develop rural, affordable assisted living from the Robert Wood Johnson Foundation. The initiative is a response to the finding that frail rural elders are more likely than their urban counterparts to enter nursing facilities. The Department is working in concert with the Vermont Housing Finance Agency and the Department of Prevention, Assistance, Transition and Health Access to support four demonstrations in assisted living, provide technical assistance to other projects and community groups, change policies and practices to encourage the development of high-quality assisted living services, and identify and plan for the quantity of assisted living services that will be needed to support the aging generation of baby boomers.1017
 
-[](<>)
+
 
 39. VIRGINIA
 
@@ -2753,7 +2753,7 @@ In 2000, the DMHMRSAS published a plan to restructure mental health services. Th
 
 At the end of 2001, 771 persons housed in state psychiatric facilities had been there for more than a year.1029 Nursing facility beds increased by almost 12 percent from 1992 to 2000,1030 and Medicaid spending on nursing facilities grew by 34 percent.1031
 
-[](<>)
+
 
 40. WEST VIRGINIA
 
@@ -2800,7 +2800,7 @@ In 2002, the West Virginia DHHR invited applications for short-term start-up fun
 
 West Virginia has a Nursing Facility Transition grant to assist nursing facility residents who wish to move to the community. Grant activities include conducting 100 assessments of nursing facility residents, training transition teams, identifying people who wish to move by educational and outreach activities, and creating a person-centered discharge and referral instrument.1058
 
-[](<>)
+
 
 41. WISCONSIN
 
@@ -2847,7 +2847,7 @@ An evaluation of the Family Care program by the Lewin Group, published in August
 
 DHFS is in the early stage of piloting a Mental Health/Substance Abuse Redesign model, the goal of which is to provide comprehensive consumer-based services in a managed care system. The managed care system has yet to be put in place, although some initial development of the model has occurred.1075
 
-[](<>)
+
 
 42. WYOMING
 
@@ -2881,9 +2881,9 @@ The daily census at the state psychiatric facility, the Wyoming State Hospital, 
 
 A lawsuit filed in 1994 by the Wyoming Protection and Advocacy System and the Wyoming Alliance for the Mentally Ill (WYAMI), Chris S. v. Geringer, challenging conditions at Wyoming State Hospital and insufficient community-based services for adults, children, and adolescents, led to an agreement in 1995 to create a structure and a process in which advocates could participate in ongoing systems change. The structure, called the Partnership for the Resolution of Mental Health Issues in Wyoming, includes the director of the Department of Health, the executive director of the Protection and Advocacy System, a representative of WYAMI, and the administrator of the Division of Behavioral Health. Lawyers for the plaintiffs participate, as does a community mental health center director and ex-officio members from the Departments of Education and Family Services. A paid facilitator from the University of Iowa guides the discussion. The purpose of the Partnership is to monitor, discuss, and recommend systems changes that will bring closure to the lawsuit. Among the changes pursued by the partnership are services based on CASSP \[Child and Adolescent Service System] principles for children and adolescents and a system of community support based on recovery principles.1089
 
-[](<>)Chapter VI
+Chapter VI
 
-In-Depth Analysis of *Olmstead* Implementation in Ten States [](<>)
+In-Depth Analysis of *Olmstead* Implementation in Ten States 
 
 **1. INTRODUCTION**
 
@@ -2934,7 +2934,7 @@ New York is a large state with a mix of urban and rural populations and differen
 
 New Hampshire is a small state with a high percentage of its population living in rural areas. By ethnicity, New Hampshire is 96 percent white. A high percentage (more than 90 percent) of persons with developmental disabilities are living in settings of 15 or fewer people. New Hampshire closed its single state institution for persons with developmental disabilities in 1991 and has adopted the self-determination model of services for persons with developmental disabilities throughout the state.
 
-[](<>)
+
 
 2. WASHINGTON
 

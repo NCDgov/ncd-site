@@ -98,7 +98,7 @@ Carla Nelson, Secretary
 
 - - -
 
-[](<>)**Acknowledgments**\
+**Acknowledgments**\
 The National Council on Disability wishes to express its sincere appreciation to Steve Mendelsohn, Esq., for all his work in the development of this report.
 
 - - -
@@ -243,7 +243,7 @@ The National Council on Disability wishes to express its sincere appreciation to
 
  
 
-**Executive Summary**[](<>)
+**Executive Summary**
 
 The National Council on Disability (NCD) is required by law to produce an annual progress report to the President and Congress identifying issues of concern to citizens with disabilities and of importance to policymakers, and highlighting developments occurring in the previous year. As such, it can be regarded as America's Disability State of the Union Message.
 
@@ -419,7 +419,7 @@ Issues of infrastructure played a large role. To the extent that emergency commu
 
 As painful are the lessons of our preparations for and responses to the hurricanes, the real question must relate to how and what we do to prevent similar disasters and loss in the future. With this goal in mind, the chapter proceeds to a discussion of how people with disabilities and issues of concern to them can and must be incorporated in our broader disaster relief and planning efforts. NCD places great emphasis on the planning process itself, recognizing that, as with all groups who have specific concerns or face unique barriers, participation in the planning process represents the best means for ensuring that their concerns will be heard and taken into account.
 
-**MAJOR TRENDS**[](<>)
+**MAJOR TRENDS**
 
 An addition to this annual status report over the past two years has been the inclusion of a major trends section. This section is designed to identify key themes in disability policy and to relate the year's major disability issues to broad themes in public policy and program administration. In each of these previous sections, NCD has sought to emphasize the key choices and decisions that our nation faces with and for its citizens with disabilities, as these decisions relate to ways we are defining or going about solving other problems. But rarely in modern history have we stood at more important or fateful crossroads than we do today.
 
@@ -529,7 +529,7 @@ The dramatic policy choices that our nation is now making are a source of great 
 
 - - -
 
-**Chapter One—Statistics**[](<>)
+**Chapter One—Statistics**
 
 Introduction
 
@@ -601,7 +601,7 @@ Coupled with other ongoing NCD research, the development of these indicators wil
 
 Recommendation 1.4: NCD recommends that OMB conduct a broad study into the strengths and weaknesses of, and the conceptual and practical issues surrounding, the gathering of data on all aspects of the lives of people with disabilities.
 
-**Chapter Two--Civil Rights**[](<>)
+**Chapter Two--Civil Rights**
 
 Introduction
 
@@ -789,7 +789,7 @@ Recommendation 2.7: NCD recommends that in addition to monitoring the effectiven
 
 Recommendation 2.8: NCD recommends that Congress hold oversight hearings on the Civil Rights for Institutionalized Persons Act, with a view to determining whether amendments to the act are warranted.
 
-**Chapter Three--Education**[](<>)
+**Chapter Three--Education**
 
 Introduction
 
@@ -943,7 +943,7 @@ Recommendation 3.8: NCD recommends that ED undertake and disseminate a study of 
 
  
 
-**Chapter Four--Health**[](<>)
+**Chapter Four--Health**
 
 Introduction
 
@@ -1089,7 +1089,7 @@ Recommendation 4.5: NCD recommends that Congress conduct further oversight heari
 
  
 
-**Chapter Five--Long-Term Services and Supports**[](<>)
+**Chapter Five--Long-Term Services and Supports**
 
 Introduction
 
@@ -1179,7 +1179,7 @@ Recommendation 5.3: NCD recommends that Congress instruct the DHHS and CMS to co
 
  
 
-**Chapter Six—Children and Youth**[](<>)
+**Chapter Six—Children and Youth**
 
 Introduction
 
@@ -1237,7 +1237,7 @@ Recommendation 6.2: NCD recommends that Congress modify the rules governing the 
 
 Recommendation 6.3: NCD recommends that joint congressional hearings be held to identify what the projected costs and benefits to society would be of a comprehensive program of health insurance for all children, aimed especially at identifying and forestalling conditions and risk factors that may affect the prospect of disability in later life.
 
-**Chapter Seven—Employment**[](<>)
+**Chapter Seven—Employment**
 
 Introduction
 
@@ -1377,7 +1377,7 @@ Recommendation 7.7: NCD recommends that proposed legislation to strengthen the r
 
  
 
-**Chapter Eight—Welfare Reform**[](<>)
+**Chapter Eight—Welfare Reform**
 
 Introduction
 
@@ -1433,7 +1433,7 @@ Recommendation 8.3: NCD recommends that Congress instruct the DHHS to undertake 
 
  
 
-**Chapter Nine—Housing**[](<>)
+**Chapter Nine—Housing**
 
 Introduction
 
@@ -1579,7 +1579,7 @@ Recommendation 9.7: NCD recommends that the administration undertake an interage
 
  
 
-**Chapter Ten—Transportation**[](<>)
+**Chapter Ten—Transportation**
 
 Introduction
 
@@ -1723,7 +1723,7 @@ Recommendation 10.5: NCD recommends the DOT comprehensively address the access i
 
  
 
-**Chapter Eleven— Assistive Technology and Telecommunications**[](<>)
+**Chapter Eleven— Assistive Technology and Telecommunications**
 
 Introduction
 
@@ -1867,7 +1867,7 @@ Recommendation 11.4: NCD recommends that the FCC, as part of the larger e-rate m
 
  
 
-**Chapter Twelve—International Affairs**[](<>)
+**Chapter Twelve—International Affairs**
 
 Introduction
 
@@ -1929,7 +1929,7 @@ Recommendation 12.4: NCD recommends that the OMB direct each Federal agency cont
 
  
 
-**Chapter Thirteen—Homeland Security**[](<>)
+**Chapter Thirteen—Homeland Security**
 
 Introduction
 
@@ -2011,7 +2011,7 @@ Recommendation 13.4: NCD recommends that Congress should review all emergency pl
 
  
 
-**Appendix A: Mission of the National Council on Disability**[](<>)
+**Appendix A: Mission of the National Council on Disability**
 
 Overview and purpose
 
@@ -2045,13 +2045,13 @@ Preparing and submitting to the President and Congress an annual report titled 
 
 In 1995, NCD was designated by the Department of State to be the U.S. government's official contact point for disability issues. Specifically, NCD interacts with the special rapporteur of the United Nations Commission for Social Development on disability matters.
 
-[](<>)Consumers served and current activities
+Consumers served and current activities
 
 Although many government agencies deal with issues and programs affecting people with disabilities, NCD is the only federal agency charged with addressing, analyzing, and making recommendations on issues of public policy that affect people with disabilities regardless of age, disability type, perceived employment potential, economic need, specific functional ability, veteran status, or other individual circumstance. NCD recognizes its unique opportunity to facilitate independent living, community integration, and employment opportunities for people with disabilities by ensuring an informed and coordinated approach to addressing the concerns of people with disabilities and eliminating barriers to their active participation in community and family life.
 
 NCD plays a major role in developing disability policy in America. In fact, NCD originally proposed what eventually became ADA. NCD's present list of key issues includes improving personal assistance services, promoting health care reform, including students with disabilities in high-quality programs in typical neighborhood schools, promoting equal employment and community housing opportunities, monitoring the implementation of ADA, improving assistive technology, and ensuring that people with disabilities who are members of diverse cultures fully participate in society.
 
-[](<>)Statutory history
+Statutory history
 
 NCD was established in 1978 as an advisory board within the Department of Education (P.L. 95-602). The Rehabilitation Act Amendments of 1984 (P.L. 98-221) transformed NCD into an independent agency.
 

@@ -119,178 +119,178 @@ These NCD recommendations for Congress, the U.S. Department of Education, and ot
 
 - - -
 
-[](<>)\[1]Higher Education Opportunity Act, §762.
+[1]Higher Education Opportunity Act, §762.
 
-[](<>)\[2] U.S. Government Accountability Office (GAO), “Higher Education and Disability: Education Needs a Coordinated Approach to Improve its Assistance to Schools in Supporting Students,”(Washington, DC: Author: 2009), 8, accessed April 10, 2015. 
+[2] U.S. Government Accountability Office (GAO), “Higher Education and Disability: Education Needs a Coordinated Approach to Improve its Assistance to Schools in Supporting Students,”(Washington, DC: Author: 2009), 8, accessed April 10, 2015. 
 
-[](<>)\[3] NCES reported 18.1 million undergraduates; the 2 million figure is 11 percent of this total. Some comparisons with state data have also suggested these numbers may be under-representing actual totals; U.S. Department of Education, Institute of Education Sciences (IES), National Center for Education Statistics (NCES), “Fast Facts: Enrollment,” accessed March 22, 2015, [http://nces.ed.gov/fastfacts/display.asp?id=98](http://nces.ed.gov/fastfacts/display.asp%5EQ%5Eid=98); The latest figures for 1999-2000 suggest approximately 7 percent of graduate students have disabilities,” U.S. Department of Education, IES, NCES, accessed March 22, 2015,[http://nces.ed.gov/das/library/tables_listings/show_nedrc.asp?rt=p&tableID=239](http://nces.ed.gov/das/library/tables_listings/show_nedrc.asp%5EQ%5Ert=p%7CtableID=239).)  Numbers of faculty and staff with disabilities are unknown.
+[3] NCES reported 18.1 million undergraduates; the 2 million figure is 11 percent of this total. Some comparisons with state data have also suggested these numbers may be under-representing actual totals; U.S. Department of Education, Institute of Education Sciences (IES), National Center for Education Statistics (NCES), “Fast Facts: Enrollment,” accessed March 22, 2015, [http://nces.ed.gov/fastfacts/display.asp?id=98](http://nces.ed.gov/fastfacts/display.asp%5EQ%5Eid=98); The latest figures for 1999-2000 suggest approximately 7 percent of graduate students have disabilities,” U.S. Department of Education, IES, NCES, accessed March 22, 2015,[http://nces.ed.gov/das/library/tables_listings/show_nedrc.asp?rt=p&tableID=239](http://nces.ed.gov/das/library/tables_listings/show_nedrc.asp%5EQ%5Ert=p%7CtableID=239).)  Numbers of faculty and staff with disabilities are unknown.
 
-[](<>)\[4] Newman et al., *The Post-High School Outcomes of Students with Disabilities*, quoted in Betsy Brand, Andrew Valent, and Louis Danielson, *Improving College and Career Readiness for Students with Disabilities* (Washington, DC: American Institutes for Research, 2013), 3, accessed March 22, 2015, <http://www.ccrscenter.org/products-resources/improving-college-and-career-readiness-students-disabilities>.
+[4] Newman et al., *The Post-High School Outcomes of Students with Disabilities*, quoted in Betsy Brand, Andrew Valent, and Louis Danielson, *Improving College and Career Readiness for Students with Disabilities* (Washington, DC: American Institutes for Research, 2013), 3, accessed March 22, 2015, <http://www.ccrscenter.org/products-resources/improving-college-and-career-readiness-students-disabilities>.
 
-[](<>)\[5] Dennis Pierce, “How Colleges Can Better Serve Students with Learning Disabilities,” *Campus Technology*, accessed December 18, 2014, [http://campustechnology.com/Articles/2014/12/18/How-Colleges-Can-Better-Serve-Students-with-Learning-Disabilities.aspx?Page=1](http://campustechnology.com/Articles/2014/12/18/How-Colleges-Can-Better-Serve-Students-with-Learning-Disabilities.aspx%5EQ%5EPage=1). 
+[5] Dennis Pierce, “How Colleges Can Better Serve Students with Learning Disabilities,” *Campus Technology*, accessed December 18, 2014, [http://campustechnology.com/Articles/2014/12/18/How-Colleges-Can-Better-Serve-Students-with-Learning-Disabilities.aspx?Page=1](http://campustechnology.com/Articles/2014/12/18/How-Colleges-Can-Better-Serve-Students-with-Learning-Disabilities.aspx%5EQ%5EPage=1). 
 
-[](<>)\[6] Betsy Hammond, “Oregon special education graduates declared eligible for federal financial aid,” The Oregonian, April 10 2014, accessed May 12, 2015,<http://www.oregonlive.com/education/index.ssf/2014/04/oregon_special_education_gradu.html>.
+[6] Betsy Hammond, “Oregon special education graduates declared eligible for federal financial aid,” The Oregonian, April 10 2014, accessed May 12, 2015,<http://www.oregonlive.com/education/index.ssf/2014/04/oregon_special_education_gradu.html>.
 
-[](<>)\[7] National Council on Disability, “National Disability Policy: A Progress Report,” October 2014, accessed May 15, 2015,[/progress_reports/10312014.](https://ncd.gov/progress_reports/10312014)
+[7] National Council on Disability, “National Disability Policy: A Progress Report,” October 2014, accessed May 15, 2015,[/progress_reports/10312014.](https://ncd.gov/progress_reports/10312014)
 
-[](<>)\[8] Associated Press, “Boston College Under Investigation Over Access for People with Disabilities,” *Huffington Post*, accessed February 18, 2015, <http://www.huffingtonpost.com/2015/02/18/boston-college-disability-access_n_6708034.html>.
+[8] Associated Press, “Boston College Under Investigation Over Access for People with Disabilities,” *Huffington Post*, accessed February 18, 2015, <http://www.huffingtonpost.com/2015/02/18/boston-college-disability-access_n_6708034.html>.
 
-[](<>)\[9] Charlie Bartlett, “Morris Buildings Cause Accessibility Debate,” *Minnesota Daily*, February 24, 2015,<http://www.mndaily.com/news/campus/2015/02/23/morris-buildings-cause-accessibility-debate>; Megan Kallstrom, Sariel Friedman, and Jenna Beers, “Access Denied: Exploring the Experiences of Physically Disabled Columbians on Campus,”*Columbia Spectator*, February 25, 2015, accessed May 14, 2015,<http://features.columbiaspectator.com/eye/2015/02/25/access-denied/>; Vivian Wang, “Students in Wheelchairs Find Campus Inaccessible,” *Yale Daily News*, February 24, 2015, accessed May 15, 2015,<http://yaledailynews.com/blog/2015/02/24/wheelchair-accessibility-leaves-much-to-be-desired/>.
+[9] Charlie Bartlett, “Morris Buildings Cause Accessibility Debate,” *Minnesota Daily*, February 24, 2015,<http://www.mndaily.com/news/campus/2015/02/23/morris-buildings-cause-accessibility-debate>; Megan Kallstrom, Sariel Friedman, and Jenna Beers, “Access Denied: Exploring the Experiences of Physically Disabled Columbians on Campus,”*Columbia Spectator*, February 25, 2015, accessed May 14, 2015,<http://features.columbiaspectator.com/eye/2015/02/25/access-denied/>; Vivian Wang, “Students in Wheelchairs Find Campus Inaccessible,” *Yale Daily News*, February 24, 2015, accessed May 15, 2015,<http://yaledailynews.com/blog/2015/02/24/wheelchair-accessibility-leaves-much-to-be-desired/>.
 
-[](<>)\[10] National Association of the Deaf, “NAD Sues Harvard and MIT for Discrimination in Content,” February 12, 2015,<http://nad.org/news/2015/2/nad-sues-harvard-and-mit-discrimination-public-online-content>.
+[10] National Association of the Deaf, “NAD Sues Harvard and MIT for Discrimination in Content,” February 12, 2015,<http://nad.org/news/2015/2/nad-sues-harvard-and-mit-discrimination-public-online-content>.
 
-[](<>)\[11] Rebecca Moore, “Students with Disabilities Face Financial Aid Barriers,” September 15, 2003, accessed May 12, 2015. This publication, a product of the NCD Youth Advisory Committee, is available in an archived HTML format only. ([Archived HTML](http://webharvest.gov/peth04/20041015152849/www.ncd.gov/newsroom/advisory/youth/yac_aidbarriers.htm%20))<http://webharvest.gov/peth04/20041015152849/www.ncd.gov/newsroom/advisory/youth/yac_aidbarriers.htm>.
+[11] Rebecca Moore, “Students with Disabilities Face Financial Aid Barriers,” September 15, 2003, accessed May 12, 2015. This publication, a product of the NCD Youth Advisory Committee, is available in an archived HTML format only. ([Archived HTML](http://webharvest.gov/peth04/20041015152849/www.ncd.gov/newsroom/advisory/youth/yac_aidbarriers.htm%20))<http://webharvest.gov/peth04/20041015152849/www.ncd.gov/newsroom/advisory/youth/yac_aidbarriers.htm>.
 
-[](<>)\[12] Jessica Glenza, “More US College Freshmen ‘Depressed’ than at Any Time in the Past 30 Years,” *The Guardian*, February 5, 2015, accessed April 16, 2015, <http://www.theguardian.com/education/2015/feb/05/college-freshmen-emotional-wellbeing-depression>.
+[12] Jessica Glenza, “More US College Freshmen ‘Depressed’ than at Any Time in the Past 30 Years,” *The Guardian*, February 5, 2015, accessed April 16, 2015, <http://www.theguardian.com/education/2015/feb/05/college-freshmen-emotional-wellbeing-depression>.
 
-[](<>)\[13] Azmat Khan, “The Hidden Victims of Campus Sexual Assault: Students with Disabilities,” *Aljazeera America*, February 12, 2015, accessed April 17, 2015, <http://america.aljazeera.com/articles/2015/2/12/the-hidden-victims-of-campus-sexual-assault-students-with-disabilities.html>.
+[13] Azmat Khan, “The Hidden Victims of Campus Sexual Assault: Students with Disabilities,” *Aljazeera America*, February 12, 2015, accessed April 17, 2015, <http://america.aljazeera.com/articles/2015/2/12/the-hidden-victims-of-campus-sexual-assault-students-with-disabilities.html>.
 
-[](<>)\[14] Jill Harkins, “Study: Increased Demand, Inadequate Resources for College Mental Health Services,” *Pittsburgh Post-Gazette*, February 7, 2015, accessed April 16, 2015, <http://www.post-gazette.com/news/education/2015/02/07/Study-Increased-demand-inadequate-resources-for-college-mental-health-services/stories/201502070034>.
+[14] Jill Harkins, “Study: Increased Demand, Inadequate Resources for College Mental Health Services,” *Pittsburgh Post-Gazette*, February 7, 2015, accessed April 16, 2015, <http://www.post-gazette.com/news/education/2015/02/07/Study-Increased-demand-inadequate-resources-for-college-mental-health-services/stories/201502070034>.
 
-[](<>)\[15] Statistics from the Postsecondary Education Quick Information System (PEQIS).  Disabilities, Opportunities, Internetworking, and Technology (DO-IT), “Statistics,” *DO-IT, University of Washington,* accessed March 22, 2015,<http://www.washington.edu/doit/statistics>.
+[15] Statistics from the Postsecondary Education Quick Information System (PEQIS).  Disabilities, Opportunities, Internetworking, and Technology (DO-IT), “Statistics,” *DO-IT, University of Washington,* accessed March 22, 2015,<http://www.washington.edu/doit/statistics>.
 
-[](<>)\[16] U.S. Department of Education, IES, NCES, Statistics from the National Postsecondary Student Aid Survey, “Fast Facts: Students with Disabilities,” accessed March 22, 2015, [https://nces.ed.gov/fastfacts/display.asp?id=60](https://nces.ed.gov/fastfacts/display.asp%5EQ%5Eid=60).
+[16] U.S. Department of Education, IES, NCES, Statistics from the National Postsecondary Student Aid Survey, “Fast Facts: Students with Disabilities,” accessed March 22, 2015, [https://nces.ed.gov/fastfacts/display.asp?id=60](https://nces.ed.gov/fastfacts/display.asp%5EQ%5Eid=60).
 
-[](<>)\[17] Wendy S, Harbour, “How Can More of You Get Here?” in Thomas Hehir and Laura A. Schifter, How Did You Get Here? Students with Disabilities and Their Journeys to Harvard, *(Cambridge, Harvard Education Press, 2015), 216.*
+[17] Wendy S, Harbour, “How Can More of You Get Here?” in Thomas Hehir and Laura A. Schifter, How Did You Get Here? Students with Disabilities and Their Journeys to Harvard, *(Cambridge, Harvard Education Press, 2015), 216.*
 
-[](<>)\[18] Lauren Stewart, Elise Shanbacker, & Meghan Wills, *A Better Bottom Line: Employing People with Disabilities: Blueprint for Governors*, (Washington, DC: National Governors Association, 2013), 6-8, <http://ci.nga.org/cms/home/1213/index>.
+[18] Lauren Stewart, Elise Shanbacker, & Meghan Wills, *A Better Bottom Line: Employing People with Disabilities: Blueprint for Governors*, (Washington, DC: National Governors Association, 2013), 6-8, <http://ci.nga.org/cms/home/1213/index>.
 
-[](<>)\[19] Individuals with Disabilities Education Improvement Act of 2004 (IDEA), 20 U.S.C § 1400 et seq. (2004).
+[19] Individuals with Disabilities Education Improvement Act of 2004 (IDEA), 20 U.S.C § 1400 et seq. (2004).
 
-[](<>)\[20] A free appropriate public education (FAPE) under IDEA applies to all students between ages 3 and 21, inclusive, or their graduation from high school (whichever happens first). IDEA 2004 Regulations, §300.101(a).  
+[20] A free appropriate public education (FAPE) under IDEA applies to all students between ages 3 and 21, inclusive, or their graduation from high school (whichever happens first). IDEA 2004 Regulations, §300.101(a).  
 
-[](<>)\[21] When this document refers to “students in special education,” this means students with Individualized Education Programs (IEPs) meeting eligibility requirements for and receiving special education and related services under the provisions of IDEA.  It does not include students with 504 Plans, even though they have disabilities and may receive some services or accommodations through special education and related service providers. (Please also see Endnotes 22 and 24 for more on IEPs and 504 plans.)
+[21] When this document refers to “students in special education,” this means students with Individualized Education Programs (IEPs) meeting eligibility requirements for and receiving special education and related services under the provisions of IDEA.  It does not include students with 504 Plans, even though they have disabilities and may receive some services or accommodations through special education and related service providers. (Please also see Endnotes 22 and 24 for more on IEPs and 504 plans.)
 
-[](<>)\[22] Reneé Cameto, Phyllis Levine, and Mary Wagner, *Transition Planning for Students with Disabilities: A Special Topic Report of Findings from the National Longitudinal Transition Study-2 (NLTS2)* (Menlo Park, CA: SRI International, 2004), 2-2, accessed March 22, 2015, [www.nlts2.org/reports/2004_11/nlts2_report_2004_11_complete.pdf](http://www.nlts2.org/reports/2004_11/nlts2_report_2004_11_complete.pdf); Each student with a disability who is found eligible for special education and related services must have an Individualized Education Programs (IEP), which in brief is a prescribed written statement developed, reviewed, and revised in a team meeting about his/her service and support needs. Among other specifications, beginning no later than at the first IEP in effect when the individual turns age 16 ( or younger if the IEP team determines it appropriate), the student also must have secondary school transition assessments and planning for post-high school life (including training, any postsecondary education, employment, and where appropriate, independent living skills). IDEA 2004 Regulations, §300.320.
+[22] Reneé Cameto, Phyllis Levine, and Mary Wagner, *Transition Planning for Students with Disabilities: A Special Topic Report of Findings from the National Longitudinal Transition Study-2 (NLTS2)* (Menlo Park, CA: SRI International, 2004), 2-2, accessed March 22, 2015, [www.nlts2.org/reports/2004_11/nlts2_report_2004_11_complete.pdf](http://www.nlts2.org/reports/2004_11/nlts2_report_2004_11_complete.pdf); Each student with a disability who is found eligible for special education and related services must have an Individualized Education Programs (IEP), which in brief is a prescribed written statement developed, reviewed, and revised in a team meeting about his/her service and support needs. Among other specifications, beginning no later than at the first IEP in effect when the individual turns age 16 ( or younger if the IEP team determines it appropriate), the student also must have secondary school transition assessments and planning for post-high school life (including training, any postsecondary education, employment, and where appropriate, independent living skills). IDEA 2004 Regulations, §300.320.
 
-[](<>)\[23] Lynn Newman, et al., *The Post-High School Outcomes of Young Adults with Disabilities Up to 8 Years After High School. A Report from the NLTS2* (Menlo Park, CA: SRI International, 2011),16, accessed March 22, 2015,<http://www.nlts2.org/reports/>.
+[23] Lynn Newman, et al., *The Post-High School Outcomes of Young Adults with Disabilities Up to 8 Years After High School. A Report from the NLTS2* (Menlo Park, CA: SRI International, 2011),16, accessed March 22, 2015,<http://www.nlts2.org/reports/>.
 
-[](<>)\[24] 504 Plans are for students who have disabilities, illnesses, or other conditions that are not significant enough for special education eligibility; they and their parents also do not have due process rights or transition planning options like students with IEPs. Students with 504 Plans are still covered under the Americans with Disabilities Act and Section 504 of the 1973 Rehabilitation Act, as amended and have a right to receive reasonable accommodations and protection from discrimination based on a disability. Understood Editors, “The Difference between IEPs and 504 Plans,” Understood for Learning and Attention Issues, accessed March 22, 2015, <https://www.understood.org/en/school-learning/special-services/504-plan/the-difference-between-ieps-and-504-plans>.
+[24] 504 Plans are for students who have disabilities, illnesses, or other conditions that are not significant enough for special education eligibility; they and their parents also do not have due process rights or transition planning options like students with IEPs. Students with 504 Plans are still covered under the Americans with Disabilities Act and Section 504 of the 1973 Rehabilitation Act, as amended and have a right to receive reasonable accommodations and protection from discrimination based on a disability. Understood Editors, “The Difference between IEPs and 504 Plans,” Understood for Learning and Attention Issues, accessed March 22, 2015, <https://www.understood.org/en/school-learning/special-services/504-plan/the-difference-between-ieps-and-504-plans>.
 
-[](<>)\[25] The Association on Higher Education And Disability (AHEAD) guidelines for disability services offices encourage disability services providers to accept 504 Plans as disability documentation in determining eligibility for postsecondary services. Association on Higher Education And Disability, *Supporting Accommodations Requests: Guidance on Documentation Practices* (Huntersville, NC: Association on Higher Education And Disability, 2012), 6, accessed March 22, 2015, <https://www.ahead.org/learn/resources/documentation-guidance>.
+[25] The Association on Higher Education And Disability (AHEAD) guidelines for disability services offices encourage disability services providers to accept 504 Plans as disability documentation in determining eligibility for postsecondary services. Association on Higher Education And Disability, *Supporting Accommodations Requests: Guidance on Documentation Practices* (Huntersville, NC: Association on Higher Education And Disability, 2012), 6, accessed March 22, 2015, <https://www.ahead.org/learn/resources/documentation-guidance>.
 
-[](<>)\[26] Generated from 2011-12 IDEA Part B Exiting Data, accessed May 14, 2015,  [https://inventory.data.gov/dataset/2011-2012-idea-part-b-exiting/resource/3887a286-d6c1-4c5a-a211-cc18b34254e9?inner_span=True](https://inventory.data.gov/dataset/2011-2012-idea-part-b-exiting/resource/3887a286-d6c1-4c5a-a211-cc18b34254e9%5EQ%5Einner_span=True).
+[26] Generated from 2011-12 IDEA Part B Exiting Data, accessed May 14, 2015,  [https://inventory.data.gov/dataset/2011-2012-idea-part-b-exiting/resource/3887a286-d6c1-4c5a-a211-cc18b34254e9?inner_span=True](https://inventory.data.gov/dataset/2011-2012-idea-part-b-exiting/resource/3887a286-d6c1-4c5a-a211-cc18b34254e9%5EQ%5Einner_span=True).
 
-[](<>)\[27] U.S. Government Accountability Office, *Higher Education and Disability*, 24-25.
+[27] U.S. Government Accountability Office, *Higher Education and Disability*, 24-25.
 
-[](<>)\[28] U.S. Equal Employment Opportunity Commission, “Questions and Answers on the Final Rule Implementing the ADA Amendments Act of 2008,” accessed March 22, 2015, <http://www.eeoc.gov/laws/regulations/ada_qa_final_rule.cfm>.
+[28] U.S. Equal Employment Opportunity Commission, “Questions and Answers on the Final Rule Implementing the ADA Amendments Act of 2008,” accessed March 22, 2015, <http://www.eeoc.gov/laws/regulations/ada_qa_final_rule.cfm>.
 
-[](<>)\[29] James E. Martin, Juan Portley, and John W. Graham, “Teaching Students with Disabilities Self-Determination Skills to Equalize Access and Increase Opportunities for Postsecondary Educational Success,” in *Preparing Students with Disabilities for College Success: A Practical Guide to Transition Planning*, eds. Stan F. Shaw, Joseph W. Madaus, and Lyman L. Dukes (Baltimore, MD: Paul H. Brookes Publishing Co., 2010), 37-64; U.S. Government Accountability Office,*Higher Education and Disability*, 65-83.
+[29] James E. Martin, Juan Portley, and John W. Graham, “Teaching Students with Disabilities Self-Determination Skills to Equalize Access and Increase Opportunities for Postsecondary Educational Success,” in *Preparing Students with Disabilities for College Success: A Practical Guide to Transition Planning*, eds. Stan F. Shaw, Joseph W. Madaus, and Lyman L. Dukes (Baltimore, MD: Paul H. Brookes Publishing Co., 2010), 37-64; U.S. Government Accountability Office,*Higher Education and Disability*, 65-83.
 
-[](<>)\[30] Rehabilitation Act, 29 U.S.C. § 701 (1973).
+[30] Rehabilitation Act, 29 U.S.C. § 701 (1973).
 
-[](<>)\[31] Americans with Disabilities Act, 42 U.S.C. § 12102 (1990), amended by the Americans with Disabilities Amendments Act, Pub. L. No. 110-325 (2008).
+[31] Americans with Disabilities Act, 42 U.S.C. § 12102 (1990), amended by the Americans with Disabilities Amendments Act, Pub. L. No. 110-325 (2008).
 
-[](<>)\[32] Joseph W. Madaus, “Let’s Be Reasonable: Accommodations at the College Level,” in *Preparing Students with Disabilities for College Success: A Practical Guide to Transition Planning*, eds. Stan F. Shaw, Joseph W. Madaus, and Lyman L. Dukes (Baltimore, MD: Paul H. Brookes Publishing Co., 2010), 37-64.
+[32] Joseph W. Madaus, “Let’s Be Reasonable: Accommodations at the College Level,” in *Preparing Students with Disabilities for College Success: A Practical Guide to Transition Planning*, eds. Stan F. Shaw, Joseph W. Madaus, and Lyman L. Dukes (Baltimore, MD: Paul H. Brookes Publishing Co., 2010), 37-64.
 
-[](<>)\[33] Wendy S. Harbour, *Final Report: The 2008 Biennial AHEAD Survey of Disability Services and Resource Professionals in Higher Education* (Huntersville, NC: The Association on Higher Education And Disability, 2008), 37-57; U.S. Government Accountability Office, *Higher Education and Disability*, 13-19.
+[33] Wendy S. Harbour, *Final Report: The 2008 Biennial AHEAD Survey of Disability Services and Resource Professionals in Higher Education* (Huntersville, NC: The Association on Higher Education And Disability, 2008), 37-57; U.S. Government Accountability Office, *Higher Education and Disability*, 13-19.
 
-[](<>)\[34] Thomas R. Wolanin, “Students with **Disabilities**: **Financial** Aid Policy Issues,” *Journal of Student Financial Aid* 35, no. 1 (2005): 17-26. 
+[34] Thomas R. Wolanin, “Students with **Disabilities**: **Financial** Aid Policy Issues,” *Journal of Student Financial Aid* 35, no. 1 (2005): 17-26. 
 
-[](<>)\[35] Newman et al., *The Post-High School Outcomes of Students with Disabilities*, as cited in Betsy Brand, Andrew Valent, and Louis Danielson, *Improving College and Career Readiness for Students with Disabilities* (Washington, DC: American Institutes for Research, 2013), 3, accessed March 22, 2015, <http://www.ccrscenter.org/products-resources/improving-college-and-career-readiness-students-disabilities>. Data on rates of graduation may also be flawed if it does not adequately account for students leaving college for significant amounts of time (but graduating later), or students transferring to other campuses to complete their degrees.  Christine M. Keller, “Written Testimony of Christine M. Keller, Ph.D.” at the Hearing on “Strengthening America’s Higher Education System,” (Washington, DC: Subcommittee on Higher Education and Workforce Training, House Education and the Workforce Committee, March 17, 2015),[http://edworkforce.house.gov/calendar/eventsingle.aspx?EventID=398531](http://edworkforce.house.gov/calendar/eventsingle.aspx%5EQ%5EEventID=398531).
+[35] Newman et al., *The Post-High School Outcomes of Students with Disabilities*, as cited in Betsy Brand, Andrew Valent, and Louis Danielson, *Improving College and Career Readiness for Students with Disabilities* (Washington, DC: American Institutes for Research, 2013), 3, accessed March 22, 2015, <http://www.ccrscenter.org/products-resources/improving-college-and-career-readiness-students-disabilities>. Data on rates of graduation may also be flawed if it does not adequately account for students leaving college for significant amounts of time (but graduating later), or students transferring to other campuses to complete their degrees.  Christine M. Keller, “Written Testimony of Christine M. Keller, Ph.D.” at the Hearing on “Strengthening America’s Higher Education System,” (Washington, DC: Subcommittee on Higher Education and Workforce Training, House Education and the Workforce Committee, March 17, 2015),[http://edworkforce.house.gov/calendar/eventsingle.aspx?EventID=398531](http://edworkforce.house.gov/calendar/eventsingle.aspx%5EQ%5EEventID=398531).
 
-[](<>)\[36] Harbour, *Final Report,* 13-19.
+[36] Harbour, *Final Report,* 13-19.
 
-[](<>)\[37] Figures are based on 2010-2012 data. See U.S. Department of Labor (DOL), Office of Disability Employment Policy (ODEP), *Economic Picture of the Disability Community Project: Key Points Document* (Washington, DC: DOL,ODEP, 2014), 1, accessed May 14, 2015, <http://www.dol.gov/odep/pdf/20141022-KeyPoints.pdf>.
+[37] Figures are based on 2010-2012 data. See U.S. Department of Labor (DOL), Office of Disability Employment Policy (ODEP), *Economic Picture of the Disability Community Project: Key Points Document* (Washington, DC: DOL,ODEP, 2014), 1, accessed May 14, 2015, <http://www.dol.gov/odep/pdf/20141022-KeyPoints.pdf>.
 
-[](<>)\[38] Newman, et al., *The Postschool Outcomes of Young Adults with Disabilities*, 56.
+[38] Newman, et al., *The Postschool Outcomes of Young Adults with Disabilities*, 56.
 
-[](<>)\[39] Lindsey Conway, “Virtual Reality Program Provides Support for Students with Disabilities,” *The Red & Black*, February 4, 2015, <http://www.redandblack.com/uganews/virtual-reality-program-provides-support-for-students-with-disabilities/article_95071fe4-ac13-11e4-98ce-6f6762582d9b.html>. 
+[39] Lindsey Conway, “Virtual Reality Program Provides Support for Students with Disabilities,” *The Red & Black*, February 4, 2015, <http://www.redandblack.com/uganews/virtual-reality-program-provides-support-for-students-with-disabilities/article_95071fe4-ac13-11e4-98ce-6f6762582d9b.html>. 
 
-[](<>)\[40] Leonardo Romero, “Collaborative Course Aids Post College Life,” *Daily Titan*, February 9, 2015,<http://www.dailytitan.com/2015/02/collaborative-course-aids-post-college-life/>.  
+[40] Leonardo Romero, “Collaborative Course Aids Post College Life,” *Daily Titan*, February 9, 2015,<http://www.dailytitan.com/2015/02/collaborative-course-aids-post-college-life/>.  
 
-[](<>)\[41] WSteve Yingling, “Western Nevada News & Notes: Carson City’s WNC’s ‘Career Connect’ Helps Students with Disabilities,” *Nevada Appeal,* March 1, 2015, <http://www.nevadaappeal.com/news/15238903-113/western-nevada-news-notes-carson-citys-wncs-career-connect>.
+[41] WSteve Yingling, “Western Nevada News & Notes: Carson City’s WNC’s ‘Career Connect’ Helps Students with Disabilities,” *Nevada Appeal,* March 1, 2015, <http://www.nevadaappeal.com/news/15238903-113/western-nevada-news-notes-carson-citys-wncs-career-connect>.
 
-[](<>)\[42] Mobility International USA (MIUSA), “Statistics on U.S. College-Level Study Abroad Students with Disabilities,” accessed March 22, 2015, <http://www.miusa.org/resource/tipsheet/opendoorstats>.
+[42] Mobility International USA (MIUSA), “Statistics on U.S. College-Level Study Abroad Students with Disabilities,” accessed March 22, 2015, <http://www.miusa.org/resource/tipsheet/opendoorstats>.
 
-[](<>)\[43] For example, see Kimberly Raue, Laurie Lewis, and Jared Coopersmith, *Students with Disabilities at Degree-Granting Postsecondary Institutions. First Look. (NCES 2011-018)*, (Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Statistics, 2011), 3, accessed March 22, 2015, [http://eric.ed.gov/?id=ED520976](http://eric.ed.gov/%5EQ%5Eid=ED520976).
+[43] For example, see Kimberly Raue, Laurie Lewis, and Jared Coopersmith, *Students with Disabilities at Degree-Granting Postsecondary Institutions. First Look. (NCES 2011-018)*, (Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Statistics, 2011), 3, accessed March 22, 2015, [http://eric.ed.gov/?id=ED520976](http://eric.ed.gov/%5EQ%5Eid=ED520976).
 
-[](<>)\[44] One example is the NCES “Fast Facts: Students with Disabilities,” in Endnote 16.
+[44] One example is the NCES “Fast Facts: Students with Disabilities,” in Endnote 16.
 
-[](<>)\[45] Harbour, *Final Report,* 11. 
+[45] Harbour, *Final Report,* 11. 
 
-[](<>)\[46] Catherine S. Fichten, Shirley Jorgensen, Alice Havel and Maria Barile, “College Students with Disabilities: Their Future and Success,” *Adaptech Research Network*, 2006, [http://www.eric.ed.gov/ERICWebPortal/detail?accno=ED491585](http://www.eric.ed.gov/ERICWebPortal/detail%5EQ%5Eaccno=ED491585).
+[46] Catherine S. Fichten, Shirley Jorgensen, Alice Havel and Maria Barile, “College Students with Disabilities: Their Future and Success,” *Adaptech Research Network*, 2006, [http://www.eric.ed.gov/ERICWebPortal/detail?accno=ED491585](http://www.eric.ed.gov/ERICWebPortal/detail%5EQ%5Eaccno=ED491585).
 
-[](<>)\[47] Newman et al., *The Post-High School Outcomes of Students with Disabilities*, xv.
+[47] Newman et al., *The Post-High School Outcomes of Students with Disabilities*, xv.
 
-[](<>)\[48] Number of campuses serving students with disabilities is determined by calculating 88 percent of the total number of Title IV campuses. U.S. GAO, *Higher Education and Disability*, “Highlights,” 28-29; Percentage of campuses serving students with disabilities is from Kimberly Raue, et al., *Students with Disabilities at Degree-Granting Postsecondary Institutions*, 3; Total number of Title IV campuses is from NCES, *Fast Facts: Educational Institutions* (Washington, DC: U.S. Department of Education, IES, NCES, 2011), accessed March 22, 2015, [http://nces.ed.gov/fastfacts/display.asp?id=84](http://nces.ed.gov/fastfacts/display.asp%5EQ%5Eid=84).
+[48] Number of campuses serving students with disabilities is determined by calculating 88 percent of the total number of Title IV campuses. U.S. GAO, *Higher Education and Disability*, “Highlights,” 28-29; Percentage of campuses serving students with disabilities is from Kimberly Raue, et al., *Students with Disabilities at Degree-Granting Postsecondary Institutions*, 3; Total number of Title IV campuses is from NCES, *Fast Facts: Educational Institutions* (Washington, DC: U.S. Department of Education, IES, NCES, 2011), accessed March 22, 2015, [http://nces.ed.gov/fastfacts/display.asp?id=84](http://nces.ed.gov/fastfacts/display.asp%5EQ%5Eid=84).
 
-[](<>)\[49] U.S. Department of Education, OPE, “Federal TRIO Programs – Home Page,” accessed March 22, 2015,<http://www2.ed.gov/about/offices/list/ope/trio/index.html>.
+[49] U.S. Department of Education, OPE, “Federal TRIO Programs – Home Page,” accessed March 22, 2015,<http://www2.ed.gov/about/offices/list/ope/trio/index.html>.
 
-[](<>)\[50] Ibid.
+[50] Ibid.
 
-[](<>)\[51] Higher Education Opportunity Act, §760(1).
+[51] Higher Education Opportunity Act, §760(1).
 
-[](<>)\[52] Ibid, §777(b).
+[52] Ibid, §777(b).
 
-[](<>)\[53] Meg Grigal, et al, *Annual Report on the Transition and Postsecondary Programs for Students with Intellectual Disabilities, Year 3 (2012-2013)*, (Boston, MA: Institute for Community Inclusion, Think College, 2014), 1-2, accessed March 22, 2015, <http://www.thinkcollege.net/about-us/think-college-grant-projects/national-coordinating-center>.
+[53] Meg Grigal, et al, *Annual Report on the Transition and Postsecondary Programs for Students with Intellectual Disabilities, Year 3 (2012-2013)*, (Boston, MA: Institute for Community Inclusion, Think College, 2014), 1-2, accessed March 22, 2015, <http://www.thinkcollege.net/about-us/think-college-grant-projects/national-coordinating-center>.
 
-[](<>)\[54] Ibid, 2-3.
+[54] Ibid, 2-3.
 
-[](<>)\[55] THINK College National Coordinating Center, “Annual Report of the Transition and Postsecondary Programs for Students with Intellectual Disabilities Year 3 (2012-2013), accessed May 12, 2015,<http://www.thinkcollege.net/images/stories/ARYR3_F(1).pdf>
+[55] THINK College National Coordinating Center, “Annual Report of the Transition and Postsecondary Programs for Students with Intellectual Disabilities Year 3 (2012-2013), accessed May 12, 2015,<http://www.thinkcollege.net/images/stories/ARYR3_F(1).pdf>
 
-[](<>)\[56] 2006 figures from Meg Grigal, Amy Dwyre, and Helena Davis, Transition Services for Students Aged 18-21 with Intellectual Disabilities in College and Community Settings: Models and Implications of Success,” *Information Brief: Addressing Trends and Developments in Secondary Education and Transition* 4, no. 5 (2006), 2, accessed March 22, 2015,[http://www.ncset.org/publications/viewdesc.asp?id=3395](http://www.ncset.org/publications/viewdesc.asp%5EQ%5Eid=3395). 2015 figures from Think College, “Find a College,” *Think College! College Options for People with Intellectual Disabilities*, March 22, 2015,[http://www.thinkcollege.net/component/programsdatabase/?view=programsdatabase&Itemid=339](http://www.thinkcollege.net/component/programsdatabase/%5EQ%5Eview=programsdatabase%7CItemid=339).
+[56] 2006 figures from Meg Grigal, Amy Dwyre, and Helena Davis, Transition Services for Students Aged 18-21 with Intellectual Disabilities in College and Community Settings: Models and Implications of Success,” *Information Brief: Addressing Trends and Developments in Secondary Education and Transition* 4, no. 5 (2006), 2, accessed March 22, 2015,[http://www.ncset.org/publications/viewdesc.asp?id=3395](http://www.ncset.org/publications/viewdesc.asp%5EQ%5Eid=3395). 2015 figures from Think College, “Find a College,” *Think College! College Options for People with Intellectual Disabilities*, March 22, 2015,[http://www.thinkcollege.net/component/programsdatabase/?view=programsdatabase&Itemid=339](http://www.thinkcollege.net/component/programsdatabase/%5EQ%5Eview=programsdatabase%7CItemid=339).
 
-[](<>)\[57] Meg Grigal, Debra Hart, and Cate Weir, *Think College Standards Quality Indicators, and Benchmarks for Inclusive Higher Education* (Boston, MA: University of Massachusetts Boston, Institute for Community Inclusion, 2011), accessed March 22, 2015, <http://www.thinkcollege.net/topics/standards-survey>.   
+[57] Meg Grigal, Debra Hart, and Cate Weir, *Think College Standards Quality Indicators, and Benchmarks for Inclusive Higher Education* (Boston, MA: University of Massachusetts Boston, Institute for Community Inclusion, 2011), accessed March 22, 2015, <http://www.thinkcollege.net/topics/standards-survey>.   
 
-[](<>)\[58] Center for Applied Special Technology (CAST), “About Universal Design for Learning,” *CAST*, 2015, <http://www.cast.org/our-work/about-udl.html#.VRC7VS73SXd;> Anne Meyer, David H. Rose, and David Gordon, *Universal Design for Learning: Theory and Practice*, (Wakefield, MA: CAST Professional Publishing, 2014), 4, accessed on March 22, 2015, [http://www.cast.org/our-work/publications/2014/universal-design-learning-theory-practice-udl-meyer.html#.VRC8LC73SXc](http://www.cast.org/our-work/publications/2014/universal-design-learning-theory-practice-udl-meyer.html@.VRC8LC73SXc). 
+[58] Center for Applied Special Technology (CAST), “About Universal Design for Learning,” *CAST*, 2015, <http://www.cast.org/our-work/about-udl.html#.VRC7VS73SXd;> Anne Meyer, David H. Rose, and David Gordon, *Universal Design for Learning: Theory and Practice*, (Wakefield, MA: CAST Professional Publishing, 2014), 4, accessed on March 22, 2015, [http://www.cast.org/our-work/publications/2014/universal-design-learning-theory-practice-udl-meyer.html#.VRC8LC73SXc](http://www.cast.org/our-work/publications/2014/universal-design-learning-theory-practice-udl-meyer.html@.VRC8LC73SXc). 
 
-[](<>)\[59] Ibid,3.
+[59] Ibid,3.
 
-[](<>)\[60] Higher Education Opportunity Act, §202 (d1), §205 (a1).
+[60] Higher Education Opportunity Act, §202 (d1), §205 (a1).
 
-[](<>)\[61] Kim M. Sopko, *Universal Design for Learning: Policy Challenges and Recommendations*, (Alexandria, VA: National Association of State Directors of Special Education (NASDSE), Project Forum, 2009), 6, accessed March 22, 2015,<http://nasdse.org/DesktopModules/DNNspot-Store/ProductFiles/102_37b70a80-30db-41e3-a6af-1e12794f19d3.pdf>.
+[61] Kim M. Sopko, *Universal Design for Learning: Policy Challenges and Recommendations*, (Alexandria, VA: National Association of State Directors of Special Education (NASDSE), Project Forum, 2009), 6, accessed March 22, 2015,<http://nasdse.org/DesktopModules/DNNspot-Store/ProductFiles/102_37b70a80-30db-41e3-a6af-1e12794f19d3.pdf>.
 
-[](<>)\[62] CAST, “UDL on Campus: Universal Design for Learning in Higher Education – A Guide,” accessed March 22, 2015,[http://udloncampus.cast.org/home#.VRDAzy73SXd](http://udloncampus.cast.org/home@.VRDAzy73SXd).
+[62] CAST, “UDL on Campus: Universal Design for Learning in Higher Education – A Guide,” accessed March 22, 2015,[http://udloncampus.cast.org/home#.VRDAzy73SXd](http://udloncampus.cast.org/home@.VRDAzy73SXd).
 
-[](<>)\[63] CAST, “Postsecondary Institutions with UDL Initiatives,” *UDL on Campus: Universal Design for Learning in Higher Education – A Guide,* accessed March 22, 2015,[http://udloncampus.cast.org/page/policy_udl_initiatives#.VRDBWC73SXc](http://udloncampus.cast.org/page/policy_udl_initiatives@.VRDBWC73SXc). 
+[63] CAST, “Postsecondary Institutions with UDL Initiatives,” *UDL on Campus: Universal Design for Learning in Higher Education – A Guide,* accessed March 22, 2015,[http://udloncampus.cast.org/page/policy_udl_initiatives#.VRDBWC73SXc](http://udloncampus.cast.org/page/policy_udl_initiatives@.VRDBWC73SXc). 
 
-[](<>)\[64] For more examples of UDL in higher education courses, see Sheryl E. Burgstahler and Rebecca C. Cory (Eds.),*Universal Design in Higher Education: From Principles to Practice* (Cambridge, MA: Harvard Education Press, 2008); David H. Rose. “Universal Design for Learning in Postsecondary Education: Reflections on Principles and Their Applications,”*Journal of Postsecondary Education and Disability* 19, no. 2 (2006):135-151.
+[64] For more examples of UDL in higher education courses, see Sheryl E. Burgstahler and Rebecca C. Cory (Eds.),*Universal Design in Higher Education: From Principles to Practice* (Cambridge, MA: Harvard Education Press, 2008); David H. Rose. “Universal Design for Learning in Postsecondary Education: Reflections on Principles and Their Applications,”*Journal of Postsecondary Education and Disability* 19, no. 2 (2006):135-151.
 
-[](<>)\[65] Higher Education Opportunity Act, §132(i(1i)).
+[65] Higher Education Opportunity Act, §132(i(1i)).
 
-[](<>)\[66] U.S. Department of Education, IES, NCES, “College Navigator,” accessed March 22, 2015,<http://nces.ed.gov/collegenavigator/>. 
+[66] U.S. Department of Education, IES, NCES, “College Navigator,” accessed March 22, 2015,<http://nces.ed.gov/collegenavigator/>. 
 
-[](<>)\[67] Harbour, *Final Report,* 52-53.
+[67] Harbour, *Final Report,* 52-53.
 
-[](<>)\[68] Higher Education Opportunity Act, §772.
+[68] Higher Education Opportunity Act, §772.
 
-[](<>)\[69] Advisory Commission on Accessible Instructional Materials in Postsecondary Education for Students with Disabilities,*Report of the Advisory Commission on Accessible Instructional Materials in Postsecondary Education for Students with Disabilities,* (Washington, DC: U.S. Department of Education, 2011), 1-174, accessed March 22, 2015,<https://www2.ed.gov/about/bdscomm/list/aim/publications.html>.
+[69] Advisory Commission on Accessible Instructional Materials in Postsecondary Education for Students with Disabilities,*Report of the Advisory Commission on Accessible Instructional Materials in Postsecondary Education for Students with Disabilities,* (Washington, DC: U.S. Department of Education, 2011), 1-174, accessed March 22, 2015,<https://www2.ed.gov/about/bdscomm/list/aim/publications.html>.
 
-[](<>)\[70] Ibid, 12-13.
+[70] Ibid, 12-13.
 
-[](<>)\[71] Ibid, 42.
+[71] Ibid, 42.
 
-[](<>)\[72] Ibid, 84.
+[72] Ibid, 84.
 
-[](<>)\[73] Ibid, 79.
+[73] Ibid, 79.
 
-[](<>)\[74] Ibid, 80.
+[74] Ibid, 80.
 
-[](<>)\[75] Lauren McLarney, “Five More Years of Inaccessibility?” *WCET: Frontiers,* accessed March 22, 2015,<https://wcetblog.wordpress.com/2013/05/16/inaccessibility/>.
+[75] Lauren McLarney, “Five More Years of Inaccessibility?” *WCET: Frontiers,* accessed March 22, 2015,<https://wcetblog.wordpress.com/2013/05/16/inaccessibility/>.
 
 #  
 
-[](<>)\[76] Association on Higher Education And Disability, “The TEACH Act – A Need for Clarification Regarding the Opposition to the Proposed TEACH Act Legislation,” *Association on Higher Education And Disability (AHEAD),* accessed March 22, 2015, <http://ahead.org/teach_act_clarification_letter>.
+[76] Association on Higher Education And Disability, “The TEACH Act – A Need for Clarification Regarding the Opposition to the Proposed TEACH Act Legislation,” *Association on Higher Education And Disability (AHEAD),* accessed March 22, 2015, <http://ahead.org/teach_act_clarification_letter>.
 
-[](<>)\[77] Govtrack.us, “H.R. 3505 (113th): TEACH Act,” *Govtrack.us,* accessed March 22, 2015,<https://www.govtrack.us/congress/bills/113/hr3505>. 
+[77] Govtrack.us, “H.R. 3505 (113th): TEACH Act,” *Govtrack.us,* accessed March 22, 2015,<https://www.govtrack.us/congress/bills/113/hr3505>. 
 
-[](<>)\[78] Higher Education Opportunity Act, §762.
+[78] Higher Education Opportunity Act, §762.
 
-[](<>)\[79] Ibid, §762.
+[79] Ibid, §762.
 
-[](<>)\[80] Ibid, §773.
+[80] Ibid, §773.
 
-[](<>)\[81] Advisory Commission on Accessible Instructional Materials in Postsecondary Education for Students with Disabilities,*Report of the Advisory Commission*, 83-85.
+[81] Advisory Commission on Accessible Instructional Materials in Postsecondary Education for Students with Disabilities,*Report of the Advisory Commission*, 83-85.
 
-[](<>)\[82] Office for Civil Rights, “Transition of Students with Disabilities to Postsecondary Education: A Guide for High School Educators,” *Office for Civil Rights, U.S. Department of Education*, 2011, accessed March 30, 2015,<http://www2.ed.gov/about/offices/list/ocr/transitionguide.html>.
+[82] Office for Civil Rights, “Transition of Students with Disabilities to Postsecondary Education: A Guide for High School Educators,” *Office for Civil Rights, U.S. Department of Education*, 2011, accessed March 30, 2015,<http://www2.ed.gov/about/offices/list/ocr/transitionguide.html>.
 
-[](<>)\[83] Higher Education Opportunity Act, §777(a).
+[83] Higher Education Opportunity Act, §777(a).
 
-[](<>)\[84] Ibid, §777(a(4E)).
+[84] Ibid, §777(a(4E)).
 
-[](<>)\[85] 80 Federal Register 27057 (May 11, 2015).
+[85] 80 Federal Register 27057 (May 11, 2015).
 
-[](<>)\[86] Ibid.
+[86] Ibid.
 
-[](<>)\[87] Betsy Hammond, “Oregon special education graduates declared eligible for federal financial aid” The Oregonian, April 10 2014, accessed May 12, 2015,<http://www.oregonlive.com/education/index.ssf/2014/04/oregon_special_education_gradu.html>.
+[87] Betsy Hammond, “Oregon special education graduates declared eligible for federal financial aid” The Oregonian, April 10 2014, accessed May 12, 2015,<http://www.oregonlive.com/education/index.ssf/2014/04/oregon_special_education_gradu.html>.

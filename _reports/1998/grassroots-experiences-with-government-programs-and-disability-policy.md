@@ -11,7 +11,7 @@ Proceedings from a Public Hearing in New Orleans, Louisiana
 National Council on Disability\
 October 1, 1998
 
-This public domain document is also available in alternative formats and on the Internet ().
+This public domain document is also available in alternative formats and on the Internet.
 
 The views contained in this report do not necessarily represent those of the Administration, as this document has not been subjected to the A-19 Executive Branch review process.
 
@@ -114,7 +114,7 @@ Appendices
 > [Participant List](https://ncd.gov/publications/1998/Oct11998#12a)\
 > [References](https://ncd.gov/publications/1998/Oct11998#12b)
 
-[](<>)**CONGRESSIONAL MANDATE OF THE NATIONAL COUNCIL ON DISABILITY**
+**CONGRESSIONAL MANDATE OF THE NATIONAL COUNCIL ON DISABILITY**
 
 Overview and Purpose
 
@@ -151,7 +151,7 @@ Statutory History
 
 NCD was initially established in 1978 as an advisory board within the Department of Education (Public Law 95-602). The Rehabilitation Act Amendments of 1984 (Public Law 98-221) transformed NCD into an independent agency.
 
-[](<>)**PREFACE**
+**PREFACE**
 
 The National Council on Disability (NCD) is an independent federal agency that makes recommendations to the President and Congress on disability policy. Recognizing society's general neglect of the needs of minorities, NCD has targeted children and youth with disabilities from minority and rural communities as one of its policy priorities.
 
@@ -242,7 +242,7 @@ Community Participation
 * Foster collaboration and partnerships of government, service providers, businesses, and other stakeholders in the community.
 * Hold leadership training for youth with disabilities and provide them with mentors and opportunities to learn to be self-advocates.
 
-[](<>)**INTRODUCTION**
+**INTRODUCTION**
 
 Hughey Walker, chair of the National Council on Disability's (NCD) Subcommittee on Minority Issues, opened the hearing by stating that NCD was particularly interested in hearing about the issues affecting Louisiana youth with disabilities and their families. He expressed the hope that NCD would be able to gather information on children and youth from minority backgrounds and rural communities in Louisiana that would help NCD in its work. He discussed NCD's long-standing commitment to minority issues.
 
@@ -250,7 +250,7 @@ Mr. Walker informed those present that in preparation for the hearing, NCD had c
 
 Lilliam Rangel-Diaz, a member of the Subcommittee on Minority Issues and co-chair of the NCD Subcommittee on Children and Youth, gave a brief overview of NCD and its mission. She encouraged those present to openly share their experiences.
 
-[](<>)**EDUCATION**
+**EDUCATION**
 
 NCD expressed concerns about surrounding education for those with disabilities in Louisiana that were identified after federal monitoring by the U.S. Department of Education. Problems include the following:
 
@@ -346,7 +346,7 @@ Mr. Leaf urged NCD support of the reauthorization of the Tech Act as the 10-year
 
 > I would just like to answer an earlier question that was asked about cultural diversity here in Louisiana, and particularly, how our Tech Act approaches that. There is probably no state in the union that has such great cultural and geographic diversity as Louisiana. That's one of the reasons why it's nice to visit here. We have to try and preserve our cultural diversity. My son and I are descended from the French settlers who settled New Orleans, the French Creoles. And the Canadian refugees who came from Acadia, and settled the Acadian part of southwest Louisiana. We're very proud of that heritage. We wouldn't want to change it. But, in terms of cultural outreach, it creates great problems, particularly for projects like the Tech Act Project.... We do try to remember the need to be culturally competent, to speak all the languages of our various cultural diversity populations.
 
-[](<>)**VOCATIONAL REHABILITATION**
+**VOCATIONAL REHABILITATION**
 
 Chanise Dennis, a graduate student preparing to pursue a career in rehabilitative services and a young woman with renal disease, expressed appreciation for the opportunities that the Vocational Rehabilitation Act had afforded her in being able to attend school. When asked about his experiences with vocational rehabilitation services, Rodney Senigaur, a college student with paraplegia, replied that his problems consisted of being considered a member of his parents' household and under their income. As a result, he was not eligible for various services when the evaluators did an in-home assessment. In Louisiana, the money does not meet the need for vocational rehabilitation; therefore, only those with the most serious disabilities and greatest economic need qualify for services easily. Although he did receive vocational rehabilitation services eventually, the only funding Mr. Senigaur received was for his undergraduate schooling and some for graduate school. No support services were provided. When asked how his disability had affected his college career, Mr. Senigaur replied:
 
@@ -360,7 +360,7 @@ Aran Kundu, a college rehabilitation counselor in the audience, expressed concer
 
 Although colleges and universities receive money from the Federal Government and are covered by Section 504 and the American with Disabilities Act (ADA), they often do not provide adequate support services when students need services for a class or examination. An NCD member noted the responsibility under ADA and 504 for the colleges and universities to provide for students who are not sent by vocational rehabilitation so that any student with a disability has access to needed services, regardless of whether a vocational rehabilitation counselor is involved in that student's education or work rehabilitation plan.
 
-[](<>)**JUVENILE JUSTICE SYSTEM**
+**JUVENILE JUSTICE SYSTEM**
 
 The Office of Civil Rights in the U.S. Department of Education recently investigated the juvenile justice system in Louisiana and found poor conditions for all youth within those facilities, including a lack of concern about safety and abuse issues. The Office found that special education needs were not being met at all for students with disabilities in the juvenile detention centers. Officials spoke of the opinions of some decision makers in Louisiana regarding these issues. Dr. Dennis reported:
 
@@ -394,7 +394,7 @@ Federal Legislation
 
 Mental health and child/family advocates brought to the attention of NCD a bill (S. 10) that is being heard in Congress this session. The bill calls for the elimination of most of the funding for preventive and rehabilitative programs for youth. It weakens the language dramatically on the issue of disproportionate representation of minorities in the juvenile justice system. S.10 eliminates the language requiring deinstitutionalization of youth with disabilities and has the potential to perpetuate and worsen the damage done to youth with disabilities in the juvenile justice system.
 
-[](<>)**ACCESS TO MEDICAL SERVICES**
+**ACCESS TO MEDICAL SERVICES**
 
 All Americans, particularly those with disabilities or chronic illness, need affordable health care that is accessible. People with disabilities face many obstacles in accessing health care, including denial or cancellation of insurance, insufficient benefits, preexisting condition exclusions, and being locked into or out of employment.
 
@@ -468,7 +468,7 @@ Ms. Shanks of ACED reported that ACED is working to ensure that Medicaid service
 
 For individuals with disabilities, Medicaid or Medicare is usually the only means for health care, durable medical equipment, and assistive technology. A resolution for was presented asking Congress to enact comprehensive health insurance goals. The definition of health care should be expanded from the absence of disease and impairment to include management of a chronic illness or disability. If a funding source for management for chronic illness could be identified that would distribute health care costs equally throughout the population, the Medicaid system would not be overburdened. Unfortunately, Medicaid is associated with being destitute. A concern about how fraud and abuse are hurting those in need of services was voiced, along with a suggestion to continue to implement steps to eliminate fraud and abuse in Medicaid and Medicare.
 
-[](<>)**ECONOMIC SELF SUFFICIENCY/INDEPENDENT LIVING**
+**ECONOMIC SELF SUFFICIENCY/INDEPENDENT LIVING**
 
 Parents need economic transition support when their child grows up and moves toward independence. When parents have devoted years to caring for a child with a chronic health condition, they find themselves noncompetitive in the job market. Parents feel strongly that they should be paid to effectively advocate for others and to train others on how to advocate for children with special needs. The emphasis was placed on parents and individuals having become professionals through the school of experience and the need for them to continue doing what they know best while being adequately compensated for it. Working as advocates would also allow parents flexibility in their scheduling needs when caring for their children. Ms. Divinity advocated for such resourceful use of parents:
 
@@ -494,7 +494,7 @@ All the college students with disabilities who spoke seemed to be under the impr
 
 Louisiana has three independent living centers that provide services. One is in New Orleans with a satellite office in Baton Rouge; one is in Lafayette with a satellite office in Lake Charles; and one is in north Louisiana in Shreveport. The total state funding for independent living services is $190,000, which basically covers running the program. Four core services are provided: advocacy, independent living skills, information and referral, and peer counseling.
 
-[](<>)**FAMILY/INDIVIDUAL SUPPORT**
+**FAMILY/INDIVIDUAL SUPPORT**
 
 Partners in Policymaking (PIP) is an eight-year-old leadership training program for adults with disabilities and parents of young children with disabilities. It is currently totally funded by the Louisiana State Planning Council on Developmental Disabilities. The program is limited, mainly because of budget cuts, to 25 individuals trained each year. That number has been decreased from the initial 35 persons per year. Agnes Anderson, the director of the program, spoke of a personal commitment to work on budgeting current resources to return to training 35 people in 1998. That would entail many cuts and constraints, but the hope is it will not affect the training of the individuals.
 
@@ -528,7 +528,7 @@ Foster parents rely on support from other foster parents. Parents rely on the su
 
 It is essential to the total health of families of children with special health care needs and of individuals with disabilities that all planning be family centered, culturally sensitive, coordinated across all systems of care, and community based. Family and consumer input should be actively sought and respected. Since families practice cost-effectiveness on a daily basis, they often have good insight on how to manage resources wisely. Families and individuals are the largest stakeholders in the process; they have the right to self-determination and the practical need to drive the services that support them.
 
-[](<>)**COMMUNITY PARTICIPATION**
+**COMMUNITY PARTICIPATION**
 
 People with disabilities in rural areas face barriers to full community participation because of limited availability of resources and transportation, limited accessibility to some businesses, and limited recreational programs and equipment. They may be restricted in their choices of housing by factors such as transportation, their disability, community prejudice and ignorance, and economic difficulties. Yet, some benefits were given of living in a small town. Ms. Higginbotham testified:
 
@@ -546,7 +546,7 @@ With the implementation of ADA, persons once referred to as "the handicapped" ar
 
 The training of people who work with those with disabilities needs to be examined to promote full community participation. Some people have personal biases for and prejudices against certain disabilities and certain cultures. Providers need to be held accountable for putting forth their best efforts to help all individuals with disabilities because rehabilitation should promote the restoration of a person to his or her fullest potential. If a provider does not have the proper training or education or know the most respectful way to work with people, it will continue to be difficult for people with disabilities to properly assume their rightful role in society.
 
-[](<>)**CONCLUSION**
+**CONCLUSION**
 
 The information presented to NCD was candid and thought-provoking. It was evident that the witnesses were courageous, determined, and committed to the cause of improving the lives of persons with disabilities in Louisiana. Even in the face of adversity and multiple barriers, all the families, individuals with disabilities, and advocates were very positive and vested in working with the situations they found themselves in and advocating for the greater good of others. They were self-advocates who had devoted time, money, and energy to learn the rights and responsibilities of persons with disabilities and to share their research with others. The state senator was open to hearing from people with disabilities and their families and to being educated on the issues and the concerns. She gave tips on how to approach her and how to work with the legislature to effect reform. Members of NCD expressed their appreciation to those who testified and the diverse interests that had been well represented.
 
@@ -554,7 +554,7 @@ Mr. Leaf was the last person to testify at the hearing. His testimony was a fitt
 
 > My message for the Council is just a brief reminder. A reminder that people with disabilities these days have great needs, but they also have great opportunities. As Charles Dickens said, "It was the worst of times; it was the best of times." We live in an age when the needs of people with disabilities and their expectations have never been so greatÄprobably in part because of the complexity of our society and the difficulty in keeping up with that societyÄand when government and charitable resources have never been so limited. But we also live in an age of technologyÄtechnology that can level the playing field for people with disabilities, enabling them to live full, independent, productive lives, and be an integral part of the communities in which they live. In effect, giving them the capacity to be on an equal, functioning basis with their fellow citizens.
 
-[](<>)**APPENDICES**
+**APPENDICES**
 
 PARTICIPANT LIST
 
@@ -592,7 +592,7 @@ Karen Trudeaux
 
 Carol Wilson, Family Voices
 
-[](<>)**REFERENCES**
+**REFERENCES**
 
 Department of Health and Hospitals and Louisiana Medicaid Report; 1997.
 

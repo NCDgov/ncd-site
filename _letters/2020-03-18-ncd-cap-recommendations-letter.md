@@ -12,7 +12,7 @@ Alexandria, VA  22350
 
 Dear Mr. Bell,
 
-As a follow-up concerning NCD’s recent work analyzing the issue of centralized accommodations funds as a means of maximizing the Federal Government’s ability to provide reasonable accommodations to its employees, NCD has recommended Congress increase funding to CAP per the following:\[[1]](https://ncd.gov/publications/2020/ncd-cap-recommendations-letter#_ftn1)
+As a follow-up concerning NCD’s recent work analyzing the issue of centralized accommodations funds as a means of maximizing the Federal Government’s ability to provide reasonable accommodations to its employees, NCD has recommended Congress increase funding to CAP per the following: [1](https://ncd.gov/publications/2020/ncd-cap-recommendations-letter#_ftn1)
 
 1. The increase should be based on trendline data of CAP’s premature depletion of funds per annum over the last five years, and regularly reevaluate funding levels considering the number of employees with disabilities in the Federal Government in years to come in line with other government-wide initiatives to increase the hire of people with disabilities.
 2. Based on NCD’s research, CAP would benefit from up to date knowledge of specific occupations to better ascertain the best and most up-to-date accommodations for those occupations; thus, increased funding by Congress should be used to enable CAP to develop this specific research.
@@ -30,4 +30,4 @@ Chairman
 
 - - -
 
-\[[1]](https://ncd.gov/publications/2020/ncd-cap-recommendations-letter#_ftnref1) NCD. “NCD Letter \[to Congress] Regarding DoD Computer/Electronic Accommodations Program.” <https://ncd.gov/publications/2020/ncd-letter-dod-cap>. (January 23, 2020).
+ [1](https://ncd.gov/publications/2020/ncd-cap-recommendations-letter#_ftnref1) NCD. “NCD Letter \[to Congress] Regarding DoD Computer/Electronic Accommodations Program.” <https://ncd.gov/publications/2020/ncd-letter-dod-cap>. (January 23, 2020).

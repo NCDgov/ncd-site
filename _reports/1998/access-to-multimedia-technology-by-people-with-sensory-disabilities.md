@@ -190,7 +190,7 @@ The National Council on Disability wishes to express its appreciation to Paul Sc
 
 [GLOSSARY](https://ncd.gov/publications/1998/March1998#16)
 
-[](<>)
+
 
 **PREFACE**
 
@@ -198,7 +198,7 @@ In August 1994, members of the National Council on Disability (NCD) began meetin
 
 This report was commissioned by NCD on the advice of Tech Watch. It is an overview of computerized multimedia technology, barriers to access for people with disabilities, and progress to date on addressing these issues. The report concludes with recommendations to policy makers and industry officials to solve problems raised in the report.
 
-[](<>)
+
 
 **EXECUTIVE SUMMARY**
 
@@ -283,7 +283,7 @@ Mainstream technology and multimedia developers, producers of assistive technolo
 
 The development, sale, and use of information technology involves many people--educators, content providers, programmers, marketers, engineers, end users, and so on. If equal access to multimedia for people with disabilities is to become a reality, knowledge and awareness will have to be developed across all areas. Innovative methods to instruct those currently involved in the information technology and multimedia industry about access issues and solutions must be developed. The training and information dissemination efforts now being undertaken by the Association of Access Engineering Specialists provide a good example of such innovation. Enlisting the support and interest of university faculty and other experts across many disciplines--from computer science to publishing to education--is also important.
 
-[](<>)
+
 
 **USE AND IMPORTANCE OF MULTIMEDIA**
 
@@ -346,7 +346,7 @@ Mary Ann Trower (1997), an education specialist with Edmark, echoes this concern
 
 In discussing future trends, Kerscher believes that multimedia products will be written in Hypertext Markup Language (HTML), and it will not matter whether the delivery medium is a CD-ROM or the Internet. Currently transmission speed and capacity limit the amount of multimedia that is available over the Internet, but Kerscher is confident these issues will be overcome in the next five years. He also feels that schools will be using the Internet more and more and that increasing numbers of children will be educated at home with multimedia technology. He refers to the Internet as "the blackboard of the future." Scadden adds that there is time to avoid a crisis, especially with respect to access to the Internet, because the World Wide Web Consortium is interested in these issues and will provide guidelines for HTML development. CD-ROMs, though, will still be much more of a problem in the future. Similarly, Allen believes that the Internet is more likely to become accessible than CD-ROMs, because the Web Access Initiative is bringing Web stakeholders together to create standards for accessibility. He is not aware of any similar effort focusing on CD-ROM accessibility.
 
-[](<>)
+
 
 **BARRIERS TO ACCESSING MULTIMEDIA**
 
@@ -398,7 +398,7 @@ The situation is equally dismal for digital media. Although comparable accessibi
 
 The Texas Education Agency report made two points about those who are deaf-blind. First, making visual information auditory is not enough--electronic text must be included, so that the information can be presented in braille. Any added audio descriptions should also be available in electronic format so that they are accessible to deaf-blind people. Second, there should always be a way to amplify auditory information for those who are blind and hard of hearing.
 
-[](<>)
+
 
 **SOLUTIONS FOR MAKING MULTIMEDIA PRODUCTS ACCESSIBLE**
 
@@ -458,7 +458,7 @@ Speech recognition or speech-to-text technology changes so rapidly that research
 
 Speech-to-text and text-to-speech technologies hold much promise. In addition, imagine the breakthroughs that could result from approaches that would allow the translation of American Sign Language (ASL) to text or text to ASL.
 
-[](<>)
+
 
 **VOLUNTARY EFFORTS TO IMPROVE ACCESS TO MULTIMEDIA**
 
@@ -522,7 +522,7 @@ A working group of disability and technology industry representatives has formed
 
 The Information Infrastructure Standards Panel (IISP) has been convened by the American National Standards Institute to review the need for coordination and development of additional information technology standards. Several initiatives under consideration by this panel are likely to be relevant to standardization of multimedia technologies--for example, nomadicity and electronic publishing.
 
-[](<>)
+
 
 **RECOMMENDATIONS FOR FURTHER ACTION**
 
@@ -583,7 +583,7 @@ Mainstream technology and multimedia developers, producers of assistive technolo
 
 The development, sale, and use of information technology involves many people--educators, content providers, programmers, marketers, engineers, end users, and so on. If equal access to multimedia for people with disabilities is to become a reality, knowledge and awareness will have to be developed across all areas. Innovative methods to instruct those currently involved in the information technology and multimedia industry about access issues and solutions must be developed. The training and information dissemination efforts now being undertaken by the Association of Access Engineering Specialists provide a good example of such innovation. Enlisting the support and interest of university faculty and other experts across many disciplines--from computer science to publishing to education--is also important.
 
-[](<>)
+
 
 **APPENDIX A**
 
@@ -640,51 +640,51 @@ B. Aural output
 6. Music\
 7. 3-D audio [(11)](https://ncd.gov/publications/1998/March1998#footN_11_)
 
-[](<>)
+
 
 1 The list of examples below is not meant to be exhaustive, but to be representative of those technologies that currently exist while being flexible enough to incorporate new technologies that are currently being developed or are not yet in existence.
 
-[](<>)
+
 
 2 This typology differs from Vanderheiden's in that it elaborates on the different types of visual and aural outputs that exist. In addition, it categorizes viewer/control devices and transmission under the larger heading of "delivery" and adds under this major heading the separate category of "underlying control software."
 
-[](<>)
+
 
 3 We do not include videotape materials in this list as they are not interactive.
 
-[](<>)
+
 
 4 The Internet, including the World Wide Web, is not specifically mentioned on this list as it is a "meta-construct"--it uses varying combinations of transmission, control devices, and control software and does not fit neatly into any one of the delivery categories.
 
-[](<>)
+
 
 5 These involve both hardware and software elements.
 
-[](<>)
+
 
 6 These elements can be used singly or together to create books, Web sites, games, television/videos, e-mail, instructional material/distance learning, and so on.
 
-[](<>)
+
 
 7 Animation typically refers to animated drawings; however, most visual images can be animated.
 
-[](<>)
+
 
 8 3-D is a technique that can be applied to any of the above visual elements.
 
-[](<>)
+
 
 9 Virtual reality can also be created using other senses (e.g., using movement or touch).
 
-[](<>)
+
 
 10 Virtual reality may use a combination of the above visual elements.
 
-[](<>)
+
 
 11 Stereo audio designed to give a sense of location, relative to the listener, to the sounds heard. Can be a combination of the above aural elements.
 
-[](<>)
+
 
 **APPENDIX B**
 
@@ -720,7 +720,7 @@ With access to some computer technology through ASCII on their text telephones, 
 
 According to Scheffel, about 30 percent to 50 percent of deaf and hard-of-hearing children in residential schools have access to the Internet, and Viera says that 40 percent of deaf and hard-of- hearing people of all ages who have access to ASCII are estimated to have access to Internet.
 
-[](<>)
+
 
 **APPENDIX C**
 
@@ -764,7 +764,7 @@ QUESTIONS:
 
 **Please note**: We may wish to follow up on your response via e-mail or telephone in order to get more information from you. **If you are willing, please let us know your telephone/TTY number and/or e-mail address.**
 
-[](<>)
+
 
 **APPENDIX D**
 
@@ -798,7 +798,7 @@ Respondents mentioned numerous benefits of access to multimedia by blind and vis
 
 \*The Educator Questionnaire was posted on the following lists in March 1997: EASI, VI-OUT, ACCESS-L, DEAFBLIND, ABLETECH-L, DVH-S, AERNET, BLINDFAM, EDTECH, and AMTECH.
 
-[](<>)
+
 
 **APPENDIX E**
 
@@ -832,7 +832,7 @@ Respondents mentioned numerous benefits of access to multimedia by blind and vis
 
 14. Does your hardware include audio equipment (i.e., speakers)? If not, is your hardware interoperable with multimedia programs?
 
-[](<>)
+
 
 **APPENDIX F**
 
@@ -884,7 +884,7 @@ CAST's "Ultimate Kid Books," aimed at children from preschool to second grade, i
 
 The Corporation for Public Broadcasting/WGBH National Center for Accessible Media (NCAM) is working on a CD-ROM project funded by the National Science Foundation. It is developing techniques and guidelines for making science CD-ROMs accessible to blind and visually impaired children and will be developing a prototype CD-ROM with accessibility built in. All text will be readable using a screen reader or the speech will be built in, and all graphical elements will be described in text or read aloud.
 
-[](<>)
+
 
 **APPENDIX G**
 
@@ -926,7 +926,7 @@ NCD plays a major role in developing disability policy in America. In fact, it w
 
 NCD was initially established in 1978 as an advisory board within the Department of Education (Public Law 95-602). The Rehabilitation Act Amendments of 1984 (Public Law 98-221) transformed NCD into an independent agency.
 
-[](<>)
+
 
 **REFERENCES**
 
@@ -1110,7 +1110,7 @@ Wlodkowski, Tom, Project Coordinator, National Science Foundation-funded CD-ROM 
 
 Wong, Peter, Software Design Engineer, Accessibility and Disabilities Group, Microsoft Corporation. Personal communication, May 16, 1997.
 
-[](<>)
+
 
 **GLOSSARY**
 

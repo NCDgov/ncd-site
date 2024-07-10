@@ -27,7 +27,7 @@ to the A-l9 Executive Branch review process.
 
 - - -
 
-[](<>)**MEMBERS OF THE NATIONAL COUNCIL ON DISABILITY**
+**MEMBERS OF THE NATIONAL COUNCIL ON DISABILITY**
 
 *Chairperson,* Sandra S. Parrino\
 *Vice Chairperson*, A. Kent Waldrep, Jr.\
@@ -45,7 +45,7 @@ Phyllis Zlotnick
 
 - - -
 
-[](<>)**STAFF**
+**STAFF**
 
 The Education of Students With Disabilities:\
 Where Do We Stand?
@@ -133,7 +133,7 @@ TABLE OF CONTENTS
 
 - - -
 
-[](<>)THE MISSION OF THE NATIONAL COUNCIL ON DISABILITY
+THE MISSION OF THE NATIONAL COUNCIL ON DISABILITY
 
 The National Council on Disability is an independent Federal agency comprised of 15 members appointed by the President of the United States and confirmed by the Senate.
 
@@ -141,7 +141,7 @@ The Council is charged with reviewing all laws, programs, and policies of the Fe
 
 - - -
 
-[](<>)STATEMENT OF THE CHAIRPERSON
+STATEMENT OF THE CHAIRPERSON
 
 The progress our nation has made in the education of students with disabilities in the past 15 years is remarkable and significant. The fact that a major debate in the field of special education is the role of separate schools and the nature and extent to which integration into general education classrooms should take place is a sign of significant growth and development. Just two decades ago the major debate was whether or not students with disabilities should have access to public education programs. The Council is encouraged by the evolution of our nation's efforts to educate students with disabilities and is optimistic about our nation's ability to face the challenges of the future.
 
@@ -151,7 +151,7 @@ National Council on Disability
 
 - - -
 
-[](<>)**CHAPTER ONE**
+**CHAPTER ONE**
 
 Introduction
 
@@ -212,7 +212,7 @@ The National Council believes that the challenge of improving the education of s
 
 - - -
 
-[](<>)**CHAPTER TWO**
+**CHAPTER TWO**
 
 The Education for All Handicapped Children Act\
 (Public Law 94-1421):\
@@ -297,13 +297,13 @@ Since the enactment of P.L. 94-142 almost 15 years ago, less than 1% of parents 
 
 - - -
 
-[](<>)**CHAPTER THREE**
+**CHAPTER THREE**
 
 Findings
 
 The findings that follow are the result of the National Council's analysis of testimony presented by over 50 witnesses in four days of formal hearings, a review of recent studies and articles related to the education of students with disabilities, consultations with parents and professionals throughout the country, and the development of issue papers on selected topics.
 
-[](<>)A Student and Parent Perspective
+A Student and Parent Perspective
 
 Providing a platform for the perspective of parents has always been a strong priority of the National Council on Disability. Some Council members have disabilities; others are parents of children with disabilities. All Council members are acutely aware of the important role played by parents in the education of their children. Furthermore, the Council understands that P L. 94-142 established parents as im portant agents of accountability and that parents provide much of the energy and enthusiasm behind the scores of parent support and disability awareness groups around the country that have helped to increase awareness and support for appropriate educational services in our nation's schools.
 
@@ -412,7 +412,7 @@ Parents report that a school in one State is not required to accept an IEP prepa
 
 In recent years the military organized an Exceptional Family Member Program, which requires employees to identify all family members with a disability. Although the program was designed to reduce costs by assuring that services would be available only as needed, many military family members report that the service member may be ordered overseas alone if appropriate services are not available for the child with a disability. Some families have reported that Exceptional Family Membership is interpreted as problematic by military superiors, and membership could reduce a service person's career potential.
 
-[](<>)**Safeguarding the Right to Education: Due Process at Work**
+**Safeguarding the Right to Education: Due Process at Work**
 
 Finding 6:
 
@@ -456,7 +456,7 @@ Although descriptive data have been collected on the outcome of special educatio
 
 The General Accounting Office has completed data collection for a congressionally mandated study of hearings under P.L. 94-142 to examine the total number of written decisions, civil actions, number, and types of complaints and prevailing parties. This important national study has examined data from 1984 to 1988 and is expected to provide information that has not been readily available to date. The Council is not aware of any similar, ongoing efforts.
 
-[](<>)School Reform and Students With Disabilities
+School Reform and Students With Disabilities
 
 Finding 12:
 
@@ -499,7 +499,7 @@ School reform efforts have not specifically addressed the diverse needs of stude
 
 The national reports on school reform such as *A Nation at Risk* (National Commission on Excellence in Education, 1983),*High School* (Boyer, 1983) and *A Place Called School* (Goodlad, 1984) have not, for the most part, specifically addressed issues of quality educational services for students with disabilities. The Council learned that this omission has occurred primarily for two reasons. First, special education is primarily viewed nationally as a separate educational system that is disconnected from the regular education reform movement. The special education system has evolved as a separate system with its own set of distinct organizational, educational, and teaching practices. Second, attention to the needs of students with disabilities may be perceived as running counter to the emphasis on a more rigorous academic curricula and higher performance standards. This perception may serve to reinforce stereotypes of students with disabilities as low-achieving, resulting in low expectations for students with disabilities.
 
-[](<>)**Special Education Practices**
+**Special Education Practices**
 
 Finding 16:
 
@@ -624,7 +624,7 @@ During the question and answer period, Mr. Chambers stated that the most difficu
 
 Tom Skrtic, Ph.D., Associate Professor of Special Education at the University of Kansas, and Arthur Wise, Ph.D., of The Rand Corporation, emphasized during their testimony before the Council that changes in the way schools are organized and administered must take place if schools are to more effectively meet the educational needs of all students. Effective schools share a number of organizational and operational characteristics, including empowerment of teachers, teacher collaboration, integrated classrooms, parental involvement, and effective teaching practices.
 
-[](<>)**The Federal-State Partnership**
+**The Federal-State Partnership**
 
 Finding 21:
 
@@ -658,7 +658,7 @@ The complaints of parents who testified before the Council raise two distinct bu
 
 The second is that there is confusion about what the monitoring process is and what it can achieve. While the quality of education is a legitimate Federal concern, it appears to be difficult for the Federal monitoring process to directly assess issues pertaining to quality given the decentralized evolution of the educational enterprise and the deeply rooted social conviction that quality emerges from local control. Nevertheless, the Council believes that an appropriate monitoring process can strengthen the Federal/State partnership and notes that some federal efforts to monitor educational achievement outcomes have been undertaken, such as the National Assessment of Educational Programs.
 
-[](<>)**Transition From School to Adult Life**
+**Transition From School to Adult Life**
 
 Finding 24:
 
@@ -714,7 +714,7 @@ According to a recent Harris poll (Harris and Associates, 1989), a majority of s
 
 In the past few years the Federal government has funded projects to provide information and training to parents so that they are able to become more fully involved as members of the education team. Such training programs help parents to exert more influence on the development and implementation of their son or daughter's education program. These parents become more familiar with the types of decisions necessary for a successful transition into postsecondary education programs and adult services. Parent involvement is a powerful predictor of post-school adjustment. Another study suggested that people who maintained employment in a community setting came from families in which parents had a major influence on the individual and held strong values for work. It is clear that parents are faced with some difficult decisions as their son or daughter exits public school programs.
 
-[](<>)**An International Perspective**
+**An International Perspective**
 
 Finding 29:
 
@@ -752,7 +752,7 @@ In a conference of high-level government officials from 24 nations sponsored by 
 
 - - -
 
-[](<>)**CHAPTER FOUR**
+**CHAPTER FOUR**
 
 Recommendation For a *National Commission on Excellence in the Education of Students with Disabilities*
 
@@ -919,7 +919,7 @@ The Council heard testimony that many countries do not have a counterpart to the
 
 - - -
 
-[](<>)MINORITY VIEW OF LESLIE LENKOWSKY
+MINORITY VIEW OF LESLIE LENKOWSKY
 
 Although I agree with much of what is contained in "The Education of Students with Disabilities: Where Do We Stand?" I do not feel it goes far enough in identifying the issues that need to be examined if we are to make good on the commitments of P.L. 94-142 to handicapped children.
 
@@ -935,7 +935,7 @@ Finally, there is the question of federal funding. P.L. 94-142 did commit the fe
 
 - - -
 
-[](<>)**APPENDIX A**
+**APPENDIX A**
 
 List of Witnesses Who Provided Testimony
 
@@ -1261,7 +1261,7 @@ Salem, OR
 
 - - -
 
-[](<>)**APPENDIX B**
+**APPENDIX B**
 
 Biographical Information
 
@@ -1381,7 +1381,7 @@ Ms. Zlotnick formerly was the Director of External Affairs for the Easter Seal S
 
 - - -
 
-[](<>)**REFERENCES**
+**REFERENCES**
 
 Boyer, E. L. (1983). *High school: A report on secondary education in America.* New York: Harper and Row.
 

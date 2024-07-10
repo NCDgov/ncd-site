@@ -133,7 +133,7 @@ Section III: Appendices
 
 - - -
 
-[](<>)
+
 
 ### **Executive Summary**
 
@@ -155,7 +155,7 @@ Over the long term, conference participants recommended the following actions: i
 
 - - -
 
-[](<>)
+
 
 ### **Section I: Proceedings**
 
@@ -229,7 +229,7 @@ Our interagency coordination responsibilities bring us up with many partnerships
 
 - - -
 
-[](<>)
+
 
 ### **Session I**
 
@@ -343,7 +343,7 @@ For that reason, if for no other, I urge you to help spread the message: The ADA
 
 - - -
 
-[](<>)
+
 
 ### **Session II (Part 1)**
 
@@ -394,7 +394,7 @@ Individual breakout sessions on *Equality of Opportunity, Full Participation, I
 
 - - -
 
-[](<>)
+
 
 ### **Session II (Part 2)**
 
@@ -540,7 +540,7 @@ The discussion then turned to the difference between primary and secondary disab
 
 - - -
 
-[](<>)
+
 
 **Tuesday, December 8, 1992\
 Plenary Session**
@@ -615,7 +615,7 @@ Several members of the audience submitted suggestions for additional research. O
 
 - - -
 
-[](<>)
+
 
 ### **Session IV**
 
@@ -679,7 +679,7 @@ Individual breakout sessions on *Issues Related to Special Populations, Emergin
 
 - - -
 
-[](<>)
+
 
 ### **Session V (Part I)**
 
@@ -737,7 +737,7 @@ Conference participants reemphasized the importance of documenting the effects o
 
 - - -
 
-[](<>)
+
 
 ### **Session V (Part 2)**
 
@@ -785,7 +785,7 @@ Conference participants discussed the need to combine qualitative and quantitati
 
 - - -
 
-[](<>)
+
 
 **Wednesday, December 9, 1992\
 Plenary Session**
@@ -979,7 +979,7 @@ A participant suggested that the relationship between individuals with disabilit
 
 - - -
 
-[](<>)
+
 
 ### **Session VII**
 
@@ -1003,7 +1003,7 @@ Dr. Zola noted that the voices of older people and of women had been surprisingl
 
 - - -
 
-[](<>)
+
 
 ### **Summary and Conclusions**
 
@@ -1065,7 +1065,7 @@ We hope that you will assist us with your expertise and your commitment and your
 
 - - -
 
-[](<>)
+
 
 ### **Section II: Conclusions and Recommendations**
 
@@ -1506,7 +1506,7 @@ This breakout session offered four suggestions regarding nomenclature:
 
 - - -
 
-[](<>)
+
 
 ### **Section III: Appendices**
 
@@ -1695,7 +1695,7 @@ Speaker: **Sandra Swift Parrino**, Chairperson, National Council on Disability
 
 - - -
 
-[](<>)
+
 
 ### **Appendix B: Participant List**
 
@@ -2676,7 +2676,7 @@ Phone: (617) 736-2645
 
 - - -
 
-[](<>)
+
 
 ### **Appendix C: Speaker List**
 
@@ -2947,7 +2947,7 @@ Phone: (617) 736-2645
 
 - - -
 
-[](<>)
+
 
 ### **Appendix D: The National Council on Disability: A Brief Description**
 

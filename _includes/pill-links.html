@@ -10,12 +10,12 @@
     {% endif %}
 
     {% assign item_slug = item | slugify %}
-    <li class="display-inline">
+    <li class="display-inline-block line-height-mono-6">
       <a
-        class="padding-right-1 text-no-underline"
+        class="padding-right-1 padding-y-05 text-no-underline text-no-wrap font-sans-lg"
         href="{{ site.baseurl }}{{ item_basepath }}/{{ item_slug }}"
       >
-        <span class="usa-tag {{ bg_color_class | default: '' }}">
+        <span class="usa-tag {{ bg_color_class | default: '' }} font-sans-md">
           {{ item }}
         </span>
       </a>

@@ -13,6 +13,6 @@ September 2001
 
 **S﻿COPE AND PURPOSE:**
 
-The National Council on Disability submits this brief *amicus curiae* based on its unique perspective on and experience with disability law and policy.[](https://ncd.gov/publications/2001/Sept2001#foot1) 
+The National Council on Disability submits this brief *amicus curiae* based on its unique perspective on and experience with disability law and policy.
 
 This case involves the proper interpretation of the definition of "disability" in the ADA, a threshold determinant of who will receive the protections the ADA provides. The specific question presented, whether "an impairment precluding an individual from performing only a limited number of tasks associated with a specific job qualifies as a disability,"

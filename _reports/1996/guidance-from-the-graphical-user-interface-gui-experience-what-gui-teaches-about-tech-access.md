@@ -124,7 +124,7 @@ The National Council on Disability wishes to express its sincere appreciation to
 
 - - -
 
-[](<>)
+
 
 **PREFACE**
 
@@ -136,7 +136,7 @@ This report was commissioned by NCD on the advice of Tech Watch. It is a retrosp
 
 - - -
 
-[](<>)
+
 
 **INTRODUCTION**
 
@@ -156,11 +156,11 @@ The report also examines the effectiveness of current legislation in dealing wit
 
 - - -
 
-[](<>)
+
 
 **THE GUI CRISIS**
 
-[](<>)
+
 
 **What Is GUI?**
 
@@ -170,7 +170,7 @@ A graphical user interface is a computer-user interface that uses graphical scre
 
 GUI can be used by people who are blind and visually impaired, provided they have a reliable screen reader to translate what's on the screen into braille or synthesized speech. The development of screen readers for the older, DOS-based systems is quite advanced, and a number of private companies presently compete for the screen reader market.
 
-[](<>)
+
 
 **What Is the Crisis?**
 
@@ -184,7 +184,7 @@ Judy Brewer, project director for the Massachusetts Assistive Technology Partner
 
 As the release date for Windows 95 drew near, advocates feared that blind computer users were about to face vocational extinction.
 
-[](<>)
+
 
 **Why Microsoft?**
 
@@ -196,7 +196,7 @@ Nevertheless, in terms of access for people with visual disabilities, Microsoft 
 
 As Charles Crawford put it, "We were using Microsoft as the primary target because they were the biggest developer of this kind of software, and everything was going in the Windows direction."
 
-[](<>)
+
 
 **Early Awareness of the Problem**
 
@@ -210,7 +210,7 @@ Another early warning voice was that of Susan Brummel, director of the Center fo
 
 Charles Crawford sent several letters on GUI accessibility to the White House and the U.S. Department of Justice. In September 1990, he wrote to President Bush "to share my serious and growing concern....Simply put, developers of hardware and software are not ensuring accessibility to their products...." Crawford believed that Microsoft and other GUI developers could facilitate accessibility by including "hooks"--programming aids for screen readers imbedded in the operating system itself. Failure to do so, he wrote, was a violation of the recently passed ADA. "I ask that you refer this letter to the Department of Justice Civil Rights Division for their attention in conjunction with the General Services Administration who have been working to resolve it." In a letter from Justice Department dated November 26, 1990, Crawford was referred to GSA, which "has issued guidelines in this area, and continues to work with the computer industry on the issue." Crawford notes, however, that he saw little progress in addressing GUI access at the source: with the manufacturers of operating systems.
 
-[](<>)
+
 
 **The Crisis Develops**
 
@@ -238,7 +238,7 @@ Finally, many people with and without disabilities, find computers intimidating.
 
 Ironically, this was a mirror image of the situation at Microsoft, where all access issues were apparently relegated to one person, Greg Lowney. Both consumer advocates and software developers saw computer access as a technical issue isolated from the concerns of the general organization. And so advocates for information technology accessibility, in relative isolation from the rest of their communities, brought their complaints about Windows to Lowney, who was also toiling in organizational isolation.
 
-[](<>)
+
 
 **NCD's First Involvement**
 
@@ -254,7 +254,7 @@ NCD sent a follow-up letter to Bill Gates on August 29, 1994: "While we apprecia
 
 It was several months before NCD received a formal reply.
 
-[](<>)
+
 
 **Advocacy for Open Windows**
 
@@ -264,7 +264,7 @@ The goal, as articulated by Brewer, was twofold: "to convince Microsoft to devel
 
 Advocates examined three federal laws that might help in their efforts to ensure GUI accessibility. These were ADA, Section 508 of the Rehabilitation Act, and the Technology Related Assistance For Individuals with Disabilities Act (the Tech Act).
 
-[](<>)
+
 
 **The ADA**
 
@@ -274,7 +274,7 @@ There was some possibility of addressing GUI accessibility through Title II, whi
 
 The prospect of resolving the GUI crisis solely through ADA enforcement or litigation seemed unlikely.
 
-[](<>)
+
 
 **Section 508**
 
@@ -284,7 +284,7 @@ Several federal agencies have made efforts to comply with 508, for example, the 
 
 Under 508, a private vendor who is unsuccessful in bidding for a federal contract, can initiate legal action to stop or undo a federal software purchase if the vendor can demonstrate that its product was accessible, and the winning competitor's was not. Theoretically, this provision could augment any enforcement of 508 within the Federal Government. To date, however, no such suit has been filed. According to Brewer, legal action can also be initiated "by an individual who is unable to obtain a reasonable accommodation in a federally or state funded entity because that entity has not procured information technology which is consistent with Section 508."
 
-[](<>)
+
 
 **The Tech Act**
 
@@ -304,7 +304,7 @@ In October 1994, Crawford wrote a resolution on GUI accessibility, approved by t
 
 The GUI issue had also drawn international attention. The efforts of European advocates such as Cearball O'Meadhra and Ronan McGuirk, founders of the Visually Impaired Computer Society in Ireland, made it evident that GUI accessibility was also an issue to people who are blind and visually impaired in Europe.
 
-[](<>)
+
 
 **NCD Efforts**
 
@@ -326,7 +326,7 @@ It is of course impossible to know which of these factors, or what combination o
 
 "In the end," says Lowney, "the message was heard, and that's really the important point."
 
-[](<>)
+
 
 **Toward a Resolution**
 
@@ -346,7 +346,7 @@ Microsoft's Corporate Policy on Accessibility stipulates that it "is the respons
 
 However, the GUI accessibility issue is by no means resolved: People who are blind and visually impaired are still experiencing job dislocation because of Windows inaccessibility. At least one screen reader for Windows 95 and an upgraded screen reader for Windows 3.1 have appeared on the market, but there are substantial problems with their reliability. And while advocates generally have applauded the corporate policy statement, they note that Microsoft hasn't met some of its own deadlines, and they stress the need for continued advocacy. For example, Microsoft has had problems developing some of the promised accessibility components, such as the off-screen model, and might postpone their delivery until later in 1996. It also became clear at a November 1995 meeting between a Microsoft representative and state agency heads in Massachusetts that Microsoft had not filled the developer position for key accessibility components, which had been open for more than 10 months. Massachusetts officials said they would review future procurements in light of this information. Within two weeks, Microsoft not only hired the developer but added several more developers to its accessibility team in an effort to get back on schedule. However, the community is still waiting for Microsoft's commitment to GUI accessibility to be realized.
 
-[](<>)
+
 
 **NCD: What Went Wrong, What Went Right**
 
@@ -360,7 +360,7 @@ However, it is clear that once NCD became involved, it made several important co
 
 - - -
 
-[](<>)
+
 
 **RECOMMENDATIONS**
 
@@ -406,7 +406,7 @@ Tech Watch should pursue a detailed study of possible future software and inform
 
 - - -
 
-[](<>)
+
 
 **CONCLUSION**
 
@@ -418,7 +418,7 @@ Such participation will not only empower people with disabilities but will inevi
 
 - - -
 
-[](<>)
+
 
 **APPENDIX**
 

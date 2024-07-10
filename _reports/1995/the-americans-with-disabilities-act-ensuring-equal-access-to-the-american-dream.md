@@ -136,7 +136,7 @@ APPENDICES
 
 - - -
 
-[](<>)
+
 
 **INTRODUCTION**
 
@@ -150,7 +150,7 @@ Since the publication of this report, the Council has continued its ADA-related 
 
 - - -
 
-[](<>)
+
 
 **THE AMERICANS WITH DISABILITIES ACT: VALUES WE CAN AGREE ON**
 
@@ -218,7 +218,7 @@ The values embodied in the Americans with Disabilities Act -- equal protection u
 
 - - -
 
-[](<>)
+
 
 **THE AMERICANS WITH DISABILITIES ACT: EARLY SIGNS OF SUCCESS**
 
@@ -252,13 +252,13 @@ In the short space of three years, the Americans with Disabilities Act had earne
 
 - - -
 
-[](<>)
+
 
 **THE AMERICANS WITH DISABILITIES ACT: WHERE WE ARE TODAY**
 
 In the year and one-half since the Council's first report was published, implementation of the ADA has gone forward and new issues have emerged. In order to gain a better understanding of these issues, the Council held two information gathering events during 1994. In February of 1994 the Council sponsored a national meeting of experts regarding progress in ADA implementation at the United States Senate. In August of 1994 the Council sponsored an ADA Roundtable in Seattle, Washington, that provided a wide variety of individuals at the local level with an opportunity to engage in a frank discussion of the law's impact to date.
 
-[](<>)
+
 
 **National Meeting of Experts on the Americans with Disabilities Act**
 
@@ -270,13 +270,13 @@ While this report language would seem to provide an appropriate analysis of the 
 
 Throughout the day leaders from the disability rights community offered valuable insights regarding the implementation of the ADA and suggestions for the Council's future effort's in monitoring the ADA. Five major themes emerged from these spirited discussions:
 
-[](<>)
+
 
 Correct Current Misunderstandings Regarding the Americans with Disabilities Act
 
 There is currently a considerable amount of misunderstanding regarding the ADA. Perhaps the greatest single area of misunderstanding regarding the ADA is in the area of cost. The law itself requires that covered entities incur the costs of "reasonable accommodations" to make their facilities, programs, and services accessible to individuals with disabilities unless such accommodations pose an "undue hardship" on the entity. Given this two-part test, there is obviously room for discussion regarding both what is "reasonable" and what constitutes an "undue hardship". Thus, there is no concrete requirement that covered entities must absolutely make every accommodation requested by every individual with a disability. Furthermore, it has been found that reasonable accommodations often do not require a great deal of expense. For example, the Job Accommodation Network sponsored by the President's Committee on Employment of People with Disabilities reports that based on its national data bank, *using the average (mean) cumulative figures, for every dollar spent to make an accommodation, the company got $15.34*.[(9)](https://ncd.gov/publications/1995/01262005#foot9) In addition, a recent study based on the experience of Sears, Roebuck, and Company in making reasonable accommodations reported that the average accommodation cost the company $121.00. The study also reported that 69% of accommodations cost nothing, 28% cost less than $1,000, and only 3% exceeded $1,000.[(10)](https://ncd.gov/publications/1995/01262005#foot10) These data are in general agreement with the overall data reported by the President's Committee on Employment of People with Disabilities. Thus, the idea that compliance with the ADA will cause great financial burdens to covered entities is not supported by either the provisions of the law itself or by practical experience to date in implementing the law.
 
-[](<>)
+
 
 Improve Educational Efforts Regarding the Americans with Disabilities Act
 
@@ -302,7 +302,7 @@ During the meeting, experts noted several key points in the area of public relat
 >
 > (f). The education of philanthropic organizations could yield support for continued public education regarding the successful implementation of the Act.
 
-[](<>)
+
 
 Clarify and Strengthen the Legal Framework Surrounding the Americans with Disabilities Act
 
@@ -310,7 +310,7 @@ Meeting participants stressed that at present legal actions involving the Americ
 
 Participants noted that the ADA was too big to be implemented solely from Washington, DC, but no consensus was reached as to the best strategy for ensuring evenness in implementation across the nation. The continuing lack of affordable legal resources for people with disabilities was cited as one of the major factors impeding the proper implementation of the ADA.
 
-[](<>)
+
 
 Provide Resources and Coordinate Federal Efforts to Enforce the Americans with Disabilities Act
 
@@ -320,7 +320,7 @@ Participants expressed particular concern with the Department of Transportation,
 
 On a more positive note, participants stated that the Federal Communications Commission had been effective in implementing the regulations under its jurisdiction in a timely and effective manner. The next challenge in this area will be ensuring that people with disabilities have access to the "information superhighway" which will revolutionize the field of telecommunications.
 
-[](<>)
+
 
 Provide More Technical Assistance
 
@@ -330,13 +330,13 @@ Participants also stated that technical assistance was needed in the education o
 
 Finally, meeting participants suggested that better coordination was needed in the area of technical assistance both among government agencies involved in these activities and private sector entities involved in the delivery of technical assistance. Several participants suggested that, given the marked variability in the quality of technical assistance materials which have been developed in the private sector in response to the ADA, some form of certification or approval by agencies charged with enforcement of the ADA might be advisable. This would help to ensure the accuracy of these materials and to build trust among covered entities.
 
-[](<>)
+
 
 Summary of the National Meeting of Experts on the Americans with Disabilities Act
 
 The overriding message emanating from the national meeting of experts was that the Americans with Disabilities Act was a law of vital importance to Americans with disabilities and that its overall implementation was proceeding well. However, there were significant informational gaps concerning the Act, its lower-than-predicted costs, and emerging case law. These informational gaps were particularly wide in minority communities, among people with low-incidence disabilities, and in rural areas. Efforts to streamline the processing of complaints and to direct sufficient resources to respond in a timely fashion to these complaints need to be undertaken. In addition, more resources need to be devoted to legal services in order to ensure that people with disabilities can access the rights and protections of the Act. Finally, further technical assistance is needed to enable people with disabilities and covered entities to implement the law in an effective manner.
 
-[](<>)
+
 
 **Roundtable Discussion on the Implementation of the Americans with Disabilities Act**
 
@@ -344,7 +344,7 @@ On August 23, 1994, the National Council on Disability sponsored a roundtable di
 
 During the course of the day, information was gathered on Title I - Employment, Title II - Public Services, Title III - Public Accommodations and Services Operated by Private Entities, Title IV - Telecommunications. In addition, the area of Transportation was given specific attention. Finally, information regarding strategies to implement the ADA at the local and State level were described. Information from each of these areas will be summarized below.
 
-[](<>)
+
 
 Title I - Employment
 
@@ -363,7 +363,7 @@ During the Roundtable, participants identified the following issues as needing a
 * A more precise definition is needed for "specific learning disabilities".
 * The relationship of the ADA to the Family Medical Leave Act should be explored.
 
-[](<>)
+
 
 Title II - Public Services
 
@@ -378,7 +378,7 @@ Participants at the Roundtable made the following suggestions for improving comp
 * More "front-end" planning needs to take place in order to avoid the costs of retrofitting facilities for access.
 * Training needs to occur at the highest levels of an organization, if real change is to occur.
 
-[](<>)
+
 
 Title III - Public Accommodations and Services Operated by Private Entities
 
@@ -397,7 +397,7 @@ Participants in the Roundtable offered the following suggestions for improving c
 * Consideration should be given to the development of a certification program for ADA consultants in order to improve quality in these services.
 * People with disabilities themselves should be included in judgments concerning what constitutes compliance.
 
-[](<>)
+
 
 Title IV - Telecommunications
 
@@ -412,7 +412,7 @@ Participants in the Roundtable concerning Title IV expressed general satisfactio
 * The FCC needs to issue rules regarding hearing aid compatibility telephones.
 * Consideration should be given to the development of rules governing the confidentiality of information resulting from communication via message relay systems.
 
-[](<>)
+
 
 Transportation
 
@@ -426,7 +426,7 @@ During the Roundtable, participants offered the following suggestions for improv
 * Federal standards for access to ferries and other vessels should be developed.
 * Clarification is needed regarding which entities are responsible for the accessibility of bus stops.
 
-[](<>)
+
 
 Seattle and the State of Washington: Progress in Implementing the Americans with Disabilities Act
 
@@ -483,7 +483,7 @@ In this effort, the Center received assistance from the State Division of Vocati
 
 The Council was encouraged by the efforts both within the City of Seattle and the State of Washington to adopt a positive approach to the implementation of the Americans with Disabilities Act. Beyond the impressive gains that have been made in access to the physical, communications, and employment environments, the strength of the partnerships that have been formed will greatly assist in the continued smooth implementation of the Act.
 
-[](<>)
+
 
 Summary of the Americans with Disabilities Act Roundtable Discussion
 
@@ -501,7 +501,7 @@ Finally, another participant described the importance of leadership in implement
 
 - - -
 
-[](<>)
+
 
 **CONCLUSIONS**
 
@@ -517,7 +517,7 @@ The present report contains many suggestions for how the Federal government migh
 
 - - -
 
-[](<>)
+
 
 **Appendix A**
 
@@ -571,7 +571,7 @@ This title addresses such issues as the ADA's relationship to other laws includi
 
 - - -
 
-[](<>)
+
 
 **Appendix B**
 
@@ -725,7 +725,7 @@ Assistant to the Chairperson
 
 - - -
 
-[](<>)
+
 
 **Appendix C**
 
@@ -778,7 +778,7 @@ Seattle, WA 98101
 
 - - -
 
-[](<>)
+
 
 **Appendix D**
 
@@ -826,7 +826,7 @@ The Federal Communications Commission was assigned a very specific set of initia
 
 - - -
 
-[](<>)
+
 
 **APPENDIX E**
 
@@ -906,60 +906,60 @@ Grand Rapids, MI
 
 - - -
 
-[](<>)
+
 
 1 National Council on the Handicapped. (1986). *Toward Independence: An Assessment of Federal Laws and Programs Affecting Citizens with Disabilities -- With Legislative Recommendations*. Washington, DC: Author. Note: The National Council on the Handicapped has since been renamed the National Council on Disability.
 
-[](<>)
+
 
 2 P.L. 102-569 § 401(a)(7).
 
-[](<>)
+
 
 3 P.L.101-336, § 2(a)(1-9).
 
-[](<>)
+
 
 4 For a brief summary of the provisions of the ADA, please see Appendix A.
 
-[](<>)
+
 
 5 P.L. 101-336, § 2(b)(1-4).
 
-[](<>)
+
 
 6 See, for example, the Rehabilitation Act Amendments of 1992, P.L. 102-569.
 
-[](<>)
+
 
 7 National Council on Disability. (1993). *ADA Watch--Year One: A Report to the President and Congress on Progress in Implementing the Americans with Disabilities Act*. Washington, DC: Author.
 
-[](<>)
+
 
 8 U.S. Senate Committee on Governmental Affairs. (August 10, 1994). *Report to Accompany S.993, The Federal Mandate Accountability and Reform Act of 1994*. 103rd Congress, 2nd Session. Calendar No. 551 (Report 103-330). Section 4.
 
-[](<>)
+
 
 9 Job Accommodation Network. (1994). *Accommodation Benefit/Cost Data*. Morgantown, WV: Author. (p.4).
 
-[](<>)
+
 
 10 Blanck, P. (1994). *Communicating the Americans with Disabilities Act -- Transcending Compliance: A Case Report on Sears, Roebuck, and Co.* Washington, DC: Annenberg Washington Program.
 
-[](<>)
+
 
 11 National Council on Disability. (1993). *Meeting the Unique Needs of Minorities with Disabilities: A Report to the President and the Congress,*. Washington, DC: Author.
 
-[](<>)
+
 
 12 Please refer to Appendix B for the Roundtable Agenda.
 
-[](<>)
+
 
 13 National Council on Disability. (1993). *ADA Watch -- Year One: A Report to the President and the Congress on Progress in Implementing the Americans with Disabilities Act*. Washington, DC: Author.
 
 National Council on Disability. (1993). *Furthering the Goals of the Americans with Disabilities Act Through Disability Policy Research in the 1990s: Summary of Proceedings*. Washington, DC: Author.
 
-[](<>)
+
 
 14 General Accounting Office. (1994). *Americans with Disabilities Act: Effects of the Law on Access to Goods and Services*. Washington, DC: Author.

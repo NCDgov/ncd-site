@@ -106,7 +106,7 @@ The Youth Advisory Committee counsels NCD to encourage increased research of dis
 * Examine the accessibility of differing college majors and graduate school programs to students with disabilities, particularly programs preparing K-12 educators.
 * Examine college, university and graduate school compliance with the Americans with Disabilities Act (ADA) and Section 504 of the Rehabilitation Act, and identify the accommodations and supports provided.
 
-[](<>)Introduction
+Introduction
 
 Background: Does disability limit students' ability to pay for college and graduate school? What role do college financial aid programs and other financial benefits play in students' transition to independence and adulthood? These questions are significant because higher education is key to the independence of students with disabilities. Prior to this student inquiry undertaken by the Youth Advisory Committee of the National Council on Disability (NCD), students with disabilities were not asked whether disability played a role in their ability to pay for college.
 
@@ -142,7 +142,7 @@ The Higher Education Act of 1965 provides funding and direction for many program
   \
   • Learning Anytime, Anywhere Partnerships (Distance Learning)
 
-[](<>)What are the Higher Education Act's requirements and provisions for serving students with disabilities?
+What are the Higher Education Act's requirements and provisions for serving students with disabilities?
 
 It is helpful to begin by exploring what students with disabilities should expect to occur under The Higher Education Act. This context will help you evaluate students' responses to the Youth Advisory Committee's inquiry. According to The Higher Education Act college and graduate students with disabilities should expect:
 
@@ -160,23 +160,23 @@ Discretion permitted to financial aid officers: The Higher Education Act follow
 
 Funding for improved higher education for students with disabilities: The Higher Education act funds Demonstration Projects to Ensure Students with Disabilities Receive a Quality Higher Education. These provide 3-year grants for institutions to develop demonstration projects and professional development about teaching college students with disabilities (See section 761).
 
-[](<>)Students with Disabilities Speak:
+Students with Disabilities Speak:
 
 College and Graduate Student Inquiry
 
 Objective: Our primary objective was to learn about the successes and obstacles reported by college and graduate students paying for their higher education by collecting and analyzing their narratives. Our secondary objective was to learn about the disability-related knowledge of college financial aid officers, their familiarity with the Higher Education Act, and their assessment of what they are empowered to do to assist students with disabilities.
 
-[](<>)Methodology: Optional, guiding questions were presented to students with disabilities and university financial aid officers. Eight questions were prepared for students; 14 were presented for financial aid officers. Our committee of student volunteers publicized our questions for students between May and August 2003 by e-mail and postal mail to colleges, universities, technical/vocational schools, independent living centers, vocational rehabilitation agencies, consumer groups, and state governments nationwide. We publicized our questions for financial aid officers in July 2003 by e-mailing their professional organizations and e-mailing and telephoning a small sample of individual financial aid officers at schools.
+Methodology: Optional, guiding questions were presented to students with disabilities and university financial aid officers. Eight questions were prepared for students; 14 were presented for financial aid officers. Our committee of student volunteers publicized our questions for students between May and August 2003 by e-mail and postal mail to colleges, universities, technical/vocational schools, independent living centers, vocational rehabilitation agencies, consumer groups, and state governments nationwide. We publicized our questions for financial aid officers in July 2003 by e-mailing their professional organizations and e-mailing and telephoning a small sample of individual financial aid officers at schools.
 
 Limitations: Our volunteers had several months in which to gather student feedback and prepare policy recommendations for Congress' consideration of the Higher Education Act this autumn. There was not time to submit a formal questionnaire to the Office of Management and Budget for approval. Therefore, we were restricted to proposing optional, guiding questions to suggest topics respondents might address in their narratives. This prevented us from preparing a questionnaire that would have been more accessible to persons who find reading and writing difficult. The emphasis on qualitative data severely restricted our ability to measure demographic variables, such as whether a respondent attends a public or private university, the size of the school, and the person's age. We also were limited by lack of funds, lack of staff time, and the volunteer status of our committee. The most significant impact of our limited resources was our inability to obtain feedback from college and graduate school financial aid officers. A second related limitation was that we heard almost solely from respondents using e-mail, so we conclude that we did not reach many people with disabilities who lack Internet access.
 
-[](<>)Responses Received: We received 67 responses by e-mail, two by facsimile, one through a forum post, and one by postal mail. Most respondents (53) were students or recent graduates with disabilities, though we also heard from family members, transition planners, and staff at nonprofit organizations. We did not receive responses from college and university financial aid officers. This is one of the limitations restricting the breadth of data reported.
+Responses Received: We received 67 responses by e-mail, two by facsimile, one through a forum post, and one by postal mail. Most respondents (53) were students or recent graduates with disabilities, though we also heard from family members, transition planners, and staff at nonprofit organizations. We did not receive responses from college and university financial aid officers. This is one of the limitations restricting the breadth of data reported.
 
 Forty of 59 responses received from students or their parents identified the disabilities they experienced. Nine of these respondents reported that they had multiple disabilities. The most common disabilities reported were blindness or visual impairment, chronic illness, traumatic brain injury, deafness, cerebral palsy, or attention deficit hyperactivity disorder.
 
 It is notable that we did not hear from many students with learning disabilities or developmental disabilities, or from individuals who wish to be in college but are unable to gain acceptance or to pay for school. There may be significant portions of the disability community whose viewpoints on higher education are not known simply because they rarely have access to it.
 
-[](<>)Key Findings from Students' Responses
+Key Findings from Students' Responses
 
 Finding 1: Disability disclosure does not lead to increased financial aid from colleges and universities, despite provisions in the Higher Education Act for increased financial aid officer discretion, Cost of Attendance, and Pell Grants in the case of significant disability-related expenses.
 
@@ -204,7 +204,7 @@ Only one student felt that disclosing her disability might have benefited her, b
 >
 > "Many of the LD (Learning Disabled) students I have met end up being asked to lower their expectations and go to a 2 year college or technical school instead of a four year university. This is so sad because these students are gifted and learning disabled. ... The person with hidden disabilities often suffers in silence and never gets the assistance they need to succeed and they fall through the cracks and end up on the welfare rolls or become inmates and still supported by the state. The money spent early on in intervention has a big payoff. Neglect leads to many social ills and added costs significantly higher than what it would cost to provide appropriate accommodations and support in the formative years." ~ Transition planning professional
 
-[](<>)Finding 2: Disability may prevent some students from accessing financial aid for college and graduate school.
+Finding 2: Disability may prevent some students from accessing financial aid for college and graduate school.
 
 Students wrote to us about a number of concerns that can affect their ability to qualify for college and graduate school financial aid. They included difficulty with the tests and essays required for meeting scholarship criteria, limited ability to attend school full-time because of the impact of disability, and difficulty working at a job in order to pay for school. We have separated our response counts for this section according to the specific concerns that writers identified.
 
@@ -242,7 +242,7 @@ Are students physically able to take advantage of college work-study when it is 
 
 Seven students were unable to access the funds allocated in the work-study portion of their financial aid package because their disability prevented from having a job while they were in school. Of these seven, two students were unable to handle working during the semester, but chose to work during summer breaks. One worked during the semester, but chose to do so at jobs that she found more accessible and career-related than on-campus employment. An additional student writes that he attempted work-study "for awhile then it became too stressful to attend school and work. Make sure it doesn't count against social security in the future." Finally, two respondents were not able to handle working at a job at all because of extremely low stamina, and one found it impossible to find an employer who would accommodate her needs as a person with carpel tunnel syndrome.
 
-[](<>)Finding 3: Students use many sources of financial aid, some of which prevent them from accessing the services they desire.
+Finding 3: Students use many sources of financial aid, some of which prevent them from accessing the services they desire.
 
 Forty-one students (or their parents) described the sources of aid used to fund their higher education. Several staff from college disability service offices also described the sources of aid their students use. Almost all student respondents reported using multiple sources of aid. The most common form of aid received was funding from state vocational rehabilitation agencies, followed by Supplemental Security Income (SSI) or Social Security Disability Insurance (SSDI), scholarships or Pell Grants, and student loans.
 
@@ -298,7 +298,7 @@ Several students reported creative strategies used to make their school plans wo
 >
 > *"At this time, the students that I am working with that are choosing colleges & universities as their post secondary option are falling between the "moderate to mild" learning disability spectrum. They are paying for their education the same way as typical learners: with government financial aid loans, local scholarships & family support. Most, if not all, of my families are taking out "parents loans" as well, in addition to getting second jobs to help cover tuition bills. The financial burden of college is weighing heavily on all families and hopes of landing a "good job" after graduation in order to pay-off these loans seems to be the chosen method." ~ Transition Planning Coordinator*
 
-[](<>)Finding 4: It's not just colleges and rehabilitation agencies that fund student accommodations – students pay out-of-pocket for them, too.
+Finding 4: It's not just colleges and rehabilitation agencies that fund student accommodations – students pay out-of-pocket for them, too.
 
 We asked students to tell us about the services they need as college and graduate students and how they are paid for. Their reports may be grouped into four categories: services provided by high schools; services funding by colleges and universities; services funded by VR agencies; and disability-related services which students pay for themselves.
 
@@ -370,7 +370,7 @@ Individualized needs were harder for students to meet, such as funding for a pri
 
 Three students wrote of not receiving health insurance or Medicare coverage for necessary medications and having monthly expenses of between $300 and several thousand dollars for drugs, which meant not getting treatment. In one case, this led to a number of emergency room trips for asthma attacks.
 
-[](<>)Finding 5: There is little benefits planning or communication between students' rehabilitation counselors and their college disability services staff. Receiving funds from one agency typically negatively affects students' ability to secure support from other sources.
+Finding 5: There is little benefits planning or communication between students' rehabilitation counselors and their college disability services staff. Receiving funds from one agency typically negatively affects students' ability to secure support from other sources.
 
 Thirteen respondents (eleven students and two parents) commented on our question about how VR agencies, SSI/SSDI, college disability services, and college financial aid offices interact. Nine were quite dissatisfied with the ways agencies communicate. Unanticipated roadblocks and confusing advice related to accepting VR or SSI funds were their chief complaints.
 
@@ -384,7 +384,7 @@ Students found it frustrating and confusing to sort out the interactions between
 
 Two respondents described SSI resource limitations as a barrier that prevents them from preparing for and succeeding in college. A college student mentioned that she must quietly ask her parents to save a portion of her SSI grant (and not disclose this to the Social Security Administration) so that she can pay for medications, tuition, and books. She cannot openly save enough for school and medical expenses without losing her SSI eligibility and cannot attend school or work full-time. On a related note, a mom and daughter who are both disabled discovered that the daughter was ineligible to receive SSI because her grandparents had been putting aside savings bonds to help pay for her college education. The mother, who cannot currently work, is unsure how to prepare financially for her daughter's special needs in college, when she is prohibited from saving for them and also finds her daughter ineligible for SSI.
 
-[](<>)Finding 6: Students with disabilities report that they are concerned about taking out student loans. Thirteen respondents identified as students commented on our question about student loans, as well as one respondent who did not identify her role.
+Finding 6: Students with disabilities report that they are concerned about taking out student loans. Thirteen respondents identified as students commented on our question about student loans, as well as one respondent who did not identify her role.
 
 The majority of respondents (nine students) were worried about student loans because of their disability-related needs. Two of them will not take out loans because of their concerns about being able to work and repay them. Four other students were concerned that they might not be able to work enough hours to repay their student loans, but did not specifically state that they would not take out loans in the future. Typical concerns are highlighted in the quotes below.
 
@@ -406,7 +406,7 @@ In addition, one respondent felt she was ineligible for most student loans becau
 >
 > *"Yes (I am concerned about) getting a job that will help me pay off the loans as well as the other daily living support. Going to school is the easy part however it is getting the job that is the hardest part today." ~ Graduate student who is deaf*
 
-[](<>)Finding 7: Students with disabilities do not feel encouraged to pursue graduate education, and they worry about how they will fund it.
+Finding 7: Students with disabilities do not feel encouraged to pursue graduate education, and they worry about how they will fund it.
 
 Twelve students commented on our question about where they have sought (or will seek) funding for graduate education.
 
@@ -426,7 +426,7 @@ One student expressed concern about lack of access to law school for students wi
 >
 > *"I went to MacMurray College and graduated with a BA in Journalism, English and French. I also have a liberal arts degree. I graduated with awards. Since then, I have been hospitalized six times in a psychiatric hospital/ward. I cannot get a job using my college education acquired after my brain stem injury. I no longer receive psychiatric/psychological care. I do not need it--the people who treat me badly do. Paying for, going to college is one thing, navigating through the world of insensitive idiots is another."*
 
-[](<>)Finding 8: Many students find it difficult to learn about their right to financial assistance.
+Finding 8: Many students find it difficult to learn about their right to financial assistance.
 
 Knowledge about the Higher Education Act and financial benefits: We did not specifically ask students to describe their knowledge about the Higher Education Act, which funds most student financial aid. One may infer that they are not especially familiar with this law because of the confusion their narratives indicated about Pell Grant eligibility, loan deferment options, how to handle disability-related expenses, and how to self-advocate regarding benefits. In particular, we noted that no students indicated that they were aware that the Higher Education Act permits them to request an increase in college financial aid because of out-of-pocket disability-related expenses. The difficulty of this situation was increased by the varying VR policies from state to state and by the differing responses VR provides to students when they ask for individualized assistance, tailored to their specific needs.
 
@@ -440,7 +440,7 @@ Once contact was made, students often felt no less confused. One student describ
 
 Students on campuses with limited DSS services, who were left to self-advocate with only a letter verifying their disability status, had difficulty learning to do so if they had little previous advocacy experience and did not have family support.
 
-[](<>)Finding 9: Students offer advice to their peers with disabilities. They most often recommend participation in state vocational rehabilitation programs as a way to pay for college.
+Finding 9: Students offer advice to their peers with disabilities. They most often recommend participation in state vocational rehabilitation programs as a way to pay for college.
 
 We asked students and staff to suggest ways that youth with disabilities can pay for college and graduate school. Six students, two rehabilitation counselors, one advocate from a consumer group, and two unspecified respondents suggested ways that students should pay for their higher education.
 
@@ -462,7 +462,7 @@ Many respondents offered nonspecific comments encouraging other students to pers
 >
 > *"I am able to meet my school's requirements through no sleep and hard work with a 3.55 GPA. However, there are many things that make school hard both financially and through relationships with teachers and TAs. It would be nice to have enough money to buy more food to keep myself healthy and ready to learn. It would be nice if there were more closed captioned videos available for the teachers to use for me. (Although some teachers refuse to use the captions.) It would be nice if the TAs would wear the FM system and stop deducting points from non-participation in discussion. (How can I participate when I can't hear well?)" ~ College student who is hard of hearing*
 
-[](<>)Finding 10: Students with disabilities offer unique insight about how the system can be improved to help them afford higher education.
+Finding 10: Students with disabilities offer unique insight about how the system can be improved to help them afford higher education.
 
 Six students and two staff members replied to our question about improving the financial aid system in their narratives. Their suggestions included:
 
@@ -494,11 +494,11 @@ Six students and two staff members replied to our question about improving the f
   \
   • Establishing vocational rehabilitation program rules at a uniform minimum level nationwide, so that each state’s program will pay for baccalaureate and graduate degrees and living expenses so there isn't such a dramatic difference in access to higher education from state to state.
 
-[](<>)Conclusions:
+Conclusions:
 
 Students with disabilities face numerous financial barriers. These obstacles are more complex than those encountered by most of their non-disabled peers. These barriers limit students' choices about educational and career goals and independent living. Improving employment, self-determination, and self-support depends on making federal student financial aid, SSI, VR, Medicaid and Medicare more accessible to those with disabilities.
 
-[](<>)Higher Education Act Policy Recommendations from the NCD Youth Advisory Committee
+Higher Education Act Policy Recommendations from the NCD Youth Advisory Committee
 
 The Higher Education Act's authorization and funding of programs to increase student access to postsecondary education presents a welcome opportunity to assist students with disabilities. The intention of the Act is to enhance the accessibility of postsecondary education to all students. The Youth Advisory Committee believes the policy recommendations below will help ensure that the Act's intention is achieved, by removing barriers that prevent adolescents and postsecondary students with disabilities from participating in the programs available to their peers. They also will increase access to university resources for community members and professors with disabilities. The Youth Advisory Committee presents these recommendations for the consideration of the National Council on Disability, to assist it in guiding federal policy.
 
@@ -568,7 +568,7 @@ Federal student financial aid must be made accessible to students with disabilit
 >
 > g) Ensure that all college savings plans and other financial programs designed to support higher education are accessible to students with disabilities, including students and families that receive Supplemental Security Income (SSI) and Medicaid. Current SSI resource limitations prevent students with disabilities and their families from saving for college.
 
-[](<>)Recommendations for Future Research
+Recommendations for Future Research
 
 The Youth Advisory Committee counsels NCD to recommend improving youth disability research as follows:
 
@@ -579,23 +579,23 @@ The Youth Advisory Committee counsels NCD to recommend improving youth disabilit
 *Gather information directly from students and financial aid officers*
 
 * • Undertake new studies in which college and graduate students are interviewed, instead of gathering data solely from parents and educators
-* 
-* 
+*
+*
 * • Determine university financial aid officers' familiarity with disability-related provisions and requirements in the Higher Education Act, Americans with Disabilities Act, and Section 504 of The Rehabilitation Act
-* 
-* 
+*
+*
 
 *Determine differences between funding and services at individual states and institutions*
 
 * • Explore whether universities' rules and funding levels enable financial aid officers to comply with the laws mentioned above
-* 
-* 
+*
+*
 * • Quantify differing service and funding levels at campus disability services offices at postsecondary institutions nationwide
-* 
-* 
+*
+*
 * • Identify the basic VR services funded in each state, such as a state agency's average funding granted per student, how this compares to a student's cost of attendance, and the percentage of VR clients whose baccalaureate or graduate degrees are funded by the agency. Examine differences in regulations from state to state and in the interpretation of these rules by individual counselors.
-* 
-* 
+*
+*
 * • Develop curricula for high school and college transition planning programs based on the findings from the studies above, which describe the financial system students must be prepared to navigate. Measure the efficacy of the curricula and training by evaluating college and graduate student satisfaction and educational and employment outcomes.
 
 *Learn about student loans and disability issues*
@@ -607,40 +607,40 @@ The Youth Advisory Committee counsels NCD to recommend improving youth disabilit
 *Explore accessibility of existing educational and work programs*
 
 * • Evaluate the adequacy of the workplace accommodations that universities provide to their work-study students or graduate assistants
-* 
-* 
+*
+*
 * • Examine the accessibility of differing college majors and graduate school programs to students with disabilities, particularly programs preparing K-12 educators
-* 
-* 
+*
+*
 * • Examine the accessibility and ADA compliance of campus facilities at colleges, universities, and graduate schools
 
 *Comprehensively describe the financial concerns of students with disabilities*
 
 * • Compare the total cost per credit (tuition, housing, food, transportation, disability and medical expenses) for graduates with and without disabilities. Determine the impact of extended studies on total costs and cost per credit.
-* 
-* 
+*
+*
 * • Determine the ability of students with disabilities (or their families) to save for college, comparing those with and without SSI assistance with non-disabled students (or their families)
-* 
-* 
+*
+*
 * • Determine the pattern of interaction between VR support and post-secondary financial aid (including whether VR clients are able to participate in campus work-study programs, internships, or off-campus jobs)
-* 
-* 
+*
+*
 * • Identify the percentage of students with disabilities opting for distance learning. Describe subgroups such as those who choose distance learning because they physically cannot attend classes on campus; work and go to school at night; or wish to live independently on campus but cannot afford to do so.
-* 
-* 
+*
+*
 * • Examine the financial impact of losing health insurance, or having very limited health insurance, on students with disabilities
 
 *Measure relationships between educational financial aid and employment outcomes*
 
 * • Employment is certainly one of the primary goals of higher education. Are people with disabilities forced to take jobs they are not satisfied with because they need to pay off loans or because a counselor forced them into a specific path of study and career? Are some people with disabilities completely forced out of college and into entry-level jobs because they cannot afford college?
 
-### [](<>)Summary
+### Summary
 
 The Higher Education Act, as currently implemented, contributes to the barriers students with disabilities face. By gathering data directly from students we have uncovered steps that may help bring the vision of the law to fruition. The purpose of the Higher Education Act may be more fully realized by increasing the provision of student financial aid, accessible buildings and materials, student support services, and early outreach and transition planning to those with disabilities. We encourage lawmakers and researchers to learn from the stories youth share in this report and to act quickly to enhance their access to postsecondary education.
 
 - - -
 
-[](<>)Appendix A
+Appendix A
 
 Acronyms Used in This Report
 

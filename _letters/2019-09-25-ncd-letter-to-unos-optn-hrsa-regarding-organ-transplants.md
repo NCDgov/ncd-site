@@ -20,7 +20,7 @@ Richmond, VA 23219
 
 Dear Mr. Engels, Dr. Johnson, and Mr. Shepard:
 
-The National Council on Disability (NCD) is an independent federal agency charged with advising the President, Congress, and other federal agencies on disability policy to advance the goals of the ADA: equal opportunity, full participation, independent living, and economic self-sufficiency for people with disabilities. On behalf of NCD, I write to inform you that today we submitted a report to the President and Congress entitled *Organ Transplant Discrimination Against People with Disabilities,*[\[1]](https://ncd.gov/publications/2019/ncd-letter-unos-optn-hrsa-regarding-organ-transplants#_ftn1) that found, among other things, that people with disabilities are frequently denied access to organ transplants based on transplant centers’ written and unwritten policies excluding people with disabilities as candidates for a transplant, and even refusing to evaluate a particular person’s medical suitability for an organ transplant because of the person’s disability.
+The National Council on Disability (NCD) is an independent federal agency charged with advising the President, Congress, and other federal agencies on disability policy to advance the goals of the ADA: equal opportunity, full participation, independent living, and economic self-sufficiency for people with disabilities. On behalf of NCD, I write to inform you that today we submitted a report to the President and Congress entitled *Organ Transplant Discrimination Against People with Disabilities,*[1](https://ncd.gov/publications/2019/ncd-letter-unos-optn-hrsa-regarding-organ-transplants#_ftn1) that found, among other things, that people with disabilities are frequently denied access to organ transplants based on transplant centers’ written and unwritten policies excluding people with disabilities as candidates for a transplant, and even refusing to evaluate a particular person’s medical suitability for an organ transplant because of the person’s disability.
 
 Organ transplants save lives. But for far too long, people with disabilities have been denied organ transplants as a result of unfounded assumptions about their quality of life and misconceptions about their ability to comply with post-operative care. Although the Americans with Disabilities Act (ADA) and Section 504 of the Rehabilitation Act of 1973 (Section 504) prohibit discrimination on the basis of disability, organ transplant centers and medical professionals are often unaware that this prohibition applies to the organ transplant process.
 
@@ -48,4 +48,4 @@ Chairman
 
 - - -
 
-[\[1]](https://ncd.gov/publications/2019/ncd-letter-unos-optn-hrsa-regarding-organ-transplants#_ftnref1) <https://www.ncd.gov/publications/2019/bioethics-report-series>
+1 <https://www.ncd.gov/publications/2019/bioethics-report-series>

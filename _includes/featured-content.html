@@ -17,14 +17,12 @@
             elsif item.image %}
             <img
               alt="{{ item.image_alt_text }}"
-              role="image"
               style="object-fit: cover"
               src="{{site.baseurl}}/assets/uploads/{{ item.image }}"
             />
             {% else %}
             <img
               alt="Image of {{ collection_name }}"
-              role="image"
               style="object-fit: cover"
               src="{{site.baseurl}}/assets/images/{{ collection_name }}.png"
             />

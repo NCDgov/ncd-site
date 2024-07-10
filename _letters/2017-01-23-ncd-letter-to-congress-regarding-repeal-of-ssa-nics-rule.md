@@ -22,7 +22,7 @@ Washington, DC 20515
 
 Dear Majority Leader McConnell and Speaker Ryan:
 
-I write on behalf of the National Council on Disability (NCD) regarding the final rule the Social Security Administration (SSA) released on December 19th, 2016, implementing provisions of the National Instant Criminal Background Check System (NICS) Improvement Amendments Act of 2007, 81 FR 91702. In accordance with our mandate to advise the President, Congress, and other federal agencies regarding policies, programs, practices, and procedures that affect people with disabilities, NCD submitted comments to SSA on the proposed rule on June 30th, 2016.[\[1]](https://ncd.gov/publications/2017/ncd-letter-repeal-SSA-NICS-rule#_ftn1)  In our comments, we cautioned against implementation of the proposed rule because:
+I write on behalf of the National Council on Disability (NCD) regarding the final rule the Social Security Administration (SSA) released on December 19th, 2016, implementing provisions of the National Instant Criminal Background Check System (NICS) Improvement Amendments Act of 2007, 81 FR 91702. In accordance with our mandate to advise the President, Congress, and other federal agencies regarding policies, programs, practices, and procedures that affect people with disabilities, NCD submitted comments to SSA on the proposed rule on June 30th, 2016.[1](https://ncd.gov/publications/2017/ncd-letter-repeal-SSA-NICS-rule#_ftn1)  In our comments, we cautioned against implementation of the proposed rule because:
 
 \[t]here is, simply put, no nexus between the inability to manage money and the ability to safely and responsibly own, possess or use a firearm. This arbitrary linkage not only unnecessarily and unreasonably deprives individuals with disabilities of a constitutional right, it increases the stigma for those who, due to their disabilities, may need a representative payee may already face.
 
@@ -50,4 +50,4 @@ CC:     The Honorable Nancy Pelosi\
 
 - - -
 
-[\[1]](https://ncd.gov/publications/2017/ncd-letter-repeal-SSA-NICS-rule#_ftnref1) Our comments on the rule are available at <http://www.ncd.gov/publications/2016/ncd-letter-ssa-regarding-proposed-rule-nics-improvements-act>
+[1](https://ncd.gov/publications/2017/ncd-letter-repeal-SSA-NICS-rule#_ftnref1) Our comments on the rule are available at <http://www.ncd.gov/publications/2016/ncd-letter-ssa-regarding-proposed-rule-nics-improvements-act>

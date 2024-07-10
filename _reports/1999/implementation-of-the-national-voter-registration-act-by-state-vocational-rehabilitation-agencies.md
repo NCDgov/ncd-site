@@ -11,7 +11,7 @@ image_alt_text: NA
 ---
 October 1, 1999
 
-This report is also available in braille and large print, on diskette and audiocassette, and on the Internet at the National Council on Disability's award-winning Web page ().
+This report is also available in braille and large print, on diskette and audiocassette, and on the Internet at the National Council on Disability's award-winning Web page.
 
 The views contained in this executive summary do not necessarily represent those of the Administration because this document has not been subjected to the A-19 Executive Branch review process.
 
@@ -44,7 +44,7 @@ Chairperson
 
 - - -
 
-[](<>)NCD MEMBERS AND STAFF
+NCD MEMBERS AND STAFF
 
 Members
 
@@ -129,7 +129,7 @@ CONTENTS
 
 - - -
 
-[](<>)PREFACE
+PREFACE
 
 Historically, people with disabilities have been subjected to discrimination and denied equal opportunity to participate in many aspects of American society. Segregation, exclusion, and denial of meaningful opportunities to participate in activities fundamental to living in a democratic society too often have relegated people with disabilities to second-class citizenship.
 
@@ -145,7 +145,7 @@ It is hoped that this report will help promote the full implementation of this l
 
 - - -
 
-[](<>)ACKNOWLEDGMENTS
+ACKNOWLEDGMENTS
 
 All research, data collection, and analysis for this study was conducted under contract for the National Council on Disability by the Center for the Study and Advancement of Disability Policy at The George Washington University School of Public Health and Health Services, Washington, DC. The principal researcher and lead author for this report is Robert Silverstein, J.D., with administrative assistance provided by Melanie Gabel.
 
@@ -155,7 +155,7 @@ We also wish to thank Jim Dickson of the National Organization on Disability for
 
 - - -
 
-[](<>)EXECUTIVE SUMMARY
+EXECUTIVE SUMMARY
 
 On May 20, 1993, President Clinton signed into law the National Voter Registration Act (NVRA). In a nutshell, the purpose of NVRA is to make registration convenient and accessible for all eligible voters, including persons with disabilities.
 
@@ -291,7 +291,7 @@ NCD recommends the following:
 
 - - -
 
-[](<>)INTRODUCTION
+INTRODUCTION
 
 Background
 
@@ -343,7 +343,7 @@ This report has two parts. Part I describes the major provisions in NVRA applica
 
 - - -
 
-[](<>)PART I:
+PART I:
 
 DESCRIPTION OF THE MAJOR PROVISIONS OF THE NATIONAL VOTER REGISTRATION ACT
 
@@ -452,7 +452,7 @@ According to FEC, ideally, the declination statement completed by each applicant
 
 - - -
 
-[](<>)PART II:
+PART II:
 
 FINDINGS, CONCLUSIONS, AND RECOMMENDATIONS
 
@@ -662,7 +662,7 @@ Conclusions and recommendations. NCD recommends that states implement creative 
 
 - - -
 
-[](<>)CONCLUSION
+CONCLUSION
 
 Registering people with disabilities to vote, in a simple and convenient manner, is of critical importance to ensure full participation in our democracy. By increasing voter registration, state employees will empower people with disabilities as full citizens to exercise their right to vote. The purpose of the National Voter Registration Act (NVRA) is to help reach this goal.
 
@@ -672,7 +672,7 @@ Although this report is limited to a review of implementation by state vocationa
 
 - - -
 
-[](<>)APPENDIX
+APPENDIX
 
 MISSION OF THE NATIONAL COUNCIL ON DISABILITY
 

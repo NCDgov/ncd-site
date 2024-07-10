@@ -58,7 +58,7 @@ Due to last-minute confirmations or cancellations, NCD may substitute items with
 
 **Format:** Virtual format -- the Council will receive public comment by email or by video or audio over Zoom
 
-**Topic:** Germline editing, fetal medicine, and their impact on people with disabilities (See specific questions for )[\[ASM1]](https://ncd.gov/events/2023/upcoming-council-meeting#_msocom_1)
+**Topic:** Germline editing, fetal medicine, and their impact on people with disabilities (See specific questions for )[ASM1](https://ncd.gov/events/2023/upcoming-council-meeting#_msocom_1)
 
 *For those interested in commenting, please read the guidelines in full. Advanced registration is required.*
 

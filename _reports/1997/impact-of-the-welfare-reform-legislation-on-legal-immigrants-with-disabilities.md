@@ -67,102 +67,102 @@ In the meantime, we must be assured that under the law of this land no person wi
 
 - - -
 
-[](<>)
+
 
 1 The SSA has been sending notices to nearly 900,000 non-citizens nationwide informing them of the possibility that SSI benefits may be discontinued. Statement by John J. Callahan, Acting Commissioner of Social Security, *Welfare Reform: A Need for Change* (March, 21, 1997).
 
-[](<>)
+
 
 2 Judith Havemann and Eric Pianin, *House Panel Votes to Maintain Limits on Disability Payments to Noncitizens*, The Washington Post (June 11, 1997).
 
-[](<>)
+
 
 3 Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (PRWOR), Public Law 104-193 (August 22, 1997).
 
-[](<>)
+
 
 4 PRWOR, Section 402(a)(1). SSI provides cash assistance averaging $425 per month to persons with disabilities and the elderly poor. Statement by John J. Callahan, *supra,* Note 1.
 
-[](<>)
+
 
 5 Stephen Green, *Panel Eases Welfare Ban For Immigrants, Senate Plan Would Grant Medicaid Benefits to Children*, The San Diego Union-Tribune (June 20, 1997).
 
-[](<>)
+
 
 6 PRWOR, Section 402(b)(I).
 
-[](<>)
+
 
 7 Celia W. Dagger, *U.S. Says Mental Impairment Might Be a Bar to Citizenship*, The New York Times (March 19, 1997).
 
-[](<>)
+
 
 8 PRWOR, Section 403(a).
 
-[](<>)
+
 
 9 The PRWOR exempts certain immigrant groups from the exclusion from benefits: (I) refugees and asylees during their first five years in the United States; (ii) lawful permanent residents who have worked in the United States for approximately 10 years (40 qualifying quarters as defined in the Social Security Act), provided they have not received any Federal means-tested public benefit with respect to any qualifying quarter after December 31, 1996; and (iii) veterans and persons on active duty in the armed services and their spouses and dependents. PRWOR, Section 402(a)(2); 402(b)(2); 403(b).
 
-[](<>)
+
 
 10 Statement by John J. Callahan, *supra,* Note 1.
 
-[](<>)
+
 
 11 Molly Peterson, *ISSUE FOCUS: GOP Mulls Aid to Legal Immigrants As Welfare Deadlines Near*, Copyright © 1997 Legi-Slate, Inc. (April 14, 1997).
 
-[](<>)
+
 
 12 *New INS Rules Could Waive Civics Tests for Thousands - 300,000 Facing Aid Cutoff May Be Helped*, The Washington Post (March 19, 1997).
 
-[](<>)
+
 
 13 Dagger, *supra.*, Note 7.
 
-[](<>)
+
 
 14 Immigration and Nationality Technical Corrections Act of 1994, Section 312.
 
-[](<>)
+
 
 15 Id.
 
-[](<>)
+
 
 16 U.S. Department of Justice, Immigration and Naturalization Service Fact Sheet, *Exceptions from English and Civics Testing Requirements For Naturalization Applicants With Disabilities* (March 19, 1997).
 
-[](<>)
+
 
 17 H.R. 1239, 105th Cong., 1st Sess. (April 8, 1997); H.R. 1133, 105th Cong, 1st Session, §§1-2 (1997).
 
-[](<>)
+
 
 18 H.R. 660, 105th Cong., 1st Session, § 1 (1997); H.R. 1360, 105th Cong., 1st Session, § 1 (1997).
 
-[](<>)
+
 
 19 H.R. 660, 105th Cong., 1st Session, § 1 (1997).
 
-[](<>)
+
 
 20 Lawrence M. O'Rourke, *Deal on Balanced Budget; 5-Year Plan Hailed by Both Clinton, GOP as a Victory*, Sacramento Bee, May 3, 1997 at A1.
 
-[](<>)
+
 
 21 Approximately 75,000 fewer immigrants would receive benefits by 2002 under the Committee's plan than under the bipartisan budget accord. Letter dated June 5, 1997 from Franklin D. Raines, Director, Office of Management and Budget, to Representative E. Clay Shaw, Jr., Chairman, Subcommittee on Human Resources, Committee on Ways and Means. The Committee's bill was opposed by advocacy groups for seniors as well as disability advocates. Statement of Congressman Sander Levin on Restoring Benefits to Legal Immigrants, June 16, 1997; Letter of James Firman, Chair of the Leadership Council of Aging Organizations dated June 6, 1997; *Restoring SSI Eligibility to All Legal Immigrants*, Statement of the American Association of Homes and Services for the Aging. (June 16, 1997).
 
-[](<>)
+
 
 22 *House GOP Retreats on Medicare, Welfare in Budget Legislation,* Associated Press, Saturday, June 21, 1997.
 
-[](<>)
+
 
 23 Letter from Franklin D. Raines, *supra.*, Note 21.
 
-[](<>)
+
 
 24 Green, *supra.*, Note 5.
 
-[](<>)
+
 
 25 *House GOP Retreats on Medicare, supra.*, Note 22.

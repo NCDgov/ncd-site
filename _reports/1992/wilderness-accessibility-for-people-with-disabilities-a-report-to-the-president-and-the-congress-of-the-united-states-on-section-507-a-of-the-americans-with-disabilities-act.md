@@ -180,7 +180,7 @@ Appendix 2. Tabulations of the Responses from Surveys Distributed to
 
 - - -
 
-[](<>)**EXECUTIVE SUMMARY**
+**EXECUTIVE SUMMARY**
 
 > *On the surface, the concurrent goals of equal accessibility and preservation of wilderness areas seem to be antithetical. However, at a closer look, we do not believe that is actually the case. It is not, in our estimation, a question of one goal or legal mandate taking precedence over another or superseding another. It is a question of finding effective ways to balance the intent of both and finding ways to provide the highest level access with the lowest level impact on the environment.*
 >
@@ -264,7 +264,7 @@ Recommendations
 
 - - -
 
-[](<>)INTRODUCTION
+INTRODUCTION
 
 The primary goal of this document is to satisfy the following requirement of Section 507(a) of the Americans With Disabilities Act of 1990:
 
@@ -276,7 +276,7 @@ Founded in 1978, part of Wilderness Inquiry's mission is to "advance the study o
 
 - - -
 
-[](<>)BACKGROUND
+BACKGROUND
 
 In 1964 Congress passed the Wilderness Act and established the National Wilderness Preservation System (NWPS). The NWPS is not an independent lands system; rather, it is made up of lands managed by four federal agencies: the U.S. Forest Service, the National Park Service, the U.S. Fish and Wildlife Service, and the Bureau of Land Management.
 
@@ -300,7 +300,7 @@ The primary purpose of this study is to review the management practices of the f
 
 - - -
 
-[](<>)ASSUMPTIONS AND DEFINITIONS
+ASSUMPTIONS AND DEFINITIONS
 
 The following key concepts must be considered and defined:
 
@@ -322,7 +322,7 @@ For the purpose of this study, this definition has been qualified to focus on in
 
 - - -
 
-[](<>)SCOPE OF STUDY
+SCOPE OF STUDY
 
 The study is intended to accomplish the following objectives:
 
@@ -336,7 +336,7 @@ The study is intended to accomplish the following objectives:
 
 - - -
 
-[](<>)LIMITATIONS OF STUDY
+LIMITATIONS OF STUDY
 
 We believe that this report fairly and factually represents the issues considered. However, as with any study, it is important to note its limitations in order to establish its validity. Several limitations must be considered when interpreting this report.
 
@@ -362,7 +362,7 @@ In interpreting study findings it is important to remember that the persons with
 
 - - -
 
-[](<>)**METHODOLOGY**
+**METHODOLOGY**
 
 Information for this survey was gathered through two primary means. First, personnel from the four federal agencies responsible for managing the NWPS were asked to send pertinent information regarding their wilderness management practices and policies toward people with disabilities. Second, surveys were developed and distributed to
 
@@ -420,13 +420,13 @@ The study used both quantitative and qualitative methods of analysis. Quantitati
 
 - - -
 
-[](<>)**FINDINGS**
+**FINDINGS**
 
 1. Current policies of NWPS managing agencies
 
 The following is an agency-by-agency summary of policies and management practices regarding wilderness access by disabled persons. Three of the agencies responsible for NWPS management are part of the U.S. Department of Interior; one agency, the Forest Service, is part of the U.S. Department of Agriculture.
 
-[](<>)*National Park Service (USDI)*\
+*National Park Service (USDI)*\
 Total NWPS units: 42\
 Total NWPS acres: 39,075,415
 
@@ -477,7 +477,7 @@ Washington, DC 20013-7127\
 (202) 343-3679 (TDD)\
 (202) 523-0162 (FAX)
 
-[](<>)*U.S. Forest Service (USDA)*\
+*U.S. Forest Service (USDA)*\
 Total NWPS units: 365\
 Total NWPS acres: 33,609,661
 
@@ -528,7 +528,7 @@ Washington, DC 20090-6090\
 (202) 205-1739 (Text Telephone)\
 (202) 205-1145 (FAX)
 
-[](<>)*Bureau of Land Management (USDI)*\
+*Bureau of Land Management (USDI)*\
 Total NWPS units: 66\
 Total NWPS acres: 1,610,995
 
@@ -551,7 +551,7 @@ Washington, DC 20240\
 (202) 208-6064\
 (202) 208-4819 (FAX)
 
-[](<>)*Fish and Wildlife Service (USDI)*\
+*Fish and Wildlife Service (USDI)*\
 Total NWPS units: 75\
 Total NWPS acres: 20,676,341
 
@@ -569,4 +569,4 @@ Washington, DC 20240\
 (703) 358-2043\
 (703) 358-2248 (FAX)
 
-[](<>)*Survey results of field managers of NWPS units.* Federal managers of individual NWPS units were surveyed to determine their familiarity with the policies of their agencies and with the general issues involved in providing opportunities for persons with disabilities. The table below provides a breakdown of the response frequencies from each agency.
+*Survey results of field managers of NWPS units.* Federal managers of individual NWPS units were surveyed to determine their familiarity with the policies of their agencies and with the general issues involved in providing opportunities for persons with disabilities. The table below provides a breakdown of the response frequencies from each agency.

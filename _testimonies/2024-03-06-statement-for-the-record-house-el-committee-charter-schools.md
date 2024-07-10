@@ -10,7 +10,7 @@ Statement for the Record
 U.S. House of Representatives
 Committee on Education & the Workforce
 
-[](<>)[Subcommittee on Early Childhood, Elementary, and Secondary Education](<>)
+[Subcommittee on Early Childhood, Elementary, and Secondary Education](<>)
 
 “Proven Results: Highlighting the Benefits of Charter Schools for Students and Families”
 
@@ -32,7 +32,7 @@ Next, NCD’s report identified factors that created challenges for charter scho
 
 In order to find solutions to these educational challenges, NCD analyzed emerging educational policies in charter schools that could be potential models of success for policymakers in providing special educational programming to students with disabilities. NCD examined the National Center for Special Education in Charter Schools’ (NCSECS) model policy guide, which provides an innovative framework to assist policymakers in developing successful practices that mitigate potential harm to students with disabilities. Specifically, NCD’s report highlighted Paramount School of Excellence in Indianapolis (Paramount). At the time of NCD’s research, Paramount served 700 students in grades K–8 and had a special education enrollment rate that was comparable to that of the Indianapolis School District (18.5 percent versus 18 percent, respectively). Paramount’s high expectations for students was encompassed in a series of policy and instructional guidelines or “Frameworks.” These Frameworks created clear goals for all students and helped ensure that students with disabilities did not receive a watered-down curriculum or taught to standards that were below grade level. The classrooms allowed flexibility to accommodate the needs of all students regardless of whether they had an Individualized Education Plan. The school also utilized a combination of a co-teaching and a purposeful resource room support model along ongoing collaboration between special education, general education personnel, administrators, and teachers. Lastly, teachers regularly updated student performance data to guide subsequent instruction that was shared with the student. NCD strongly encourages Members of the Subcommittee to review the profiles of other charter schools that NCSECS has described as “Centers for Excellence,” which is a compilation of profiles of charter schools that have implemented educational practices that have the potential to serve as a model for charter schools.
 
-NCD thanks the Subcommittee for allowing our agency to share our 2018 investigation and recommendations to policymakers to improve the educational experiences of students with disabilities.[](<>)
+NCD thanks the Subcommittee for allowing our agency to share our 2018 investigation and recommendations to policymakers to improve the educational experiences of students with disabilities.
 
 **Read NCD’s 2018 *Charter Schools -- Implications for Students with Disabilities* report at:**
 
@@ -50,4 +50,4 @@ keacobacci@ncd.gov
 
 - - -
 
-[\[1]] https://www.ncd.gov/assets/uploads/reports/2018/ncd-charter-schools-2018.pdf
+[1] https://www.ncd.gov/assets/uploads/reports/2018/ncd-charter-schools-2018.pdf

@@ -141,7 +141,7 @@ Topical Reports
 
 - - -
 
-[](<>)
+
 
 ***Synthesis of Reports from Nationally Preeminent Special Education Researchers and Teacher Trainers***
 
@@ -536,7 +536,7 @@ As Congress considers the reauthorization of the Individuals with Disabilities A
 
 - - -
 
-[](<>)
+
 
 **LEARNING DISABILITIES**
 
@@ -840,7 +840,7 @@ Van Reusen, A. K., Bos, C., Schumaker, J. B., & Deshler, D. D. (1987). The Educ
 
 - - -
 
-[](<>)
+
 
 **MENTAL RETARDATION**
 
@@ -1116,7 +1116,7 @@ FAX: 206-543-8480
 
 - - -
 
-[](<>)
+
 
 **SERIOUS EMOTIONAL DISABILITIES**
 

@@ -37,4 +37,4 @@ Chairperson               
 
 - - -
 
-[](<>)\[1] EEOC Enforcement Guidance on Disability-Related Inquiries and Medical Examinations of Employees Under the Americans with Disabilities Act (July 27, 2000), accessed June 4, 2015, <http://www.eeoc.gov/policy/docs/guidance-inquiries.html>.
+[1] EEOC Enforcement Guidance on Disability-Related Inquiries and Medical Examinations of Employees Under the Americans with Disabilities Act (July 27, 2000), accessed June 4, 2015, <http://www.eeoc.gov/policy/docs/guidance-inquiries.html>.

@@ -198,7 +198,7 @@ Mission of the National Council on Disability
 
 - - -
 
-[](<>)
+
 
 **EXECUTIVE SUMMARY**
 
@@ -353,7 +353,7 @@ With the passage of P.L. 94-142 in 1975, a new era of opportunity dawned for stu
 
 - - -
 
-[](<>)
+
 
 **INTRODUCTION**
 
@@ -457,7 +457,7 @@ Congress was wise in its formulation of the law. Children are well served by foc
 
 - - -
 
-[](<>)
+
 
 **EXAMPLES OF SUCCESSFUL INCLUSION ACROSS THE AGE SPAN**
 
@@ -625,7 +625,7 @@ The inclusion of students with disabilities in assessment will enable schools to
 
 - - -
 
-[](<>)
+
 
 **SPECIFIC STRATEGIES FOR MAKING INCLUSION WORK**
 
@@ -836,7 +836,7 @@ In addition, steps need to be taken in order to ensure the long-term acceptance 
 
 - - -
 
-[](<>)
+
 
 **SUPPORTS FOR INCLUSION: THE ROLE OF INDIVIDUAL PLANS, ASSISTIVE TECHNOLOGY, PERSONAL ASSISTANCE SERVICES, AND OTHER SUPPORTS**
 
@@ -997,47 +997,47 @@ Once again, the participation of adults with disabilities from the community in 
 
 - - -
 
-[](<>)
+
 
 1 20 U.S.C. 1401.
 
-[](<>)
+
 
 2 The Americans with Disabilities Act, 42 U.S.C. 12101.
 
-[](<>)
+
 
 3 20 U.S.C. 1401
 
-[](<>)
+
 
 4 The Education for All Handicapped Children Act (EHA) is now known as the Individuals with Disabilities Education Act (IDEA). The provisions relating to the education of children "to the maximum extent appropriate" with non-disabled students have remained the same.
 
-[](<>)
+
 
 5 SRI International (1992). *The Transition Experiences of Young People with Disabilities: Implications for Policy and Programs*. (Contract No. 300-87-0054). Washington, DC: Office of Special Education Programs, U.S. Department of Education.
 
-[](<>)
+
 
 6 National Council on Disability (1993). *Serving the Nation's Students with Disabilities: Progress and Prospects.*Washington, DC: Author. See pp. 74, 78-79.
 
-[](<>)
+
 
 7 Lou Harris and Associates, Inc. (1994). *National Organization on Disability/Harris Survey of Americans with Disabilities*. New York: Author.
 
-[](<>)
+
 
 8 IDEA, the legislation governing special education, requires that children be placed in integrated classrooms "*to the maximum extent appropriate*." In the implementing regulations, the Department of Education rephrased the requirement, calling for the placement of students with disabilities "*in the least restrictive environment*."
 
-[](<>)
+
 
 9 National Council on Disability (1993). *Serving the Nation's Students with Disabilities: Progress and Prospects*. Washington, DC: Author.
 
-[](<>)
+
 
 10 In this report, the terms "mainstreaming," "integration," and "inclusion" are used interchangeably to mean that the primary placement of students with disabilities is in the regular classroom, although some instruction may also be provided in other parts of the school building based on student needs. Supports and performance expectations vary based upon the students' individualized needs and goals. Students may be engaged in the same activity with or without modifications, or may be engaged in parallel activities (i.e., same content area but different activity).
 
-[](<>)
+
 
 11 Richardson, N., Rogers, J., and Verre, J. (1994). *A System Apart: A Study of the Implementation of the Least Restrictive Environment Provisions of IDEA in Massachusetts and Illinois.* Newton, MA: Education Development Center, Inc.
 

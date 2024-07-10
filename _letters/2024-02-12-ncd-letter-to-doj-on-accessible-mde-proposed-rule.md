@@ -39,7 +39,7 @@ We agree that 60 days is an appropriate amount of time for these requirements.
 
 *Response*: We do not object to the application of different scoping requirements for different types of accessible MDE based on usage. For example, patients will utilize examination chairs, examination tables, and weight scales during medical appointments more frequently than using equipment like a mammography machine. A ten percent requirement for mammography equipment, x-ray machines, and other radiology equipment may be sufficient for any size recipient. But as we describe below, we do not support the ten percent and twenty percent requirements for other types of accessible MDE, based on the type of setting where it will be used, that DOJ proposes.
 
-*Issue 4: Because more patients with disabilities may need accessible MDE than need accessible parking, the Department seeks public comment on whether the Department's suggested scoping requirement of 20 percent is sufficient to meet the needs of persons with disabilities.*[](<>)
+*Issue 4: Because more patients with disabilities may need accessible MDE than need accessible parking, the Department seeks public comment on whether the Department's suggested scoping requirement of 20 percent is sufficient to meet the needs of persons with disabilities.*
 
 *Response*:  DOJ proposes that:
 
