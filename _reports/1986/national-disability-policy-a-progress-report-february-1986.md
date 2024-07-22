@@ -13,7 +13,8 @@ policy_areas:
   - Long Term Services & Support
   - Transportation
 categories: null
-image_alt_text: NA
+image: images/toward-independence-cover.jpg
+image_alt_text: Cover with blue background, silver eagle and Toward Independence
 ---
 Toward Independence
 
