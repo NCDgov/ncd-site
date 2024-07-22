@@ -5,7 +5,9 @@ date: January 29, 1988
 report_year: 1988
 categories:
   - progress reports
-image_alt_text: NA
+image: images/on-the-threshold-of-independence-cover.jpg
+image_alt_text: Cover with white background silver eagle and title On the
+  Threshold of Independence
 ---
 On the Threshold of Independence
 
@@ -29,42 +31,42 @@ The views contained in this report do not necessarily represent those of the Adm
 
 Contents
 
-[Letter of Transmittal](https://ncd.gov/progress_reports/Jan1988#1)
+Letter of Transmittal
 
-[Description of the National Council on the Handicapped](https://ncd.gov/progress_reports/Jan1988#2)
+Description of the National Council on the Handicapped
 
-[Council and Staff Members](https://ncd.gov/progress_reports/Jan1988#3)
+Council and Staff Members
 
-[Acknowledgments](https://ncd.gov/progress_reports/Jan1988#4)
+Acknowledgments
 
-[Executive Summary](https://ncd.gov/progress_reports/Jan1988#5)
+Executive Summary
 
-[Foreword](https://ncd.gov/progress_reports/Jan1988#6)
+Foreword
 
-[I. Introduction](https://ncd.gov/progress_reports/Jan1988#7)
+I. Introduction
 
-[II. Recent Data and Trends](https://ncd.gov/progress_reports/Jan1988#8)
+II. Recent Data and Trends
 
 III. Analysis of Progress Made In Specific Topic Areas Since the Publication of *Toward Independence*
 
-> [A. Equal Opportunity Laws](https://ncd.gov/progress_reports/Jan1988#9a)
+> A. Equal Opportunity Laws
 >
-> [The Americans With Disabilities Act of 1988--Section by Section Summary](https://ncd.gov/progress_reports/Jan1988#9a1)\
-> [The Americans With Disabilities Act of 1988--A Draft Bill](https://ncd.gov/progress_reports/Jan1988#9a2)
+> The Americans With Disabilities Act of 1988--Section by Section Summary\
+> The Americans With Disabilities Act of 1988--A Draft Bill
 >
-> [B. Employment](https://ncd.gov/progress_reports/Jan1988#9b)\
-> [C. Disincentives to Work Under Social Security Laws](https://ncd.gov/progress_reports/Jan1988#9c)\
-> [D. Prevention of Disabilities](https://ncd.gov/progress_reports/Jan1988#9d)\
-> [E. Transportation](https://ncd.gov/progress_reports/Jan1988#9e)\
-> [F. Housing](https://ncd.gov/progress_reports/Jan1988#9f)\
-> [G. Community-Based Services For Independent Living](https://ncd.gov/progress_reports/Jan1988#9g)\
-> [H. Educating Children With Disabilities](https://ncd.gov/progress_reports/Jan1988#9h)\
-> [I. Personal Assistance](https://ncd.gov/progress_reports/Jan1988#9i)\
-> [J. Coordination](https://ncd.gov/progress_reports/Jan1988#9j)
+> B. Employment\
+> C. Disincentives to Work Under Social Security Laws\
+> D. Prevention of Disabilities\
+> E. Transportation\
+> F. Housing\
+> G. Community-Based Services For Independent Living\
+> H. Educating Children With Disabilities\
+> I. Personal Assistance\
+> J. Coordination
 
-[Biographies of Members of the National Council on the Handicapped](https://ncd.gov/progress_reports/Jan1988#10)
+Biographies of Members of the National Council on the Handicapped
 
-[References](https://ncd.gov/progress_reports/Jan1988#11)
+References
 
 - - -
 
@@ -91,8 +93,6 @@ The Council is pleased at the many ways in which the Legislative and Executive B
 The Council appreciates the opportunity to continue to shape disability policy and to work toward an America in which persons with disabilities are afforded all the opportunities that our society has to offer.
 
 Sincerely,
-
- 
 
 Sandra Swift Parrino\
 Chairperson
@@ -262,8 +262,6 @@ The Council is pleased at the many ways in which the Legislative and Executive B
 | Totals                                                                       |     |     |
 |                                                                              |     |     |
 | \*Includes the Council's proposed "Americans with Disabilities Act of 1988." |     |     |
-
- 
 
 |                                                           |     |     |                 |
 | --------------------------------------------------------- | --- | --- | --------------- |
@@ -1136,7 +1134,6 @@ Recommendations from *Toward Independence*
 Transition
 
 1. Congress should direct the Department of Education to designate the State educational agency as the lead agency to start, develop, and carry out the transition planning process.
-
 2. Congress should direct the Department of Education to strengthen regulations requiring the involvement of education coordinators and vocational rehabilitation counselors in the transition process.
 
 Accomplishments
@@ -1540,11 +1537,9 @@ According to Senate Conference Report (99-388), which accompanied the Rehabilita
 
 In *Toward Independence*, the Council recommended that funding for Part A be continued as a means of ensuring that community-based services are made available to persons with severe disabilities. The Rehabilitation Act Amendments of 1986 retained this provision. The 1986 Amendments also mandated the establishment of State Independent Living Councils which would serve three purposes:
 
-> 1) provide guidance for the development and expansion of independent living programs and concepts on a statewide basis;
->
-> 2) provide guidance to State agencies and to local planning and administrative entities assisted under the Rehabilitation Act; and
->
-> 3) prepare and submit to a designated State agency a five-year plan addressing the long-term goals and recommendations for the need for independent living services and programs within the State.
+> 1. provide guidance for the development and expansion of independent living programs and concepts on a statewide basis;
+> 2. provide guidance to State agencies and to local planning and administrative entities assisted under the Rehabilitation Act; and
+> 3. prepare and submit to a designated State agency a five-year plan addressing the long-term goals and recommendations for the need for independent living services and programs within the State.
 
 The Council views the establishment of State Independent Living Councils as a positive step in strengthening the independent living movement and in enabling persons with disabilities to live and work more productively in their communities.
 
