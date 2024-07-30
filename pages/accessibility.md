@@ -14,6 +14,8 @@ The Section 508 standards are the technical requirements and criteria that are u
 
 If you have questions about the NCD's Section 508 program supporting ICT,  feedback or concerns related to the accessibility of any content on this website, or have ideas or comments that would help us improve the accessibility and usability of our website, please contact our Section 508 coordinator and webmaster Nicholas Sabula at [nsabula@ncd.gov](mailto:nsabula@ncd.gov) or by phone (202) 272-2076. If applicable, please include the web address or URL and the specific problems you have encountered.
 
+Feedback on the website, including accessibility issues or recommendations can be submitted through our [Feedback page](https://www.ncd.gov/feedback/).
+
 If you would like to file a Section 508 related complaint, please contact Anne Sommers McIntosh, Executive Director at [amcintosh@ncd.gov](mailto:amcintosh@ncd.gov). 
 
 By fax, please fax to the attention of Anne Sommers McIntosh to (202) 272-2022.
