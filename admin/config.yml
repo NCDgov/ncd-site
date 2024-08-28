@@ -54,20 +54,6 @@ collections:
           date_format: "MMMM D, YYYY",
           time_format: false,
         }
-      - {
-          label: "Redirect from",
-          name: "redirect_from",
-          widget: "list",
-          required: false,
-          default: [],
-          field:
-            {
-              label: "Redirect Path",
-              name: "redirect_from",
-              widget: "string",
-              hint: "/my/other/path",
-            },
-        }
       - &video {
           label: "Video URL",
           name: "video_url",
@@ -83,6 +69,21 @@ collections:
           required: false,
           allow_multiple: false,
           media_folder: "/assets/uploads/video-captions/{{collection_name}}/{{slug}}",
+        }
+      - &redirectfrom {
+          label: "Redirect from",
+          name: "redirect_from",
+          description: "An old URL path you want to redirect to this page.",
+          widget: "list",
+          required: false,
+          default: [],
+          field:
+            {
+              label: "Redirect Path",
+              name: "redirect_from",
+              widget: "string",
+              hint: "/my/other/path",
+            },
         }
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Adhoc Pages
@@ -115,21 +116,6 @@ collections:
           widget: string,
           hint: "/the-page-name/",
         }
-      - {
-          label: "Redirect from",
-          name: "redirect_from",
-          description: "An old URL path you want to redirect to this page.",
-          widget: "list",
-          required: false,
-          default: [],
-          field:
-            {
-              label: "Redirect Path",
-              name: "redirect_from",
-              widget: "string",
-              hint: "/the/old/path/",
-            },
-        }
       - { label: "Title", name: "title", widget: "string" }
       - &press-release {
           label: "Press Release",
@@ -140,6 +126,7 @@ collections:
         }
       - *video
       - *videocaptions
+      - *redirect_from
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Committees & Communities
     name: committees-communities
@@ -187,6 +174,7 @@ collections:
           required: false
           allow_multiple: false
           media_folder: "/assets/uploads/budget-reports/"
+      - *redirect_from
   - label: Council Members
     name: council-members
     folder: _council-members/
@@ -375,6 +363,7 @@ collections:
           required: false
           allow_multiple: false
           media_folder: "/assets/uploads/foia-reports/{{report_year}}/{{report_type}}"
+      - *redirect_from
   - label: Footer Links
     name: footer_links
     files:
@@ -537,6 +526,7 @@ collections:
         label: "Miscellaneous 3",
         name: "misc_files_3",
       }
+      - *redirect_from
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Meetings & Events
     name: meetings
@@ -629,6 +619,7 @@ collections:
       }
       - *video
       - *videocaptions
+      - *redirect_from
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Navigation for Site
     name: navigation
@@ -784,6 +775,7 @@ collections:
         label: "Miscellaneous 3",
         name: "misc_files_3",
       }
+      - *redirect_from
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Policy Areas
     name: policy-areas
@@ -859,6 +851,7 @@ collections:
         label: "Miscellaneous 3",
         name: "misc_files_3",
       }
+      - *redirect_from
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Reports
     name: reports
@@ -955,6 +948,7 @@ collections:
         label: "Miscellaneous 3",
         name: "misc_files_3",
       }
+      - *redirect_from
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Resource Pages
     name: resources
@@ -1002,6 +996,7 @@ collections:
           - { label: "Description", name: "description", widget: "string" }
           - *video
           - *videocaptions
+          - *redirect_from
           - { label: "Body", name: "body", widget: "markdown" }
   - label: Testimony
     name: testimony
@@ -1086,6 +1081,7 @@ collections:
         label: "Miscellaneous 3",
         name: "misc_files_3",
       }
+      - *redirect_from
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Widgets Side Navigation
     name: widgets
