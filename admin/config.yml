@@ -126,7 +126,7 @@ collections:
         }
       - *video
       - *videocaptions
-      - *redirect_from
+      - *redirectfrom
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Committees & Communities
     name: committees-communities
@@ -174,7 +174,7 @@ collections:
           required: false
           allow_multiple: false
           media_folder: "/assets/uploads/budget-reports/"
-      - *redirect_from
+      - *redirectfrom
   - label: Council Members
     name: council-members
     folder: _council-members/
@@ -363,7 +363,7 @@ collections:
           required: false
           allow_multiple: false
           media_folder: "/assets/uploads/foia-reports/{{report_year}}/{{report_type}}"
-      - *redirect_from
+      - *redirectfrom
   - label: Footer Links
     name: footer_links
     files:
@@ -526,7 +526,7 @@ collections:
         label: "Miscellaneous 3",
         name: "misc_files_3",
       }
-      - *redirect_from
+      - *redirectfrom
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Meetings & Events
     name: meetings
@@ -619,7 +619,7 @@ collections:
       }
       - *video
       - *videocaptions
-      - *redirect_from
+      - *redirectfrom
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Navigation for Site
     name: navigation
@@ -775,7 +775,7 @@ collections:
         label: "Miscellaneous 3",
         name: "misc_files_3",
       }
-      - *redirect_from
+      - *redirectfrom
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Policy Areas
     name: policy-areas
@@ -851,7 +851,7 @@ collections:
         label: "Miscellaneous 3",
         name: "misc_files_3",
       }
-      - *redirect_from
+      - *redirectfrom
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Reports
     name: reports
@@ -948,7 +948,7 @@ collections:
         label: "Miscellaneous 3",
         name: "misc_files_3",
       }
-      - *redirect_from
+      - *redirectfrom
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Resource Pages
     name: resources
@@ -996,7 +996,7 @@ collections:
           - { label: "Description", name: "description", widget: "string" }
           - *video
           - *videocaptions
-          - *redirect_from
+          - *redirectfrom
           - { label: "Body", name: "body", widget: "markdown" }
   - label: Testimony
     name: testimony
@@ -1081,7 +1081,7 @@ collections:
         label: "Miscellaneous 3",
         name: "misc_files_3",
       }
-      - *redirect_from
+      - *redirectfrom
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Widgets Side Navigation
     name: widgets
