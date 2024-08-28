@@ -29,6 +29,8 @@ governance:
       url: /contact/
     - name: Subscribe for NCD News
       url: /subscribe/
+    - name: Sitemap
+      url: /sitemap.xml
 policies:
   name: Policies / Statements
   children:
