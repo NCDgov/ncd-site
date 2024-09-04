@@ -175,6 +175,41 @@ collections:
           allow_multiple: false
           media_folder: "/assets/uploads/budget-reports/"
       - *redirectfrom
+  - label: Buy American Act Reports
+    name: buy_american
+    folder: _buy-american/
+    create: true
+    slug: "buy-american-{{slug}}"
+    path: "{{slug}}"
+    editor:
+      preview: true
+    fields:
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "post"
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Report Year"
+        name: "report_year"
+        widget: "number"
+        value_type: "int"
+        min: 1980
+        max: 2030
+        step: 1
+      - label: "Report Files"
+        name: report_files
+        widget: list
+        field:
+          label: "Report File"
+          name: "{{slug}}"
+          widget: "file"
+          required: false
+          allow_multiple: false
+          media_folder: "/assets/uploads/buy-american/"
+      - *redirectfrom
+      - { label: "Body", name: "body", widget: "markdown" }
   - label: Council Members
     name: council-members
     folder: _council-members/

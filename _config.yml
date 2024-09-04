@@ -69,6 +69,8 @@ collections:
     permalink: /accountability/:name/
   budget-reports:
     output: false
+  buy-american:
+    output: false
   committees-communities:
     output: true
     permalink: /committee-community/:name/
