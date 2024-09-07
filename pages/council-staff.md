@@ -2,9 +2,9 @@
 layout: single-page
 published: true
 permalink: /staff/
+title: Staff
 redirect_from:
   - https://federalist-b18a24ce-146d-4000-a7cd-f2edf2e34224.app.cloud.gov/site/nsabula/ncd-test/staff/
-title: Staff
 ---
 ![Anne Sommers McIntosh headshot]({{ site.baseurl }}/assets/uploads/images/annemcintosh.png)
 
@@ -18,9 +18,6 @@ The Policy & Legal Team analyzes federal laws, regulations, programs, policies, 
 
 **Joan M. Durocher**\
 General Counsel & Director of Policy
-
-**Ana Torres-Davis**\
-Senior Attorney Advisor
 
 **Amy Nicholas**\
 Senior Attorney Advisor
