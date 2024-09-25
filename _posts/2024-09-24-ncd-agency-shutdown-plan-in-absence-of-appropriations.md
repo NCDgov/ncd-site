@@ -76,5 +76,5 @@ September 2024
 Respectfully,
 
 Claudia Gordon
-\
+
 Chair
