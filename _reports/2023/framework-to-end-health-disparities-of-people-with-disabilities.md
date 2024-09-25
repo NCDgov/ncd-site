@@ -9,7 +9,7 @@ policy_areas:
   - Civil Rights
 categories:
   - frameworks
-press_release: https://www.ncd.gov/2022/02/14/ncd-announces-policymaker-blueprint-for-health-equity-for-people-with-disabilities/
+press_release: ""
 pdf_document: reports/2023/ncd-framework-to-end-health-disparities-of-people-with-disabilities.pdf
 image: images/framework-health-disparities-cover-sm.png
 image_alt_text: "Framework cover with NCD seal and photo of black man entering a
