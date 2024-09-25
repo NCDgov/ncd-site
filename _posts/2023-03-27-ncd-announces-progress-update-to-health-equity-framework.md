@@ -17,4 +17,4 @@ The framework for policymakers called for an all-of-government approach to longs
 
 The framework presents five core foundational elements: the designation of people with disabilities as a Special Medically Underserved Population; a health disparities population designation; requiring comprehensive disability clinical-care curricula for medical providers; accessible medical diagnostic equipment; and improved data capturing; and then offers 38 additional components.
 
-The update is available on the [Health Equity Framework page](https://ncd.gov/publications/2023/health-equity-framework) at NCD.gov.
+The update is available on the [Health Equity Framework page](https://www.ncd.gov/report/framework-to-end-health-disparities-of-people-with-disabilities/) at NCD.gov.
