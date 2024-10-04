@@ -14,7 +14,7 @@ Oct. 4, 2024
 
 **WASHINGTON –** The National Council on Disability took part in a meeting Sept. 30 with the U.S. Census Bureau and other agencies to discuss collection of disability data.
 
-The Census Bureau Stakeholder Convening on Disability Data Needs at the American Educational Research Association (AERA) Convening Center in Washington, D.C. was an event to better understand data collection processes related to people with disabilities. It was co‑hosted by the Census Bureau, NCD, the Office of Management and Budget (OMB), the National Center for Health Statistics, The Leadership Conference Education Fund, and the Consortium for Constituents with Disabilities’ Health Task Force.
+The Census Bureau Stakeholder Convening on Disability Data Needs at the American Educational Research Association (AERA) Convening Center in Washington, D.C. was an event to better understand data collection processes related to people with disabilities. It was co‑sponsored by the Census Bureau, NCD, the Office of Management and Budget (OMB), the National Center for Health Statistics, The Leadership Conference Education Fund, and the Consortium for Constituents with Disabilities’ Health Task Force.
 
 The event brought together federal agency staff, disability stakeholders and community representatives, data users, and disability advocates.
 
