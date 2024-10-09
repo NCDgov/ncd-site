@@ -1,9 +1,10 @@
 ---
 layout: single-page
 published: true
-permalink: /lep/
 title: Limited English Proficiency
+permalink: /limited-english-proficiency/
 redirect_from:
+  - /lep/
   - /LEP/
 ---
 Executive Order 13166 requires each federal agency to create a federally conducted limited English proficiency (LEP) plan.  As part of the one-year anniversary of the U.S. Attorney General’s November 2022 [memorandum](https://www.justice.gov/file/1553196/download) on strengthening the federal government’s commitment to language access, several Federal agencies are releasing updated federal agency language access plans:
