@@ -2,8 +2,8 @@
 layout: single-page
 published: true
 permalink: /public-comment/
-redirect_from: []
 title: Public Comment
+redirect_from: []
 ---
 ### S﻿ubmit your public comment to NCD
 
@@ -11,11 +11,11 @@ Your participation during the public comment period provides an opportunity for 
 
 **Next Public Comment Opportunity:**
 
-Thursday, June 27, 2024 during NCD's Council Meeting via Zoom.
+Thursday, Nov. 7, 2024 during NCD's Council Meeting via Zoom.
 
-4:00 – 4:30 p.m. – Public Comment on most notable disability policy achievements since Summer 2023
+3:30 – 4:00 PM Public Comment on Voting Access Experiences during Nov. 5, 2024 General Election
 
-Information on our Council meeting is available on our [Upcoming Event page](https://www.ncd.gov/meeting/2024-06-27-june-27-2024-council-meeting/).
+Information on our Council meeting is available on our [Upcoming Event page](https://www.ncd.gov/meeting/2024-11-07-nov-7-2024-council-meeting/).
 
 **Format:** Virtual format -- the Council will receive public comment by email or by video or audio over Zoom. 
 
