@@ -15,7 +15,7 @@ Thursday, Nov. 7, 2024 during NCD's Council Meeting via Zoom.
 
 3:30 – 4:00 PM Public Comment on Voting Access Experiences during Nov. 5, 2024 General Election
 
-Information on our Council meeting is available on our [Upcoming Event page](https://www.ncd.gov/meeting/2024-06-27-june-27-2024-council-meeting/).
+Information on our Council meeting is available on our [Upcoming Event page](https://www.ncd.gov/meeting/2024-11-07-nov-7-2024-council-meeting/).
 
 **Format:** Virtual format -- the Council will receive public comment by email or by video or audio over Zoom. 
 
