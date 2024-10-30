@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NCD letter to FEMA regarding public assistance update proposed rule 829
+title: NCD letter to FEMA regarding public assistance update proposed rule
 collection_name: letters
 policy_areas:
   - Emergency Management
