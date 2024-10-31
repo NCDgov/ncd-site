@@ -12,6 +12,7 @@ policy_areas:
   - Housing
 categories:
   - progress reports
+pdf_document: reports/2024/ncd-2024-progress-report.pdf
 image: images/ncd_2024_progress_report_cover.jpg
 image_alt_text: "American flag as background to monuments in Washington, D.C.
   NCD seal and wording, National Disability Policy: A Progress Report, 2024
