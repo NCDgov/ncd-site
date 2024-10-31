@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NCD Policy: A Progress Report"
+title: "National Disability Policy: A Progress Report, 2024"
 collection_name: reports
 date: October 31, 2024
 report_year: 2024
@@ -12,6 +12,7 @@ policy_areas:
   - Housing
 categories:
   - progress reports
+word_document: reports/2024/ncd-2024-progress-report.docx
 pdf_document: reports/2024/ncd-2024-progress-report.pdf
 image: images/ncd_2024_progress_report_cover.jpg
 image_alt_text: "American flag as background to monuments in Washington, D.C.
