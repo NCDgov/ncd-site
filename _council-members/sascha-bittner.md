@@ -3,7 +3,7 @@ layout: council-member
 member_name: Sascha Bittner
 member_title: Council Member
 location: San Francisco, California
-image: images/sascha-bittner.jpg
+image: images/sascha-bittner-photo-sm.jpg
 image_alt_text: Sascha Bittner photo
 order: 4
 start_date: November 7, 2022
