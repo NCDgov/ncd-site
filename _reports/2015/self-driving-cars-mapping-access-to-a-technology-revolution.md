@@ -6,6 +6,8 @@ report_year: 2015
 policy_areas:
   - Technology
   - Transportation
+word_document: reports/2015/ncd-automated-vehicles-2015.docx
+pdf_document: reports/2015/ncd-automated-vehicles-2015.pdf
 image_alt_text: na
 ---
 **PURPOSE AND SCOPE:**\
