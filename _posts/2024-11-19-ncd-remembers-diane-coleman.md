@@ -10,7 +10,7 @@ Nov. 19, 2024
 
 **WASHINGTON--**NCD remembers Diane Coleman, 71, who passed away Nov. 1.
 
-Coleman drafted NCD’s groundbreaking 1997 paper “Assisted Suicide: A Disability Perspective,” which NCD re-issued in 2005. NCD also quoted her several times in our 2019 report on assisted suicide.
+Coleman drafted NCD’s groundbreaking 1997 paper “Assisted Suicide: A Disability Perspective,” which NCD re-issued in [2005](https://www.ncd.gov/report/cover-memorandum-upon-the-reissuance-of-the-ncd-statement-opposing-legalization-of-assisted-suicide/). NCD also quoted her several times in our 2019 report on assisted suicide.
 
 As a person with neuromuscular disabilities who used a motorized wheelchair, she was a strong advocate for disability rights. She is credited and known for pointing out the discriminatory double standard for who gets suicide prevention and who gets suicide assistance. 
 
