@@ -3,7 +3,8 @@ layout: council-member
 member_name: Shawn Kennemer
 location: Bakersfield, California
 image: images/shawn-kennemer-photo.jpg
-image_alt_text: photo of Shawn Kennemer we
+image_alt_text: photo of Shawn Kennemer wearing blue suit and red tie with U.S.
+  flag background.
 order: 6
 start_date: August 23, 2022
 ---
