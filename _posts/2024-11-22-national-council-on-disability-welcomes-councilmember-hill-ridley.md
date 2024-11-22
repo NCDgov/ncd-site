@@ -15,7 +15,7 @@ Nov. 22, 2024
 
 Kimberly Hill Ridley took the oath of office today and officially began her time as NCD Council member in a ceremony presided over by NCD Chair Claudia L. Gordon 
 
-I am thrilled to welcome Kim to the Council,” said Gordon. “Her exceptional leadership as New York’s Chief Disability Officer and her deep commitment to disability rights will be invaluable assets to NCD. I eagerly anticipate her insightful contributions as we work to shape a more inclusive and equitable future for all.
+I am thrilled to welcome Kim to the Council,” said Gordon. “Her exceptional leadership as New York’s Chief Disability Officer and her deep commitment to disability rights will be invaluable assets to NCD," she said. "I eagerly anticipate her insightful contributions as we work to shape a more inclusive and equitable future for all."
 
 The appointment of Hill Ridley by Majority Leader Sen. Chuck Schumer comes almost a year after the passing of late Chair Andrés Gallegos, who died Dec. 1, 2023.
 
@@ -25,8 +25,6 @@ She joins Chair Gordon, Vice Chair Emily Voorde and Council Members Hoskie Benal
 
 Appointments to NCD are made by the President of the United States, the Senate Majority Leader, the Senate Minority Leader, the Speaker of the House, and the House Minority Leader pursuant to section 451 of the Workforce Innovation and Opportunity Act (Pub. L. 113–128).
 
-
-
 **Biography**
 
 **Kimberly Hill Ridley** has served as New York State’s first-ever Chief Disability Officer (CDO) since being appointed by Governor Kathy Hochul in February 2022. Kim has been charged with advising the Governor and executive staff on policy and budgetary issues as they pertain to disability issues, serving as the state's Americans with Disabilities Act (ADA) Coordinator and chairing New York's Most Integrated Services Coordinating Council (MISCC), which is responsible for the state's Olmstead compliance. Kim also acts as the New York State lead related to the execution of Executive Order 31 - signed by Governor Hochul in July 2023 - focused on New York being a model employer for people with disabilities and Executive Order 40 - signed in September 2024 - committing New York to become an Employment First State.
@@ -35,14 +33,8 @@ As CDO, Kim and her team spend a significant amount of their time meeting with a
 
 Kim lives with a C5-C6 cervical incomplete spinal cord injury resulting from an accident during her junior year in high school and has never let her disability have a negative impact on her attitude or achievements. Prior to joining the Executive Chamber, Kim served in various disability-focused roles with the New York Assembly spanning 28 years. Kim holds a Bachelor of Science degree from Utica College of Syracuse University (now Utica University) and resides in Latham, N.Y., with her husband, Michael, and their children, Michaela and Alex.
 
-
-
 **About the National Council on Disability (NCD):** 
 
 First established as a small advisory Council within the Department of Health, Education, and Welfare Rehabilitation in 1978, NCD became an independent federal agency in 1984. In 1986, NCD recommended enactment of an Americans with Disabilities Act (ADA), and drafted the first version of the bill which was introduced in the House and Senate in 1988. Since the ADA became law in 1990, NCD has continued to play a leading role in crafting policy solutions, and in advising the President, Congress and other federal agencies on disability policies, programs, and practices.
-
-
-
-
 
 \###
