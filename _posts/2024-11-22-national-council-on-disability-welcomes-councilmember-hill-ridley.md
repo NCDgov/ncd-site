@@ -13,7 +13,7 @@ Nov. 22, 2024
 
 **WASHINGTON —** Today the National Council on Disability (NCD) welcomes its newest member to the independent federal agency charged with advising the President, Congress, and other federal agencies on disability policy.
 
-Kimberly Hill Ridley took the oath of office today and officially began her time as NCD Council member in a ceremony presided over by NCD Chair Claudia L. Gordon 
+Kimberly Hill Ridley took the oath of office today and officially began her time as NCD Council member in a ceremony presided over by NCD Chair Claudia L. Gordon. 
 
 I am thrilled to welcome Kim to the Council,” said Gordon. “Her exceptional leadership as New York’s Chief Disability Officer and her deep commitment to disability rights will be invaluable assets to NCD," she said. "I eagerly anticipate her insightful contributions as we work to shape a more inclusive and equitable future for all."
 
@@ -21,7 +21,7 @@ The appointment of Hill Ridley by Majority Leader Sen. Chuck Schumer comes almos
 
 She joins Chair Gordon, Vice Chair Emily Voorde and Council Members Hoskie Benally Jr., Sascha Bittner, Theo Braddy, Shawn Kennemer, Risa Jaz Rifkind and Neil Romano
 
-"I am so very excited and honored to join the Council and look forward to working with my fellow Council members and staff on so many of the issues that Americans with Disabilities face daily," said Kimberly Hill Ridley. "I truly thank Senator Schumer for this opportunity. NCD has an amazing history and impact, and I'm proud to be a part of that."
+"I am so very excited and honored to join the Council and look forward to working with my fellow Council members and staff on so many of the issues that Americans with Disabilities face daily," said Hill Ridley. "I truly thank Senator Schumer for this opportunity," she said. "NCD has an amazing history and impact, and I'm proud to be a part of that."
 
 Appointments to NCD are made by the President of the United States, the Senate Majority Leader, the Senate Minority Leader, the Speaker of the House, and the House Minority Leader pursuant to section 451 of the Workforce Innovation and Opportunity Act (Pub. L. 113–128).
 
