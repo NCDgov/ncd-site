@@ -1,6 +1,7 @@
 ---
 layout: council-member
 member_name: Shawn Kennemer
+member_title: Council Member
 location: Bakersfield, California
 image: images/shawn-kennemer-photo.jpg
 image_alt_text: photo of Shawn Kennemer wearing blue suit and red tie with U.S.
