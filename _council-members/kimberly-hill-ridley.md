@@ -2,7 +2,7 @@
 layout: council-member
 member_name: Kimberly Hill Ridley
 member_title: Council Member
-location: Latham, N.Y.
+location: Latham, New York
 image: images/kim-hill-ridley-photo.jpg
 image_alt_text: Kimberly Hill Ridley smiling. She has red hair and is wearing a
   beige sweater over white collared shirt, a gold chain and hooped earrings.
