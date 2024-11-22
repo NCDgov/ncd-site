@@ -6,7 +6,7 @@ location: Latham, N.Y.
 image: images/kim-hill-ridley-photo.jpg
 image_alt_text: Kimberly Hill Ridley smiling. She has red hair and is wearing a
   beige sweater over white collared shirt, a gold chain and hooped earrings.
-order: 9
+order: 8
 start_date: November 22, 2024
 ---
 **Kimberly Hill Ridley** has served as New York State’s first-ever Chief Disability Officer (CDO) since being appointed by Governor Kathy Hochul in February 2022. Kim has been charged with advising the Governor and executive staff on policy and budgetary issues as they pertain to disability issues, serving as the state's Americans with Disabilities Act (ADA) Coordinator and chairing New York's Most Integrated Services Coordinating Council (MISCC), which is responsible for the state's Olmstead compliance. Kim also acts as the New York State lead related to the execution of Executive Order 31 - signed by Governor Hochul in July 2023 - focused on New York being a model employer for people with disabilities and Executive Order 40 - signed in September 2024 - committing New York to become an Employment First State.
