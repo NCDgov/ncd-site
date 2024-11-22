@@ -4,7 +4,7 @@ title: National Council on Disability welcomes Councilmember Kimberly Hill Ridle
 collection_name: newsroom
 date: 2024-11-22
 tag: Press Release
-image: images/kim-hill-ridley-photo.jpg
+image: ""
 image_alt_text: Kimberly Hill Ridley headshot
 redirect_from: []
 ---
