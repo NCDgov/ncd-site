@@ -16,7 +16,7 @@ December 4, 2024
 
 The department’s Wage and Hour Division announced a Notice of Proposed Rulemaking (NPRM) that ends the department’s issuance of new Section 14(c) certificates and a three-year phaseout for employers holding existing Section 14(c) certificates to gradually cease paying subminimum wages to workers with disabilities.
 
-Since 1938, the United States has used the FLSA to shape how workers are legally paid.. Section 14(c) of the law allowed business owners to legally pay certain classified workers with disabilities less than the federal standard minimum wage—known as subminimum wage employment.
+Since 1938, the United States has used the FLSA to shape how workers are legally paid. Section 14(c) of the law allowed business owners to legally pay certain classified workers with disabilities less than the federal standard minimum wage—known as subminimum wage employment.
 
 “It's not just the right thing to do, it's the just thing to do," said NCD Chair Claudia Gordon. "This proposed rule to phase out Section 14(c) certificates aligns with our values of justice and equality. It ensures that people with disabilities are treated with dignity and respect, and that they have the chance to earn a fair wage and achieve economic security.”
 
