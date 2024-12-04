@@ -23,7 +23,7 @@ plugins:
   - jekyll-seo-tag
 
 # Twitter handle. Only the handle, not the URL.
-twitter: NCDgov
+x: NCDgov
 
 # Digital Analytics Program (DAP) configuration
 dap:
