@@ -3,6 +3,9 @@ layout: post
 title: DOL requests public comment on proposed rule ending 14(c)
 collection_name: newsroom
 date: 2024-12-09
+tag: Press Release
+policy_areas:
+  - Employment
 redirect_from: []
 ---
 For Immediate Release 							
