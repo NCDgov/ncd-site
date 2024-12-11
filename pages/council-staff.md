@@ -25,6 +25,13 @@ Senior Attorney Advisor
 **Amged Soliman**\
 Senior Attorney Advisor
 
+**Ana Torres-Davis**\
+Senior Attorney Advisor
+
+
+
+
+
 ## Legislative Affairs & Outreach Team
 
 The Legislative Affairs & Outreach Team closely monitors Congressional activity on issues critical to the disability community and cultivates and maintains effective working relationships with NCD stakeholders at the federal, state, and local levels.
