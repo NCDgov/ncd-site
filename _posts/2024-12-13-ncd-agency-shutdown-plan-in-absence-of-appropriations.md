@@ -61,7 +61,7 @@ December 2024
    nor facilitate any excepted activity.
 
    •  Agency personnel will be instructed to obtain information from news outlets for when a 
-   continuing resolution or an FY 2024 appropriation has been approved and that they will be expected 
+   continuing resolution or an FY 2025 appropriation has been approved and that they will be expected 
    to return to work on their next regularly scheduled workday.
 4. REFERENCES:
 
@@ -75,6 +75,5 @@ December 2024
 
 Respectfully,
 
-Claudia Gordon
-
+Claudia Gordon\
 Chair
