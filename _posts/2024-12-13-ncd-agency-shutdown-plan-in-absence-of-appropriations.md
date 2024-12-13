@@ -4,7 +4,7 @@ title: NCD Agency Shutdown Plan in Absence of Appropriations
 collection_name: newsroom
 date: 2024-12-13
 tag: Press Release
-document: documents/ncd-shutdown-plan-september-2024.pdf
+document: ""
 redirect_from: []
 ---
 **Agency Shutdown Plan**
