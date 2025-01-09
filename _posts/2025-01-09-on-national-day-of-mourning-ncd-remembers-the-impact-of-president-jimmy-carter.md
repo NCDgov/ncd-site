@@ -15,6 +15,8 @@ January 9, 2025
 
 **WASHINGTON--**Today on the National Day of Mourning, the National Council on Disability (NCD) remembers the life and legacy of former President James Earl Carter Jr. , 100, who passed away December 29.
 
+President Joseph R. Biden, Jr. in his presidential [proclamation](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/29/proclamation-announcing-the-death-of-james-earl-carter-jr/) on Carter's death, assigned January 9, 2025, as a National Day of Mourning throughout the United States.
+
 President Carter served as the 39th president of the United States from 1977 to 1981, following his term as the 76th governor of Georgia from 1971 to 1975.
 
 During the Carter Administration, [](https://www.google.com/search?sca_esv=b04091875e1d0e02&rlz=1C1CHBF_enUS1010US1010&q=Plains,+Georgia&stick=H4sIAAAAAAAAAONgVuLQz9U3KKoyjn_EaMwt8PLHPWEprUlrTl5jVOHiCs7IL3fNK8ksqRQS42KDsnikuLjgmngWsfIH5CRm5hXrKLin5helZyYCABshdoZUAAAA&sa=X&sqi=2&ved=2ahUKEwiS--mCrumKAxXVMlkFHcjoHWgQzIcDKAB6BAhAEAE)NCD was first established by the Comprehensive Services and Disability Amendments Act of 1978.
