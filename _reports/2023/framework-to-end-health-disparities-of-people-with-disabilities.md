@@ -21,6 +21,8 @@ misc_files_2: ""
 
 **Year 1 Progress Update** ([PDF](https://www.ncd.gov/assets/uploads/reports/2023/framework-to-end-health-disparities-of-people-with-disabilities/ncd-health-equity-framework-progress-report.pdf))
 
+**Year 2 Progress Update** ([included in 2024 Progress Report](https://www.ncd.gov/report/national-disability-policy-a-progress-report-2024/))
+
 **Framework Cover Letter** ([PDF](https://www.ncd.gov/assets/uploads/reports/2023/framework-to-end-health-disparities-of-people-with-disabilities/ncd-cover-letter-health-equity-framework.pdf))
 
 [](https://www.ncd.gov/2022/02/14/ncd-announces-policymaker-blueprint-for-health-equity-for-people-with-disabilities/)
