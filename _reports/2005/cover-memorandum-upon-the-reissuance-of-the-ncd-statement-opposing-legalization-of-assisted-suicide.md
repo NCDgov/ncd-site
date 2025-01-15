@@ -17,7 +17,7 @@ Lex Frieden, Chairperson
 
 **Introduction**
 
-On March 24, 1997, the National Council on Disability (NCD) issued "[Assisted Suicide: A Disability Perspective](https://www.ncd.gov/report/assisted-suicide-a-disability-perspective-position-paper/),"[](https://ncd.gov/publications/1997/03241997) as part of its role as the principal agency within the federal government charged with the responsibility of providing cross-disability policy analysis and recommendations regarding government programs and policies that affect people with disabilities. At the time the position paper was issued, the U.S. Supreme Court was preparing to rule on appeals from the Second and Ninth Circuit Courts, each of which had declared assisted suicide a constitutional right.
+On March 24, 1997, the National Council on Disability (NCD) issued "[Assisted Suicide: A Disability Perspective](https://www.ncd.gov/report/assisted-suicide-a-disability-perspective-position-paper/)," as part of its role as the principal agency within the federal government charged with the responsibility of providing cross-disability policy analysis and recommendations regarding government programs and policies that affect people with disabilities. At the time the position paper was issued, the U.S. Supreme Court was preparing to rule on appeals from the Second and Ninth Circuit Courts, each of which had declared assisted suicide a constitutional right.
 
 After a thorough review of the forms of discrimination people with disabilities experience in American society, the Council decided to oppose legalization of assisted suicide, concluding that:
 
