@@ -1,7 +1,7 @@
 ---
 layout: council-member
 member_name: Shawn Kennemer
-member_title: Chairman (Acting)
+member_title: Vice Chairman (Acting Chair)
 location: Bakersfield, California
 image: images/shawn-kennemer-photo.jpg
 image_alt_text: photo of Shawn Kennemer wearing blue suit and red tie with U.S.
