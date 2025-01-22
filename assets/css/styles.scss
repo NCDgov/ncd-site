@@ -49,6 +49,11 @@ h1 {
   @include u-text("primary");
 }
 
+p > a {
+  min-width: 24px;
+  padding: 0 .2em;
+}
+
 .section-heading {
   @include u-text("base-darkest");
   @include u-margin-y(0);
@@ -148,7 +153,7 @@ h1 {
 
 .featured-item {
   &:nth-child(even) {
-  
+
     .grid-container {
       background-color:  #ffffff;
     }
