@@ -8,9 +8,9 @@ redirect_from:
 ---
 ![Anne Sommers McIntosh headshot]({{ site.baseurl }}/assets/uploads/images/annemcintosh.png)
 
-## Executive Director
+## Executive Director 
 
-#### Anne Sommers McIntosh
+#### Anne Sommers McIntosh (Acting Executive Director)
 
 ## Policy & Legal Team
 
@@ -28,13 +28,12 @@ Senior Attorney Advisor
 **Ana Torres-Davis**\
 Senior Attorney Advisor
 
-
-
-
-
 ## Legislative Affairs & Outreach Team
 
 The Legislative Affairs & Outreach Team closely monitors Congressional activity on issues critical to the disability community and cultivates and maintains effective working relationships with NCD stakeholders at the federal, state, and local levels.
+
+**Anne Sommers McIntosh**\
+Director of Legislative Affairs and Outreach
 
 **Kimie Eacobacci**\
 Legislative Affairs Specialist
