@@ -6,11 +6,11 @@ title: Staff
 redirect_from:
   - https://federalist-b18a24ce-146d-4000-a7cd-f2edf2e34224.app.cloud.gov/site/nsabula/ncd-test/staff/
 ---
-![Anne Sommers McIntosh headshot]({{ site.baseurl }}/assets/uploads/images/annemcintosh.png)
+![]()
 
 ## Executive Director
 
-#### Anne Sommers McIntosh
+#### Anne Sommers McIntosh (Acting Executive Director)
 
 ## Policy & Legal Team
 
@@ -28,13 +28,12 @@ Senior Attorney Advisor
 **Ana Torres-Davis**\
 Senior Attorney Advisor
 
-
-
-
-
 ## Legislative Affairs & Outreach Team
 
 The Legislative Affairs & Outreach Team closely monitors Congressional activity on issues critical to the disability community and cultivates and maintains effective working relationships with NCD stakeholders at the federal, state, and local levels.
+
+**Anne Sommers McIntosh**\
+Director of Legislative Affairs and Outreach
 
 **Kimie Eacobacci**\
 Legislative Affairs Specialist
