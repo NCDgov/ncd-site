@@ -6,9 +6,9 @@ title: Staff
 redirect_from:
   - https://federalist-b18a24ce-146d-4000-a7cd-f2edf2e34224.app.cloud.gov/site/nsabula/ncd-test/staff/
 ---
-![Anne Sommers McIntosh headshot]({{ site.baseurl }}/assets/uploads/images/annemcintosh.png)
+![]()
 
-## Executive Director 
+## Executive Director
 
 #### Anne Sommers McIntosh (Acting Executive Director)
 
