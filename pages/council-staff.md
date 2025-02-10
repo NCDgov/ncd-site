@@ -10,7 +10,7 @@ redirect_from:
 
 ## Executive Director
 
-#### Vacant (Joan M. Durocher, Acting Executive Director)
+#### Vacant
 
 ## Policy & Legal Team
 
