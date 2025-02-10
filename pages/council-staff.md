@@ -10,7 +10,7 @@ redirect_from:
 
 ## Executive Director
 
-#### Anne Sommers McIntosh (Acting Executive Director)
+#### Joan M. Durocher (Acting Executive Director)
 
 ## Policy & Legal Team
 
