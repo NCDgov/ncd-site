@@ -37,7 +37,7 @@ National Council on Disability\
 Washington, DC 20004\
 202-731-5910\
 202-272-2074 TTY\
-202-272-2022 Fax
+202-272-2022 Fax\
 [FOIA@ncd.gov](mailto:FOIA@ncd.gov?subject=FOIA)
 
 Additional resources are available for the FOIA [reference guide](/foia/reference-guide) and [regulation](/foia/regulation).
