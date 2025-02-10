@@ -32,12 +32,11 @@ NCD's Freedom of Information Officer is Amy Nicholas, Attorney Advisor:
 
 **Amged Soliman**\
 Senior Attorney Advisor\
-National Council on Disability
-
-1331 F Street, NW, Suite 850
-Washington, DC 20004
-(202) 731-5910
-202-272-2074 TTY
+National Council on Disability\
+1331 F Street, NW, Suite 850\
+Washington, DC 20004\
+202-731-5910\
+202-272-2074 TTY\
 202-272-2022 Fax
 [FOIA@ncd.gov](mailto:FOIA@ncd.gov?subject=FOIA)
 
