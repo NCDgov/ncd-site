@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Statement for the Record - Subcommittee on Healthcare  Financial Services
+title: Statement for the Record - House Subcommittee on Healthcare  Financial Services
 collection_name: letters
 policy_areas:
   - Health Care
