@@ -7,10 +7,6 @@ meeting_year: 2025
 date: 2025-03-06
 minutes: ""
 ---
-**TIME AND DATE:** The Members of the National Council on Disability (NCD) will hold a two-day in-person Council meeting on Wednesday, July 12, 2023, 9 a.m.– 5:15 p.m. Eastern Daylight Time (EDT). and Thursday, July 13, 2023, 10 a.m. – 12:30 p.m., EDT.
-
-**PLACE:** This meeting will occur at the U.S. Access Board Conference Room, 1331 F Street, NW, Suite 800, Washington, DC 20004. The event will also be streamed live via Zoom videoconference for those not able to attend in person. .
-
 **TIME AND DATE:** The Members of the National Council on Disability (NCD) will hold a two-day in-person Council meeting on Thursday, March 6, 2025, 10 a.m.– 3:10 p.m. Eastern Standard Time (EST). and Friday, March 7, 2025, 10 a.m. – 3:10 p.m., EST.
 
 **PLACE:** This meeting will occur at the U.S. Access Board Conference Room, 1331 F Street, NW, Suite 800, Washington, DC 20004. The event will also be streamed live via Zoom videoconference for those not able to attend in person.
@@ -39,7 +35,7 @@ Dial(for higher quality, dial a number based on your current location):\
 
 **MATTERS TO BE CONSIDERED:**
 
-**Day 2** – [](<>)Following welcome remarks and introductions, a panel will present a NCD overview video and hold a pinning ceremony for its newest member; followed by a report release on Disabled Worker Tax Misclassification, with a panel discussion; Council member report outs; lunch break; followed by a panel discussion regarding recent experiences of people with disabilities during disasters; a public comment session focused on young people in nursing homes; followed by adjournment. 
+**Day 1** – [](<>)Following welcome remarks and introductions, a panel will present a NCD overview video and hold a pinning ceremony for its newest member; followed by a report release on Disabled Worker Tax Misclassification, with a panel discussion; Council member report outs; lunch break; followed by a panel discussion regarding recent experiences of people with disabilities during disasters; a public comment session focused on young people in nursing homes; followed by adjournment. 
 
 **Day 2** – Following welcome and call to order, NCD and staff will receive annual ethics training; followed by the Chairman’s report and Executive Committee Report, before adjourning.
 
@@ -83,7 +79,7 @@ Joshua Beck, Management & Program Analyst for the Taxpayer Advocate Service (IRS
 
 PUBLIC COMMENT: Your participation during the public comment period provides an opportunity for us to hear from you -- individuals, businesses, providers, educators, parents and advocates. Your comments are important in bringing to the Council’s attention and issues and priorities of the disability community.
 
-For the March 6 Council meeting, NCD will have an extended public comment period of 40 minutes and requests comments from the public regarding experiences of young people in nursing homes. Additional
+For the March 6 Council meeting, NCD will have a public comment period of 40 minutes and requests comments from the public regarding experiences of young people in nursing homes. Additional
 information on specifics of the topic is available on NCD’s public comment page at \
 <https://ncd.gov/public-comment>.
 
