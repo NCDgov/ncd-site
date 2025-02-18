@@ -7,7 +7,7 @@ meeting_year: 2025
 date: 2025-03-06
 minutes: ""
 ---
-**TIME AND DATE:** The Members of the National Council on Disability (NCD) will hold a two-day in-person Council meeting on Thursday, March 6, 2025, 10 a.m.– 3:10 p.m. Eastern Standard Time (EST). and Friday, March 7, 2025, 10 a.m. – 3:10 p.m., EST.
+**TIME AND DATE:** The Members of the National Council on Disability (NCD) will hold a two-day in-person Council meeting on Thursday, March 6, 2025, 10 a.m.– 3:10 p.m. Eastern Standard Time (EST). and Friday, March 7, 2025, 10 a.m. – 12:00 p.m., EST.
 
 **PLACE:** This meeting will occur at the U.S. Access Board Conference Room, 1331 F Street, NW, Suite 800, Washington, DC 20004. The event will also be streamed live via Zoom videoconference for those not able to attend in person.
 
