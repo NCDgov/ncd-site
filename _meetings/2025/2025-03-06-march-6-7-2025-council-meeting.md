@@ -11,7 +11,6 @@ minutes: ""
 
 **PLACE:** This meeting will occur at the U.S. Access Board Conference Room, 1331 F Street, NW, Suite 800, Washington, DC 20004. The event will also be streamed live via Zoom videoconference for those not able to attend in person. Registration is not required, but appreciated on our [Eventbrite](https://www.eventbrite.com/e/ncd-council-meeting-july-12-13-washington-dc-tickets-666960525887) page.
 
-
 **TIME AND DATE:** The Members of the National Council on Disability (NCD) will hold a two-day in-person Council meeting on Thursday, March 6, 2025, 10 a.m.– 3:10 p.m. Eastern Standard Time (EST). and Friday, March 7, 2025, 10 a.m. – 3:10 p.m., EST.
 
 **PLACE:** This meeting will occur at the U.S. Access Board Conference Room, 1331 F Street, NW, Suite 800, Washington, DC 20004. The event will also be streamed live via Zoom videoconference for those not able to attend in person.
@@ -24,7 +23,7 @@ Link TBD[](https://us06web.zoom.us/j/83304276073?pwd=UGF6TUJBcHJjSE5oVGRUK2c5OSt
 Webinar ID: \
 Passcode: 
 
-**Day 2:** March 6, 2025 10:00 a.m. EST\
+**Day 2:** March 7, 2025 10:00 a.m. EST\
 Link TBD[](https://us06web.zoom.us/j/81005515386?pwd=SWJNZk5XM1dmZlRTU2UvT0VGSnZwUT09)\
 Webinar ID: \
 Passcode: 
@@ -54,7 +53,11 @@ Eastern Saving Time):
 
 10:15 – 10:30 a.m. – History of NCD Video and Pinning Ceremony
 
-10:30 – 11:30 a.m. – Disabled Worker Tax Misclassification Report Release and Panel Discussion
+10:30 – 11:30 a.m. – Disabled Worker Tax Misclassification Report Release and Panel Discussion\
+Panelists:\
+Brian Patchett, CEO of the Louisiana Association for the Blind\
+Francine J. Lipman, tax law professor at the William S. Boyd School of Law in Las Vegas, Nevada and former Nevada Tax Commissioner\
+Joshua Beck, Management & Program Analyst for the Taxpayer Advocate Service (IRS)
 
 11:30 a.m. – 12:00 p.m. – Council Member Report Outs
 
@@ -97,6 +100,6 @@ CONTACT PERSON FOR MORE INFORMATION: Nicholas Sabula, Public Affairs Specialist,
 ACCOMMODATIONS:  ASL Interpreters will be provided in-room and included during the live streamed meeting, and CART has been arranged for this meeting and will be embedded into the Zoom
 platform as well as available via streamtext link. The web link to access CART Streamtext: <https://www.streamtext.net/player?event=NCD>
 
-If you require additional accommodations, please notify Stacey Brown by sending an email to <mailto:sbrown@ncd.gov> as soon as possible and no later than 24 hours prior to the meeting.
+If you require additional accommodations, please notify Stacey Brown by sending an email to [sbrown@ncd.gov](mailto:sbrown@ncd.gov) as soon as possible and no later than 24 hours prior to the meeting.
 
 Due to last-minute confirmations or cancellations, NCD may substitute items without advance public notice.
