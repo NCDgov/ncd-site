@@ -9,7 +9,7 @@ minutes: ""
 ---
 **TIME AND DATE:** The Members of the National Council on Disability (NCD) will hold a two-day in-person Council meeting on Wednesday, July 12, 2023, 9 a.m.– 5:15 p.m. Eastern Daylight Time (EDT). and Thursday, July 13, 2023, 10 a.m. – 12:30 p.m., EDT.
 
-**PLACE:** This meeting will occur at the U.S. Access Board Conference Room, 1331 F Street, NW, Suite 800, Washington, DC 20004. The event will also be streamed live via Zoom videoconference for those not able to attend in person. Registration is not required, but appreciated on our [Eventbrite](https://www.eventbrite.com/e/ncd-council-meeting-july-12-13-washington-dc-tickets-666960525887) page.
+**PLACE:** This meeting will occur at the U.S. Access Board Conference Room, 1331 F Street, NW, Suite 800, Washington, DC 20004. The event will also be streamed live via Zoom videoconference for those not able to attend in person. .
 
 **TIME AND DATE:** The Members of the National Council on Disability (NCD) will hold a two-day in-person Council meeting on Thursday, March 6, 2025, 10 a.m.– 3:10 p.m. Eastern Standard Time (EST). and Friday, March 7, 2025, 10 a.m. – 3:10 p.m., EST.
 
