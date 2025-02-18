@@ -11,10 +11,6 @@ minutes: ""
 
 **PLACE:** This meeting will occur at the U.S. Access Board Conference Room, 1331 F Street, NW, Suite 800, Washington, DC 20004. The event will also be streamed live via Zoom videoconference for those not able to attend in person. Registration is not required, but appreciated on our [Eventbrite](https://www.eventbrite.com/e/ncd-council-meeting-july-12-13-washington-dc-tickets-666960525887) page.
 
-![Front of Willard Hotel indicating main and accessible entrances]({{ site.baseUrl }}/assets/uploads/docs/willard-entrance-sm.png)
-
-
-
 
 **TIME AND DATE:** The Members of the National Council on Disability (NCD) will hold a two-day in-person Council meeting on Thursday, March 6, 2025, 10 a.m.– 3:10 p.m. Eastern Standard Time (EST). and Friday, March 7, 2025, 10 a.m. – 3:10 p.m., EST.
 
