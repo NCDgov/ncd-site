@@ -35,9 +35,9 @@ Dial(for higher quality, dial a number based on your current location):\
 
 **MATTERS TO BE CONSIDERED:**
 
-**Day 1** – [](<>)Following welcome remarks and introductions, a panel will present a NCD overview video and hold a pinning ceremony for its newest member; followed by a report release on Disabled Worker Tax Misclassification, with a panel discussion; Council member report outs; lunch break; followed by a panel discussion regarding recent experiences of people with disabilities during disasters; a public comment session focused on young people in nursing homes; followed by adjournment. 
+**Day 1** – [](<>)Following welcome remarks and introductions, a panel will present a NCD pinning ceremony for its newest member; followed by a report release on Disabled Worker Tax Misclassification, with a panel discussion; Council member report outs; lunch break; followed by a panel discussion regarding recent experiences of people with disabilities during disasters; a public comment session focused on young people in nursing homes; followed by adjournment. 
 
-**Day 2** – Following welcome and call to order, NCD and staff will receive annual ethics training; followed by the Chairman’s report and Executive Committee Report, before adjourning.
+**Day 2** – Following welcome and call to order, NCD Council members and staff will receive annual ethics training; followed by the Chairman’s report and Executive Committee Report, before adjourning.
 
 **AGENDA:**
 The times provided below are approximations for when each agenda item is anticipated to be discussed (all
@@ -47,10 +47,10 @@ Eastern Saving Time):
 
 10:00 – 10:15 a.m. – Welcome Greetings, Roll Call, Acceptance of Agenda
 
-10:15 – 10:30 a.m. – History of NCD Video and Pinning Ceremony
+10:15 – 10:30 a.m. – NCD Pinning Ceremony
 
 10:30 – 11:30 a.m. – Disabled Worker Tax Misclassification Report Release and Panel Discussion\
-Panelists:\
+Panelists include:\
 Brian Patchett, CEO of the Louisiana Association for the Blind\
 Francine J. Lipman, tax law professor at the William S. Boyd School of Law in Las Vegas, Nevada and former Nevada Tax Commissioner\
 Joshua Beck, Management & Program Analyst for the Taxpayer Advocate Service (IRS)
