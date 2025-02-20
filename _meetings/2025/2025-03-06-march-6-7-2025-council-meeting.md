@@ -61,7 +61,7 @@ Joshua Beck, Management & Program Analyst for the Taxpayer Advocate Service (IRS
 
 1:30 – 2:30 p.m. – Recent Experiences of People with Disabilities during Disasters Panel Discussion
 
-2:30 – 3:10 p.m. – Public Comment About Young People in Nursing Homes
+2:30 – 3:10 p.m. – Public Comment About Younger People in Nursing Homes
 
 3:10 p.m. – Adjourn
 
