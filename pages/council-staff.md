@@ -1,6 +1,6 @@
 ---
 layout: single-page
-published: true
+published: false
 permalink: /staff/
 title: Staff
 redirect_from:
