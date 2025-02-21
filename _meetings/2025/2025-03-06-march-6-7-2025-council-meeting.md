@@ -13,25 +13,11 @@ minutes: ""
 
 **Zoom Livestream available for those not able to attend in-person:**
 
-**Day 1:** March 6, 2025 10:00 a.m. EST\
-Please click the link below to join the webinar:\
-Link TBD[](https://us06web.zoom.us/j/83304276073?pwd=UGF6TUJBcHJjSE5oVGRUK2c5OSt4UT09)\
-Webinar ID: \
-Passcode: 
 
-**Day 2:** March 7, 2025 10:00 a.m. EST\
-Link TBD[](https://us06web.zoom.us/j/81005515386?pwd=SWJNZk5XM1dmZlRTU2UvT0VGSnZwUT09)\
-Webinar ID: \
-Passcode: 
 
-Or Telephone: You will be prompted to input the ID and passcode from above.\
-Dial(for higher quality, dial a number based on your current location):\
-+1 301 715 8592 US (Washington DC)\
-+1 312 626 6799 US (Chicago)\
-+1 646 876 9923 US (New York)\
-+1 669 900 6833 US (San Jose)\
-+1 253 215 8782 US (Tacoma)\
-+1 346 248 7799 US (Houston)
+Register for the meeting [here](https://events.zoomgov.com/ev/Ag76hH6Cfue4dZ4Mq7Ga036XzLxUBPzKKjX4gmkpdUr7o1JWC0YQ~ApV7due8M_aCc4exuod-RJ9uSjXe_E7YnS0oAERzDQ62SbzPBd9BBF4QMA):
+
+
 
 **MATTERS TO BE CONSIDERED:**
 
