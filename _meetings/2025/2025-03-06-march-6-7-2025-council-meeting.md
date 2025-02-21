@@ -2,7 +2,7 @@
 layout: post
 title: March 6-7 2025 Council Meeting
 collection_name: meetings
-federal_register_notice: ""
+federal_register_notice: https://www.federalregister.gov/documents/2025/02/21/2025-03023/sunshine-act-meetings
 meeting_year: 2025
 date: 2025-03-06
 minutes: ""
