@@ -9,7 +9,7 @@ tag: Press Release
 
 Feb. 21, 2025
 
-**WASHINGTON--**The Members of the National Council on Disability (NCD) will hold a two-day in-person Council meeting on Thursday, March 6, 2025, 10 a.m.– 3:10 p.m. Eastern Standard Time (EST). and Friday, March 7, 2025, 10 a.m. – noon. EST. at the U.S. Access Board Conference Room, 1331 F Street, NW, Suite 800, Washington, DC 20004. The event will also be streamed live via Zoom videoconference for those not able to attend in person.
+**WASHINGTON--**The Members of the National Council on Disability (NCD) will hold a two-day in-person Council meeting on Thursday, March 6, 2025, 10 a.m.– 3:10 p.m. EST and Friday, March 7, 2025, 10 a.m. – noon. EST. at the U.S. Access Board Conference Room, 1331 F Street, NW, Suite 800, Washington, DC 20004. The event will also be streamed live via Zoom videoconference for those not able to attend in person.
 
 Register to attend either in-person or via Zoom [here](https://events.zoomgov.com/ev/Ag76hH6Cfue4dZ4Mq7Ga036XzLxUBPzKKjX4gmkpdUr7o1JWC0YQ~ApV7due8M_aCc4exuod-RJ9uSjXe_E7YnS0oAERzDQ62SbzPBd9BBF4QMA):
 
