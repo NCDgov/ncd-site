@@ -32,7 +32,7 @@ This will further develop the information in NCD’s reports, HCBS Ecosystem (20
 
 Public comment guidelines are available on NCD’s public comment page at <https://www.ncd.gov/public-comment/>.
 
-Those wanting to participate in public comment must preregister, either through indicating they want to provide public comment during the standard registration process for the meeting or by sending an email to publiccomment@ncd.gov by 8 p.m. EST March 4. 
+Those wanting to participate in public comment must preregister, either through indicating they want to provide public comment during the standard registration process for the meeting or by sending an email to publiccomment@ncd.gov by 8 p.m. EST March 4. Public comments on any other topic will only be accepted by email.
 
 If any time remains following the conclusion of the comments of those registered, NCD may call upon those who desire to make comments on the topic but did not register.
 
