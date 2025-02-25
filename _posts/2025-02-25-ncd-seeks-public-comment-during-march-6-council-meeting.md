@@ -15,7 +15,7 @@ During a 40-minute public comment session starting at 2:30 p.m. EST, the Council
 
 The meeting will be held at the U.S. Access Board Conference Room, 1331 F Street, NW, Suite 800, Washington, DC 20004. The event will also be streamed live via Zoom videoconference for those not able to attend in person. The Council will receive public comment in person, by email or by video or audio over Zoom. 
 
-Public comment session data will fill a gap in the existing knowledge about younger people with disabilities in nursing homes by describing policies and events that contribute to nursing home placement, presenting state and federal data on the amount of younger people residing in nursing homes and describing the impacts on their lives. Finally, it will provide recommendations to federal and state agencies on improving existing policies and causes that result in the institutionalization of younger people with disabilities, particularly the Department of Health and Human Services (HHS), the Department of Housing and Urban Development (HUD), and state Medicaid agencies.
+Public comment session data may be included in NCD's upcoming report that will fill a gap in the existing knowledge about younger people with disabilities in nursing homes by describing policies and events that contribute to nursing home placement, presenting state and federal data on the amount of younger people residing in nursing homes and describing the impacts on their lives. Finally, it will provide recommendations to federal and state agencies on improving existing policies and causes that result in the institutionalization of younger people with disabilities, particularly the Department of Health and Human Services (HHS), the Department of Housing and Urban Development (HUD), and state Medicaid agencies.
 
 The following questions are relevant to the public comments:
 
@@ -28,7 +28,7 @@ The following questions are relevant to the public comments:
 * What are examples of non-governmental initiatives to help move children out of nursing homes? What states house the most children in nursing homes? What are the main causes? What is the remedy?
 * How could policymakers address the needs of younger people with disabilities in LTSS and housing policy so that nursing home placement is minimized?
 
-The  data may be included in NCD's upcoming report and will further develop the information in NCD’s reports, HCBS Ecosystem (2022), Deinstitutionalization: Unfinished Business (2012); NCD communications with Congress and the Department of Health and Human Services regarding institutionalization and HCBS; and the 2021 Progress Report: The Impacts of Covid-19 on People with Disabilities. 
+This will further develop the information in NCD’s reports, HCBS Ecosystem (2022), Deinstitutionalization: Unfinished Business (2012); NCD communications with Congress and the Department of Health and Human Services regarding institutionalization and HCBS; and the 2021 Progress Report: The Impacts of Covid-19 on People with Disabilities. 
 
 Public comment guidelines are available on NCD’s public comment page at <https://www.ncd.gov/public-comment/>.
 
