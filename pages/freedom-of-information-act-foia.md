@@ -26,7 +26,7 @@ When submitting a FOIA request to NCD, the requestor should:
 
 NCD will make every effort to respond to FOIA requests as quickly and as thoroughly as possible.
 
-NCD's Freedom of Information Officer is Amy Nicholas, Attorney Advisor:
+NCD's Freedom of Information Officer is Amged Soliman, Senior Attorney Advisor:
 
 ## Contact
 
