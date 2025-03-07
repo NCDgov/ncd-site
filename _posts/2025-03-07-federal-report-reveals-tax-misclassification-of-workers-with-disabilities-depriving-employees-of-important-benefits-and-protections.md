@@ -31,9 +31,7 @@ NCD’s investigation uncovered online bulletins used by tax attorneys and accou
 
 NCD further found that while some workers with disabilities in sheltered workshops are classified as employees for protections under the Fair Labor Standards Act, they may not be classified as employees for tax purposes, stripping them of numerous benefits of employment. 
 
-“When workers with disabilities are misclassified, they miss out on so many important benefits of employment that help secure their financial futures,” said NCD Vice Chair and Acting Chair Shawn Kennemer. 
-
-“When President H.W. Bush signed the bipartisan Americans with Disabilities Act into law 35 years ago, it was intended to level the playing field for people with disabilities and bring them into the economic mainstream," he said. "Tax misclassification acts as a barrier to that laudable goal.” 
+“When workers with disabilities are misclassified, they miss out on so many important benefits of employment that help secure their financial futures,” said NCD Vice Chair and Acting Chair Shawn Kennemer. “When President H.W. Bush signed the bipartisan Americans with Disabilities Act into law 35 years ago, it was intended to level the playing field for people with disabilities and bring them into the economic mainstream," he said. "Tax misclassification acts as a barrier to that laudable goal.” 
 
 “A 60-year-old revenue ruling rooted in a long-since rejected view of the employment potential of people with disabilities should not still be affording a loophole for employers that helps prevent workers with disabilities from receiving the safety nets of all workers,” said NCD Councilmember Neil Romano, a former NCD Chairman and previous Assistant Secretary of the U.S. Department of Labor during the George W. Bush administration. 
 
