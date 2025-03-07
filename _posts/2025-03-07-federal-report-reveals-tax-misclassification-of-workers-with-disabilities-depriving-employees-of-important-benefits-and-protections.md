@@ -17,7 +17,7 @@ March 7, 2025                                 �
 WASHINGTON – Yesterday the National Council on Disability (NCD) released a report advising Congress, the President, and his Administration on the tax misclassification of workers with disabilities,
 potentially depriving workers of important employment benefits and protections.
 
-In its advisement, titled “[Tax Misclassifi ation: Lost Employment Benefits for Disabled Workers](https://www.ncd.gov/report/tax-misclassification-lost-employment-benefits-for-disabled-workers/),” NCD
+In its advisement, titled “[Tax Misclassifiation: Lost Employment Benefits for Disabled Workers](https://www.ncd.gov/report/tax-misclassification-lost-employment-benefits-for-disabled-workers/),” NCD
 found that people with disabilities who are misclassified for federal and state employment tax purposes are ineligible for unemployment insurance and for workers’ compensation and must pay the full FICA tax, purchase their own health insurance, or rely on Medicaid. 
 
 At the report release during the Council’s quarterly meeting in Washington, NCD explained the impetus for its research into the topic. During the pandemic, attorneys representing a blind worker at a sheltered workshop in Louisiana contacted NCD about an unemployment appeal determination. Despite having worked at the same sheltered workshop for decades just like any other employee,
