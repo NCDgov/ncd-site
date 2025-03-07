@@ -33,11 +33,9 @@ NCD further found that while some workers with disabilities in sheltered worksho
 
 “When workers with disabilities are misclassified, they miss out on so many important benefits of employment that help secure their financial futures,” said NCD Vice Chair and Acting Chair Shawn Kennemer. 
 
-“When President H.W. Bush signed the bipartisan Americans with Disabilities Act into law 35 years ago, it was intended to level the playing field for people with disabilities and bring them into the economic mainstream. Tax misclassification acts as a barrier to that laudable goal.” 
+“When President H.W. Bush signed the bipartisan Americans with Disabilities Act into law 35 years ago, it was intended to level the playing field for people with disabilities and bring them into the economic mainstream," he said. "Tax misclassification acts as a barrier to that laudable goal.” 
 
 “A 60-year-old revenue ruling rooted in a long-since rejected view of the employment potential of people with disabilities should not still be affording a loophole for employers that helps prevent workers with disabilities from receiving the safety nets of all workers,” said NCD Councilmember Neil Romano, a former NCD Chairman and previous Assistant Secretary of the U.S. Department of Labor during the George W. Bush administration. 
-
-“We are hopeful that federal policymakers will share NCD’s interest in digging deeper into this loophole and discover how pervasive this practice is and at what cost to American workers with disabilities.”
 
 NCD as an independent federal agency makes several recommendations in the report to key policymakers. 
 
@@ -45,5 +43,7 @@ For example, NCD recommends Congress to remove a section of the tax code that ex
 people with disabilities in sheltered workshops from the term “employment” under the Federal Unemployment Tax Act; and to hold hearings to identify outdated tax provisions and their impact on people with disabilities seeking employment.
 
 NCD recommends that the IRS should conduct random employment tax audits focused on worker classification; should convene an interagency workgroup to identify other outdated tax provisions that may be used to prevent people with from attaining employment status for tax purposes; and that the Department of Treasury should revoke Revenue Ruling 65-165 as it creates a barrier to employment for people with disabilities. 
+
+“We are hopeful that federal policymakers will share NCD’s interest in digging deeper into this loophole and discover how pervasive this practice is and at what cost to American workers with disabilities,” said Romano.
 
 Read the full report at [NCD.gov](https://www.ncd.gov/report/tax-misclassification-lost-employment-benefits-for-disabled-workers/).
