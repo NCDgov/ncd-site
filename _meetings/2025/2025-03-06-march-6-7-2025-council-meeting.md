@@ -6,6 +6,7 @@ federal_register_notice: https://www.federalregister.gov/documents/2025/02/21/20
 meeting_year: 2025
 date: 2025-03-06
 minutes: ""
+misc_files_1: meetings/2025/march-6-7-2025-council-meeting/worker-misclassification-slides-final-1-copy.pptx
 ---
 **TIME AND DATE:** The Members of the National Council on Disability (NCD) will hold a two-day in-person Council meeting on Thursday, March 6, 2025, 10 a.m.– 3:10 p.m. Eastern Standard Time (EST). and Friday, March 7, 2025, 10 a.m. – 12:00 p.m., EST.
 
