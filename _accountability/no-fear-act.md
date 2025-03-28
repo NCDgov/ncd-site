@@ -19,8 +19,8 @@ No FEAR Act data, updated April 8, 2024
 * FY 2019 Report Report [[PDF](https://www.ncd.gov/assets/uploads/no-fear//no-fear-act-report-fy19.pdf)]
 * FY 2018 Report [[PDF](https://www.ncd.gov/assets/uploads/no-fear//no-fear-act-report-fy18.pdf)]
 
+**Quarterly Reports**
 
-  **Quarterly Reports**
 * FY2024 Q1 Report [[PDF](https://www.ncd.gov/assets/uploads/no-fear/no-fear-act-report-fy24-q1.pdf)]
 * FY2023 Q4 Report [[PDF](https://www.ncd.gov/assets/uploads/no-fear/no-fear-act-report-fy23-q4.pdf)]
 * FY2023 Q3 Report [[PDF](https://www.ncd.gov/assets/uploads/no-fear/no-fear-act-report-fy23-q3.pdf)]
@@ -32,7 +32,7 @@ No FEAR Act data, updated April 8, 2024
 * FY2022 Q1  Report [[PDF](https://www.ncd.gov/assets/uploads/no-fear/no-fear-act-report-fy22-q1.pdf)]
 * FY2021 Q4  Report [[PDF](https://www.ncd.gov/assets/uploads/no-fear/no-fear-act-report-fy21-q4.pdf)]
 * FY2021 Q3  Report [[PDF](https://www.ncd.gov/assets/uploads/no-fear/no-fear-act-report-fy21-q3.pdf)]
-* FY2021 Q2  Report [\[PDF]](https://www.ncd.gov/assets/uploads/no-fear/no-fear-act-report-fy21-q2.pdf)
+* FY2021 Q2  Report \[[PDF]](https://www.ncd.gov/assets/uploads/no-fear/no-fear-act-report-fy21-q2.pdf)
 * FY2021 Q1 Report [[PDF](https://www.ncd.gov/assets/uploads/no-fear/no-fear-act-report-fy21-q1.pdf)]
 
 ## **Notice**
