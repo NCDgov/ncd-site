@@ -25,7 +25,7 @@ No FEAR Act data, updated March 28, 2025
 * FY2023 Q4 Report \[PDF]
 * FY2023 Q3 Report [[PDF](https://www.ncd.gov/assets/uploads/no-fear/no-fear-act-report-fy23-q3.pdf)]
 * FY2023 Q2 Report [[PDF](https://www.ncd.gov/assets/uploads/no-fear/no-fear-act-report-fy23-q2.pdf)]
-* FY2023 Q1  Report [[PDF](https://www.ncd.gov/assets/uploads/no-fear/no-fear-act-report-fy23-q1.pdf)]
+* FY2023 Q1  Report \[PDF]
 * FY2022 Q4  Report [[PDF](https://www.ncd.gov/assets/uploads/no-fear/no-fear-act-report-fy22-q4.pdf)]
 * FY2022 Q3  Report [[PDF](https://www.ncd.gov/assets/uploads/no-fear/no-fear-act-report-fy22-q3.pdf)]
 * FY2022 Q2  Report [[PDF](https://www.ncd.gov/assets/uploads/no-fear/no-fear-act-report-fy22-q2.pdf)]
