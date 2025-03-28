@@ -11,28 +11,26 @@ No FEAR Act data, updated April 8, 2024
 
 **Annual Reports**
 
-- FY 2023 Report ([PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy23.pdf))
-- FY 2022 Report ([PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy22.pdf))
-- FY 2021 Report ([PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy21.pdf))
-- FY 2020 Report ([PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy20.pdf))
-- FY 2019 Report ([PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy19.pdf)) ([DOC]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy19.docx))
-- FY 2018 Report ([PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy18.pdf)) ([DOC]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy18.docx))
+* FY 2024 Report (\[PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy24.pdf))
+* FY 2020 Report (\[PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy20.pdf))
+* FY 2019 Report (\[PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy19.pdf)) (\[DOC]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy19.docx))
+* FY 2018 Report (\[PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy18.pdf)) (\[DOC]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy18.docx))
 
 **Quarterly Reports**
 
-- FY2024 Q1  Report ([PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy24-q1.pdf))
-- FY2023 Q4  Report ([PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy23-q4.pdf))
-- FY2023 Q3  Report ([PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy23-q3.pdf))
-- FY2023 Q2  Report ([PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy23-q2.pdf))
-- FY2023 Q1  Report ([PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy23-q1.pdf))
-- FY2022 Q4  Report ([PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy22-q4.pdf))
-- FY2022 Q3  Report ([PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy22-q3.pdf))
-- FY2022 Q2  Report ([PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy22-q2.pdf))
-- FY2022 Q1  Report ([PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy22-q1.pdf))
-- FY2021 Q4  Report ([PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy21-q4.pdf))
-- FY2021 Q3  Report ([PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy21-q3.pdf))
-- FY2021 Q2  Report ([PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy21-q2.pdf))
-- FY2021 Q1  Report ([PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy21-q1.pdf))
+* FY2024 Q1  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy24-q1.pdf))
+* FY2023 Q4  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy23-q4.pdf))
+* FY2023 Q3  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy23-q3.pdf))
+* FY2023 Q2  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy23-q2.pdf))
+* FY2023 Q1  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy23-q1.pdf))
+* FY2022 Q4  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy22-q4.pdf))
+* FY2022 Q3  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy22-q3.pdf))
+* FY2022 Q2  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy22-q2.pdf))
+* FY2022 Q1  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy22-q1.pdf))
+* FY2021 Q4  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy21-q4.pdf))
+* FY2021 Q3  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy21-q3.pdf))
+* FY2021 Q2  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy21-q2.pdf))
+* FY2021 Q1  Report (\[PDF]({{ site.baseUrl }}/assets/uploads/no-fear/no-fear-act-report-fy21-q1.pdf))
 
 ## **Notice**
 
