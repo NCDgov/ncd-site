@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No Fear Act
-date: April 8, 2024
+date: March 28, 2025
 redirect_from:
   - /Accountability/No_Fear_Act
 ---
