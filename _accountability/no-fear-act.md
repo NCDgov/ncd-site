@@ -5,7 +5,7 @@ date: March 28, 2025
 redirect_from:
   - /Accountability/No_Fear_Act
 ---
-No FEAR Act data, updated April 8, 2024
+No FEAR Act data, updated March 28, 2025
 
 ## Reports to Congress
 
@@ -32,7 +32,7 @@ No FEAR Act data, updated April 8, 2024
 * FY2022 Q1  Report [[PDF](https://www.ncd.gov/assets/uploads/no-fear/no-fear-act-report-fy22-q1.pdf)]
 * FY2021 Q4  Report [[PDF](https://www.ncd.gov/assets/uploads/no-fear/no-fear-act-report-fy21-q4.pdf)]
 * FY2021 Q3  Report [[PDF](https://www.ncd.gov/assets/uploads/no-fear/no-fear-act-report-fy21-q3.pdf)]
-* FY2021 Q2  Report \[[PDF]](https://www.ncd.gov/assets/uploads/no-fear/no-fear-act-report-fy21-q2.pdf)
+* FY2021 Q2  Report [[PDF](https://www.ncd.gov/assets/uploads/no-fear/no-fear-act-report-fy21-q2.pdf)]
 * FY2021 Q1 Report [[PDF](https://www.ncd.gov/assets/uploads/no-fear/no-fear-act-report-fy21-q1.pdf)]
 
 ## **Notice**
