@@ -21,7 +21,7 @@ misc_files_2: ""
 
 NCD’s framework begins with five core areas that NCD views as foundational for ending health disparities for people with disabilities. It is followed by numerous additional components that were identified by disability community leaders as being of critical importance.
 
-These foundational planks, which lay the structural framework for a comprehensive guide to policymakers to improving health equity for people with disabilities, are as follows:
+These foundational planks, which lay the structural framework for a comprehensive guide to policymakers to end health disparities for people with disabilities, are as follows:
 
 1. Designating people with disabilities as a Special Medically Underserved Population (SMUP) under the Public Health Services Act;
 2. Designating people with disabilities as a Health Disparity Population under the Minority Health and Health Disparities Research and Education Act;
