@@ -3,7 +3,7 @@ layout: post
 title: Framework to End Health Disparities of People with Disabilities
 collection_name: reports
 date: April 7, 2025
-report_year: 2025
+report_year: 2022
 policy_areas:
   - Health Care
   - Civil Rights
