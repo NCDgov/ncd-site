@@ -31,26 +31,22 @@ Respectfully,
 David Shawn Kennemer\
 Vice Chair, Acting Chair
 
+\----------------
 
+ <sup>1</sup>  Forman-Hoffman, V. L., Ault, K. L., Anderson, W. L., Weiner, J. M., Stevens, A., Campbell, V. A., & Armour, B. S. (2015). Disability status, mortality, and leading causes of death in the United States Community Population. Medical Care, 53(4), 346–354. https://pubmed.ncbi. nlm.nih.gov/25719432/.  
 
-\----------------\
+ <sup>2</sup>  Williams, M., Campbell, J., Zhang, Y., Felty, W., Harnden, A., Bannister, E. & Williams, V. (2020, Oct. 24-28). Exploring Health Disparities Among Individuals with Disabilities Within the United States, American Public Health Association \[Paper presentation], American Association of Public Health, Virtual. <https://apha.confex.com/apha/2020/meetingapp.cgi/Paper/473208>.
 
-\<sup>1</sup>  Forman-Hoffman, V. L., Ault, K. L., Anderson, W. L., Weiner, J. M., Stevens, A., Campbell, V. A., & Armour, B. S. (2015). Disability status, mortality, and leading causes of death in the United States Community Population. Medical Care, 53(4), 346–354. https://pubmed.ncbi. nlm.nih.gov/25719432/.  
+ <sup>3</sup>  Williams, M., Campbell, J., Zhang, Y., Felty, W., Harnden, A., Bannister, E. & Williams, V. (2020, Oct. 24-28). Exploring Health Disparities Among Individuals with Disabilities Within the United States, American Public Health Association \[Paper presentation], American Association of Public Health, Virtual.
 
-\<sup>2</sup>  Williams, M., Campbell, J., Zhang, Y., Felty, W., Harnden, A., Bannister, E. & Williams, V. (2020, Oct. 24-28). Exploring Health Disparities Among Individuals with Disabilities Within the United States, American Public Health Association \[Paper presentation], American Association of Public Health, Virtual. <https://apha.confex.com/apha/2020/meetingapp.cgi/Paper/473208>.
-
-\<sup>3</sup>  Williams, M., Campbell, J., Zhang, Y., Felty, W., Harnden, A., Bannister, E. & Williams, V. (2020, Oct. 24-28). Exploring Health Disparities Among Individuals with Disabilities Within the United States, American Public Health Association \[Paper presentation], American Association of Public Health, Virtual.
-
-\<sup>4</sup>  Kharn, G., Klein,
+ <sup>4</sup>  Kharn, G., Klein,
 W., & Correa-De-Araujo, R. (21015). Persons with disabilities as an unrecognized health disparity population. American Journal of Public Health, 105(S2), 198-206.
 
-\<sup>5</sup>  Mahmoudi, E., & Meade, M. A. (2015). Disparities in access to health care among adults with physical disabilities: Analysis of a representative national sample for a ten-year period. Disability and Health Journal, 8(2), 182–190. <https://doi.org/10.1016/j.dhjo.2014.08.007>.
+<sup>5</sup>  Mahmoudi, E., & Meade, M. A. (2015). Disparities in access to health care among adults with physical disabilities: Analysis of a representative national sample for a ten-year period. Disability and Health Journal, 8(2), 182–190. <https://doi.org/10.1016/j.dhjo.2014.08.007>.
 
+<sup>6</sup>  Nosek, M. A., & Howland, C. A. (1997). Breast and cervical cancer screening among women with physical disabilities. Archives of Physical Medicine and Rehabilitation, 78(12), S39–S44. <https://doi.org/10.1016/s0003-9993(97)90220-3>.
 
-\<sup>6</sup>  Nosek, M. A., & Howland, C. A. (1997). Breast and cervical cancer screening among women with physical disabilities. Archives of Physical Medicine and
-Rehabilitation, 78(12), S39–S44. <https://doi.org/10.1016/s0003-9993(97)90220-3>.
+<sup>7</sup>  National Council on Disability, “The Current State of Health Care for People with Disabilities” (2009), <https://www.ncd.gov/report/the-current-state-of-health-care-for-people-with-disabilities/>.
 
-\<sup>7</sup>  National Council on Disability, “The Current State of Health Care for People with Disabilities” (2009), <https://www.ncd.gov/report/the-current-state-of-health-care-for-people-with-disabilities/>.
-
-\<sup>8</sup>  National Council on Disability, “Framework to End Health Disparities of People with Disabilities
+<sup>8</sup>  National Council on Disability, “Framework to End Health Disparities of People with Disabilities
 (2022), <https://www.ncd.gov/report/framework-to-end-health-disparities-of-people-with-disabilities/>.
