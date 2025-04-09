@@ -1,5 +1,6 @@
 ---
 ---
+
 /*
   Customize US Web Design System SASS
   See all at designsystem.digital.gov/documentation/settings
@@ -45,13 +46,17 @@ i.e.
 ----------------------------------------
 */
 
+#main-content {
+  border: 0;
+}
+
 h1 {
   @include u-text("primary");
 }
 
 p > a {
   min-width: 24px;
-  padding: 0 .2em;
+  padding: 0 0.2em;
 }
 
 .section-heading {
@@ -116,9 +121,10 @@ p > a {
 // Hero Tagline
 
 .hero-section {
-  background-image: "{{site.baseurl}}/assets/images/hero-background.png";
+  background-image: url("{{site.baseurl}}/assets/images/ghwbush-signing-ada-1990-l.jpg");
   background-repeat: no-repeat;
-  background-position: center;
+  background-size: cover;
+  background-position: center center;
 }
 
 .hero-wrap {
@@ -138,7 +144,7 @@ p > a {
   background-repeat: no-repeat;
   background-position: 100% 25%;
 
-  @media only screen and (min-width: 800px){
+  @media only screen and (min-width: 800px) {
     background-image: asset_url("hero-background.png");
   }
 }
@@ -148,22 +154,20 @@ p > a {
 }
 
 .hero-callout {
-  background-color: rgba(255, 255, 255, 1);
+  background-color: rgba(255, 255, 255, 0.85);
 }
 
 .featured-item {
   &:nth-child(even) {
-
     .grid-container {
-      background-color:  #ffffff;
+      background-color: #ffffff;
     }
 
-   .featured-item-row {
+    .featured-item-row {
       flex-direction: row;
     }
   }
   &:nth-child(odd) {
-
     .grid-container {
       background-color: #162e51;
     }
