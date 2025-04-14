@@ -4,7 +4,7 @@ published: true
 permalink: /accessibility/
 title: Accessibility
 ---
-**Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. § 794d)**
+## **Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. § 794d)**
 
 The National Council on Disability is committed to making its information and communication technologies accessible to individuals with disabilities by meeting or exceeding the requirements of Section 508 of the Rehabilitation Act.
 
@@ -16,22 +16,22 @@ If you have questions about the NCD's Section 508 program supporting ICT,  fee
 
 Feedback on the website, including accessibility issues or recommendations can be submitted through our [Feedback page](https://www.ncd.gov/feedback/).
 
-If you would like to file a Section 508 related complaint, please contact Anne Sommers McIntosh, Executive Director at [amcintosh@ncd.gov](mailto:amcintosh@ncd.gov). 
+If you would like to file a Section 508 related complaint, please contact Ana Torres-Davis, Acting Executive Director at [atorresdavis@ncd.gov.](mailto:amcintosh@ncd.gov)
 
-By fax, please fax to the attention of Anne Sommers McIntosh to (202) 272-2022.
+By fax, please fax to the attention of Ana Torres-Davis to (202) 272-2022.
 
 By mail, please send your letters to:
 
-Anne Sommers McIntosh\
-Executive Director\
+Ana Torres-Davis\
+Acting Executive Director\
 National Council on Disability\
 1331 F Street, NW, Suite 850\
 Washington, DC 20004
 
 Questions about accessibility of information and communication technologies may be directed to [publicaffairs@ncd.gov](mailto:publicaffairs@ncd.gov?subject=508%20question).
 
-Architectural Barriers Act of 1968 (42 U.S.C. §§ 4151--57)
+## Architectural Barriers Act of 1968 (42 U.S.C. §§ 4151--57)
 
 The Architectural Barriers Act (ABA) requires access to facilities that are designed, built, altered, or leased with Federal funds. The Access Board is the federal agency responsible for enforcing the ABA. The Access Board's accessibility standards are available on their website at [www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards](http://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards), and information about filing a complaint may be found at [www.access-board.gov/aba-enforcement/file-a-complaint](https://www.access-board.gov/enforcement/ "www.access-board.gov/aba-enforcement/file-a-complaint").
 
-(updated April 5, 2024)
+(updated April 14, 2025)
