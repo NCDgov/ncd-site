@@ -66,3 +66,24 @@ For further information regarding the No FEAR Act regulations, refer to 5 CFR 72
 ## **Existing Rights Unchanged**
 
 Pursuant to section 205 of the No FEAR Act, neither the Act nor this notice creates, expands or reduces any rights otherwise available to any employee, former employee or applicant under the laws of the United States, including the provisions of law specified in 5 U.S.C. 2302(d).
+
+# EEO
+
+[EEO Policy Statement](https://www.ncd.gov/accountability/eeo-policy-statement/)
+
+[Affirmative Action Plan](https://www.ncd.gov/assets/uploads/docs/NCD-Affirmative-Action-Plan.pdf)
+
+[Personal Assistant Services Policy](https://www.ncd.gov/assets/uploads/docs/NCD-EEO-Personal-Assistant-Services.pdf)
+
+[Reasonable Accommodation Policy](https://www.ncd.gov/assets/uploads/docs/NCD-Affirmative-Action-Plan.pdf)
+
+
+
+
+
+
+
+
+
+
+EEO Reasonable Accommodation
