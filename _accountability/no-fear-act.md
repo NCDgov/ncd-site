@@ -76,14 +76,3 @@ Pursuant to section 205 of the No FEAR Act, neither the Act nor this notice crea
 [Personal Assistant Services Policy](https://www.ncd.gov/assets/uploads/docs/NCD-EEO-Personal-Assistant-Services.pdf)
 
 [Reasonable Accommodation Policy](https://www.ncd.gov/assets/uploads/docs/NCD-Affirmative-Action-Plan.pdf)
-
-
-
-
-
-
-
-
-
-
-EEO Reasonable Accommodation
