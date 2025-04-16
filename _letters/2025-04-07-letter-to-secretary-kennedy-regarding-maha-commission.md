@@ -39,8 +39,7 @@ Vice Chair, Acting Chair
 
 [^3]: Williams, M., Campbell, J., Zhang, Y., Felty, W., Harnden, A., Bannister, E. & Williams, V. (2020, Oct. 24-28). Exploring Health Disparities Among Individuals with Disabilities Within the United States, American Public Health Association \[Paper presentation], American Association of Public Health, Virtual.
 
-[^4]: Kharn, G., Klein,
-W., & Correa-De-Araujo, R. (21015). Persons with disabilities as an unrecognized health disparity population. American Journal of Public Health, 105(S2), 198-206.
+[^4]: Kharn, G., Klein, W., & Correa-De-Araujo, R. (21015). Persons with disabilities as an unrecognized health disparity population. American Journal of Public Health, 105(S2), 198-206.
 
 [^5]: Mahmoudi, E., & Meade, M. A. (2015). Disparities in access to health care among adults with physical disabilities: Analysis of a representative national sample for a ten-year period. Disability and Health Journal, 8(2), 182–190. <https://doi.org/10.1016/j.dhjo.2014.08.007>.
 
