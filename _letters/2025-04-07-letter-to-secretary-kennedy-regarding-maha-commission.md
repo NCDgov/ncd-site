@@ -47,5 +47,4 @@ Vice Chair, Acting Chair
 
 [^7]: National Council on Disability, “The Current State of Health Care for People with Disabilities” (2009), <https://www.ncd.gov/report/the-current-state-of-health-care-for-people-with-disabilities/>.
 
-[^8]: National Council on Disability, “Framework to End Health Disparities of People with Disabilities
-(2022), <https://www.ncd.gov/report/framework-to-end-health-disparities-of-people-with-disabilities/>.
+[^8]: National Council on Disability, “Framework to End Health Disparities of People with Disabilities (2022), <https://www.ncd.gov/report/framework-to-end-health-disparities-of-people-with-disabilities/>.
