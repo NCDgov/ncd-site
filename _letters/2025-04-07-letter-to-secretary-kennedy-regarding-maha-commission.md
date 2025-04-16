@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Letter to Secretary Kennedy regarding MAHA Commission
+title: Letter to HHS Secretary Kennedy regarding MAHA Commission
 collection_name: letters
 policy_areas:
   - Health Care
