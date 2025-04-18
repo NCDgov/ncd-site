@@ -5,8 +5,11 @@ GEM
       public_suffix (>= 2.0.2, < 6.0)
     autoprefixer-rails (10.4.15.0)
       execjs (~> 2)
+    base64 (0.2.0)
+    bigdecimal (3.1.9)
     colorator (1.1.0)
     concurrent-ruby (1.2.2)
+    csv (3.3.4)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -80,6 +83,9 @@ PLATFORMS
 
 DEPENDENCIES
   autoprefixer-rails
+  base64
+  bigdecimal
+  csv
   jekyll (= 4.2.2)
   jekyll-feed (~> 0.15)
   jekyll-paginate-v2 (~> 3.0)
