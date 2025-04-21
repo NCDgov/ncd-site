@@ -1,6 +1,6 @@
 ---
 layout: single-page
-published: false
+published: true
 permalink: /staff/
 title: NCD Staff
 redirect_from: []
