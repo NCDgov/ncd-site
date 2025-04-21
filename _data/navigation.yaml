@@ -5,6 +5,8 @@ primary:
         url: /about-us/
       - name: Council Members
         url: /council-members/
+      - name: Staff
+        url: /staff/
       - name: Email Directory
         url: /contact/
       - name: Council Meetings
