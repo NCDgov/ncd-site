@@ -71,7 +71,7 @@ Pursuant to section 205 of the No FEAR Act, neither the Act nor this notice crea
 
 [EEO Policy Statement](https://www.ncd.gov/accountability/eeo-policy-statement/)
 
-[Affirmative Action Plan](https://www.ncd.gov/assets/uploads/docs/NCD-Affirmative-Action-Plan.pdf)
+[Affirmative Action Plan](https://www.ncd.gov/assets/uploads/docs/NCD-Affirmative-Action-Plan-2025.pdf)
 
 [Personal Assistant Services Policy](https://www.ncd.gov/assets/uploads/docs/NCD-EEO-Personal-Assistant-Services.pdf)
 
