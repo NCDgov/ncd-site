@@ -23,20 +23,9 @@ governance:
   children:
     - name: News
       url: /newsroom/
-    - name: FOIA
-      url: /foia/
     - name: Contact NCD
       url: /contact/
     - name: Subscribe for NCD News
       url: /subscribe/
     - name: Sitemap
       url: /sitemap.xml
-policies:
-  name: Policies / Statements
-  children:
-    - name: No FEAR Act Data
-      url: /accountability/no-fear-act/
-    - name: Vulnerability Disclosure Policy
-      url: /accountability/vulnerability-disclosure-policy/
-    - name: View accessibility statement
-      url: /accessibility/

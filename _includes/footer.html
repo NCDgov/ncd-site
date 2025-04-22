@@ -1,75 +1,11 @@
 <footer class="usa-footer site-footer" role="contentinfo">
-  <div class="footer-section-bottom bg-accent-warm-lightest">
+  <div
+    class="usa-footer__secondary-section footer-section-bottom bg-accent-warm-lightest"
+  >
     <div class="grid-container">
       <div class="grid-row grid-gap padding-top-6 padding-bottom-4">
         <div class="tablet:grid-col-3">
-          <h4>{{ site.data.footer_links.budget.name }}</h4>
-          <ul class="add-list-reset">
-            {% for item in site.data.footer_links.budget.children %}
-            <li>
-              <a
-                class="usa-footer__secondary-link"
-                href="{{ site.baseurl }}{{item.url}}"
-              >
-               {{ item.name }}
-              </a>
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-        <div class="tablet:grid-col-3">
-          <h4>{{ site.data.footer_links.resources.name }}</h4>
-          <ul class="add-list-reset">
-            {% for item in site.data.footer_links.resources.children %}
-            <li>
-              <a
-                class="usa-footer__secondary-link"
-                href="{{ site.baseurl }}{{item.url}}"
-              >
-               {{ item.name }}
-              </a>
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-        <div class="tablet:grid-col-3">
-          <h4>{{ site.data.footer_links.governance.name }}</h4>
-          <ul class="add-list-reset">
-            {% for item in site.data.footer_links.governance.children %}
-            <li>
-              <a
-                class="usa-footer__secondary-link"
-                href="{{ site.baseurl }}{{item.url}}"
-              >
-               {{ item.name }}
-              </a>
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-        <div class="tablet:grid-col-3">
-          <h4>{{ site.data.footer_links.policies.name }}</h4>
-          <ul class="add-list-reset">
-            {% for item in site.data.footer_links.policies.children %}
-            <li>
-              <a
-                class="usa-footer__secondary-link"
-                href="{{ site.baseurl }}{{item.url}}"
-              >
-               {{ item.name }}
-              </a>
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="usa-footer__secondary-section bg-primary-darker padding-top-4">
-    <div class="grid-container">
-      <div class="grid-row grid-gap margin-bottom-2">
-        <div class="usa-footer__contact-links mobile-lg:grid-col-12">
-          <div class="usa-footer grid-row">
+          <div class="usa-footer grid-row margin-bottom-1">
             <div class="grid-col-auto margin-right-2">
               <a
                 href="https://x.com/{{ site.x }}"
@@ -79,8 +15,7 @@
                 <img
                   alt="twitter logo"
                   class="height-3 width-auto"
-                  src="{{site.baseurl}}/assets/images/x-logo.svg"
-                  style="filter: brightness(0) invert(1);"
+                  src="{{site.baseurl}}/assets/images/x-logo-black.svg"
                 />
                 <span class="display-none">Twitter</span>
               </a>
@@ -95,7 +30,6 @@
                   alt="instagram logo"
                   class="height-3 width-auto"
                   src="{{site.baseurl}}/assets/images/instagram.svg"
-                  style="filter: brightness(0) invert(1);"
                 />
                 <span class="display-none">Instagram</span>
               </a>
@@ -110,7 +44,6 @@
                   alt="linkedin logo"
                   class="height-3 width-auto"
                   src="{{site.baseurl}}/assets/images/ln.svg"
-                  style="filter: brightness(0) invert(1);"
                 />
                 <span class="display-none">LinkedIn</span>
               </a>
@@ -125,7 +58,6 @@
                   alt="facebook logo"
                   class="height-3 width-auto"
                   src="{{site.baseurl}}/assets/images/facebook.svg"
-                  style="filter: brightness(0) invert(1);"
                 />
                 <span class="display-none">Facebook</span>
               </a>
@@ -145,17 +77,70 @@
               </a>
             </div>
           </div>
+
+          <div class="margin-bottom-1">
+            <span class="text-semibold">National Council on Disability</span
+            ><br />
+            1331 F Street, NW, Suite 850<br />
+            Washington, DC 20004
+          </div>
+          <div>
+            <h3 class="margin-bottom-0">Phone</h3>
+            202-272-2004 (voice)<br />
+            202-272-2022 (fax)
+          </div>
         </div>
-      </div>
-      <div class="margin-bottom-2 text-white">
-        National Council on Disability<br />
-        1331 F Street, NW, Suite 850<br />
-        Washington, DC 20004
-      </div>
-      <div class="text-white">
-        <h3 class="margin-bottom-1">Phone</h3>
-        202-272-2004 (voice)<br />
-        202-272-2022 (fax)
+        <div class="tablet:grid-col-3">
+          <h4 class="tablet:margin-top-0 margin-bottom-1">
+            {{ site.data.footer_links.budget.name }}
+          </h4>
+          <ul class="add-list-reset">
+            {% for item in site.data.footer_links.budget.children %}
+            <li>
+              <a
+                class="usa-footer__secondary-link"
+                href="{{ site.baseurl }}{{item.url}}"
+              >
+                {{ item.name }}
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="tablet:grid-col-3">
+          <h4 class="tablet:margin-top-0 margin-bottom-1">
+            {{ site.data.footer_links.resources.name }}
+          </h4>
+          <ul class="add-list-reset">
+            {% for item in site.data.footer_links.resources.children %}
+            <li>
+              <a
+                class="usa-footer__secondary-link"
+                href="{{ site.baseurl }}{{item.url}}"
+              >
+                {{ item.name }}
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="tablet:grid-col-3">
+          <h4 class="tablet:margin-top-0 margin-bottom-1">
+            {{ site.data.footer_links.governance.name }}
+          </h4>
+          <ul class="add-list-reset">
+            {% for item in site.data.footer_links.governance.children %}
+            <li>
+              <a
+                class="usa-footer__secondary-link"
+                href="{{ site.baseurl }}{{item.url}}"
+              >
+                {{ item.name }}
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
       </div>
     </div>
   </div>
@@ -169,10 +154,11 @@
     <div class="usa-identifier__container">
       <div class="usa-identifier__logos">
         <a href="{{ site.baseurl }}" class="usa-identifier__logo">
-          <img src="{{site.baseurl}}/assets/images/ncd-logo.png"
+          <img
+            src="{{site.baseurl}}/assets/images/ncd-logo.png"
             alt="NCD Logo"
             class="usa-identifier__logo-img"
-            />
+          />
         </a>
       </div>
       <div
@@ -184,7 +170,55 @@
           An official website of the
           <a href="{{ site.baseurl }}"> National Council on Disability </a>
         </p>
+      </div>
     </div>
   </section>
-
+  <nav
+    class="usa-identifier__section usa-identifier__section--required-links"
+    aria-label="Important links,"
+  >
+    <div class="usa-identifier__container">
+      <ul class="usa-identifier__required-links-list">
+        <li class="usa-identifier__required-links-item">
+          <a
+            href="{{ site.baseurl }}/accessibility/"
+            class="usa-identifier__required-link usa-link"
+            >Accessibility statement</a
+          >
+        </li>
+        <li class="usa-identifier__required-links-item">
+          <a
+            href="{{ site.baseurl }}/foia/"
+            class="usa-identifier__required-link usa-link"
+            >FOIA requests</a
+          >
+        </li>
+        <li class="usa-identifier__required-links-item">
+          <a
+            href="{{ site.baseurl }}/accountability/no-fear-act/"
+            class="usa-identifier__required-link usa-link"
+            >No FEAR Act data</a
+          >
+        </li>
+        <li class="usa-identifier__required-links-item">
+          <a
+            href="{{ site.baseurl }}/accountability/vulnerability-disclosure-policy/"
+            class="usa-identifier__required-link usa-link"
+            >Vulnerability Disclosure Policy</a
+          >
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <section
+    class="usa-identifier__section usa-identifier__section--usagov"
+    aria-label="U.S. government information and services,"
+  >
+    <div class="usa-identifier__container">
+      <div class="usa-identifier__usagov-description">
+        Looking for U.S. government information and services?
+      </div>
+      <a href="https://www.usa.gov/" class="usa-link">Visit USA.gov</a>
+    </div>
+  </section>
 </div>
