@@ -1,6 +1,6 @@
 ---
 layout: post
-title: May 29-30 2025 Council Meeting
+title: May 29-30, 2025 Council Meeting
 collection_name: meetings
 federal_register_notice: ""
 meeting_year: 2025
