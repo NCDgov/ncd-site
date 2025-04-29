@@ -19,8 +19,7 @@ misc_files_1: ""
 **Day 2 –** Following welcome and call to order, NCD Council members and staff will receive Freedom of Information Act (FOIA) training; followed by the Chairman’s report and Executive Committee Report, break; and an agency strategic plan discussion before adjourning.
 
 AGENDA:
-The times provided below are approximations for when each agenda item is anticipated to be discussed (all
-Eastern Saving Time):
+The times provided below are approximations for when each agenda item is anticipated to be discussed (all Eastern Daylight Time):
 
 **Thursday, May 29, 2025**
 
@@ -77,6 +76,6 @@ CONTACT PERSON FOR MORE INFORMATION: Nicholas Sabula, Public Affairs Specialist,
 
 ACCOMMODATIONS:  ASL Interpreters will be provided in-room during the meeting, and CART has been arranged for this meeting via streamtext link. The web link to access meeting via CART Streamtext: <https://www.streamtext.net/player?event=NCD>
 
-If you require additional accommodations, please notify Stacey Brown by sending an email to <mailto:sbrown@ncd.gov> as soon as possible and no later than 24 hours prior to the meeting.
+If you require additional accommodations, please notify Stacey Brown by sending an email to [sbrown@ncd.gov](mailto:sbrown@ncd.gov) as soon as possible and no later than 24 hours prior to the meeting.
 
 Due to last-minute confirmations or cancellations, NCD may substitute items without advance public notice.
