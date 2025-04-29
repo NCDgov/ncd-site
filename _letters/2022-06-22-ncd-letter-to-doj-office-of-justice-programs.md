@@ -1,6 +1,7 @@
 ---
 layout: post
-title: NCD Letter to DOJ Office of Justice Programs
+title: Letter to DOJ Office of Justice Programs regarding Sexual Assault on
+  College Campuses
 policy_areas:
   - Civil Rights
   - Education
