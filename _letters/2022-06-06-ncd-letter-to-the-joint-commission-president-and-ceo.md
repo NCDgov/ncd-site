@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NCD Letter to the Joint Commission President and CEO
+title: Letter Introducing NCD to new Join Commission President, CEO
 policy_areas:
   - Health Care
 date: 2022-06-06
