@@ -11,11 +11,14 @@ Your participation during the public comment period provides an opportunity for 
 
 **Next Public Comment Opportunity:**
 
-Thursday, March 6, 2024 during NCD's Council Meeting.
+Thursday, May 29, 2025, from 4 to 4:45 p.m. EDT during NCD's Council Meeting.
 
-2:30 – 3:10 PM Public Comment About Younger People in Nursing Homes
+**Topic(s):** Youth and younger adults in nursing homes; 2025 Progress Report notable policy developments
 
-Information on our Council meeting is available on our [Upcoming Event page](https://www.ncd.gov/meeting/2025-03-06-march-6-7-2025-council-meeting/).
+
+For the May 29 Council meeting, NCD will have a public comment period of 45 minutes and requests comments from the public regarding the experiences of youth and younger adults in nursing homes and for our 2025 Progress Report focused on what the public considers the most notable disability policy developments since Summer 2024. The Council would also like to hear about any missed opportunities within those achievements.
+
+Information on our Council meeting is available on our [Upcoming Event page](https://www.ncd.gov/meeting/2025-05-29-may-29-30-2025-council-meeting/).
 
 Public comment will be used to further develop the information in NCD’s reports, HCBS Ecosystem (2022), Deinstitutionalization: Unfinished Business (2012); NCD communications with Congress and the Department of Health and Human Services regarding institutionalization and HCBS; and the 2021 Progress Report: The Broadscale Impacts of Covid-19 on People with Disabilities. It will fill a gap in the existing knowledge about younger people with disabilities in nursing homes by describing policies and events that contribute to nursing home placement, presenting state and federal data on the amount of younger people residing in nursing homes and describing the impacts on their lives. Finally, it will provide recommendations to federal and state agencies on improving existing policies and causes that result in the institutionalization of younger people with disabilities, particularly the Department of Health and Human Services (HHS), the Department of Housing and Urban Development (HUD), and state Medicaid agencies. 
 
@@ -32,7 +35,7 @@ Public comment will be used to further develop the information in NCD’s report
 
 **Format**
 
-Virtual format -- the Council will receive public comment in person or by email. 
+The Council will receive public comment in person or by email. 
 
 *For those interested in commenting, please read the Guidelines for Submitting and Presenting Public Comment During an Event details below in full. Advanced registration is required.*
 
