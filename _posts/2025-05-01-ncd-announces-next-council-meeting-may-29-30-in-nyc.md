@@ -19,7 +19,7 @@ The May 30 meeting is NCD's business meeting Council members and staff will rece
 
 As the independent federal agency responsible for recommending and publishing the first draft of the Americans with Disabilities Act, NCD uses public input to inform their recommendations to the President, Congress, federal state, local and Tribal policymakers on issues that impact Americans with disabilities.
 
-For the May 29 Council meeting, NCD will have a public comment period of 45 minutes and requests comments from the public regarding the experiences of youth and younger adults in nursing homes and for our 2025 Progress Report focused on what the public considers the most notable disability policy developments since Summer 2024. The Council would also like to hear about any missed opportunities within those achievements. Additional information on specifics of the topic is available on NCD’s [public comment page](https://www.ncd.gov/public-comment/).
+For the May 29 Council meeting, NCD will have a public comment period of 45 minutes and requests comments from the public regarding the experiences of youth and younger adults in nursing homes and for our 2025 Progress Report focused on what the public considers the most notable disability policy developments since Summer 2024. Additional information on specifics of the topic is available on NCD’s [public comment page](https://www.ncd.gov/public-comment/).
 
 ASL Interpreters and CART will be provided in-room and CART will be in-room and available via streamtext link.
 
