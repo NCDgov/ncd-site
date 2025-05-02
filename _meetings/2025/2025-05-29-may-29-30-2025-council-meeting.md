@@ -62,7 +62,7 @@ on the Most Notable Developments in Disability Policy since Summer 2024
 
 **PUBLIC COMMENT:** Your participation during the public comment period provides an opportunity for us to hear from you -- individuals, businesses, providers, educators, parents and advocates. Your comments are important in bringing to the Council’s attention and issues and priorities of the disability community.
 
-For the May 29 Council meeting, NCD will have a public comment period of 45 minutes and requests comments from the public regarding the experiences of youth and younger adults in nursing homes and for our 2025 Progress Report focused on what the public considers the most notable disability policy developments since Summer 2024. The Council would also like to hear about any missed opportunities within those achievements. Additional information on specifics of the topic is available on NCD’s public comment page at <https://ncd.gov/public-comment>.
+For the May 29 Council meeting, NCD will have a public comment period of 45 minutes and requests comments from the public regarding the experiences of youth and younger adults in nursing homes and for our 2025 Progress Report focused on what the public considers the most notable disability policy developments since Summer 2024. Additional information on specifics of the topic is available on NCD’s public comment page at <https://ncd.gov/public-comment>.
 
 **The Council will receive in-person comments only at the meeting**.
 
