@@ -12,13 +12,15 @@ misc_files_1: ""
 
 **PLACE:** This meeting will take place at the JW Marriott Essex House (Tivoli Room), 160 Central Park South, New York, NY 10019. 
 
+Registration is not required to attend, but appreciated via our [Eventbrite page](https://www.eventbrite.com/e/ncd-council-meeting-may-29-30-2025-new-york-ny-tickets-1345489889479?aff=oddtdtcreator).
+
 **MATTERS TO BE CONSIDERED:** 
 
 **Day 1 –** Following welcome remarks and introductions, the Council will have policy updates and discussion on FY26 policy proposals; a break; followed by a panel on employment of youth with disabilities; lunch break; panel on youth and younger adults in nursing homes; Council member report outs; a public comment session focused on youth and younger adults in nursing homes and major developments in disability policy; followed by adjournment. 
 
 **Day 2 –** Following welcome and call to order, NCD Council members and staff will receive Freedom of Information Act (FOIA) training; followed by the Chairman’s report and Executive Committee Report, break; and an agency strategic plan discussion before adjourning.
 
-AGENDA:
+**AGENDA:**
 The times provided below are approximations for when each agenda item is anticipated to be discussed (all Eastern Daylight Time):
 
 **Thursday, May 29, 2025**
