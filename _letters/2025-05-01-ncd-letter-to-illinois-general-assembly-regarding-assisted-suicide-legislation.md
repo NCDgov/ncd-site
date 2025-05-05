@@ -61,44 +61,14 @@ Acting Chair, Vice-Chair
 
 
 <sup>1</sup>
-National Council on Disability, *The Danger of Assisted Suicide Laws*
-(2019), at [National
-Council on Disability | The Danger of Assisted Suicide Laws](https://www.ncd.gov/report/the-danger-of-assisted-suicide-laws/). 
+National Council on Disability, *The Danger of Assisted Suicide Laws* (2019), at [National Council on Disability | The Danger of Assisted Suicide Laws](https://www.ncd.gov/report/the-danger-of-assisted-suicide-laws/). 
 
-
-
-<sup>2</sup> Oregon Health Authority, Public Health
-Division, 2024 Oregon Death with Dignity Act Data Summary, 15-16, <https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/DEATHWITHDIGNITYACT/Documents/year27.pdf>.
-
-
-
-
+<sup>2</sup> Oregon Health Authority, Public Health Division, 2024 Oregon Death with Dignity Act Data Summary, 15-16, https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/DEATHWITHDIGNITYACT/Documents/year27.pdf>.
 
 <sup>3</sup> Id, at 15.
 
+<sup>4</sup> State of Connecticut, Division of Criminal Justice, “Testimony of the Division of Criminal Justice,” Hearing on H.B. No. 7015, Joint Committee on Judiciary, March 18, 2015. Also State of Connecticut, Division of Criminal Justice, “Testimony of the Division of Criminal Justice,” Hearing on H.B. No. 5898, Joint Committee on Public Health, March 18, 2019, <https://www.cga.ct.gov/2019/PHdata/Tmy/2019HB-05898-R000318-CT> Division of Criminal Justice-TMY.PDF. The Division of Criminal Justice used the same language regarding the same section number in both instances.
 
-
-
-
-
-
-
-<sup>4</sup>
-State of Connecticut, Division of Criminal Justice, “Testimony of the Division
-of Criminal Justice,” Hearing on H.B. No. 7015, Joint Committee on Judiciary,
-March 18, 2015. Also State of Connecticut, Division of Criminal Justice,
-“Testimony of the Division of Criminal Justice,” Hearing on H.B. No. 5898,
-Joint Committee on Public Health, March 18, 2019, <https://www.cga.ct.gov/2019/PHdata/Tmy/2019HB-05898-R000318-CT> Division
-of Criminal Justice-TMY.PDF. The Division of Criminal Justice used the same
-language regarding the same section number in both instances.
-
-
-
-<sup>5</sup> Oregon Health Authority, Public Health
-Division, Oregon Death with Dignity Act, 2021 Data Summary, 12, note 3, <https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/DEATHWITHDIGNITYACT/Documents/year24.pdf>.
-
-
-
-
+<sup>5</sup> Oregon Health Authority, Public Health Division, Oregon Death with Dignity Act, 2021 Data Summary, 12, note 3, https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/DEATHWITHDIGNITYACT/Documents/year24.pdf>.
 
 <sup>6</sup> Id, at 16.
