@@ -1,15 +1,15 @@
 ---
 layout: post
-title: NCD seeks public comment during March 6 Council meeting
+title: NCD seeks public comment during May 29 Council meeting
 collection_name: newsroom
-date: 2025-02-25
+date: 2025-05-06
 tag: Press Release
 ---
 **For Immediate Release**
 
-February 25, 2025
+May 6, 2025
 
-**WASHINGTON–**The National Council on Disability (NCD) invites the public to present public comment during the Council's next quarterly meeting March 6 in Washington, D.C.
+**WASHINGTON–**The National Council on Disability (NCD) invites the public to present public comment during the Council's next quarterly meeting March 6 in New York, NY.
 
 During a 40-minute public comment session starting at 2:30 p.m. EST, the Council will receive input specifically on younger people in nursing homes.
 
@@ -36,6 +36,6 @@ Those wanting to participate in public comment must preregister, either through 
 
 If any time remains following the conclusion of the comments of those registered, NCD may call upon those who desire to make comments on the topic but did not register.
 
-The Council meeting is free and open to the public. Full information on the event can also be found on our [upcoming meeting page](https://www.ncd.gov/meeting/2025-03-06-march-6-7-2025-council-meeting/).
+The Council meeting is free and open to the public. Full information on the event can be found on our [upcoming meeting page](https://www.ncd.gov/meeting/2025-05-29-may-29-30-2025-council-meeting/). Registration for the meeting is not required, but appreciated on our Eventbrite page.
 
 CART and ASL will be provided.
