@@ -14,6 +14,8 @@ misc_files_1: ""
 
 Registration is not required to attend, but appreciated via our [Eventbrite page](https://www.eventbrite.com/e/ncd-council-meeting-may-29-30-2025-new-york-ny-tickets-1345489889479?aff=oddtdtcreator).
 
+Those unable to attend in-person will be able to join remotely via audio conference or CART. Details soon to be released.
+
 **MATTERS TO BE CONSIDERED:** 
 
 **Day 1 –** Following welcome remarks and introductions, the Council will have policy updates and discussion on FY26 policy proposals; a break; followed by a panel on employment of youth with disabilities; lunch break; panel on youth and younger adults in nursing homes; Council member report outs; a public comment session focused on youth and younger adults in nursing homes and major developments in disability policy; followed by adjournment. 
