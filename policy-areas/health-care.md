@@ -3,7 +3,7 @@ title: Health Care
 layout: policy-area
 pagination:
   enabled: true
-  collection: all
+  collection: all, posts
   tag:
     - "Health Care"
 ---

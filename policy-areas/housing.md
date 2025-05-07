@@ -3,7 +3,7 @@ title: Housing
 layout: policy-area
 pagination:
   enabled: true
-  collection: all
+  collection: all, posts
   tag:
     - "Housing"
 ---
