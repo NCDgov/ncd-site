@@ -14,7 +14,7 @@ misc_files_1: ""
 
 Registration is not required to attend, but appreciated via our [Eventbrite page](https://www.eventbrite.com/e/ncd-council-meeting-may-29-30-2025-new-york-ny-tickets-1345489889479?aff=oddtdtcreator).
 
-Those unable to attend in-person will be able to join remotely via audio conference or CART. Details soon to be released.
+Those unable to attend in-person will be able to join remotely via audio conference or CART. Please dial 212-484-4491.
 
 **MATTERS TO BE CONSIDERED:** 
 
