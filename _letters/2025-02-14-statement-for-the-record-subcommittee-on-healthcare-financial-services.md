@@ -30,7 +30,7 @@ In researching this issue, NCD conducted several listening sessions, and the sto
 
 Ms. Onwuku additionally mentioned in her testimony several bills that were introduced in the 118th Congress that would eliminate marriage penalties. Each of the bills had bipartisan cosponsorship, demonstrating the sense of urgency many Congressional Members in addressing this longstanding problem. 
 
-NCD’s 2023 Progress Report, Toward Economic Security: The Impact of Income and Asset Limits on People with Disabilities[^8]  examined four critical areas of public policy and their impact on people with disabilities: health care, cash benefits provided through Supplemental Security Income (SSI), employment, and asset building and wealth protection. In our report, NCD strongly urges Congress to pass the SSI Savings Penalty Elimination Act (S. 2767 / H.R. 5408) but highlighted the following concerns:
+NCD’s 2023 Progress Report, Toward Economic Security: The Impact of Income and Asset Limits on People with Disabilities [^8]  examined four critical areas of public policy and their impact on people with disabilities: health care, cash benefits provided through Supplemental Security Income (SSI), employment, and asset building and wealth protection. In our report, NCD strongly urges Congress to pass the SSI Savings Penalty Elimination Act (S. 2767 / H.R. 5408) but highlighted the following concerns:
 
 This legislation would allow people with disabilities to improve their financial lives by increasing asset limits from $2,000 to $10,000 for individuals and from $3,000 to $20,000 for couples. Despite the promises of S. 4102, challenges remain regarding how resource limits are assessed for SSI. The current $2,000 and $3,000 thresholds apply to gross assets, not net wealth. This means that individuals who have an excess of debt to assets still cannot qualify for SSI.
 
@@ -71,8 +71,6 @@ Notes: The 2023 threshold amounts were calculated using 2019 average per capita 
 
 
 
- [^7]:  “How Medicaid Spend Down Works: Rules, Exemptions and Strategies,” American Council on Aging, last updated December 14, 2022, https://www.medicaidplanningassistance.org/medicaid-spend-down/
+ [^7]:  “How Medicaid Spend Down Works: Rules, Exemptions and Strategies,” American Council on Aging, last updated December 14, 2022, https://www.medicaidplanningassistance.org/medicaid-spend-down/.
 
- 
-
- [^8]: National Council on Disability (October 31, 2023) Toward Economic Security: The Impact of Income and Asset Limits on People with Disabilities, available at: National Council on Disability | 2023 Progress Report: Toward Economic Security: The Impact of Income and Asset Limits on People with Disabilities.
+[^8]: National Council on Disability (October 31, 2023) Toward Economic Security: The Impact of Income and Asset Limits on People with Disabilities, available at: National Council on Disability | 2023 Progress Report: Toward Economic Security: The Impact of Income and Asset Limits on People with Disabilities.
