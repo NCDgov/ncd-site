@@ -41,34 +41,26 @@ Most Respectfully,
 Shawn Kennemer\
 Vice Chair, Acting Chairman
 
-
-
- [^1]: https://www.congress.gov/119/meeting/house/117879/witnesses/HHRG-119-GO27-Wstate-OnwukaP-20250211.pdf
-
- 
-
- [^2]: Medicaid and CHIP Payment and Access Commission, “People with Disabilities,” 2022, https://www.macpac.gov/subtopic/people-with-disabilities/. 
+---------------
 
 
 
- [^3]:  U.S. Social Security Administration, “Program Operations Manual System. SI 02302.200 Chartered Threshold Amounts,” December 14, 2021, https://secure.ssa.gov/poms.nsf/lnx/0502302200. 
+
+[^1]: https://www.congress.gov/119/meeting/house/117879/witnesses/HHRG-119-GO27-Wstate-OnwukaP-20250211.pdf
+
+[^2]: Medicaid and CHIP Payment and Access Commission, “People with Disabilities,” 2022, https://www.macpac.gov/subtopic/people-with-disabilities/. 
+
+[^3]:  U.S. Social Security Administration, “Program Operations Manual System. SI 02302.200 Chartered Threshold Amounts,” December 14, 2021, https://secure.ssa.gov/poms.nsf/lnx/0502302200. 
 
 Notes: The 2023 threshold amounts were calculated using 2019 average per capita Medicaid expenses by State, as 2020 data was unavailable.
 
 
+[^4]:  “What is the Medicaid marriage penalty?” American Council on Aging, February 17, 2023, https://www.medicaidplanningassistance.org/question/what-is-the-medicaid-marriage-penalty/#:~:text=What%20is%20the%20Medicaid%20marriage%20penalty%3F,-2%20Answers&text=The%20Medicaid%20marriage%20penalty%20is,a%20result%20of%20getting%20married.
 
- [^4]:  “What is the Medicaid marriage penalty?” American Council on Aging, February 17, 2023, https://www.medicaidplanningassistance.org/question/what-is-the-medicaid-marriage-penalty/#:~:text=What%20is%20the%20Medicaid%20marriage%20penalty%3F,-2%20Answers&text=The%20Medicaid%20marriage%20penalty%20is,a%20result%20of%20getting%20married.
+[^5]:  Kathleen Romig and Sam Washington, “Policymakers Should Expand and Simplify Supplemental Security Income,” Center on Budget and Policy Priorities, May 4, 2022, https://www.cbpp.org/research/social-security/policymakers-should-expand-and-simplify-supplemental-security-income. 
 
+[^6]:  Felix Wellschmied, “The welfare effects of asset mean-testing income support,” Quantitative Economics, 12(1), pp.217-249, January 2021, https://www.econometricsociety.org/publications/quantitative-economics/2021/01/01/The-welfare-effects-of-asset-meantesting-income-support.
 
-
- [^5]:  Kathleen Romig and Sam Washington, “Policymakers Should Expand and Simplify Supplemental Security Income,” Center on Budget and Policy Priorities, May 4, 2022, https://www.cbpp.org/research/social-security/policymakers-should-expand-and-simplify-supplemental-security-income. 
-
-
-
- [^6]:  Felix Wellschmied, “The welfare effects of asset mean-testing income support,” Quantitative Economics, 12(1), pp.217-249, January 2021, https://www.econometricsociety.org/publications/quantitative-economics/2021/01/01/The-welfare-effects-of-asset-meantesting-income-support.
-
-
-
- [^7]:  “How Medicaid Spend Down Works: Rules, Exemptions and Strategies,” American Council on Aging, last updated December 14, 2022, https://www.medicaidplanningassistance.org/medicaid-spend-down/.
+[^7]:  “How Medicaid Spend Down Works: Rules, Exemptions and Strategies,” American Council on Aging, last updated December 14, 2022, https://www.medicaidplanningassistance.org/medicaid-spend-down/.
 
 [^8]: National Council on Disability (October 31, 2023) Toward Economic Security: The Impact of Income and Asset Limits on People with Disabilities, available at: National Council on Disability | 2023 Progress Report: Toward Economic Security: The Impact of Income and Asset Limits on People with Disabilities.
