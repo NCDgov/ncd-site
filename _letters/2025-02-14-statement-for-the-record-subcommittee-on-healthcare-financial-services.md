@@ -43,8 +43,6 @@ Vice Chair, Acting Chairman
 
 
 
-\-----------------
-
  [^1]: https://www.congress.gov/119/meeting/house/117879/witnesses/HHRG-119-GO27-Wstate-OnwukaP-20250211.pdf
 
  
