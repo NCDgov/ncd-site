@@ -46,8 +46,8 @@ Additional resources are available for the FOIA [reference guide](/foia/referenc
 
 NCD strives to proactively publish as much information about NCD and our work processes as possible. That way, information that might be requested via a FOIA request can be readily found by any member of the public on our website, but not necessarily in this e-library. Examples of available documents on our website are: NCD Bylaws; Performance and Results Act Reports ; Congressional Budget Justification Reports; Financial Audit Reports; NCD strategic plan; Letters to stakeholders; NCD reports and NCD’s FOIA policy and procedures for requesters. While NCD publications are posted throughout the NCD.gov website, non-NCD documents, such as official government responses to NCD letters, will be posted here to the NCD FOIA e-Library. If you need help to determine whether the information you seek is posted to our website please contact NCD’s FOIA Public Liaison, Amged Soliman, at 202-731-5910 or [asoliman@ncd.gov](mailto:asoliman@ncd.gov)[](mailto:anicholas@ncd.gov?subject=FOIA).
 
-* \[AbilityOne Commission response to NCD request for assistance collecting data for NCD report](https://www.ncd.gov/assets/uploads/docs/abilityone-commission-response-to-ncd-correspondence.pdf)
-* \[FEMA Response to NCD Letter on Office of Disability Integration and Coordination]({{ site.baseUrl }}/assets/uploads/docs/mr.-clyde-terry---response---508---2017-03-03.pdf)
+* AbilityOne Commission response to NCD request for assistance collecting data for NCD report ([PDF](https://www.ncd.gov/assets/uploads/docs/abilityone-commission-response-to-ncd-correspondence.pdf))
+* FEMA Response to NCD Letter on Office of Disability Integration and Coordination ([PDF](https://www.ncd.gov/assets/uploads/docs/mr.-clyde-terry---response---508---2017-03-03.pdf))
 
 # FOIA Reports
 
