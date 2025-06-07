@@ -7,6 +7,9 @@ policy_areas:
   - Technology
 categories:
   - progress reports
+press_release: https://www.ncd.gov/2016/10/07/national-council-on-disability-calls-for-a-technology-bill-of-rights-for-57-million-americans/
+word_document: reports/2016/ncd-progress-report-2016.docx
+pdf_document: reports/2016/ncd-progress-report-2016.pdf
 image_alt_text: na
 ---
 **SCOPE AND PURPOSE:** The 2016 edition of this report, which fulfills NCD’s statutory mandate to report annually on the state of disability policy in key areas, focuses on how information and communication technology (ICT) continues to transform modern life, and the potential ICT and assistive technology (AT) holds for improving how people with disabilities live in the world. People with disabilities have a right to and need accessible technology that allows them to interact with others in the virtual landscape that is increasingly where Americans gather information, conduct business and reach out to friends and family in the same way they needed ramps and accessible physical spaces a generation ago. Additionally, AT can improve the lives of people with disabilities by increasing independence and providing a bridge to employment and opportunity. 
