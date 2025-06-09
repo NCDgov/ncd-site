@@ -37,10 +37,8 @@ The second day was focused on business of the Council and included required annu
 
 NCD is an independent federal agency advising policymakers, including the President, Congress and federal agencies on national disability policy. The Council meets quarterly. 
 
-The next meeting is scheduled for August 6-7 in Washington, D.C.
+The next meeting is scheduled for August 7-8 in Washington, D.C.
 
 Learn more at NCD.gov.
-
-
 
 \###
