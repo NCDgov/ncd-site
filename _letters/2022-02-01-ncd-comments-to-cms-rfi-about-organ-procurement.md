@@ -74,7 +74,7 @@ Chairman
 
 - - -
 
-[^1] National Council on Disability, *Organ Transplant Discrimination Against People with Disabilities*. (2019). <{{ site.baseUrl }}/assets/uploads/docs/ncd-organ-transplant-508.pdf>
+[^1] National Council on Disability, *Organ Transplant Discrimination Against People with Disabilities*. (2019). <https://www.ncd.gov/assets/uploads/docs/ncd-organ-transplant-508.pdf>
 
 [^2] Request for Information; Health and Safety Requirements for Transplant Programs, Organ Procurement Organizations, and End-Stage Renal Disease Facilities, 86 Fed. Reg. 68594, 68598 (December 3, 2021).
 
