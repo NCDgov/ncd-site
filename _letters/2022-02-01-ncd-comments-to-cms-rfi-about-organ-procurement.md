@@ -74,14 +74,14 @@ Chairman
 
 - - -
 
-[^1](https://ncd.gov/publications/2022/ncd-comments-cms-rfi-about-organ-procurement#_ftnref1) National Council on Disability, *Organ Transplant Discrimination Against People with Disabilities*. (2019). <{{ site.baseUrl }}/assets/uploads/docs/ncd-organ-transplant-508.pdf>
+[^1] National Council on Disability, *Organ Transplant Discrimination Against People with Disabilities*. (2019). <{{ site.baseUrl }}/assets/uploads/docs/ncd-organ-transplant-508.pdf>
 
-[^2](https://ncd.gov/publications/2022/ncd-comments-cms-rfi-about-organ-procurement#_ftnref2) Request for Information; Health and Safety Requirements for Transplant Programs, Organ Procurement Organizations, and End-Stage Renal Disease Facilities, 86 Fed. Reg. 68594, 68598 (December 3, 2021).
+[^2] Request for Information; Health and Safety Requirements for Transplant Programs, Organ Procurement Organizations, and End-Stage Renal Disease Facilities, 86 Fed. Reg. 68594, 68598 (December 3, 2021).
 
-[^3](https://ncd.gov/publications/2022/ncd-comments-cms-rfi-about-organ-procurement#_ftnref3) 29 U.S.C. 794.
+[^3] 29 U.S.C. 794.
 
-[^4](https://ncd.gov/publications/2022/ncd-comments-cms-rfi-about-organ-procurement#_ftnref4) 42 U.S.C. 18116. 
+[^4] 42 U.S.C. 18116. 
 
-[^5](https://ncd.gov/publications/2022/ncd-comments-cms-rfi-about-organ-procurement#_ftnref5) Medicare and Medicaid Programs; Organ Procurement Organizations Conditions for Coverage: Revisions to the Outcome Measure Requirements for Organ Procurement Organizations, 85 Fed. Reg. 77898, 77899 (February 1, 2021).
+[^5] Medicare and Medicaid Programs; Organ Procurement Organizations Conditions for Coverage: Revisions to the Outcome Measure Requirements for Organ Procurement Organizations, 85 Fed. Reg. 77898, 77899 (February 1, 2021).
 
-[^6](https://ncd.gov/publications/2022/ncd-comments-cms-rfi-about-organ-procurement#_ftnref6) The components of disability clinical-care education and training are set forth in a soon to be released NCD Health Equity Framework.
+[^6] The components of disability clinical-care education and training are set forth in a soon to be released NCD Health Equity Framework.
