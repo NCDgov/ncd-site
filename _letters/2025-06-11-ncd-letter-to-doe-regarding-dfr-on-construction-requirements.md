@@ -9,10 +9,10 @@ redirect_from: []
 ---
 June 11, 2025
 
-The Honorable Chris Wright
-Secretary
-U.S. Department of Energy
-1000 Independence Ave., S.W.
+The Honorable Chris Wright\
+Secretary\
+U.S. Department of Energy\
+1000 Independence Ave., S.W.\
 Washington, DC 20585
 
 Subject: DOE-HQ-2025-0015: Rescinding New Construction Requirements Related to Nondiscrimination in Federally Assisted Programs or Activities  
