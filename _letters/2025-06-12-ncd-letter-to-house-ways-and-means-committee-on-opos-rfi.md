@@ -35,19 +35,16 @@ Respectfully,
 David Shawn Kennemer\
 Vice Chair, Acting Chair
 
-
-
 Cc:// Members of the Committee on Energy and Commerce, U.S. House of Representatives
 
 \-----------------
 
-[^1]:  Ways and Means Committee, U.S. House of Representatives, Request for Information: Activities of Tax-Exempt Organ Procurement Organizations, April 16, 2025, https://waysandmeans.house.gov/wp-content/uploads/2025/04/RFI-on-Organ-Procurement-Organizations-1.pdf. 
+[^1]:  Ways and Means Committee, U.S. House of Representatives, Request for Information: Activities of Tax-Exempt Organ Procurement Organizations, April 16, 2025, <https://waysandmeans.house.gov/wp-content/uploads/2025/04/RFI-on-Organ-Procurement-Organizations-1.pdf>. 
 
 [^2]:  National Council on Disability, Bioethics and Disability Report Series, https://www.ncd.gov/report/organ-transplant-discrimination-against-people-with-disabilities/.
-[^3]:  National Council on Disability, Medical Futility and Disability Bias (2019), https://www.ncd.gov/report/medical-futility-and-disability-bias/. 
-[^4]:  National Council on Disability, Organ Transplant Discrimination Against People with Disabilities (2019), https://www.ncd.gov/report/organ-transplant-discrimination-against-people-with-disabilities/. 
-[^5]:  National Council on Disability, Organ Transplant Discrimination Against People with Disabilities (2019), https://www.ncd.gov/report/organ-transplant-discrimination-against-people-with-disabilities/.  
-
+[^3]:  National Council on Disability, Medical Futility and Disability Bias (2019), <https://www.ncd.gov/report/medical-futility-and-disability-bias>/. 
+[^4]:  National Council on Disability, Organ Transplant Discrimination Against People with Disabilities (2019), <https://www.ncd.gov/report/organ-transplant-discrimination-against-people-with-disabilities>/. 
+[^5]:  National Council on Disability, Organ Transplant Discrimination Against People with Disabilities (2019), <https://www.ncd.gov/report/organ-transplant-discrimination-against-people-with-disabilities>/.  
 
 [^6]:   Center for Medicare and Medicaid Programs; Organ Procurement Organizations Conditions for Coverage: Revisions to the Outcome Measure Requirements for Organ Procurement Organizations, 85 Fed. Reg. 77898, 77899.
-[^7]  National Council on Disability, NCD comments to CMS regarding organ procurement RFI, Jan. 21, 2022, https://www.ncd.gov/letters/2022-01-31-ncd-comments-to-cms-regarding-organ-procurement-rfi/
+[^7]  National Council on Disability, NCD comments to CMS regarding organ procurement RFI, Jan. 21, 2022, <https://www.ncd.gov/letters/2022-01-31-ncd-comments-to-cms-regarding-organ-procurement-rfi/>
