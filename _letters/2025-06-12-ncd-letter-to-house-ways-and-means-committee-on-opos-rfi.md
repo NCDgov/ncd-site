@@ -47,4 +47,4 @@ Cc:// Members of the Committee on Energy and Commerce, U.S. House of Representat
 [^5]:  National Council on Disability, Organ Transplant Discrimination Against People with Disabilities (2019), <https://www.ncd.gov/report/organ-transplant-discrimination-against-people-with-disabilities>/.  
 
 [^6]:   Center for Medicare and Medicaid Programs; Organ Procurement Organizations Conditions for Coverage: Revisions to the Outcome Measure Requirements for Organ Procurement Organizations, 85 Fed. Reg. 77898, 77899.
-[^7]  National Council on Disability, NCD comments to CMS regarding organ procurement RFI, Jan. 21, 2022, <https://www.ncd.gov/letters/2022-01-31-ncd-comments-to-cms-regarding-organ-procurement-rfi/>
+[^7]:  National Council on Disability, NCD comments to CMS regarding organ procurement RFI, Jan. 21, 2022, <https://www.ncd.gov/letters/2022-01-31-ncd-comments-to-cms-regarding-organ-procurement-rfi/>.
