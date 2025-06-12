@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NCD Comments to POTUS on Extreme Heat Summit
+title: NCD comments to POTUS on Extreme Heat Summit
 collection_name: letters
 policy_areas:
   - Emergency Management
