@@ -7,7 +7,6 @@ policy_areas:
 date: 2025-06-11
 redirect_from: []
 ---
-
 June 11, 2025
 
 The Honorable Chris Wright
@@ -37,11 +36,10 @@ It is critical to highlight the importance of Rehabilitation Act section 504 reg
 NCD stands ready to assist DOE through our expertise and advisement to ensure that buildings constructed or altered with DOE’s financial assistance continue to be accessible to all Americans. We look forward to discussing this matter with you soon. Please have your staff contact Joan Durocher, NCD’s General Counsel and Director of Policy, at jdurocher@ncd.gov to arrange a time to meet in the coming week. 
 
 Respectfully,
- 
+
 David Shawn Kennemer
 Vice Chair/Acting Chair
 
+- - -
 
-
----------------
-[^1]:   Recipient means any State or its political subdivision, instrumentality of a State or its political subdivision, any public or private agency, institution, organization, or other entity, or any person to which Federal financial assistance is extended, directly or through another recipient. 10 C.F.R. § 1040.83.
+[^i]   Recipient means any State or its political subdivision, instrumentality of a State or its political subdivision, any public or private agency, institution, organization, or other entity, or any person to which Federal financial assistance is extended, directly or through another recipient. 10 C.F.R. § 1040.83.
