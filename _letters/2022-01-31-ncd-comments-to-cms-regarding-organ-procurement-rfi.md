@@ -31,9 +31,9 @@ We commend CMS for making clear in this RFI that individuals with disabilities �
 
 Section 504 and Section 1557 protect qualified individuals with a disability, including prospective organ recipients with a disability and prospective organ donors with a disability, from discrimination in the administration of organ transplant programs. Under these laws, OPOs must ensure that qualified individuals with a disability are afforded opportunities to participate in or benefit from the organ transplant programs that are equal to opportunities afforded others. Decisions to approve or deny organ transplants must be made based on objective facts related to the individual in question. Individuals with disabilities are also entitled to reasonable accommodations needed to participate in and benefit from a program, and auxiliary aids and services needed for effective communication. These rights extend in some circumstances to family members of a prospective organ donor or recipient. For example, health care providers and organ donation programs are required to provide auxiliary aids and services (including sign language interpreters) when necessary for effective communication between a relative involved in a prospective donor or recipient's care and a health care provider or donation program. Additionally, if eligibility criteria for being a transplant recipient require an individual to be able to comply with post-transplant regimens, it would be a reasonable accommodation to allow an individual with a developmental or intellectual, or other disability to meet that requirement with the assistance of a relative, attendant, or other individual.
 
-Responses to Questions on Equity In Organ Transplantation and Organ Donation
+<u>Responses to Questions on Equity In Organ Transplantation and Organ Donation</u>
 
-Are there revisions that can be made to the transplant program conditions of participation (“CoP”) or the organ procurement organization (“OPO”) conditions for coverage (“CfC”) to reduce disparities in organ transplantation?
+<b>Are there revisions that can be made to the transplant program conditions of participation (“CoP”) or the organ procurement organization (“OPO”) conditions for coverage (“CfC”) to reduce disparities in organ transplantation?</b>
 
 To reduce disparities with regard to individuals with disabilities, NCD recommends that CMS revise CoPs and CfCs to:
 
@@ -45,7 +45,7 @@ To reduce disparities with regard to individuals with disabilities, NCD recommen
 
 •	Require that organ procurement data collection incorporate disability information pertaining to the organ donor, including primary diagnosis and type of disability.
 
-What changes can be made to the current requirements to ensure that transplant programs ensure equal access to transplants for individuals with disabilities?
+<b>What changes can be made to the current requirements to ensure that transplant programs ensure equal access to transplants for individuals with disabilities?</b>
 
 NCD recommends that CMS revise current requirements to:
 
@@ -61,7 +61,7 @@ Considering not only the person’s ability to manage post-operative care indepe
 
 CMS should also develop, in conjunction with the HHS Office for Civil Rights, technical assistance to organ transplant centers and physicians in complying with the foregoing obligations. Issuing guidance and providing technical assistance would increase understanding of federal nondiscrimination laws as applied to the organ transplant process and increase compliance.
 
-What changes can be made to the current requirements to address implicit or explicit discrimination, such as decisions made based on faulty assumptions about quality of life and the ability to perform post-operative care?
+<b>What changes can be made to the current requirements to address implicit or explicit discrimination, such as decisions made based on faulty assumptions about quality of life and the ability to perform post-operative care?</b>
 
 NCD’s recommended revisions to requirements for transplant center’s policies and practices set forth above will help resolve explicit and implicit discrimination in the organ transplantation system by requiring objective processes that comply with federal nondiscrimination requirements. Such revisions will go far in preventing policies and decisions to be influenced, or based on, subjective judgements about the quality or relative worth of a life with a disability; beliefs that a patient does or would impose a burden on caregivers or society based on disability, or on biases and stereotypes based on disability.
 
