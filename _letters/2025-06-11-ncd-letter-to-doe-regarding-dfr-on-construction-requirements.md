@@ -37,7 +37,7 @@ NCD stands ready to assist DOE through our expertise and advisement to ensure th
 
 Respectfully,
 
-David Shawn Kennemer
+David Shawn Kennemer\
 Vice Chair/Acting Chair
 
 - - -
