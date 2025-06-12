@@ -29,7 +29,7 @@ NCD also found that disability discrimination occurs in the organ procurement pr
 
 We commend CMS for making clear in this RFI that individuals with disabilities “must be afforded equal access to transplantation services in accordance with federal civil rights laws, and the value of their lives are no less than those individuals who are without disabilities.” [^2] NCD also commends CMS for explaining the obligation of OPOs to comply with section 504 of the Rehabilitation Act of 1973 (Section 504), [^3] and section 1557 of the Patient Protection and Affordable Care Act (Section 1557), [^4] in your 2020 Final Rule. [^5] It provides:
 
->Section 504 and Section 1557 protect qualified individuals with a disability, including prospective organ recipients with a disability and prospective organ donors with a disability, from discrimination in the administration of organ transplant programs. Under these laws, OPOs must ensure that qualified individuals with a disability are afforded opportunities to participate in or benefit from the organ transplant programs that are equal to opportunities afforded others. Decisions to approve or deny organ transplants must be made based on objective facts related to the individual in question. Individuals with disabilities are also entitled to reasonable accommodations needed to participate in and benefit from a program, and auxiliary aids and services needed for effective communication. These rights extend in some circumstances to family members of a prospective organ donor or recipient. For example, health care providers and organ donation programs are required to provide auxiliary aids and services (including sign language interpreters) when necessary for effective communication between a relative involved in a prospective donor or recipient's care and a health care provider or donation program. Additionally, if eligibility criteria for being a transplant recipient require an individual to be able to comply with post-transplant regimens, it would be a reasonable accommodation to allow an individual with a developmental or intellectual, or other disability to meet that requirement with the assistance of a relative, attendant, or other individual.
+> Section 504 and Section 1557 protect qualified individuals with a disability, including prospective organ recipients with a disability and prospective organ donors with a disability, from discrimination in the administration of organ transplant programs. Under these laws, OPOs must ensure that qualified individuals with a disability are afforded opportunities to participate in or benefit from the organ transplant programs that are equal to opportunities afforded others. Decisions to approve or deny organ transplants must be made based on objective facts related to the individual in question. Individuals with disabilities are also entitled to reasonable accommodations needed to participate in and benefit from a program, and auxiliary aids and services needed for effective communication. These rights extend in some circumstances to family members of a prospective organ donor or recipient. For example, health care providers and organ donation programs are required to provide auxiliary aids and services (including sign language interpreters) when necessary for effective communication between a relative involved in a prospective donor or recipient's care and a health care provider or donation program. Additionally, if eligibility criteria for being a transplant recipient require an individual to be able to comply with post-transplant regimens, it would be a reasonable accommodation to allow an individual with a developmental or intellectual, or other disability to meet that requirement with the assistance of a relative, attendant, or other individual.
 
 <u>Responses to Questions on Equity In Organ Transplantation and Organ Donation</u>
 
@@ -78,14 +78,14 @@ Chairman
 
 \- - -
 
-[^1] National Council on Disability, \*Organ Transplant Discrimination Against People with Disabilities\*. (2019). <https://www.ncd.gov/assets/uploads/docs/ncd-organ-transplant-508.pdf>
+[^1]: National Council on Disability, \*Organ Transplant Discrimination Against People with Disabilities\*. (2019). <https://www.ncd.gov/assets/uploads/docs/ncd-organ-transplant-508.pdf>
 
-[^2] Request for Information; Health and Safety Requirements for Transplant Programs, Organ Procurement Organizations, and End-Stage Renal Disease Facilities, 86 Fed. Reg. 68594, 68598 (December 3, 2021).
+[^2]: Request for Information; Health and Safety Requirements for Transplant Programs, Organ Procurement Organizations, and End-Stage Renal Disease Facilities, 86 Fed. Reg. 68594, 68598 (December 3, 2021).
 
-[^3] 29 U.S.C. 794.
+[^3]: 29 U.S.C. 794.
 
-[^4] 42 U.S.C. 18116. 
+[^4]: 42 U.S.C. 18116. 
 
-[^5] Medicare and Medicaid Programs; Organ Procurement Organizations Conditions for Coverage: Revisions to the Outcome Measure Requirements for Organ Procurement Organizations, 85 Fed. Reg. 77898, 77899 (February 1, 2021).
+[^5]: Medicare and Medicaid Programs; Organ Procurement Organizations Conditions for Coverage: Revisions to the Outcome Measure Requirements for Organ Procurement Organizations, 85 Fed. Reg. 77898, 77899 (February 1, 2021).
 
-[^6] The components of disability clinical-care education and training are set forth in a soon to be released NCD Health Equity Framework.
+[^6]: The components of disability clinical-care education and training are set forth in a soon to be released NCD Health Equity Framework.
