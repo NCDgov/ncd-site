@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NCD Comments to CMS regarding organ procurement RFI
+title: NCD comments to CMS regarding organ procurement RFI
 collection_name: letters
 policy_areas:
   - Health Care
