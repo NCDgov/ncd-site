@@ -51,9 +51,7 @@ NCD recommends that CMS revise current requirements to:
 
 •	Clarify transplant programs’ obligations under Section 504, Section 1557, and the ADA, including the obligation for individualized assessments and reasonable modifications, including:
 
-Considering not only the person’s ability to manage post-operative care independently, but the full range of supports and services available to help the individual manage post-operative care, such as family members,	programs, and service providers; and
-
-The provision of necessary auxiliary aids and effective communication needed for a successful organ transplant and postoperative regimen.
+Considering not only the person’s ability to manage post-operative care independently, but the full range of supports and services available to help the individual manage post-operative care, such as family members, programs, and service providers; and the provision of necessary auxiliary aids and effective communication needed for a successful organ transplant and postoperative regimen.
 
 •	Require referrals of qualified individuals with disabilities for an organ transplant; admission of a qualified individual with a disability to an organ transplant program; and placement of a qualified individual with a disability on a waiting list for an organ transplant.
 
@@ -76,7 +74,6 @@ Should your staff have questions or wish to discuss this letter, please do not h
 Respectfully, 
 
 Andrés Gallegos\
-
 Chairman
 
 \- - -
