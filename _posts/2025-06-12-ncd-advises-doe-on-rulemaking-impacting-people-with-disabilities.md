@@ -20,7 +20,7 @@ assurance that buildings constructed or altered using federal funds are useable 
 
 DOE officials had requested public comment on the DFR, becoming effective July 15, unless significant adverse comments are received by June 16. Significant adverse comments are ones which oppose the rule and raise, alone or in combination, a serious enough issue related to each of the independent grounds for the rule that a substantive response is required.
 
-Information on the DRF is available in the Federal Register and directs interested persons to submit comments using the Federal eRulemaking Portal at [www.regulations.gov](https://www.regulations.gov/document/DOE-HQ-2025-0015-0001) under docket number DOE-HQ-2025-0015.
+Information on the DRF is available in the [Federal Register](https://www.federalregister.gov/documents/2025/05/16/2025-08535/rescinding-new-construction-requirements-related-to-nondiscrimination-in-federally-assisted-programs) and directs interested persons to submit comments using the Federal eRulemaking Portal at [www.regulations.gov](https://www.regulations.gov/document/DOE-HQ-2025-0015-0001) under docket number DOE-HQ-2025-0015.
 
 "NCD stands ready to assist DOE through our expertise and advisement to ensure that buildings constructed or altered with DOE’s financial assistance continue to be accessible to all Americans," wrote Kennemer. "We look forward to discussing this matter with you soon." 
 
