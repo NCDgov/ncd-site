@@ -2,20 +2,29 @@
 layout: post
 title: NCD advises DOE on rulemaking impacting people with disabilities
 collection_name: newsroom
-date: 2025-06-12
+date: 2025-06-13
 redirect_from: []
 ---
 June 12, 2025
 
-WASHINGTON--National Council on Disability Vice Chair and Acting Chair Shawn Kennemer sent a letter Wednesday to U.S. Department of Energy Secretary Chris Wright regarding DOE's direct final rule to rescind new construction requirements related to disability nondiscrimination in federally assisted programs or activities. 
+**WASHINGTON--**National Council on Disability Vice Chair and Acting Chair Shawn Kennemer sent a letter Wednesday to U.S. Department of Energy Secretary Chris Wright regarding rulemaking impacting people with disabilities.
 
-NCD, an independent, bipartisan federal agency that advises Congress, the President, and other federal agencies on disability policy
+DOE's direct final would rescind new construction requirements related to disability nondiscrimination in federally assisted programs or activities. 
+
+
 
 "We advise DOE to pause its intention to effectuate the DFR in such a short time frame and we request a meeting with you to discuss the concerns described in this correspondence," wrote Kennemer. 
 
+
+
+
+NCD is an independent, bipartisan federal agency that advises Congress, the President, and other federal agencies on national disability policy.
+
+
+
 Read the letter at [NCD.gov](https://www.ncd.gov/letters/2025-06-11-ncd-letter-to-doe-regarding-dfr-on-construction-requirements).
 
-DOE requests public comment on rulemaking impacting accessibility requirements in construction
+DOE had requested public comment on rulemaking impacting accessibility requirements in construction
 
 WASHINGTON – Department of Energy officials announced a public comment period on a direct finale rule (DFR).
 
