@@ -5,51 +5,26 @@ collection_name: newsroom
 date: 2025-06-13
 redirect_from: []
 ---
-June 12, 2025
+June 13, 2025
 
 **WASHINGTON--**National Council on Disability Vice Chair and Acting Chair Shawn Kennemer sent a letter Wednesday to U.S. Department of Energy Secretary Chris Wright regarding rulemaking impacting people with disabilities.
 
-DOE's direct final would rescind new construction requirements related to disability nondiscrimination in federally assisted programs or activities. 
+DOE's direct final rule, or DFR, certain new construction requirements related to disability nondiscrimination in federally assisted programs or activities.
 
+As an independent federal agency advising the President, Congress and federal agencies on disability policy, NCD examined the rule and sent a letter to Wright. 
 
+"NCD is deeply concerned with DOE’s intention to rescind 10 C.F.R. § 1040.73 of DOE’s Section 504 regulation as it contains longstanding, crucial requirements for physical accessibility of buildings constructed and altered using federal financial assistance," wrote Kennemer.
 
-"We advise DOE to pause its intention to effectuate the DFR in such a short time frame and we request a meeting with you to discuss the concerns described in this correspondence," wrote Kennemer. 
-
-
-
+"NCD stands ready to assist DOE through our expertise and advisement to ensure that buildings constructed or altered with DOE’s financial assistance continue to be accessible to all Americans," wrote Kennemer. "We look forward to discussing this matter with you soon."  
 
 NCD is an independent, bipartisan federal agency that advises Congress, the President, and other federal agencies on national disability policy.
 
-
-
 Read the letter at [NCD.gov](https://www.ncd.gov/letters/2025-06-11-ncd-letter-to-doe-regarding-dfr-on-construction-requirements).
 
-DOE had requested public comment on rulemaking impacting accessibility requirements in construction
+DOE officials had requested public comment on the DFR, becoming effective July 15, unless significant adverse comments are received by June 16. Significant adverse comments are ones which oppose the rule and raise, alone or in combination, a serious enough issue related to each of the independent grounds for the rule that a substantive response is required.
 
-WASHINGTON – Department of Energy officials announced a public comment period on a direct finale rule (DFR).
+Information on the DRF is available in the Federal Register and directs interested persons to submit comments using the Federal eRulemaking Portal at [www.regulations.gov](https://www.regulations.gov/document/DOE-HQ-2025-0015-0001) under docket number DOE-HQ-2025-0015.
 
-As an independent federal agency advising the President, Congress and federal agencies on disability policy, NCD is currently examining the rule.
+Kennemer
 
-The DFR rescinds certain new construction requirements related to disability nondiscrimination in federally assisted programs or activities.
-
-The final rule is effective July 15, 2025, unless significant adverse comments are received by June 16, 2025. Significant adverse comments are ones which oppose the rule and raise, alone or in combination, a serious enough issue related to each of the independent grounds for the rule that a substantive response is required.
-
-Information on the DRF is available in the Federal Register and directs interested persons to submit comments using the Federal eRulemaking Portal at www.regulations.gov under docket number DOE-HQ-2025-0015.
-
-, regarding the Department of Energy’s (DOE) direct final rule (DFR) to rescind new construction requirements related to disability nondiscrimination in federally assisted programs or activities. We advise DOE to pause its intention to effectuate the DFR in such a short time frame and we request a meeting with you to discuss the concerns described in this correspondence. 
-
-NCD is deeply concerned with DOE’s intention to rescind 10 C.F.R. § 1040.73 of DOE’s section 504 regulation as it contains longstanding, crucial requirements for physical accessibility of buildings constructed and altered using federal financial assistance:
-
-Section 1040.73(a) requires that each facility or part of a facility constructed by, on behalf of, or for the use of a recipient of federal financial assistance  to be designed and constructed in a manner that is readily accessible to, and usable by people with disabilities, if the construction began after June 13, 1980. 
-
-Section 1040.73(b) provides a similar requirement for alterations, requiring alterations that affect, or could affect, the usability of a facility, to be done in a manner that ensures the altered portion of the facility is readily accessible to and usable by people with disabilities to the maximum extent feasible. 
-
-Section 1040.73(c) allows recipients of federal financial assistance who construct or alter buildings to meet accessibility requirements by conforming with sections 3-8 of the Uniform Federal Accessibility Standards (USAF) and allows for deviations where substantially equivalent or greater access and useability to the building is provided. 
-
-The DOE regulation at issue has existed for 45 years and is an essential part of the overall federal assurance that buildings constructed or altered using federal funds are useable by all Americans. DOE explains that it seeks to rescind section 1040.73 given the general prohibition on discriminatory activities and related penalties found at 10 CFR section 1040.71, and because its rescission would further “DOE’s policy to give private entities flexibility to comply with the law in the manner they deem most efficient." However, as DOE stated in the DFR, section 1040.71 only provides a general prohibition, it does not provide clear requirements as does section 1040.73. These requirements have been helpful for decades and are not overly burdensome. Furthermore, private industry frequently lacks the expertise to determine how to construct or alter buildings for accessibility and relies on easily accessed, widely accepted and utilized standards to achieve it. As such, specific regulatory provisions, such as section 1040.73, are not just helpful, they are necessary to those involved in the design and construction of buildings because of their clear and unambiguous language. In addition, the existing requirements help to foreclose the risk of additional costs and delays incurred post-construction to retrofit initial construction that is not accessible.
-
-It is critical to highlight the importance of Rehabilitation Act section 504 regulations to the large and growing population of Americans with disabilities. Prior to their existence, there was little to no accessibility of buildings and individuals with disabilities and their families were significantly burdened by the inability to enter and use public buildings. This lack of access impacted their lives in a myriad of ways, including decreased employment opportunities and barriers to community participation. These regulatory provisions are necessary and have been carefully crafted over the years through a deliberative process, including input from the public and industry. They guarantee access to millions of people with disabilities. Accordingly, any plan to alter or rescind a regulation that is a cornerstone for accessibility to federally financed buildings, as here, should be considered only after meaningful consultation with disability experts and stakeholders and a meaningful opportunity for the public to be informed of the plan, understand its impacts, and have an opportunity to provide informed comments based on that information. 
-
-NCD stands ready to assist DOE through our expertise and advisement to ensure that buildings constructed or altered with DOE’s financial assistance continue to be accessible to all Americans. We look forward to discussing this matter with you soon. Please have your staff contact Joan Durocher, NCD’s General Counsel and Director of Policy, at jdurocher@ncd.gov to arrange a time to meet in the coming week. 
-
-Respectfully,
+"Any plan to alter or rescind a regulation that is a cornerstone for accessibility to federally financed buildings, as here, should be considered only after meaningful consultation with disability experts and stakeholders and a meaningful opportunity for the public to be informed of the plan, understand its impacts, and have an opportunity to provide informed comments based on that information.
