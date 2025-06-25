@@ -15,7 +15,6 @@ Thursday, May 29, 2025, from 4 to 4:45 p.m. EDT during NCD's Council Meeting.
 
 **Topic(s):** Youth and younger adults in nursing homes; 2025 Progress Report notable policy developments
 
-
 For the May 29 Council meeting, NCD will have a public comment period of 45 minutes and requests comments from the public regarding the experiences of youth and younger adults in nursing homes and for our 2025 Progress Report focused on what the public considers the most notable disability policy developments since Summer 2024. The Council would also like to hear about any missed opportunities within those achievements.
 
 Information on our Council meeting is available on our [Upcoming Event page](https://www.ncd.gov/meeting/2025-05-29-may-29-30-2025-council-meeting/).
@@ -32,6 +31,16 @@ Public comment will be used to further develop the information in NCD’s report
 * What opportunities are available to younger people with disabilities who reside in nursing homes, for free appropriate public education (FAPE), recreation, community participation?  
 * What are examples of non-governmental initiatives to help move children out of nursing homes? What states house the most children in nursing homes? What are the main causes? What is the remedy? 
 * How could policymakers address the needs of younger people with disabilities in LTSS and housing policy so that nursing home placement is minimized? 
+
+
+
+
+<div id="5"></div>
+
+
+
+
+
 
 **Format**
 
