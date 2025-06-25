@@ -39,29 +39,12 @@ Cc: The Honorable Robert F. Kennedy, Jr.
 
 \--------
 
+[^1]: Presidential Actions, “Delivering Most Favored Nation Prescription Drug Pricing to American Patients” executive order, May 12, 2025, <https://www.whitehouse.gov/presidential-actions/2025/05/delivering-most-favored-nation-prescription-drug-pricing-to-american-patients/>.
 
+[^2]: Mahmoudi, E., & Meade, M. A. (2015). Disparities in access to health care among adults with physical disabilities: Analysis of a representative national sample for a ten-year period. Disability and Health Journal, 8(2), 182–190. <https://doi.org/10.1016/j.dhjo.2014.08.007>.
 
+[^3]: National Council on Disability, “The Current State of Health Care for People with Disabilities” (2009), <https://www.ncd.gov/report/the-current-state-of-health-care-for-people-with-disabilities/>.
 
+[^4]: National Council on Disability, “Quality-Adjusted Life Years and the Devaluation of Life with a Disability,” November 6, 2019, <https://www.ncd.gov/report/quality-adjusted-life-years-and-the-devaluation-of-life-with-a-disability/>; National Council on Disability, “Alternatives to QALY-Based Cost-Effectiveness Analysis for Determining the Value of Prescription Drugs and Other Health Interventions,” November 28, 2022, <https://www.ncd.gov/report/alternatives-to-qaly-based-cost-effectiveness-analysis-for-determining-the-value-of-prescription-drugs-and-other-health-interventions/>.
 
-
-[^1]: Presidential Actions, “Delivering Most Favored Nation Prescription Drug Pricing
-to American Patients” executive order, May 12, 2025, <https://www.whitehouse.gov/presidential-actions/2025/05/delivering-most-favored-nation-prescription-drug-pricing-to-american-patients/>.
-
-
-[^2]: Mahmoudi, E., & Meade, M. A. (2015). Disparities in access to health care
-among adults with physical disabilities: Analysis of a representative national
-sample for a ten-year period. Disability and Health Journal, 8(2), 182–190. <https://doi.org/10.1016/j.dhjo.2014.08.007>.
-
-[^3]: National Council on Disability, “The Current State of Health Care for People
-with Disabilities” (2009), <https://www.ncd.gov/report/the-current-state-of-health-care-for-people-with-disabilities/>.
-
-
-[^4]: National Council on Disability, “Quality-Adjusted Life Years and the
-Devaluation of Life with a Disability,” November 6, 2019, <https://www.ncd.gov/report/quality-adjusted-life-years-and-the-devaluation-of-life-with-a-disability/>;
-National Council on Disability, “Alternatives to QALY-Based Cost-Effectiveness
-Analysis for Determining the Value of Prescription Drugs and Other Health
-Interventions,” November 28, 2022, <https://www.ncd.gov/report/alternatives-to-qaly-based-cost-effectiveness-analysis-for-determining-the-value-of-prescription-drugs-and-other-health-interventions/>.
-
-
-[^5]: National Council on Disability, “Framework to End Health Disparities of People with Disabilities
-(2022), <https://www.ncd.gov/report/framework-to-end-health-disparities-of-people-with-disabilities/>.
+[^5]: National Council on Disability, “Framework to End Health Disparities of People with Disabilities (2022), <https://www.ncd.gov/report/framework-to-end-health-disparities-of-people-with-disabilities/>.
