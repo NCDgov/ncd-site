@@ -3,7 +3,7 @@ layout: council-member
 member_name: Risa Jaz Rifkind
 member_title: Council Member
 location: Las Vegas, Nevada
-image: images/rrifkind12.1.16.jpg
+image: images/risa-rifkind.jpg
 image_alt_text: Risa Jaz Rifkind photo
 order: 8
 start_date: November 7, 2022
