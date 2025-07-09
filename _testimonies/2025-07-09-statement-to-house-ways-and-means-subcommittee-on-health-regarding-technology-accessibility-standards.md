@@ -60,7 +60,7 @@ National Council on Disability
 
 [^10]: ADA National Network “Healthcare and the Americans with Disabilities Act,” available at: <https://adata.org/sites/adata.org/files/files/Health%20Care%20and%20the%20ADA%20FINAL%202-11-2020.pdf>.
 
-[^11]: Nat’l Council on Disability, Enforceable Accessible Medical Equipment Standards: A Necessary Means to Address the Health Care Needs of People with Mobility Disabilities, (May 20, 2021), available at: https://www.ncd.gov/report/eames-report/. 
+[^11]: Nat’l Council on Disability, Enforceable Accessible Medical Equipment Standards: A Necessary Means to Address the Health Care Needs of People with Mobility Disabilities, (May 20, 2021), available at: <https://www.ncd.gov/report/eames-report/>. 
 
 [^12]: L. I. Iezzoni, “Eliminating Health and Healthcare Disparities Among the Growing Population of People with Disabilities,” Health Affairs 30, no. 10 (2011): 1947–54; L. Ramjan et al., “Barriers to Breast and Cervical Cancer Screening for Women with Physical Disability: A Review,” Women and Health 56, no. 2 (2016): 141–56; J. R. Pharr et al., “Health Disparities Experienced by People with Disabilities in the United States: A Behavioral Risk Factor Surveillance System Study,” Global Journal of Health Science 4, no. 6 (2012): 99. 
 
