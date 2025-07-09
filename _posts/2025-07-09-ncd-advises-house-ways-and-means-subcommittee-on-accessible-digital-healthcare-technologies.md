@@ -12,7 +12,7 @@ July 9, 2025
 
 The statement was in regards to the June 25 hearing, [Health at Your Fingertips: Harnessing The Power of Digital Health Data.](https://waysandmeans.house.gov/event/health-subcommittee-hearing-on-health-at-your-fingertips-harnessing-the-power-of-digital-health-data/)
 
-NCD as an independent federal agency responsible for advising Congress, the President and federal agencies on disability policy, highlighted the need to comply with federal anti-discrimination laws, especially accessibility standards for Information and Communication Technologies (ICT) under Section 508 of the Rehabilitation Act of 1973.
+NCD as an independent federal agency responsible for advising Congress, the President and federal agencies on disability policy, highlighted that innovations in healthcare technology to prevent and improve healthcare treatment and services for chronic illnesses need to meet accessibility standards for Information and Communication Technologies (ICT) under Section 508 of the Rehabilitation Act of 1973.
 
 "Members of this Subcommittee should be especially aware that digital health systems and technology have the potential to vastly improve treatment, management and health outcomes for people with disabilities and lower overall healthcare costs," wrote NCD Vice Chair and Acting Chair Shawn Kennemer. "As policymakers encourage the development of innovative technologies in healthcare, they should also encourage developers to test these digital technologies to ensure they comply with ICT standards before they are sold to healthcare providers and ensure that these devices meet accessibility standards. 
 
