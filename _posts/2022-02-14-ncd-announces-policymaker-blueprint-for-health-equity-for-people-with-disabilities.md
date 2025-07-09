@@ -3,13 +3,15 @@ layout: post
 title: NCD announces policymaker blueprint for health equity for people with
   disabilities
 date: 2022-02-14
-tag: Newsletter
+tags:
+  - Newsletter
 policy_areas:
   - Health Care
   - Civil Rights
 image_alt_text: NA
 ---
-**FOR IMMEDIATE RELEASE**                                              
+
+**FOR IMMEDIATE RELEASE**
 
 February 14, 2022
 
@@ -37,8 +39,8 @@ NCD is an independent, nonpartisan federal agency that advises the President, Co
 
 Stakeholders are invited to join a discussion about the framework Feb. 23, 2-2:45 p.m. EST via Zoom. Registration is available on NCD’s [Eventbrite](https://www.eventbrite.com/e/ncd-health-equity-framework-national-stakeholder-call-tickets-268930387027) page.
 
- 
 
- 
+
+
 
 \###

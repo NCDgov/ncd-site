@@ -4,13 +4,15 @@ title: NCD Recommends Ways to Implement Medicaid Managed Care Without Harming
   Americans with Disabilities
 collection_name: newsroom
 date: 2013-03-18
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Health Care
 ---
+
 March 18, 2013
 
-**WASHINGTON, DC** – With no end to the budget conflict in sight, the National Council on Disability (NCD) – an independent federal agency that advises the President, Congress, and other federal agencies on disability policy – today released a report titled “Medicaid Managed Care for People with Disabilities: Policy and Implementation Considerations for State and Federal Policymakers” to assist with the implementation of managed care reforms without harming Americans with disabilities.  
+**WASHINGTON, DC** – With no end to the budget conflict in sight, the National Council on Disability (NCD) – an independent federal agency that advises the President, Congress, and other federal agencies on disability policy – today released a report titled “Medicaid Managed Care for People with Disabilities: Policy and Implementation Considerations for State and Federal Policymakers” to assist with the implementation of managed care reforms without harming Americans with disabilities.
 
 In the report, the agency outlines twenty-two principles to guide the design and implementation of managed care services for Americans with disabilities. NCD also recommends that the Centers for Medicare and Medicaid Services (CMS) create and circulate a comprehensive, easy-to-understand procedure spelling out the process for determining state demonstration waiver requests that seek to link Medicaid managed long-term services and supports.
 
@@ -20,14 +22,14 @@ Today, more than two-thirds of the 70 million Medicaid beneficiaries receive at 
 
 **Key Findings**
 
-* At the time of publication, more than half of U.S. states are planning to increase the number of Medicaid beneficiaries enrolled in managed care plans;
-* In 2014, the Affordable Care Act will expand Medicaid to reach millions of low-income uninsured Americans, including many with disabilities, and states are widely expected to rely on managed care organizations to serve the newly eligible population; and
-* Transitioning Medicaid beneficiaries with disabilities into managed care involves a number of challenges. To be successful, services must be tailored to meet the personalized needs of people with disabilities.
+- At the time of publication, more than half of U.S. states are planning to increase the number of Medicaid beneficiaries enrolled in managed care plans;
+- In 2014, the Affordable Care Act will expand Medicaid to reach millions of low-income uninsured Americans, including many with disabilities, and states are widely expected to rely on managed care organizations to serve the newly eligible population; and
+- Transitioning Medicaid beneficiaries with disabilities into managed care involves a number of challenges. To be successful, services must be tailored to meet the personalized needs of people with disabilities.
 
- **Sample Recommendations**
+**Sample Recommendations**
 
-* Design and implementation should be informed with the input of stakeholders, disability experts and providers.
-* Increased incentives for home-and-community based services should be provided and supported in the implementation of managed care plans.
-* An information system should be developed and maintained that enables real-time coordination and case management support.
+- Design and implementation should be informed with the input of stakeholders, disability experts and providers.
+- Increased incentives for home-and-community based services should be provided and supported in the implementation of managed care plans.
+- An information system should be developed and maintained that enables real-time coordination and case management support.
 
- **The full report, including the guiding principles and specific recommendations developed by NCD, are available online at:** [/publications/2013/20130315/](https://www.ncd.gov/publications/2013/20130315/)
+**The full report, including the guiding principles and specific recommendations developed by NCD, are available online at:** [/publications/2013/20130315/](https://www.ncd.gov/publications/2013/20130315/)

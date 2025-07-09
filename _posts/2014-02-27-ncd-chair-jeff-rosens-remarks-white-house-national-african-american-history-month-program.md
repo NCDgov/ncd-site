@@ -4,8 +4,10 @@ title: NCD Chair Jeff Rosen's Remarks White House National African American
   History Month Program
 collection_name: newsroom
 date: 2014-02-27
-tag: Speech
+tags:
+  - Speech
 ---
+
 February 27, 2014
 
 Thank you for the kind introduction. The National Council on Disability (NCD) is an independent federal agency which provides advice and recommendations to the President, the Administration and Congress on policy issues which impact people with disabilities. We appreciate the White House and Claudia undertaking this first of its kind event and also thank Council Co-Vice Chair Kamilah Martin-Proctor for her excellent support of this event. NCD has addressed in its body of work the experience of culturally diverse people with disabilities which I will talk about in a moment. But first, please allow me to speak about how black power changed my life as a person with a disability.

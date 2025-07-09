@@ -3,17 +3,19 @@ layout: post
 title: National Council on Disability welcomes Councilmember Kimberly Hill Ridley
 collection_name: newsroom
 date: 2024-11-22
-tag: Press Release
+tags:
+  - Press Release
 image: ""
 image_alt_text: Kimberly Hill Ridley headshot
 redirect_from: []
 ---
+
 For Immediate Release\
-Nov. 22, 2024                                      
+Nov. 22, 2024
 
 **WASHINGTON —** Today the National Council on Disability (NCD) welcomes its newest member to the independent federal agency charged with advising the President, Congress, and other federal agencies on disability policy.
 
-Kimberly Hill Ridley took the oath of office today and officially began her time as NCD Council member in a ceremony presided over by NCD Chair Claudia L. Gordon. 
+Kimberly Hill Ridley took the oath of office today and officially began her time as NCD Council member in a ceremony presided over by NCD Chair Claudia L. Gordon.
 
 I am thrilled to welcome Kim to the Council,” said Gordon. “Her exceptional leadership as New York’s Chief Disability Officer and her deep commitment to disability rights will be invaluable assets to NCD," she said. "I eagerly anticipate her insightful contributions as we work to shape a more inclusive and equitable future for all."
 
@@ -33,7 +35,7 @@ As CDO, Kim and her team spend a significant amount of their time meeting with a
 
 Kim lives with a C5-C6 cervical incomplete spinal cord injury resulting from an accident during her junior year in high school and has never let her disability have a negative impact on her attitude or achievements. Prior to joining the Executive Chamber, Kim served in various disability-focused roles with the New York Assembly spanning 28 years. Kim holds a Bachelor of Science degree from Utica College of Syracuse University (now Utica University) and resides in Latham, N.Y., with her husband, Michael, and their children, Michaela and Alex.
 
-**About the National Council on Disability (NCD):** 
+**About the National Council on Disability (NCD):**
 
 First established as a small advisory Council within the Department of Health, Education, and Welfare Rehabilitation in 1978, NCD became an independent federal agency in 1984. In 1986, NCD recommended enactment of an Americans with Disabilities Act (ADA), and drafted the first version of the bill which was introduced in the House and Senate in 1988. Since the ADA became law in 1990, NCD has continued to play a leading role in crafting policy solutions, and in advising the President, Congress and other federal agencies on disability policies, programs, and practices.
 

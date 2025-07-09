@@ -4,10 +4,12 @@ title: National Council on Disability Applauds Supreme Court Ruling on the
   Affordable Care Act
 collection_name: newsroom
 date: 2012-06-28
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Health Care
 ---
+
 June 28, 2012
 
 **W﻿ASHINGTON, DC--**The National Council on Disability applauds the United States Supreme Court’s decision to affirm the individual mandate in the Affordable Care Act (ACA) as a victory for Americans with disabilities. On Thursday June 28, the court voted 5-4 to uphold the constitutionality of the individual mandate provisions of the ACA. \

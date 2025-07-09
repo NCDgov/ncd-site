@@ -3,10 +3,12 @@ layout: post
 title: National Council on Disability Executive Director Retires
 collection_name: newsroom
 date: 2006-06-16
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 NCD #06-512\
-June 16, 2006 
+June 16, 2006
 
 **WASHINGTON—**The National Council on Disability (NCD) today announced the retirement of its long-standing executive director, Ethel D. Briggs, who served the agency for 21 years.
 

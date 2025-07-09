@@ -4,13 +4,15 @@ title: National Council on Disability to Call for Changes in Federal Programs
   Affecting People with Disabilities
 collection_name: newsroom
 date: 2009-03-27
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 M﻿arch 27, 2009
 
 **WASHINGTON—**The National Council on Disability (NCD) will release its annual progress report outlining the state of people with disabilities in the United States and listing the challenges and possible solutions to the conditions they face at the Academy for Educational Development (AED), 1825 Connecticut Avenue, NW, 8th Floor Conference Center, Washington, DC, on Tuesday, March 31, 2009, at 3:45 p.m. until 5:00 p.m. This event is open to the public, and free of charge.
 
-This congressionally-mandated report, National Disability: A Progress Report, focuses on the current quality of life of people with disabilities in America and the emerging trends that should be factored into both the design and evaluation of the government's disability policies and programs in the coming years. 
+This congressionally-mandated report, National Disability: A Progress Report, focuses on the current quality of life of people with disabilities in America and the emerging trends that should be factored into both the design and evaluation of the government's disability policies and programs in the coming years.
 
 Speakers include:
 

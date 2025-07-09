@@ -3,8 +3,10 @@ layout: post
 title: Lt. Colonel Daniel M. Gade, Ph.D. Appointed to the National Council on
   Disability by Speaker of the House of Representatives
 date: 2015-10-13
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **October 13, 2015**
 
 **WASHINGTON, DC —** The National Council on Disability (NCD) – an independent federal agency that recommends disability policy to the President, Congress and other federal agencies – welcomes the appointment of Lt. Colonel Daniel M. Gade, Ph.D., of New Windsor, NY to the Council.

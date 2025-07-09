@@ -3,12 +3,12 @@ layout: post
 title: "Notice of Funding Opportunity: State’s use of QALY-Based
   Cost-Effectiveness Reports to Inform Medicaid Coverage for Prescription Drugs"
 date: 2021-06-15
-tag: Funding Opportunities
+tags:
+  - Funding Opportunities
 policy_areas:
   - ""
 image_alt_text: NA
 ---
-
 
 ## **State’s use of Quality Adjusted Life Year (QALY) Based Cost-Effectiveness Reports to Inform Medicaid Coverage for Prescription Drugs**
 
@@ -18,7 +18,7 @@ The QALY is a broad population-based cost and cost-effectiveness analyses develo
 
 There are serious ethical concerns with how QALYs are developed and used. QALYs fall short in measuring health preferences for patients with chronic diseases and disabilities and place greater value on years lived in full health, or on interventions that prevent loss of perfect health while discounting gains in health for individuals with chronic illnesses. QALYS require valuing one individual’s life over another’s, which may result in only providing healthcare to those that are deemed to have the greatest benefit from a treatment, such as a person who will fully recover and return to perfect health. Additionally, people with disabilities may enjoy a comparable quality of life to non-disabled individuals but may face a shorter life expectancy compared to someone without their condition. Because QALYs are assigned by both quality as well as quantity of life, an incremental QALY assessment would prioritize providing treatment to a nondisabled person with a longer theoretical life expectancy over a person with a disability.
 
-NCD’s recent report, *Quality Adjusted Life years and the Devaluation of Life with a Disability* described the history of QALY use by states, beginning with Oregon’s use of QALYs to determine what services would be covered by their Medicaid program. In 1992, the U.S. Department of Health and Human Services (HHS) rejected the state of Oregon’s request to proceed with their prioritized list based on explicit cost-effectiveness ratios derived from QALYS because of its potential to discriminate against people with disabilities. The Secretary of the Oregon Department of Health and Human Services wrote an opinion to the New York Times stating, “Our principal concern is that Oregon's plan in substantial part values the life of a person with a disability less than the life of a person without a disability. This premise is discriminatory and inconsistent with the Americans with Disabilities Act.” 
+NCD’s recent report, *Quality Adjusted Life years and the Devaluation of Life with a Disability* described the history of QALY use by states, beginning with Oregon’s use of QALYs to determine what services would be covered by their Medicaid program. In 1992, the U.S. Department of Health and Human Services (HHS) rejected the state of Oregon’s request to proceed with their prioritized list based on explicit cost-effectiveness ratios derived from QALYS because of its potential to discriminate against people with disabilities. The Secretary of the Oregon Department of Health and Human Services wrote an opinion to the New York Times stating, “Our principal concern is that Oregon's plan in substantial part values the life of a person with a disability less than the life of a person without a disability. This premise is discriminatory and inconsistent with the Americans with Disabilities Act.”
 
 NCD’s report also found that New York has recently relied on QALY-based cost effectiveness reports by the Institute for Clinical and Economic Review (ICER) which led to a “stand-off” between the Medicaid agency and the drug manufacturer over the price the state would pay for a new a critical treatment, leaving patients waiting and using a less effective alternative. Despite the civil rights implications of using these reports, a 2020 Kaiser Foundation report, identified twenty-two states that used ICER and other cost effectiveness reports to value prescription drugs and treatments.  Several states have also shown interest in relying on international drug prices to inform Medicaid prescription drug coverage in their Medicaid programs.
 
@@ -33,7 +33,7 @@ It will describe how many States are using ICER QALY-based cost studies or refer
 Through the lens of section 504 and the ADA, the research will seek to answer:
 
 1. How many states use ICER QALY-based cost studies or reference international drug prices set in reliance on the QALY to determine prescription drug prices for Medicaid? How much does it influence coverage of drugs and services in the Medicaid program? Negotiations with manufacturers?
-2. Has patient’s access to prescription drugs resulted?  Describe the impact on access.  
+2. Has patient’s access to prescription drugs resulted?  Describe the impact on access.
 3. What are the most highly regarded alternatives to QALY-based cost studies that consider patient values and preferences? Do any measure cost-effectiveness? What is the impact of these alternatives on access to prescription drugs?
 4. Has HHS accepted or rejected Medicaid plans from States that identify reliance on ICER reports or international drug prices to determine coverage of prescription drugs? If plans have been accepted, what states and what limitations are in these plans?
 
@@ -49,9 +49,9 @@ A revised framing paper incorporating input from NCD Council members and staff.
 
 A first draft report incorporating initial findings, conclusions, and recommendations that can be drawn from the examination.
 
-A final report of no more than 80 pages (not including endnotes or appendices) incorporating input from NCD Council members and staff. Final reports must contain an executive summary with key findings and key recommendations; and specific sections on methodology; all findings; and all recommendations, organized according to the entity to which they are directed. 
+A final report of no more than 80 pages (not including endnotes or appendices) incorporating input from NCD Council members and staff. Final reports must contain an executive summary with key findings and key recommendations; and specific sections on methodology; all findings; and all recommendations, organized according to the entity to which they are directed.
 
-A brief “Report Highlights” document for each report that succinctly and in plain language encapsulates the report’s scope and purpose, major findings, and recommendations, and contains a link to the full report at the bottom. For an example of a Reports Highlights Page, refer to: *<https://ncd.gov/publications/2013/10242013>*.  
+A brief “Report Highlights” document for each report that succinctly and in plain language encapsulates the report’s scope and purpose, major findings, and recommendations, and contains a link to the full report at the bottom. For an example of a Reports Highlights Page, refer to: *<https://ncd.gov/publications/2013/10242013>*.
 
 **Requirements**
 
@@ -189,7 +189,7 @@ The awardee will present on its work before NCD at a quarterly Council meeting a
 
 **Business Proposal**
 
-The business proposal shall contain a detailed budget for the project and the certifications and representations required by OMB Circular A-110. 
+The business proposal shall contain a detailed budget for the project and the certifications and representations required by OMB Circular A-110.
 
 Note:  For each type of entity, there is a set of Federal principles for determining allowable costs. Allowable costs shall be determined in accordance with the cost principles applicable to the entity incurring the costs. Thus, allowable costs incurred by State, local or federally-recognized Indian tribal governments is determined in accordance with the provisions of OMB Circular A–87, “Cost Principles for State and Local Governments.” The allowable of costs incurred by non-profit organizations is determined in accordance with the provisions of OMB Circular A–122, “Cost Principles for Non-Profit Organizations.”
 
@@ -221,13 +221,11 @@ The proposal describes to which the overall experience and past performance of t
 
 **Project Start Date**
 
-The projected start of the cooperative agreement is July 30, 2021. The projected end date is January 31, 2022.   
+The projected start of the cooperative agreement is July 30, 2021. The projected end date is January 31, 2022.
 
 **Compliance with Executive Order 13985.**
 
 NCD wants to ensure there is stakeholder involvement in the findings and recommendations. The inclusion of people with disabilities, including people with disabilities who are multiply marginalized (black, indigenous, people of color, LGBTQ, e.g.), must be integral to the planning, development, and execution of this project. At least one section of the report should focus on stakeholder input, but input should be integrated throughout.
-
-
 
 **Citations & Style Guide for NCD Reports**
 
@@ -243,7 +241,7 @@ Reviews of proposals submitted to NCD are solicited from peers with expertise in
 
 **Notice of Award**
 
-NCD will notify the offeror by telephone and e-mail. This will begin negotiations for a cooperative agreement. The notification is not authorization to begin performance. Organizations or individuals whose proposals are declined will be advised as promptly as possible. A summary of the strengths and weaknesses identified by reviewers, of each declined proposal, not included identifying names or information about proposal reviewers, will be made available upon request. 
+NCD will notify the offeror by telephone and e-mail. This will begin negotiations for a cooperative agreement. The notification is not authorization to begin performance. Organizations or individuals whose proposals are declined will be advised as promptly as possible. A summary of the strengths and weaknesses identified by reviewers, of each declined proposal, not included identifying names or information about proposal reviewers, will be made available upon request.
 
 **About the National Council on Disability**
 

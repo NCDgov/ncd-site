@@ -4,15 +4,17 @@ title: Effective Communication for People with Disabilities Before, During, and
   After Emergencies Evaluated
 collection_name: newsroom
 date: 2014-05-27
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Emergency Management
 ---
+
 ### Independent Federal Agency To Release New Report At May 27 Briefing
 
 May 27, 2014
 
-**Washington, DC –** A new report by the National Council on Disability (NCD), an independent federal agency, examines the accessibility of communication before, during, and after emergencies for people with sensory disabilities (deaf, hard of hearing, blind, low-vision, deaf-blind, and speech disabilities) as well as people with intellectual, developmental, and/or psychiatric disabilities. In the report, NCD documented successful practices and barriers to effective emergency communications. This study, released during National Hurricane Preparedness Week, was conducted to help emergency planners and state and local officials provide effective communication to people with disabilities before, during, and after emergencies. 
+**Washington, DC –** A new report by the National Council on Disability (NCD), an independent federal agency, examines the accessibility of communication before, during, and after emergencies for people with sensory disabilities (deaf, hard of hearing, blind, low-vision, deaf-blind, and speech disabilities) as well as people with intellectual, developmental, and/or psychiatric disabilities. In the report, NCD documented successful practices and barriers to effective emergency communications. This study, released during National Hurricane Preparedness Week, was conducted to help emergency planners and state and local officials provide effective communication to people with disabilities before, during, and after emergencies.
 
 **NOTE: A policy briefing on the findings in the report will be held Tuesday, May 27 at 10am at Room 2167 of the Rayburn House Office Bldg in Washington, DC.**
 

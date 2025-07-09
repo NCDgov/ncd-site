@@ -3,8 +3,10 @@ layout: post
 title: NCD holds next Council meeting March 6-7 in Washington DC
 collection_name: newsroom
 date: 2025-02-21
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **FOR IMMEDIATE RELEASE**
 
 Feb. 21, 2025
@@ -13,7 +15,7 @@ Feb. 21, 2025
 
 Register to attend either in-person or via Zoom [here](https://events.zoomgov.com/ev/Ag76hH6Cfue4dZ4Mq7Ga036XzLxUBPzKKjX4gmkpdUr7o1JWC0YQ~ApV7due8M_aCc4exuod-RJ9uSjXe_E7YnS0oAERzDQ62SbzPBd9BBF4QMA):
 
-On March 6, the meeting will include welcome remarks and introductions, a NCD pinning ceremony for its newest member; followed by a report release on Disabled Worker Tax Misclassification, with a panel discussion; Council member report outs; lunch break; followed by a panel discussion regarding recent experiences of people with disabilities during disasters; a public comment session focused on younger people in nursing homes; followed by adjournment. 
+On March 6, the meeting will include welcome remarks and introductions, a NCD pinning ceremony for its newest member; followed by a report release on Disabled Worker Tax Misclassification, with a panel discussion; Council member report outs; lunch break; followed by a panel discussion regarding recent experiences of people with disabilities during disasters; a public comment session focused on younger people in nursing homes; followed by adjournment.
 
 For the March 7 business meeting, welcome and call to order, NCD Council members and staff will receive annual ethics training; followed by the Chairman’s report and Executive Committee Report, before adjourning.
 

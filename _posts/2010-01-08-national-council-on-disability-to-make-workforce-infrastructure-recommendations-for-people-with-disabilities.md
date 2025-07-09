@@ -4,10 +4,12 @@ title: National Council on Disability to Make Workforce Infrastructure
   Recommendations for People with Disabilities
 collection_name: newsroom
 date: 2010-01-08
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Employment
 ---
+
 J﻿anuary 8, 2010
 
 **WASHINGTON—**The [National Council on Disability](https://ncd.gov/) (NCD) will release a report on workforce infrastructure for people with disabilities at the JW Marriott Houston, 5150 Westheimer, Houston, TX, from 9:15 a.m. until 10:15 a.m. on Wednesday, January 20, 2010. This meeting is open to the public.

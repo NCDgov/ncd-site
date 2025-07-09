@@ -2,10 +2,12 @@
 layout: post
 title: NCD statement of solidarity with victims of police violence
 date: 2020-06-02
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
 ---
+
 ### For Immediate Release
 
 June 2, 2020

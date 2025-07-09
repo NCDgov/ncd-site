@@ -3,8 +3,10 @@ layout: post
 title: "National Council on Disability votes on policy priorities at May meeting "
 collection_name: newsroom
 date: 2024-05-16
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **FOR IMMEDIATE RELEASE**
 
 May 16, 2024
@@ -13,7 +15,7 @@ May 16, 2024
 
 During the virtual meeting, Councilmembers offered several policy project proposals, but selected reports focused on youth with disabilities in nursing homes and autonomous vehicles as the two projects it plans to fund in the next fiscal year.
 
-Councilmembers selected examining disability policy in U.S. territories and Federal Government disability hiring, both tied, as their next highest priorities. Additional proposals offered and discussed included barriers to and within post-secondary education for disabled students and disparities in cancer treatment for people with disabilities. 
+Councilmembers selected examining disability policy in U.S. territories and Federal Government disability hiring, both tied, as their next highest priorities. Additional proposals offered and discussed included barriers to and within post-secondary education for disabled students and disparities in cancer treatment for people with disabilities.
 
 “All of these projects deserve to be funded,” said NCD Councilmember Theo Braddy, lamenting that it was difficult to cast his vote for his top priorities from the slate offered.
 
@@ -44,7 +46,5 @@ The public had an opportunity to present public comment on experiences with recr
 Video of the meeting will soon be available on the Council’s YouTube channel.
 
 The next meeting is scheduled for June 27 on Zoomgov. More information is available on NCD.gov.
-
-
 
 \###

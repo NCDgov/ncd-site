@@ -3,10 +3,12 @@ layout: post
 title: NCD Applauds New CMS Medicaid Managed Care Resources
 collection_name: newsroom
 date: 2012-08-15
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Health Care
 ---
+
 Aug. 15, 2012
 
 **WASHINGTON, DC –** The National Council on Disability (NCD) – an independent federal agency that advises the President, Congress, and other federal agencies on the policies and programs that affect Americans with disabilities – commends the Centers for Medicare & Medicaid Services (CMS) for two new resources aimed at enhancing Medicaid managed long-term supports and services (MLTSS).  NCD applauds the implementation of these additional resources and the promise they hold for states and other partners in enhancing the quality and delivery of Medicaid services.
@@ -15,11 +17,11 @@ A growing number of states are delivering long-term services and supports throug
 
 "These additional resources from the Centers for Medicare & Medicaid Services provide valuable information to advocates, state governments and managed care organizations to utilize when setting meaningful and effective policy for Managed Long Term Services and Supports," said Ari Ne'eman, Chair of the NCD Committee on Entitlements Policy. "CMS's invaluable web resource, offering a comprehensive overview of MLTSS program details and case studies as 'social stories' for Medicaid officials, are significant steps forward for Americans with disabilities and our families."
 
-The new resources provided by CMS should enhance Medicaid services in several ways, including:   
+The new resources provided by CMS should enhance Medicaid services in several ways, including:
 
-* Enhancing technical assistance and access to information for both advocates and states.
-* Providing crucial assistance on designing and utilizing MLTSS systems.
-* Offering a comprehensive environmental scan of existing MLTSS efforts
+- Enhancing technical assistance and access to information for both advocates and states.
+- Providing crucial assistance on designing and utilizing MLTSS systems.
+- Offering a comprehensive environmental scan of existing MLTSS efforts
 
 The new MLTSS programs offered to states by CMS provide a broader and more flexible set of program design options, and may be used in a more coordinated and comprehensive way to promote initiatives such as Money Follows the Person, participant-directed services, and the Balancing Incentive Program.
 

@@ -4,15 +4,17 @@ title: NCD Applauds Appointment of Claudia Gordon as Public Engagement Advisor
   at the White House
 collection_name: newsroom
 date: 2013-07-16
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 J﻿uly 16, 2013
 
 **WASHINGTON** -- The National Council on Disability (NCD), an independent federal agency that advices the President, Congress and other federal agencies on disability policy, welcomes Claudia Gordon, Esq, as the White House’s new Public Engagement Advisor for the Disability Community in the Office of Public Engagement.
 
 Prior to her appointment in the Executive Branch, Gordon was instrumental in strengthening regulations implementing Section 503 of the Rehabilitation Act of 1973 to improve employment opportunities for people with disabilities at the United States Department of Labor (DOL), where she served as a Special Assistant to the Assistant Secretary for the Office of Federal Contracts and Compliance Programs. During Gordon’s tenure, DOL shifted its enforcement activities to hold government contractors accountable for their employment practices and has added 200 new compliance officers since the beginning of the Obama Administration.
 
-Gordon, no stranger to pioneering new ground, was a consultant to the National Council on Disability in 2003 during the preparation of a report examining the literature surrounding “Outreach and People with Disabilities from Diverse Cultures.” 
+Gordon, no stranger to pioneering new ground, was a consultant to the National Council on Disability in 2003 during the preparation of a report examining the literature surrounding “Outreach and People with Disabilities from Diverse Cultures.”
 
 Born in Jamaica, Gordon was the first deaf African American woman to become an attorney as well as the first deaf student to graduate from the American University (AU) Washington College of Law, in Washington, DC, in 2000. The discrimination Gordon experienced as a deaf child in Jamaica compelled her to become a lawyer. At age eight, she moved to the United States and attended the Lexington School for the Deaf in New York where she learned sign language.
 

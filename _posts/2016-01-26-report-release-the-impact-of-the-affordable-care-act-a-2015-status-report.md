@@ -2,8 +2,10 @@
 layout: post
 title: "Report Release -- The Impact of the Affordable Care Act: A 2015 Status Report"
 date: 2016-01-26
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **Second of three reports on health care reform by the National Council on Disability**
 
 **January 26, 2016**
@@ -22,6 +24,6 @@ The “Impact of the Affordable Care Act” and the other reports in the ACA ser
 
 **About the National Council on Disability (NCD):** First established as an advisory body within the Department of Education in 1978, NCD became an independent federal agency in 1984. In 1986, NCD recommended enactment of an Americans with Disabilities Act (ADA), and drafted the first version of the bill which was introduced in the House and Senate in 1988. Since enactment of the ADA in 1990, NCD has continued to play a leading role in crafting disability policy, and advising the President, Congress and other federal agencies on disability policies, programs, and practices.
 
- 
+
 
 \# # #

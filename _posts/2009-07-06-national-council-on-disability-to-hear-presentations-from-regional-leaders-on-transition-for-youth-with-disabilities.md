@@ -4,15 +4,17 @@ title: National Council on Disability to Hear Presentations from Regional
   Leaders on Transition for Youth with Disabilities
 collection_name: newsroom
 date: 2009-07-06
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Youth Perspectives
 ---
+
 J﻿uly 5, 2009
 
 **WASHINGTON—**The National Council on Disability (NCD), as part of its 2 ½ day quarterly meeting, will hear presentations and discuss transition for youth with disabilities at the Minneapolis Marriott City Center, 30 South 7th Street, Minneapolis, MN, from 10:30 a.m. until noon on Tuesday, July 21, 2009. All times are Central Daylight Savings. This meeting is open to the public.
 
-Transition speakers will address Project C3, which has provided resource mapping internships that have assisted over 150 youth with disabilities across Minnesota gain valuable work experience; E-Connect, a modified mentoring program that utilizes electronic communication and occasional face-to-face meetings to connect high school students with employees of local companies that may have a strong technology component in their day to day operations; and Pathways to Employment, which is aimed at increasing competitive employment of people with disabilities. 
+Transition speakers will address Project C3, which has provided resource mapping internships that have assisted over 150 youth with disabilities across Minnesota gain valuable work experience; E-Connect, a modified mentoring program that utilizes electronic communication and occasional face-to-face meetings to connect high school students with employees of local companies that may have a strong technology component in their day to day operations; and Pathways to Employment, which is aimed at increasing competitive employment of people with disabilities.
 
 Youth transition speakers include:
 

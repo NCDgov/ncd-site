@@ -3,11 +3,13 @@ layout: post
 title: Senate Minority Leader Chuck Schumer Appoints Andrés J. Gallegos to
   National Council on Disability
 date: 2018-02-22
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **For Immediate Release**
 
-February 22, 2018                                                                             
+February 22, 2018
 
 **WASHINGTON —**The National Council on Disability (NCD) – an independent federal agency that makes policy recommendations to the President, Congress and other federal agencies – welcomes its newest Member, Andrés J. Gallegos, who was appointed to NCD by Senate Minority Leader Chuck Schumer. Minority Leader Schumer announced the appointment on February 7, and Mr. Gallegos swore his oath of office and began work with NCD today.
 

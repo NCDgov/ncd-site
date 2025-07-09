@@ -3,10 +3,12 @@ layout: post
 title: National Council on Disability Announces Speakers for ADA Town Hall Meeting
 collection_name: newsroom
 date: 2006-07-11
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 NCD #06-513\
-July 11, 2006 
+July 11, 2006
 
 **WASHINGTON—**The National Council on Disability (NCD) and its federal partners today announced speakers and panelists for its Americans with Disabilities Act (ADA) Town Hall Meeting.
 

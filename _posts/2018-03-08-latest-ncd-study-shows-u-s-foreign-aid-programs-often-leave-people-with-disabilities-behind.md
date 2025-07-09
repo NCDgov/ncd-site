@@ -3,8 +3,10 @@ layout: post
 title: Latest NCD Study Shows U.S. Foreign Aid Programs Often Leave People with
   Disabilities Behind
 date: 2018-03-08
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **F﻿or Immediate Release**
 
 March 8, 2018

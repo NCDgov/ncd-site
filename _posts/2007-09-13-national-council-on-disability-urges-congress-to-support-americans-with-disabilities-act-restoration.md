@@ -4,10 +4,12 @@ title: National Council on Disability Urges Congress to Support Americans with
   Disabilities Act Restoration
 collection_name: newsroom
 date: 2007-09-13
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
 ---
+
 S﻿ept. 13, 2007
 
 **WASHINGTON—**The National Council on Disability (NCD) today urged Congress to support legislation that will "right" the course of the Americans with Disabilities Act (ADA) and protect the civil rights of people with disabilities.

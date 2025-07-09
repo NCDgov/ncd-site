@@ -4,10 +4,12 @@ title: National Council on Disability Posts Vacancy Announcement for Executive
   Director and Identifies Search Committee
 collection_name: newsroom
 date: 2006-08-02
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 NCD #06-516\
-August 2, 2006 
+August 2, 2006
 
 **WASHINGTON—**The National Council on Disability (NCD) announced today that it has posted a vacancy announcement for an executive director on USAJOBS ([http://jobsearch.usajobs.opm.gov/jobsearch.asp?re=10&vw=d&pg=1&q=%22National+Council+on+Disability%22&FedEmp=N&sort=rv&brd=3876&ss=0&FedPub=Y](http://jobsearch.usajobs.opm.gov/jobsearch.asp%5EQ%5Ere=10%7Cvw=d%7Cpg=1%7Cq=%22National%2BCouncil%2Bon%2BDisability%22%7CFedEmp=N%7Csort=rv%7Cbrd=3876%7Css=0%7CFedPub=Y)), the official job site of the U.S. Federal Government. NCD also announced a Search Committee for this important position.
 

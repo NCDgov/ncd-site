@@ -2,8 +2,10 @@
 layout: post
 title: NCD applauds legislative, policy initiatives on ADA anniversary
 date: 2018-07-26
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **For Immediate Release**
 
 July 27, 2018
@@ -16,9 +18,9 @@ Bipartisan legislation was introduced by U.S. Reps. Seth Moulton of Massachusett
 
 The bill would provide:
 
-* Access to loan repayment and training programs to those providing care to people with I/DD in HRSA's Workforce Development and Training Programs including the national Health Service Corps Scholarships;
-* Incentives for providers to treat people with I/DD in the form of higher CMS reimbursement rates for provider services delivered in Health Professional Shortage Areas, a designation closely related to MUP;
-* Research preference at federal agencies, including the NIH, that studies medically underserved populations.
+- Access to loan repayment and training programs to those providing care to people with I/DD in HRSA's Workforce Development and Training Programs including the national Health Service Corps Scholarships;
+- Incentives for providers to treat people with I/DD in the form of higher CMS reimbursement rates for provider services delivered in Health Professional Shortage Areas, a designation closely related to MUP;
+- Research preference at federal agencies, including the NIH, that studies medically underserved populations.
 
 NCD helped to draft the bill and provided analysis concerning the challenges faced by people with I/DD in finding sufficient care.
 
@@ -30,6 +32,6 @@ In November 2017, NCD issued a report titled, ["Neglected for too Long: Dental 
 
 NCD commends Congressmen Moulton and Harper for introducing this important legislation, and the American Dental Association for taking steps to act on recommendations made in the furtherance of rights established in the Americans with Disabilities Act. NCD looks forward to working with these and other offices and agencies to see that people with disabilities have equal access to quality healthcare.
 
- 
+
 
 \# # #

@@ -2,12 +2,14 @@
 layout: post
 title: NCD recommends COVID-19 vaccine allocation equity for individuals with I/DD
 date: 2020-12-15
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Health Care
   - Civil Rights
 image_alt_text: NA
 ---
+
 **For Immediate Release**
 
 **WASHINGTON--**The National Council on Disability (NCD) recommends vaccine allocation equity for individuals with intellectual and developmental disabilities (I/DD).
@@ -16,7 +18,7 @@ As the distribution and allocations of a safe and effective vaccine against COVI
 
 NCD specifically recommends the following be included in all vaccine allocation frameworks:
 
-I/DD should be included in the list of high-risk diagnoses used to determine vaccine priority. Compared to individuals without I/DD, individuals with I/DD face alarmingly higher complication and mortality rates from COVID-19, with mortality rates up to 15 percent. Current vaccine allocation frameworks prioritize groups at similar risk for severe complications and death, but prioritizing individuals with I/DD should be made explicit throughout all relevant guidance and state executive orders. Additionally, those who live with or provide care to people with IDD should be included in the same phase of vaccine allocation. 
+I/DD should be included in the list of high-risk diagnoses used to determine vaccine priority. Compared to individuals without I/DD, individuals with I/DD face alarmingly higher complication and mortality rates from COVID-19, with mortality rates up to 15 percent. Current vaccine allocation frameworks prioritize groups at similar risk for severe complications and death, but prioritizing individuals with I/DD should be made explicit throughout all relevant guidance and state executive orders. Additionally, those who live with or provide care to people with IDD should be included in the same phase of vaccine allocation.
 
 Group homes and other congregate residential settings should be considered equivalent risk to nursing homes and other long-term care facilities. Individuals with I/DD who live in these settings should be included in equivalent phases of vaccine allocation.
 

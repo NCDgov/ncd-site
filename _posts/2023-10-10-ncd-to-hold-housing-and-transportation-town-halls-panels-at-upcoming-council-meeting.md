@@ -4,8 +4,10 @@ title: NCD to hold housing and transportation town halls, panels at upcoming
   Council meeting
 collection_name: newsroom
 date: 2023-10-10
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 Oct. 10, 2023
 
 **WASHINGTON--**The National Council on Disability will hold several town halls and panels during its Council meeting November 16-17 in Providence Rhode Island.

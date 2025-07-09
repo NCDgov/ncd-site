@@ -4,8 +4,10 @@ title: National Council on Disability to Hold Meeting in Kansas City to Learn
   About Issues Affecting People with Disabilities in Nation's Heartland
 collection_name: newsroom
 date: 2008-09-05
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 S﻿ept. 5, 2008
 
 **WASHINGTON—**The National Council on Disability (NCD) will conduct its next quarterly meeting at the Hyatt Regency Crown Center, 2345 McGee Street, Kansas City, Missouri, beginning at 8:30 a.m. C.D.T. on Monday, October 6 and ending at 11:00 a.m. C.D.T. on Wednesday, October 8, 2008. This meeting is open to the public.

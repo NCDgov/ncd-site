@@ -4,10 +4,12 @@ title: National Council on Disability to Recommend Health Care Changes for
   People with Disabilities
 collection_name: newsroom
 date: 2009-09-22
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Health Care
 ---
+
 S﻿ept. 22, 2009
 
 **WASHINGTON—**The National Council on Disability (NCD) will release its latest report, The Current State of Health Care for People with Disabilities, on the NCD Website ([www.ncd.gov](http://www.ncd.gov/)) at 10:00 a.m. EDT on September 30, 2009.

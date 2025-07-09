@@ -4,8 +4,10 @@ title: President Appoints New Chairperson, Three New Members and One Returning
   Member to the National Council on Disability
 collection_name: newsroom
 date: 2013-02-05
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 Feb, 5, 2013
 
 **WASHINGTON, D.C. —** The National Council on Disability (NCD) – an independent federal agency that advises the President, Congress and other federal agencies regarding disability policy – is proud to welcome Jeff Rosen as its new Chairperson. The agency also welcomed three new members also appointed by President Barack Obama to the agency on January 31, 2013 after the intention of their appointment was announced January 25. In addition, Council Member Chester Finn was appointed to a second term. New Members are expected to begin work with NCD immediately upon completion and receipt of all necessary documents.

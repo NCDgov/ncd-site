@@ -3,14 +3,16 @@ layout: post
 title: NCD report recommends congressional action on federal benefits for
   Americans with disabilities in U.S. territories
 date: 2022-05-25
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Financial Assistance & Incentives
   - Civil Rights
   - Cultural Diversity
   - Health Care
 ---
-**FOR IMMEDIATE RELEASE**                                              
+
+**FOR IMMEDIATE RELEASE**
 
 May 25, 2022
 
@@ -28,17 +30,17 @@ This report examines how continued disparities result in delays in federal respo
 
 Key recommendations in the report include:
 
-* Congress should re-evaluate the provisions of the Jones Act, specifically those provisions that restrict coastwise trade on U.S. flagged vessels regarding durable medical equipment covered under Medicare Part B such as manual wheelchairs, power wheelchairs and components and replacement parts, scooter and component parts and replacement parts, patient lift and transfer equipment, patient ventilators, portable oxygen, foam, gel, innerspring and air mattresses, continuous positive airway pressure (CPAP) devices, shower chairs and commode chairs, and suction pumps.
-* Congress should amend the Social Security Act to replace the Medicaid block grant program in Puerto Rico and other U.S. territories with a federal matching system comparable to the Medicaid program provided to U.S. residents.
-* Congress should amend Title XVI of the Social Security Act to extend eligibility for Supplemental Security Income (SSI) benefits to eligible residents in Puerto Rico.
-* Congress should extend SNAP benefits available under the Food Stamp Act to eligible residents in Puerto Rico, the Northern Mariana Islands, and American Samoa, as Congress has historically extended to the residents in Guam and the U.S. Virgin Islands.
+- Congress should re-evaluate the provisions of the Jones Act, specifically those provisions that restrict coastwise trade on U.S. flagged vessels regarding durable medical equipment covered under Medicare Part B such as manual wheelchairs, power wheelchairs and components and replacement parts, scooter and component parts and replacement parts, patient lift and transfer equipment, patient ventilators, portable oxygen, foam, gel, innerspring and air mattresses, continuous positive airway pressure (CPAP) devices, shower chairs and commode chairs, and suction pumps.
+- Congress should amend the Social Security Act to replace the Medicaid block grant program in Puerto Rico and other U.S. territories with a federal matching system comparable to the Medicaid program provided to U.S. residents.
+- Congress should amend Title XVI of the Social Security Act to extend eligibility for Supplemental Security Income (SSI) benefits to eligible residents in Puerto Rico.
+- Congress should extend SNAP benefits available under the Food Stamp Act to eligible residents in Puerto Rico, the Northern Mariana Islands, and American Samoa, as Congress has historically extended to the residents in Guam and the U.S. Virgin Islands.
 
 NCD is an independent, nonpartisan federal agency that advises the President, Congress and other federal agencies on disability policy.
 
 Read the report at NCD.gov.
 
- 
 
- 
+
+
 
 \###

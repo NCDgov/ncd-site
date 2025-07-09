@@ -5,12 +5,14 @@ title: National Council on Disability Makes Recommendations to Improve Emergency
   Season
 collection_name: newsroom
 date: 2006-08-03
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Emergency Management
 ---
+
 NCD #06-517\
-August 3, 2006 
+August 3, 2006
 
 **WASHINGTON—**The National Council on Disability (NCD) today released The Impact of Hurricanes Katrina and Rita on People with Disabilities: A Look Back and Remaining Challenges, a guide for the President, Congress, and other emergency planners to develop inclusive emergency preparedness and response plans.
 
@@ -26,29 +28,19 @@ Recommendations include:
 
 • Congress should adopt the principles embodied in Livable Communities to guide the provision of reconstruction funds, promoting a Gulf Coast that includes:
 
-* Affordable, appropriate, accessible housing
+- Affordable, appropriate, accessible housing
 
- 
+- Accessible, affordable, reliable, safe transportation
 
-* Accessible, affordable, reliable, safe transportation
+- Physical environments adjusted for inclusiveness and accessibility
 
- 
+- Work, volunteer, and education opportunities
 
-* Physical environments adjusted for inclusiveness and accessibility
+- Access to key health and support services
 
- 
+- Access to civic, cultural, social, and recreational activities
 
-* Work, volunteer, and education opportunities
 
- 
-
-* Access to key health and support services
-
- 
-
-* Access to civic, cultural, social, and recreational activities
-
- 
 
 • Community and city governments should include people with disabilities in emergency planning at all levels.
 

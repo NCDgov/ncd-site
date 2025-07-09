@@ -4,10 +4,12 @@ title: NCD to host "virtual job fair" as part of online release of digital
   inclusion report
 collection_name: newsroom
 date: 2011-09-20
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Employment
 ---
+
 ### **The National Council on Disability wants to know about employment opportunities where YOU work!**
 
 S﻿ept. 20, 2011

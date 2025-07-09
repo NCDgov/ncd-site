@@ -4,10 +4,12 @@ title: National Council on Disability Calls for New Federal Approach to
   Disability Policy
 collection_name: newsroom
 date: 2009-03-31
-tag: Press Release
+tags:
+  - Press Release
 categories:
   - progress reports
 ---
+
 M﻿arch 31, 2009
 
 **WASHINGTON—**The National Council on Disability (NCD) today released its annual report to the President and Congress calling for a new integrated approach to disability policy within the Federal Government.

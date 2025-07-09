@@ -4,10 +4,12 @@ title: National Council on Disability to Discuss Accessibility and Universal
   Design for People with Disabilities at Boston Meeting
 collection_name: newsroom
 date: 2007-11-15
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Technology
 ---
+
 N﻿ov. 15, 2007
 
 **WASHINGTON—**The National Council on Disability (NCD) will conduct a panel discussion on accessibility and universal design at the Hyatt Regency Boston, One Avenue de LaFayette, Boston, Massachusetts, on Thursday, November 29, 2007, from 3:00 p.m. until 4:30 p.m.

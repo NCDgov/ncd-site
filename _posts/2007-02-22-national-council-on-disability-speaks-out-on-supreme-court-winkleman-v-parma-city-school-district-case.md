@@ -4,13 +4,15 @@ title: National Council on Disability Speaks Out on Supreme Court Winkleman v.
   Parma City School District Case
 collection_name: newsroom
 date: 2007-02-22
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Education
 ---
+
 F﻿eb. 22, 2007
 
-**WASHINGTON—**National Council on Disability (NCD) chairperson John R. Vaughn today released the following statement regarding the United States Supreme Court oral argument, which will be heard on February 27, on whether parents may, without a lawyer (*pro se*), file a lawsuit to enforce their child's rights under the Individuals with Disabilities Education Act (IDEA).
+**WASHINGTON—**National Council on Disability (NCD) chairperson John R. Vaughn today released the following statement regarding the United States Supreme Court oral argument, which will be heard on February 27, on whether parents may, without a lawyer (_pro se_), file a lawsuit to enforce their child's rights under the Individuals with Disabilities Education Act (IDEA).
 
 The case of *Winkleman v. Parma City School District* (No. 05-983) addresses a split among circuit courts, one circuit deciding that there are no limitations on the parents' ability to prosecute *pro se* an IDEA case in federal court, several circuits ruling that under IDEA parents can only represent *pro se* their own interests and not those of their child, and the Sixth Circuit said in *Winkleman* that parents cannot represent themselves or their kids in court under IDEA.
 
@@ -26,16 +28,16 @@ Recent NCD information regarding IDEA issues includes the following:
 
 *Individuals with Disabilities Education Act Burden of Proof: On Parents or Schools?* [/publications/2005/burdenofproof](https://ncd.gov/publications/2005/08092005);
 
-*Lessons for All of Us: Protecting the Right to Education for Persons with Disabilities*, [/publications/2005/lessons](https://ncd.gov/publications/2005/08022005-Lessons);
+_Lessons for All of Us: Protecting the Right to Education for Persons with Disabilities_, [/publications/2005/lessons](https://ncd.gov/publications/2005/08022005-Lessons);
 
-*Improving Educational Outcomes for Students with Disabilities*, [/publications/2004/educationoutcomes](https://ncd.gov/publications/2004/Mar172004);
+_Improving Educational Outcomes for Students with Disabilities_, [/publications/2004/educationoutcomes](https://ncd.gov/publications/2004/Mar172004);
 
-*People with Disabilities and Postsecondary Education*, [/publications/2003/education](https://ncd.gov/publications/2003/Sept152003);
+_People with Disabilities and Postsecondary Education_, [/publications/2003/education](https://ncd.gov/publications/2003/Sept152003);
 
-*People with Disabilities on Tribal Lands: Education, Health Care, Vocational Rehabilitation, and Independent Living*,[/publications/2003/tribal_lands](https://ncd.gov/publications/2003/Aug2003);
+_People with Disabilities on Tribal Lands: Education, Health Care, Vocational Rehabilitation, and Independent Living_,[/publications/2003/tribal_lands](https://ncd.gov/publications/2003/Aug2003);
 
-*School Vouchers and Students with Disabilities*, [/publications/2003/vouchers](https://ncd.gov/publications/2003/April152003);
+_School Vouchers and Students with Disabilities_, [/publications/2003/vouchers](https://ncd.gov/publications/2003/April152003);
 
 *Individuals with Disabilities Education Act Reauthorization: Where Do We Really Stand?* [/publications/2002/synthesis](https://ncd.gov/publications/2002/July52002); and
 
-*Back to School on Civil Rights*, [/publications/2000/backtoschool](https://ncd.gov/publications/2000/Jan252000)
+_Back to School on Civil Rights_, [/publications/2000/backtoschool](https://ncd.gov/publications/2000/Jan252000)

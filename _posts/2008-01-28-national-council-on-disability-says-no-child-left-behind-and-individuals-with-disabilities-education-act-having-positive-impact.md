@@ -4,11 +4,13 @@ title: National Council on Disability Says No Child Left Behind and Individuals
   with Disabilities Education Act Having Positive Impact
 collection_name: newsroom
 date: 2008-01-28
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
   - Education
 ---
+
 J﻿anuary 28, 2008
 
 **NEW ORLEANS—**The National Council on Disability (NCD) today released a report ([/publications](https://ncd.gov/publications/)) analyzing the progress of the No Child Left Behind (NCLB) Act and the Individuals with Disabilities Education Act (IDEA) that says students with disabilities are no longer ignored. To that end, NCLB and IDEA have had a significant, positive impact.

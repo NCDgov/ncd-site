@@ -3,11 +3,13 @@ layout: post
 title: NCD Statement on harm of using International Pricing Index for U.S.
   prescription drug pricing
 date: 2020-08-05
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Health Care
   - International
 ---
+
 **FOR IMMEDIATE RELEASE**
 
 Aug. 5, 2020

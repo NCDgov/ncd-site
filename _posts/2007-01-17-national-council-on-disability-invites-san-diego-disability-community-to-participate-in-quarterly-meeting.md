@@ -4,10 +4,12 @@ title: National Council on Disability Invites San Diego Disability Community to
   Participate in Quarterly Meeting
 collection_name: newsroom
 date: 2007-01-17
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 NCD #07-530\
-January 17, 2007 
+January 17, 2007
 
 **WASHINGTON—**The National Council on Disability (NCD) today invited the San Diego disability community to participate in its next quarterly meeting from 9:00 a.m. until 5:00 p.m., January 29–31, 2007, at the Town and Country Resort and Convention Center, 500 Hotel Circle North, San Diego, California.
 
@@ -32,11 +34,11 @@ Olegario D. Cantos, III, Associate Director for Domestic Policy, The White House
 
 2:45 P.M. – 3:15 P.M.
 
-International Watch and U.N. Convention Discussion   
+International Watch and U.N. Convention Discussion
 
 3:15 P.M. – 3:45 P.M.
 
-Veterans' Panel Follow-up Discussion             
+Veterans' Panel Follow-up Discussion
 
 January 30, 2007\
 9:00 A.M. – 12:30 P.M.
@@ -60,13 +62,13 @@ Educational Outcomes Team\
 Disability Data and Statistics Team\
 Health Care Team\
 Youth Advisory Committee\
-Cultural Diversity Advisory Committee                                                 
+Cultural Diversity Advisory Committee
 
 12:30 P.M. – 2:00 P.M. (Lunch)
 
 2:00 – 5:00pm
 
-Livable Communities Panel Presentation                                      
+Livable Communities Panel Presentation
 
 5:00 – 6:30 P.M.\
 Reception — Open to the disability community.
@@ -75,7 +77,7 @@ January 31, 2007\
 9:00 A.M. - 12:30 P.M.
 
 Public Comments\
-Foster Care Panel Presentation                                       
+Foster Care Panel Presentation
 
 12:30 P.M. – 2:00 P.M.  (Lunch)\
 2:00 P.M. – 5:00 P.M.
@@ -84,6 +86,6 @@ Continuing Business Session\
 Unfinished Business\
 New Business\
 Announcements\
-Adjournment                             
+Adjournment
 
 These meetings are open to the public and free of charge. The disability community is encouraged to attend and participate in the public comment sessions and the reception.

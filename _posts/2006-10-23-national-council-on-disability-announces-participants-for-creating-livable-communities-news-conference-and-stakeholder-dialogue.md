@@ -4,12 +4,14 @@ title: National Council on Disability Announces Participants for Creating
   Livable Communities News Conference and Stakeholder Dialogue
 collection_name: newsroom
 date: 2006-10-23
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Housing
 ---
+
 NCD #06-524\
-October 23, 2006 
+October 23, 2006
 
 **WASHINGTON—**The National Council on Disability (NCD) today announced the participants for a news conference and stakeholder dialogue where NCD will release its latest report, *Creating Livable Communities*. The report identifies barriers to developing livable communities, and sheds light on potential methods for overcoming these barriers.
 

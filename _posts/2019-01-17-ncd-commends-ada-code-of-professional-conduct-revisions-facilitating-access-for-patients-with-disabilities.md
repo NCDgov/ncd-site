@@ -6,11 +6,13 @@ date: 2019-01-17
 excerpt: The National Council on Disability (NCD)—an independent federal
   agency—commends the American Dental Association (ADA) for taking necessary
   steps to improve dental care access for people with disabilities.
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Education
   - Health Care
 ---
+
 **WASHINGTON--**The National Council on Disability (NCD)—an independent federal agency—commends the American Dental Association (ADA) for taking necessary steps to improve dental care access for people with disabilities.
 
 At NCD’s recommendation, the ADA House of Delegates voted to revise their Principles of Ethics and Code of Professional Conduct to better reflect the rights of patients with disabilities in providers’ patient selection.

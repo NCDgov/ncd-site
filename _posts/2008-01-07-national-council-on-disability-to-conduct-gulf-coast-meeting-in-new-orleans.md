@@ -3,8 +3,10 @@ layout: post
 title: National Council on Disability to Conduct Gulf Coast Meeting in New Orleans
 collection_name: newsroom
 date: 2008-01-07
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 J﻿anuary 7, 2008
 
 **WASHINGTON—**The National Council on Disability (NCD) will conduct its next quarterly meeting at the New Orleans Marriott Convention Center, 859 Convention Center Boulevard, New Orleans, Louisiana, beginning January 28, 2008, at 11:00 a.m. and ending January 30 at 4:45 p.m. This meeting is open to the public and the media.

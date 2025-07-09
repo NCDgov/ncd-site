@@ -3,11 +3,13 @@ layout: post
 title: NCD report finds a return on investment for offering Medicaid dental care
   for adults with I/DD
 date: 2022-03-09
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Health Care
 image_alt_text: NA
 ---
+
 **FOR IMMEDIATE RELEASE**
 
 March 9, 2022
@@ -22,11 +24,11 @@ This report was motivated by a central research question: should the Centers for
 
 The report examined:
 
-* The relationship between states’ Medicaid dental benefits and the receipt of basic dental care among adults with I/DD;
-* The relationship between state waiver and receipt of dental care;
-* Estimated cost and potential savings of implementing basic dental Medicaid benefits in states that do not currently offer it;
-* How coordination between DD and Medicaid agencies can improve access to dental care; and
-*  Promising Medicaid-funded state and private strategies for expanding dental care for adults with I/DD.
+- The relationship between states’ Medicaid dental benefits and the receipt of basic dental care among adults with I/DD;
+- The relationship between state waiver and receipt of dental care;
+- Estimated cost and potential savings of implementing basic dental Medicaid benefits in states that do not currently offer it;
+- How coordination between DD and Medicaid agencies can improve access to dental care; and
+- Promising Medicaid-funded state and private strategies for expanding dental care for adults with I/DD.
 
 Poor oral health often leads to chronic disease, it also increases the likelihood of experiencing poor physical health.
 
@@ -34,20 +36,20 @@ Poor oral health often leads to chronic disease, it also increases the likelihoo
 
 Key findings include:
 
-* Of the nearly 7.3 million adults with I/DD in America, nearly 4.5 million rely on Medicaid for health coverage.
-* Medicaid does not uniformly provide adults with I/DD dental coverage and 12 states do not provide basic dental benefits aside from limited waiver programs in seven of them.
-* Adults with I/DD in those states are often foregoing preventative and routine dental care and seeking emergency dental care at much higher cost, and/or developing chronic health conditions.
-* Adults with I/DD ages 18 and older experience poorer oral health and significant barriers to obtaining oral health care, relative to adults without I/DD.
-* NCD’s estimates federal and state governments combined would realize a ROI of approximately $7.7 million beyond recovering the initial cost, annually, and the share of that ROI for those 12 states would total close to $3 million, annually.
-* NCD estimates an overall modest ROI for providing basic dental coverage for adults with I/DD in those states that provide emergency-only or no coverage ranging from an increased cost of $60,358 in Nevada to as much savings as $829,803 in Maryland – with costs likely offset by eliminating costly trips to the emergency room.
+- Of the nearly 7.3 million adults with I/DD in America, nearly 4.5 million rely on Medicaid for health coverage.
+- Medicaid does not uniformly provide adults with I/DD dental coverage and 12 states do not provide basic dental benefits aside from limited waiver programs in seven of them.
+- Adults with I/DD in those states are often foregoing preventative and routine dental care and seeking emergency dental care at much higher cost, and/or developing chronic health conditions.
+- Adults with I/DD ages 18 and older experience poorer oral health and significant barriers to obtaining oral health care, relative to adults without I/DD.
+- NCD’s estimates federal and state governments combined would realize a ROI of approximately $7.7 million beyond recovering the initial cost, annually, and the share of that ROI for those 12 states would total close to $3 million, annually.
+- NCD estimates an overall modest ROI for providing basic dental coverage for adults with I/DD in those states that provide emergency-only or no coverage ranging from an increased cost of $60,358 in Nevada to as much savings as $829,803 in Maryland – with costs likely offset by eliminating costly trips to the emergency room.
 
 Key recommendations include:
 
-* States should add dental benefits for adults with I/DD to their 1915(c) and 1915(i) waivers or 1115 demonstrations and may want to refer to those states that currently extend dental coverage to adults with I/DD as a model.
-* States should consider available data about and evaluations of these waiver programs to prioritize the types of dental services and target populations to include in their own waivers. States can use available data as guidance to maximize access to key, cost-effective dental services while balancing available funding.
-* States should fund programs that address the additional barriers to obtaining oral health care through Medicaid, including incentivizing the dental workforce to attract providers with expertise in treating adults with I/DD through continuing education programs, implementing programs that improve daily oral care provided by caregivers, and improving education and support for good oral hygiene for adults with I/DD.
-* States should address transportation barriers and coordinate services between DD agencies and Medicaid providers.
-* The U.S. Department of Health and Human Services, through the Administration on Community Living, should conduct additional research to help reduce the need for the receipt of dental care in the operating room.
+- States should add dental benefits for adults with I/DD to their 1915(c) and 1915(i) waivers or 1115 demonstrations and may want to refer to those states that currently extend dental coverage to adults with I/DD as a model.
+- States should consider available data about and evaluations of these waiver programs to prioritize the types of dental services and target populations to include in their own waivers. States can use available data as guidance to maximize access to key, cost-effective dental services while balancing available funding.
+- States should fund programs that address the additional barriers to obtaining oral health care through Medicaid, including incentivizing the dental workforce to attract providers with expertise in treating adults with I/DD through continuing education programs, implementing programs that improve daily oral care provided by caregivers, and improving education and support for good oral hygiene for adults with I/DD.
+- States should address transportation barriers and coordinate services between DD agencies and Medicaid providers.
+- The U.S. Department of Health and Human Services, through the Administration on Community Living, should conduct additional research to help reduce the need for the receipt of dental care in the operating room.
 
 NCD’s ongoing research on this topic will examine why providers choose not to participate in Medicaid programs and waivers that facilitate the treatment of patients with I/DD and potential incentives to encourage participation.
 
@@ -57,8 +59,8 @@ NCD has worked on oral healthcare issues and includes it in the new [Health Equ
 
 The report is available at NCD.gov.
 
- 
 
- 
+
+
 
 \###

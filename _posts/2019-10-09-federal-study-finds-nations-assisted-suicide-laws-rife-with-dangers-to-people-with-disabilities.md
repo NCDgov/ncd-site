@@ -3,11 +3,13 @@ layout: post
 title: Federal study finds nation's assisted suicide laws rife with dangers to
   people with disabilities
 date: 2019-10-09
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Health Care
   - Civil Rights
 ---
+
 **WASHINGTON –** Today, the National Council on Disability (NCD) released the findings of a federal examination of the country’s assisted suicide laws and their effect on people with disabilities, finding the laws’ safeguards are ineffective and oversight of abuses and mistakes is absent.
 
 Currently, eight states and the District of Columbia have passed assisted suicide laws that make it legal for doctors to prescribe lethal drugs to patients diagnosed with terminal illness and with a prognosis of 6 months or less to live, if certain procedural steps are followed.
@@ -22,19 +24,19 @@ Closely examining the experience in Oregon, where the practice has been legal fo
 
 In the report, NCD details limitations of purported safeguards of assisted suicide laws, finding:
 
-* Insurers have denied expensive, life-sustaining medical treatment, but offered to subsidize lethal drugs, potentially leading patients to hasten their own deaths;
-* Misdiagnoses of terminal disease can cause frightened patients to hasten their deaths;
-* Though fear and depression often drive requests for assisted suicide, referral for psychological evaluation is extremely rare prior to doctors writing lethal prescriptions;
-* Financial and emotional pressures can distort patient choice;
-* Patients may “doctor shop” limitlessly to find a physician who will obtain a colleague’s concurrence and prescribe a lethal dose
+- Insurers have denied expensive, life-sustaining medical treatment, but offered to subsidize lethal drugs, potentially leading patients to hasten their own deaths;
+- Misdiagnoses of terminal disease can cause frightened patients to hasten their deaths;
+- Though fear and depression often drive requests for assisted suicide, referral for psychological evaluation is extremely rare prior to doctors writing lethal prescriptions;
+- Financial and emotional pressures can distort patient choice;
+- Patients may “doctor shop” limitlessly to find a physician who will obtain a colleague’s concurrence and prescribe a lethal dose
 
 “As someone who has battled cancer and been given weeks to live and am still thriving years later, I know firsthand that well-intending doctors are often wrong,” said Mr. Romano. “If assisted suicide is legal, lives will be lost due to mistakes, abuse, lack of information, or a lack of better options; no current or proposed safeguards can change that.”
 
 NCD concludes its research with recommendations, including highlighting the need for:
 
-* Federal research on disability-related risk factors in suicide prevention, as well as on people with disabilities who request assisted suicide and euthanasia;
-* Federal regulation requiring non-discrimination in suicide prevention services; and
-* Greater federal investment in long-term services and supports.
+- Federal research on disability-related risk factors in suicide prevention, as well as on people with disabilities who request assisted suicide and euthanasia;
+- Federal regulation requiring non-discrimination in suicide prevention services; and
+- Greater federal investment in long-term services and supports.
 
 **About NCD’s Bioethics and Disability Series**
 
@@ -54,6 +56,6 @@ November 20 – Medical Futility and Disability Bias
 
 First established as an advisory council within the Department of Education in 1978, NCD became an independent federal agency in 1984. In 1986, NCD recommended enactment of an Americans with Disabilities Act (ADA), and drafted the first version of the bill which was introduced in the House and Senate in 1988. Since enactment of the ADA in 1990, NCD has continued to play a leading role in crafting disability policy, and advising the President, Congress and other federal agencies on disability policies, programs, and practices.
 
- 
+
 
 \###

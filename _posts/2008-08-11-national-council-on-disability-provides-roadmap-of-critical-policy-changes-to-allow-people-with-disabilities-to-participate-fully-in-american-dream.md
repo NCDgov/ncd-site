@@ -5,10 +5,12 @@ title: National Council on Disability Provides Roadmap of Critical Policy
   Dream
 collection_name: newsroom
 date: 2008-08-11
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Financial Assistance & Incentives
 ---
+
 A﻿ug. 11, 2008
 
 **WASHINGTON—**The National Council on Disability (NCD) today released a report titled *The State of 21st Century Financial Incentives for Americans with Disabilities* ([/newsroom/publications/2008/pdf/FinancialIncentives.pdf](https://ncd.gov/newsroom/publications/2008/pdf/FinancialIncentives.pdf "/newsroom/publications/2008/pdf/FinancialIncentives.pdf /newsroom/publications/2008/pdf/FinancialIncentives.pdf")), with recommendations that provide a new frontier for the next generation of Americans with disabilities—allowing them to participate fully in the economy.

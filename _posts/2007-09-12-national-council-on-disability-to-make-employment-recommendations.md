@@ -3,10 +3,12 @@ layout: post
 title: National Council on Disability to Make Employment Recommendations
 collection_name: newsroom
 date: 2007-09-12
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Employment
 ---
+
 S﻿ept. 12, 2007
 
 **WASHINGTON—**The National Council on Disability (NCD) will highlight National Disability Employment Awareness Month by releasing its latest report *Empowerment for Americans with Disabilities: Breaking Barriers to Careers and Full Employment* at a news conference and panel discussion on October 1 from 1:00 p.m. until 3:00 p.m. in the House Committee on Administration Hearing Room, 1309 Longworth House Office Building, Independence and New Jersey Avenues, SE, Washington, DC.

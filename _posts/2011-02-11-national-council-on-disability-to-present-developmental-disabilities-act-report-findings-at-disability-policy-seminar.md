@@ -4,10 +4,12 @@ title: National Council on Disability to Present Developmental Disabilities Act
   Report Findings at Disability Policy Seminar
 collection_name: newsroom
 date: 2011-02-11
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
 ---
+
 **NCD #11–612**\
 February 11, 2011
 

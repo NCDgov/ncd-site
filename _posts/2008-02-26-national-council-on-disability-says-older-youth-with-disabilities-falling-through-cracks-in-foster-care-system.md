@@ -4,10 +4,12 @@ title: National Council on Disability Says Older Youth with Disabilities Falling
   Through Cracks in Foster Care System
 collection_name: newsroom
 date: 2008-02-26
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Youth Perspectives
 ---
+
 F﻿eb. 26, 2008
 
 **WASHINGTON—**The National Council on Disability (NCD) today released *Youth with Disabilities in the Foster Care System: Barriers to Success and Proposed Policy Solutions* ([/FosterCareSystem_Report.html](https://ncd.gov/publications/2008/02262008)). The report focuses on the unique challenges older youth with disabilities face as they negotiate the foster care system.

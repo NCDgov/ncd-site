@@ -3,12 +3,14 @@ layout: post
 title: Update on the UN Convention on the Rights of People with Disabilities
 collection_name: newsroom
 date: 2004-11-24
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - CRPD
   - International
 image_alt_text: NA
 ---
+
 November 24, 2004
 
 Lex Frieden, Chairperson

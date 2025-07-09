@@ -3,14 +3,16 @@ layout: post
 title: NCD joins Census Bureau for disability data stakeholders convening
 collection_name: newsroom
 date: 2024-10-04
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
 redirect_from: []
 ---
+
 For Immediate Release
 
-Oct. 4, 2024                                      
+Oct. 4, 2024
 
 **WASHINGTON –** The National Council on Disability took part in a meeting Sept. 30 with the U.S. Census Bureau and other agencies to discuss collection of disability data.
 
@@ -36,7 +38,7 @@ The convening had panels focused on defining disability and disability identity;
 
 Following the panels and a comment opportunity, NCD Chair Claudia Gordon and Director Santos provided closing remarks on the event.
 
-“Today is a testament to the power of collective action,” said Chair Gordon. “By working together in partnership and collaboration, we will and can ensure that the Census Bureau collects data that accurately represents our community, our beautiful community, our sizable community, our diverse community, and the data will support our needs.”  
+“Today is a testament to the power of collective action,” said Chair Gordon. “By working together in partnership and collaboration, we will and can ensure that the Census Bureau collects data that accurately represents our community, our beautiful community, our sizable community, our diverse community, and the data will support our needs.”
 
 The meeting was recorded and can be watched in full on the Census Bureau’s [YouTube channel](https://www.youtube.com/watch?v=A2M7a7ZXRZI).
 

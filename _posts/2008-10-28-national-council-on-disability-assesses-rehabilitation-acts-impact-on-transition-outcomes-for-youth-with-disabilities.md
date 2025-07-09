@@ -4,8 +4,10 @@ title: National Council on Disability Assesses Rehabilitation Act's Impact on
   Transition Outcomes for Youth with Disabilities
 collection_name: newsroom
 date: 2008-10-28
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 O﻿ct. 28, 2008
 
 **WASHINGTON—**The National Council on Disability (NCD) today released a report titled *The Rehabilitation Act: Outcomes for Transition-Age Youth* ([/newsroom/publications/2008/doc/RehabilitationTransitions.doc](https://ncd.gov/newsroom/publications/2008/doc/RehabilitationTransitions.doc "/newsroom/publications/2008/doc/RehabilitationTransitions.doc /newsroom/publications/2008/doc/RehabilitationTransitions.doc")), calling on Congress and the U.S. Department of Education to make changes to current service delivery practices that will improve transition outcomes for youth with disabilities.
