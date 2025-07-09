@@ -38,26 +38,19 @@ David Shawn Kennemer\
 Vice Chair/Acting Chair\
 National Council on Disability
 
-
-
 \----------------
-
-
 
 [^1]: 29 U.S.C. § 794d.
 
-
 [^2]: 29 U.S.C. § 794d, 47 U.S.C. § 255.
-
 
 [^3]: 29 U.S.C. § 794d(b). 
 
+[^4]: See Nat’l Council on Disability (2021) Enforceable Accessible Medical Equipment Standards: A Necessary Means to Address the Healthcare Needs of People with Mobility Disabilities, available at: <https://www.ncd.gov/report/eames-report/>. 
 
-[^4]: See Nat’l Council on Disability (2021) Enforceable Accessible Medical Equipment Standards: A Necessary Means to Address the Healthcare Needs of People with Mobility Disabilities, available at: National Council on Disability | Enforceable Accessible Medical Equipment Standards: A Necessary Means to Address the Healthcare Needs of People with Mobility Disabilities. 
+[^5]: S. Yee et al., Compounded Disparities: Health Equity at the Intersection of Disability, Race, and Ethnicity (Washington, DC: National Academies of Sciences, Engineering, and Medicine, April 13, 2018), available at: <https://dredf.org/wp-content/uploads/2018/01/Compounded-Disparities-Intersection-of-Disabilities-Race-and-Ethnicity.pdf.> 
 
-[^5]: S. Yee et al., Compounded Disparities: Health Equity at the Intersection of Disability, Race, and Ethnicity (Washington, DC: National Academies of Sciences, Engineering, and Medicine, April 13, 2018), available at: https://dredf.org/wp-content/uploads/2018/01/Compounded-Disparities-Intersection-of-Disabilities-Race-and-Ethnicity.pdf. 
-
-[^6]: Nat’l Council on Disability (2009) The Current State of Healthcare for People with Disabilities, available at: https://files.eric.ed.gov/fulltext/ED507726.pdf .
+[^6]: Nat’l Council on Disability (2009) The Current State of Healthcare for People with Disabilities, available at: [https://www.ncd.gov/report/the-current-state-of-health-care-for-people-with-disabilities](https://www.ncd.gov/report/the-current-state-of-health-care-for-people-with-disabilities/)/.
 
 [^7]: 42 U.S.C. § 18116.
 
@@ -65,16 +58,16 @@ National Council on Disability
 
 [^9]: 29 U.S.C. § 794.
 
-[^10]: ADA National Network “Healthcare and the Americans with Disabilities Act,” available at: https://adata.org/sites/adata.org/files/files/Health%20Care%20and%20the%20ADA%20FINAL%202-11-2020.pdf.
+[^10]: ADA National Network “Healthcare and the Americans with Disabilities Act,” available at: <https://adata.org/sites/adata.org/files/files/Health%20Care%20and%20the%20ADA%20FINAL%202-11-2020.pdf>.
 
 [^11]: Nat’l Council on Disability, Enforceable Accessible Medical Equipment Standards: A Necessary Means to Address the Health Care Needs of People with Mobility Disabilities, (May 20, 2021), available at: https://www.ncd.gov/report/eames-report/. 
 
 [^12]: L. I. Iezzoni, “Eliminating Health and Healthcare Disparities Among the Growing Population of People with Disabilities,” Health Affairs 30, no. 10 (2011): 1947–54; L. Ramjan et al., “Barriers to Breast and Cervical Cancer Screening for Women with Physical Disability: A Review,” Women and Health 56, no. 2 (2016): 141–56; J. R. Pharr et al., “Health Disparities Experienced by People with Disabilities in the United States: A Behavioral Risk Factor Surveillance System Study,” Global Journal of Health Science 4, no. 6 (2012): 99. 
 
-[^13]: Nat’l Council on Disability, Design for Inclusion: Creating a New Marketplace, (October 28, 2004), available at: available at: file://local.ncd.gov/ncd/Redirected/keacobacci/Downloads/ncd-design-for-inclusion-2004.pdf. 
+[^13]: Nat’l Council on Disability, Design for Inclusion: Creating a New Marketplace, (October 28, 2004), available at: available at: <https://www.ncd.gov/report/design-for-inclusion-creating-a-new-marketplace-industry-white-paper/>. 
 
 [^14]: 29 U.S.C. § 794d.
 
-[^15]: See Nat’l Council on Disability, The Power of Digital Inclusion: Technologies Impact on Employment and Opportunities for People with Disabilities (December 4, 2011), available at: file://local.ncd.gov/ncd/Redirected/keacobacci/Downloads/ncd-digital-inclusion-2011.pdf. 
+[^15]: See Nat’l Council on Disability, The Power of Digital Inclusion: Technologies Impact on Employment and Opportunities for People with Disabilities (December 4, 2011), available at: <https://www.ncd.gov/report/the-power-of-digital-inclusion/>. 
 
 [^16]:  Currently, these standards are referred to Web Content Accessibility Guidelines 2.1 levels A and AA (WCAG 2.1 AA).
