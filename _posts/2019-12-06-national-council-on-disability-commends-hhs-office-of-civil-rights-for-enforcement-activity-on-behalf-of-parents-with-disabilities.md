@@ -8,11 +8,13 @@ excerpt: The National Council on Disability (NCD)—an independent federal agenc
   Health and Human Services Office of Civil Rights (OCR) for its recent review
   of Oregon’s compliance with federal nondiscrimination laws in the treatment of
   parents with disabilities in Oregon’s child welfare system.
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
   - Health Care
 ---
+
 **WASHINGTON –** The National Council on Disability (NCD)—an independent federal agency that advises the President and Congress— commends the U.S. Department of Health and Human Services Office of Civil Rights (OCR) for its recent review of Oregon’s compliance with federal nondiscrimination laws in the treatment of parents with disabilities in Oregon’s child welfare system.
 
 On Dec. 4, OCR announced that it had entered into a voluntary resolution agreement (VRA) with the Oregon Department of Human Services (ODHS) concerning the treatment of parents with disabilities in ODHS Child Welfare Programs (CWP).

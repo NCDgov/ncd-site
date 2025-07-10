@@ -4,8 +4,10 @@ title: National Council on Disability Selects California's Mike Collins as its
   Executive Director
 collection_name: newsroom
 date: 2007-04-30
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 A﻿pril 30, 2007
 
 **WASHINGTON—**The National Council on Disability (NCD) today announced that Michael C. Collins of Sacramento, California, would become NCD's new executive director on June 18.

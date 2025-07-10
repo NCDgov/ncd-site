@@ -2,12 +2,12 @@
 layout: post
 title: "Notice of Funding Opportunity: 2022 Progress Report"
 date: 2021-09-29
-tag: Funding Opportunities
+tags:
+  - Funding Opportunities
 policy_areas:
   - ""
 image_alt_text: NA
 ---
-
 
 **Notice of Funding Opportunity**
 
@@ -40,8 +40,6 @@ Native coastal communities in Alaska have been impacted by the rise in sea level
 The Purpose of this report is to identify how the increased frequency of extreme weather events and environmental injustice impacts people with disabilities in the United States and in its territories. The report should identify the primary issues people with disabilities encounter because of the increased prevalence of natural disasters and environmental change. This report should also address how environmental injustice has a greater impact on people of color and indigenous tribes leading to an increased prevalence of disability in their community, further complicating these targeted population’s ability to mitigate the impact of increasing and extreme natural disasters. This report will address the impact of the increased frequency of extreme weather events on a person with a disability’s health and access to healthcare, community, housing, employment, and education. The report will also look at the higher prevalence of emergency evacuations, power outages, and their impact on people with disabilities.
 
 The report will gather data and evidence to identify the specific issues people with disabilities encounter due to the impact of the increased frequency of extreme weather events and economic injustice. Specifically, the impact, on a person with a disability’s health, access to food, housing, water and sanitation, education, access to the community, and employment. This report will offer recommendations on how to mitigate the impact of the increased frequency of extreme weather events and environmental injustice on persons with disabilities. This report will discuss the intersectionality of disability and how the individual’s specific intersectionality impacts their ability to mitigate and access resources to mitigate the impact of environmental injustice or the increased frequency of extreme weather events.
-
-
 
 **Research Questions**
 
@@ -310,9 +308,7 @@ NCD was established in 1978 as an advisory board within the Department of Health
 
 For General Information:202-272-2004 Voice202-272-2074 TTY202-272-2022 Fax
 
-
-
-- - -
+---
 
 [1](https://ncd.gov/#_ftnref1) Michael J Lynch and Paul B Stretesky. Lynch, Michael J., and Paul B. Stretesky. “Native Americans and Social and Environmental Justice: Implications for Criminology.” *Social Justice* 38, no. 3 (125) (2012): 104–24. http://www.jstor.org/stable/41940950
 

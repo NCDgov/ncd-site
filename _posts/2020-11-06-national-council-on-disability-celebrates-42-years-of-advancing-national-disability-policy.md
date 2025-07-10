@@ -3,8 +3,10 @@ layout: post
 title: National Council on Disability celebrates 42 years of advancing national
   disability policy
 date: 2020-11-06
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **WASHINGTON—**The National Council on Disability (NCD)—an independent federal agency—today celebrates its 42-year anniversary of advancing national disability policy through its advisory role to federal policymakers.
 
 On Nov. 6, 1978, President Jimmy Carter signed Public Law 95-602, replacing the former Title IV of the Rehabilitation Act of 1973 with a new Title IV. The change established an advisory council within the Department of Health, Education, and Welfare called the National Council on the Handicapped, which was NCD’s original name.

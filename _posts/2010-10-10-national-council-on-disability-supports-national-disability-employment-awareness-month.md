@@ -4,8 +4,10 @@ title: National Council on Disability Supports National Disability Employment
   Awareness Month
 collection_name: newsroom
 date: 2010-10-10
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 Oct. 10, 2010
 
 **WASHINGTON—**The [National Council on Disability](https://ncd.gov/) (NCD) today recognizes [National Disability Employment Awareness Month](http://www.dol.gov/odep/programs/ndeam.htm), calling on its stakeholders to redouble their efforts around improving employment outcomes for people with disabilities.

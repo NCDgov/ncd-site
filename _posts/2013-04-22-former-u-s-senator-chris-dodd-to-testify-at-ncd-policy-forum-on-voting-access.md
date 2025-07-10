@@ -3,10 +3,12 @@ layout: post
 title: Former U.S. Senator Chris Dodd to Testify at NCD Policy Forum on Voting Access
 collection_name: newsroom
 date: 2013-04-22
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
 ---
+
 April 22, 2013
 
 **WASHINGTON, DC** -- The National Council on Disability (NCD) – an independent federal agency that advises the President, Congress and other federal agencies on disability policy -- will use its statutory authority to receive testimony by holding a public policy forum on Capitol Hill on Tuesday, April 23 to examine the current state of voting access for people with disabilities. The event will include testimony from the author of the law, federal agency representatives, the Administration, and the disability civil rights community.

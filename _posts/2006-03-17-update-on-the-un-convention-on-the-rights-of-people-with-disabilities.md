@@ -3,7 +3,8 @@ layout: post
 title: Update on the UN Convention on the Rights of People with Disabilities
 collection_name: newsroom
 date: 2006-03-17
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - CRPD
   - International
@@ -12,6 +13,7 @@ categories:
   - frameworks
 image_alt_text: NA
 ---
+
 M﻿arch 17, 2006
 
 **W﻿ASHINGTON--**The Seventh Session of the Ad Hoc Committee on a Comprehensive and Integral International Convention on the Protection and Promotion of the Rights and Dignity of Persons with Disabilities met from January 16 to February 3, 2006 at the United Nations in New York City. This briefing paper relates developments during that session.
@@ -32,73 +34,43 @@ Other Articles Discussed
 
 During the three-week session, the committee concluded a full reading of the Chair's, and reached broad agreement on the essential content of many of the articles. At the end of the session the Chair broke the text up into three general categories:
 
-* no significant issues remaining
+- no significant issues remaining
 
- 
+- articles with some issues remaining
 
-* articles with some issues remaining
+- articles with difficult issues remaining
 
- 
-
-* articles with difficult issues remaining
-
-   
 
 The Chair proposed that at the Eighth Session in August the Ad Hoc Committee concentrate on those articles with some or more difficult issues remaining. The articles that fall under those categories are:
 
 "Some issues remaining":
 
-* preamble
+- preamble
 
- 
+- definitions
 
-* definitions
+- general obligations
 
- 
+- women with disabilities
 
-* general obligations
+- children with disabilities
 
- 
+- situations at risk
 
-* women with disabilities
+- freedom of expression and access to information
 
- 
+- respect for the home and family
 
-* children with disabilities
+- education
 
- 
+- habilitation and rehabilitation
 
-* situations at risk
+- adequate standard of living
 
- 
+- social protection
 
-* freedom of expression and access to information
+- international cooperation
 
- 
-
-* respect for the home and family
-
- 
-
-* education
-
- 
-
-* habilitation and rehabilitation
-
- 
-
-* adequate standard of living
-
- 
-
-* social protection
-
- 
-
-* international cooperation
-
-   
 
 There were three articles that the Chair categorized as "difficult issues remaining" including Article 12 which is called Equal Recognition Before the Law; the Article of Protecting the Integrity of the Person; and the Article on Health. The Chair proposed that the focus be on those issues at the next session.
 

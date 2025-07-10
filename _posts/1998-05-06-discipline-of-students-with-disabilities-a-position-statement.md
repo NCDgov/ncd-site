@@ -3,11 +3,13 @@ layout: post
 title: "Discipline of Students with Disabilities: A Position Statement"
 collection_name: newsroom
 date: 1998-05-06
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Education
 image_alt_text: NA
 ---
+
 May 6, 1998
 
 In recent weeks and months, some lobbyists and some in Congress have indicated a desire to amend the Individuals with Disabilities Education Act to give schools greater flexibility to discipline all children, regardless of whether they have a disability, with the goals of ensuring safety and an "appropriate educational atmosphere" in the schools. Likewise, on April 22, Senator Jeffords and Representative Goodling held a joint hearing on the regulations interpreting the recent reauthorization of Individuals with Disabilities Education Act (IDEA), at which the discipline issues were featured prominently. The National Council on Disability (NCD) is concerned about the way this issue is being characterized and the potential harm to children with disabilities that may come from Congressional efforts to revisit this issue.

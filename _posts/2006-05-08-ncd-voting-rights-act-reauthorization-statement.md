@@ -3,10 +3,12 @@ layout: post
 title: NCD Voting Rights Act Reauthorization Statement
 collection_name: newsroom
 date: 2006-05-08
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
 ---
+
 M﻿ay 8, 2006
 
 Lex Frieden, Chairperson\

@@ -4,10 +4,12 @@ title: National Council on Disability to Hear Presentations from Regional
   Leaders on Homeland Security and Emergency Preparedness
 collection_name: newsroom
 date: 2008-09-29
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Emergency Management
 ---
+
 S﻿ept. 29, 2008
 
 **WASHINGTON—**The National Council on Disability (NCD) will hear presentations and discuss homeland security and emergency preparedness issues for people with disabilities on Monday, October 6, 2008, from 10:30 a.m. until noon, at the Hyatt Regency Crown Center, 2345 McGee Street, Kansas City, Missouri.

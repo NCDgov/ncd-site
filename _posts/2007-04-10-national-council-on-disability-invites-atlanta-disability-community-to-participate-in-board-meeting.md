@@ -4,10 +4,12 @@ title: National Council on Disability Invites Atlanta Disability Community to
   Participate in Board Meeting
 collection_name: newsroom
 date: 2007-04-10
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 NCD #07-532\
-April 10, 2007 
+April 10, 2007
 
 **WASHINGTON—**The National Council on Disability (NCD) today invited the Atlanta disability community to participate in NCD's Atlanta quarterly board meeting. The meeting will take place at the Crowne Plaza Atlanta Buckhead, 3377 Peachtree Road NE, Atlanta, Georgia on Monday, April 16 from 10:00 a.m. until 5:00 p.m. and Tuesday, April 17, 2007, from 9:00 a.m. until 400 p.m. These events are free of charge and open to the public.
 

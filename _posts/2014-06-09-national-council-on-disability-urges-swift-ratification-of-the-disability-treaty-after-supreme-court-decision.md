@@ -4,17 +4,19 @@ title: National Council on Disability Urges Swift Ratification of the Disability
   Treaty after Supreme Court Decision
 collection_name: newsroom
 date: 2014-06-09
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
   - CRPD
   - International
 ---
+
 June 9, 2014
 
-**Washington, DC –** On June 2, the United States Supreme Court issued its ruling in *Bond v. United States.  T*he decision removed one of the stated obstacles *to*ratifying the United Nations Convention on the Rights of Persons with Disabilities (CRPD) and affirms the long-standing position of the National Council on Disability (NCD) that the US needs to expeditiously ratify the Disability Treaty. NCD is an independent federal agency that recommends disability policy to the President, Congress and other federal agencies.  
+**Washington, DC –** On June 2, the United States Supreme Court issued its ruling in *Bond v. United States.  T*he decision removed one of the stated obstacles *to*ratifying the United Nations Convention on the Rights of Persons with Disabilities (CRPD) and affirms the long-standing position of the National Council on Disability (NCD) that the US needs to expeditiously ratify the Disability Treaty. NCD is an independent federal agency that recommends disability policy to the President, Congress and other federal agencies.
 
-In light of the Supreme Court decision, NCD reaffirms its longstanding support and hopes this sign of progress will pave the way for prompt ratification of the CRPD by Congress. Ratification will allow U.S. participation at the CRPD Conference of States Parties and permit the U.S. to appoint a member to the CRPD Committee so that the U.S. can assist in the implementation of the treaty and lend its expertise as more nations develop and adopt their own disability rights laws. 
+In light of the Supreme Court decision, NCD reaffirms its longstanding support and hopes this sign of progress will pave the way for prompt ratification of the CRPD by Congress. Ratification will allow U.S. participation at the CRPD Conference of States Parties and permit the U.S. to appoint a member to the CRPD Committee so that the U.S. can assist in the implementation of the treaty and lend its expertise as more nations develop and adopt their own disability rights laws.
 
 “The CRPD was created with the same goals that the United States had when we enacted the Americans with Disabilities Act – to empower individuals with disabilities to achieve economic self-sufficiency, independent living, inclusion and integration into all aspects of society. Considerable progress has been made through international collaborations, but more must be done. Far too many people with disabilities languish under their insufficient governmental frameworks in their own countries. Now that these obstacles have been soundly refuted ratification of the treaty will be a huge step forward in enhancing the lives of people with disabilities around the world," stated Joan Durocher, NCD's General Counsel and Director of Policy.
 

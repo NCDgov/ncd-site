@@ -4,12 +4,14 @@ title: National Council on Disability Calls for Sweeping Changes for People with
   Psychiatric Disabilities in Emergency Evacuation Situations
 collection_name: newsroom
 date: 2006-06-14
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Emergency Management
 ---
+
 NCD #06-514\
-June 14, 2006 
+June 14, 2006
 
 **WASHINGTON—**The National Council on Disability (NCD) today released *The Needs of People with Psychiatric Disabilities During and After Hurricanes Katrina and Rita: Position Paper and Recommendations* \
 ([/publications/2006/peopleneeds](https://ncd.gov/publications/2006/07142006)), calling on federal, state, and local governments to enact sweeping changes.

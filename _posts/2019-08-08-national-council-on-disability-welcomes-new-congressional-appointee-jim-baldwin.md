@@ -7,9 +7,11 @@ excerpt: The National Council on Disability (NCD) – an independent federal
   agency that advises the President, Congress and other federal agencies
   regarding disability policy matters – welcomes the appointment of Jim Baldwin,
   of Bakersfield, California, to the Council.
-tag: Press Release
+tags:
+  - Press Release
 ---
-**FOR IMMEDIATE RELEASE**                                                                   
+
+**FOR IMMEDIATE RELEASE**
 
 August 8, 2019
 

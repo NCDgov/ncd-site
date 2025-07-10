@@ -4,8 +4,10 @@ title: National Council on Disability to Meet in Washington to Hear Issues
   Affecting People with Disabilities, Release Reports
 collection_name: newsroom
 date: 2009-03-09
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 M﻿arch 9, 2009
 
 **WASHINGTON—**The National Council on Disability (NCD) will conduct its next quarterly meeting at the Academy for Educational Development (AED), 1825 Connecticut Avenue, NW, 8th Floor Conference Center, Washington, DC, beginning at 9:30 a.m. on Monday, March 30, 2009, and ending at 11:30 a.m. on Wednesday, April 1, 2009. All times are Eastern Daylight Time.

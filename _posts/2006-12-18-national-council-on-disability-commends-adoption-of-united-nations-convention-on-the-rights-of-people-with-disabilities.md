@@ -4,14 +4,16 @@ title: National Council on Disability Commends Adoption of United Nations
   Convention on the Rights of People with Disabilities
 collection_name: newsroom
 date: 2006-12-18
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - CRPD
   - Civil Rights
   - International
 ---
+
 NCD #06-527\
-December 18, 2006 
+December 18, 2006
 
 **WASHINGTON―**National Council on Disability (NCD) chairperson John R. Vaughn today released the following statement regarding the adoption of the United Nations International Convention on the Rights of People with Disabilities.
 

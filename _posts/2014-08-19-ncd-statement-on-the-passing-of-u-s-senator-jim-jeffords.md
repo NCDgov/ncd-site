@@ -3,8 +3,10 @@ layout: post
 title: NCD Statement on the Passing of U.S. Senator Jim Jeffords
 collection_name: newsroom
 date: 2014-08-19
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 A﻿ug. 19, 2014
 
 **W﻿ashington, D.C. -** Fifteen years ago, as partisan politics was becoming the norm, Vermont Senator Jim Jeffords took a principled stand—and sided with the disability community.
@@ -19,9 +21,9 @@ At the time, the federal government pledged to pick up 40 percent of the cost of
 
 In a speech to Middlebury College in February 2003, Jeffords was quoted as saying: “I was the ranking member on a subcommittee that dealt with the problems with disabilities, and it was an opportunity for us to understand the horrors of the nation at that time with young people that had disabilities. It was terrible. We said the federal government should provide 40 percent of the funds for the local schools. It’s somewhere around 14 percent now. This is horrible. This is the constitutional right of these children to have a free and appropriate education. We have to keep fighting.”
 
-In his farewell to the Senate delivered on September 27, 2006, Jeffords again underscored his commitment to ensuring children with disabilities and the families of such children gain access to a free appropriate public education and in improving educational results for children with disabilities. Said Jeffords: “Probably the biggest and the most rewarding challenge for me has been in the area of education. From my first year in the House when we enacted the Education of the Handicapped Act, to work that continues today on the Higher Education Act, I have tried to do my best to ensure that every child is given the opportunity to reach his or her potential.” 
+In his farewell to the Senate delivered on September 27, 2006, Jeffords again underscored his commitment to ensuring children with disabilities and the families of such children gain access to a free appropriate public education and in improving educational results for children with disabilities. Said Jeffords: “Probably the biggest and the most rewarding challenge for me has been in the area of education. From my first year in the House when we enacted the Education of the Handicapped Act, to work that continues today on the Higher Education Act, I have tried to do my best to ensure that every child is given the opportunity to reach his or her potential.”
 
-That certainly included students with disabilities. 
+That certainly included students with disabilities.
 
 “For more than four decades, Senator Jeffords was a champion for people with disabilities,” said former NCD Executive Director and Chairperson, Lex Frieden.  “In addition to his legislative legacy on education, the pioneering advocacy of Senator Jeffords also improved medical and vocational rehabilitation for millions and helped establish the framework for the Americans with Disabilities Act.”
 

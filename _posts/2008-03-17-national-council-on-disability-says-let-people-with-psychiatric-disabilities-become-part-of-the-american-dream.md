@@ -4,11 +4,13 @@ title: National Council on Disability Says Let People with Psychiatric
   Disabilities Become Part of the American Dream
 collection_name: newsroom
 date: 2008-03-17
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
   - Housing
 ---
+
 M﻿arch 17, 2008
 
 **WASHINGTON—**The National Council on Disability (NCD) today released a paper entitled *Inclusive Livable Communities for People with Psychiatric Disabilities* ([/LivableCommunities.html](https://ncd.gov/publications/2008/03172008 "blocked::/newsroom/publications/2008/LivableCommunities.html")), calling on Congress and the Administration to fully include and integrate people with psychiatric disabilities into America's livable communities. Let people with psychiatric disabilities become part of the American dream.

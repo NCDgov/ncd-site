@@ -3,8 +3,10 @@ layout: post
 title: NCD Welcomes Rebecca Cokley as Executive Director
 collection_name: newsroom
 date: 2013-04-16
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 April 16, 2013
 
 **WASHINGTON, DC** – Today, National Council on Disability (NCD) welcomed Rebecca Cokley as Executive Director. Cokley was appointed to the position by NCD Chairperson Jeff Rosen on the recommendation of the Council. The appointment marks a return of sorts for Cokley, who previously served on NCD’s Youth Advisory Commission as Vice Chair.

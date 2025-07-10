@@ -3,8 +3,10 @@ layout: post
 title: NCD seeks peer reviewers
 collection_name: newsroom
 date: 2023-03-16
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 March 16, 2023
 
 **WASHINGTON--**The National Council on Disability (NCD) is seeking qualified peer reviewers with experience or training/education in one or more of the following topics for an upcoming cooperative agreement competition: health equity, clinical trials, disability.

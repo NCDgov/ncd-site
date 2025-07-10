@@ -3,8 +3,10 @@ layout: post
 title: NCD remembers the life, impact of Judith Heumann
 collection_name: newsroom
 date: 2023-03-06
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 March 6, 2023
 
 **WASHINGTON--**The National Council on Disability remembers the life and impact of Judith E. Heumann, 75, who died Saturday.

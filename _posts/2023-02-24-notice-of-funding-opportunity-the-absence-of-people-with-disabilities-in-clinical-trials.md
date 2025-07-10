@@ -4,28 +4,30 @@ title: "Notice of Funding Opportunity: The Absence of People with Disabilities
   in Clinical Trials"
 collection_name: newsroom
 date: 2023-02-24
-tag: Funding Opportunities
+tags:
+  - Funding Opportunities
 ---
+
 **Notice of Funding Opportunity**
 
 **The Absence of People with Disabilities in Clinical Trials**
 
- 
+
 
 **Background**
 
 \
 People with disabilities are at a higher risk for numerous health conditions compared to the general population. For example, clinical trials for Alzheimer’s exclude people with Down syndrome, even though approximately 90% of people with Down syndrome will develop Alzheimer’s disease or dementia by age 55.[1](https://ncd.gov/newsroom/2023/notice-funding-opportunity-absence-people-disabilities-clinical-trials#_ftn1) Not only are people with disabilities (PWDs) at higher risk for many conditions and diseases compared to the general population, disability itself can change the presentation and/or management of a disease, and clinicians need to be aware of these differences.[2](https://ncd.gov/newsroom/2023/notice-funding-opportunity-absence-people-disabilities-clinical-trials#_ftn2)
 
-The exclusion of PWDs in research has been well-documented.[3](https://ncd.gov/newsroom/2023/notice-funding-opportunity-absence-people-disabilities-clinical-trials#_ftn3) The exclusion of people with psychiatric, substance use, and intellectual disabilities is especially prevalent. Eligibility criteria affecting people with disabilities included exclusions for psychiatric (68 percent), substance use (62 percent), HIV or hepatitis (53 percent), cognitive or intellectual (42 percent), visual (34 percent), hearing (10 percent), mobility (9 percent), long-term care (6 percent), and speech and communication (3 percent) disability-related domains. Documented justification was provided for only 24 percent of these exclusions.[4](https://ncd.gov/newsroom/2023/notice-funding-opportunity-absence-people-disabilities-clinical-trials#_ftn4)  
+The exclusion of PWDs in research has been well-documented.[3](https://ncd.gov/newsroom/2023/notice-funding-opportunity-absence-people-disabilities-clinical-trials#_ftn3) The exclusion of people with psychiatric, substance use, and intellectual disabilities is especially prevalent. Eligibility criteria affecting people with disabilities included exclusions for psychiatric (68 percent), substance use (62 percent), HIV or hepatitis (53 percent), cognitive or intellectual (42 percent), visual (34 percent), hearing (10 percent), mobility (9 percent), long-term care (6 percent), and speech and communication (3 percent) disability-related domains. Documented justification was provided for only 24 percent of these exclusions.[4](https://ncd.gov/newsroom/2023/notice-funding-opportunity-absence-people-disabilities-clinical-trials#_ftn4)
 
 The discriminatory practices continue partly due to stigma and bias of PWDs and vague, generalized, and subjective exclusion criteria that is often copied and pasted from one study to another. Phrases such as:
 
-* “In the investigator’s opinion, \[participants] are well-motivated, and capable.”;
-* “Subject is generally frail, or has any (medical) condition that, in view of the investigator or the sponsor’s responsible medical officer, is likely to prohibit or limit further participation in the study…;
-* “Subject has any condition that confounds the ability to interpret data from the study.”;
-* “Is judged by the Investigator to be inappropriate for the study.”;
-* “Any other reason the Investigator deems exclusionary.”
+- “In the investigator’s opinion, \[participants] are well-motivated, and capable.”;
+- “Subject is generally frail, or has any (medical) condition that, in view of the investigator or the sponsor’s responsible medical officer, is likely to prohibit or limit further participation in the study…;
+- “Subject has any condition that confounds the ability to interpret data from the study.”;
+- “Is judged by the Investigator to be inappropriate for the study.”;
+- “Any other reason the Investigator deems exclusionary.”
 
 Given the pervasive stigma and bias of PWDs combined with a clinical trial investigators ability to exclude anyone from a research study, it should be no surprise that PWDs are not well represented in clinical trials. Some investigators have explicitly excluded people with intellectual disabilities by requiring subjects pass cognitive assessments or requiring that subjects know how to read and write.[5](https://ncd.gov/newsroom/2023/notice-funding-opportunity-absence-people-disabilities-clinical-trials#_ftn5) Few studies offered a reasonable accommodation so that PWDs could participate. (Plosky at 1426) This, despite the fact that Universal Design[6](https://ncd.gov/newsroom/2023/notice-funding-opportunity-absence-people-disabilities-clinical-trials#_ftn6) recommendations for medical research have been available for over a decade.[7](https://ncd.gov/newsroom/2023/notice-funding-opportunity-absence-people-disabilities-clinical-trials#_ftn7)
 
@@ -37,13 +39,13 @@ The purpose of this report is to address the explicit and implicit exclusion of 
 
 **Research Questions**
 
-* How can clinical trial researchers, administrators and universities ensure meaningful participation of PWDs in clinical trials?
-* What promising practices exist to combat conscious and unconscious bias which leads to the exclusion of PWDs in clinical trials?
-* What changes need to be made to state regulations so regulations are not an obstacle to people with disabilities appropriately participating in clinical trials?
-* What changes need to be made to federal regulations so regulations are not an obstacle to people with disabilities appropriately participating in clinical trials?
-*  What recommendations need to be made to federal agencies to ensure inclusion of PWDs in clinical trials?
-*  What is the value of having people with disabilities included in clinical trials?
-*  What are the consequences of not having people with disabilities included in clinical trials?
+- How can clinical trial researchers, administrators and universities ensure meaningful participation of PWDs in clinical trials?
+- What promising practices exist to combat conscious and unconscious bias which leads to the exclusion of PWDs in clinical trials?
+- What changes need to be made to state regulations so regulations are not an obstacle to people with disabilities appropriately participating in clinical trials?
+- What changes need to be made to federal regulations so regulations are not an obstacle to people with disabilities appropriately participating in clinical trials?
+- What recommendations need to be made to federal agencies to ensure inclusion of PWDs in clinical trials?
+- What is the value of having people with disabilities included in clinical trials?
+- What are the consequences of not having people with disabilities included in clinical trials?
 
 **Time Period**
 
@@ -193,7 +195,7 @@ The awardee will provide monthly electronic progress reports to the NCD Contract
 
 The awardee will present on its work before NCD at a quarterly Council meeting and must factor travel expenses into the project budget.
 
- 
+
 
 **Business Proposal**
 
@@ -203,7 +205,7 @@ Note: For each type of entity, there is a set of Federal principles for determin
 
 The allowable costs incurred by institutions of higher education is determined in accordance with the provisions of OMB Circular A–21, “Cost Principles for Educational Institutions. The allowable costs incurred by commercial organizations and those non-profit organizations listed in Attachment C to Circular A–122 is determined in accordance with the provisions of the Federal Acquisition Regulation (FAR) at 48 CFR part 31.
 
- 
+
 
 **Technical Evaluation Criteria**
 
@@ -229,53 +231,53 @@ The proposal provides evidence of the specific qualifications and skills of staf
 
 The proposal describes to which the overall experience and past performance of the offeror in executing similar projects should be described. Evidence of related assignments should be detailed. Offeror shall present evidence of related assignments, including the names and telephone numbers of previous project officers who would be able to comment on the offeror’s performance of those assignments.
 
- 
+
 
 **Project Start Date**
 
 The projected start of the cooperative agreement is March 31, 2023. The projected end date is September 22, 2023.
 
- 
+
 
 **Compliance with Executive Order 13985.**
 
 NCD wants to ensure there is stakeholder involvement in the findings and recommendations. The inclusion of people with disabilities, including people with disabilities who are multiply marginalized (black, indigenous, people of color, LGBTQ, e.g.), must be integral to the planning, development, and execution of this project. At least one section of the report should focus on stakeholder input, but input should be integrated throughout.
 
- 
+
 
 **Citations & Style Guide for NCD Reports**
 
 NCD requires awardees to utilize the Chicago Style Manual for reports and papers and employs the documentary note system of citation (otherwise known as notes and bibliography). An explanation of this style of citation can be found at: <http://library.williams.edu/citing/styles/chicago1.php> and<http://www.chicagomanualofstyle.org/tools_citationguide.html>.
 
- 
+
 
 **Accessibility of Reports**
 
 NCD reports must be totally accessible to all people with disabilities at all iterative stages of its drafting and editing. All graphs and charts must have full-text descriptions embedded as alt-text and ensure that it is Section508 compliant. All drafts and final versions must be submitted electronically in Word and PDF format.
 
- 
+
 
 **Proposal Review Information**
 
 Reviews of proposals submitted to NCD are solicited from peers with expertise in the substantive area of the proposed project. At least three reviewers are selected by the NCD staff overseeing the review process. A conflict check is conducted to ensure that reviewers have no conflicts that prevent a review of offeror’s proposal. Special efforts are made to recruit reviewers from non-academic institutions, minority-serving institutions, or adjacent disciplines to that principally addressed in the proposal. Reviewers score and comment on each proposal. Reviews are treated as confidential documents. The NCD staff overseeing the review, examines the scores and comments, and formulates a recommendation.
 
- 
+
 
 **Notice of Award**
 
 NCD will notify the offeror by telephone and e-mail. This will begin negotiations for a cooperative agreement. The notification is not authorization to begin performance. Organizations or individuals whose proposals are declined will be advised as promptly as possible. A summary of the strengths and weaknesses identified by reviewers, of each declined proposal, not included identifying names or information about proposal reviewers, will be made available upon request.
 
- 
+
 
 **About the National Council on Disability**
 
- 
+
 
 **Overview and Purpose**
 
 The National Council on Disability (NCD) is an independent federal agency comprised of a team of Presidential and Congressional appointees, an Executive Director appointed by the Chair, and a full-time professional staff. The purpose of NCD is to promote policies, programs, practices, and procedures that guarantee equal opportunity for all people with disabilities regardless of the nature or significance of the disability and to empower people with disabilities to achieve economic self-sufficiency, independent living, and inclusion and integration into all aspects of society.
 
- 
+
 
 **Specific Duties**
 
@@ -322,8 +324,6 @@ NCD plays a major role in developing disability policy in America. NCD originall
 NCD was established in 1978 as an advisory board within the Department of Health Education and Welfare (P.L.95-602). The Rehabilitation Act Amendments of 1984 (P.L. 98-221) established NCD as an independent agency.
 
 For General Information:202-272-2004 Voice202-272-2074 TTY202-272-2022 Fax
-
- 
 
 
 

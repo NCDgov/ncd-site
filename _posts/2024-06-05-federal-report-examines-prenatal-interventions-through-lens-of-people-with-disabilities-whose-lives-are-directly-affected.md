@@ -4,14 +4,16 @@ title: Federal report examines prenatal interventions through lens of people
   with disabilities whose lives are directly affected
 collection_name: newsroom
 date: 2024-06-05
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Health Care
   - Technology
 ---
+
 For Immediate Release
 
-June 5, 2024                                      
+June 5, 2024
 
 **WASHINGTON--**Today, the National Council on Disability (NCD) released a first-of-its-kind federal report where people with certain genetic and heritable disabilities speak for themselves about the current and potential impacts of prenatal interventions on the disability community.
 
@@ -23,14 +25,14 @@ Prenatal interventions include a variety of technologies and applications rangin
 
 “This and related findings underscore our recommendation to require disability cultural competency training and curriculum for the allied health professions as outlined in the Council’s [Framework to End Health Disparities](https://www.ncd.gov/report/framework-to-end-health-disparities-of-people-with-disabilities/),” said NCD Chair Claudia Gordon.
 
-NCD’s key findings include: 
+NCD’s key findings include:
 
-* The majority of patients are not receiving accurate, up-to-date information at
-* the moment of diagnosis and the way the information is presented often causes lasting trauma.
-* Marketing incentives for adopting prenatal technologies are often steeped in the perpetuation of stereotypes and fears about disabilities.
-* Lack of regulation of commercial prenatal testing has led to widespread confusion about the accuracy of tests among patients and providers.
-* The forward momentum of technologies surrounding prenatal interventions without the necessary education, ethics, and governance is traumatizing patients, fostering bias against people with disabilities, and creating systems inequities. 
+- The majority of patients are not receiving accurate, up-to-date information at
+- the moment of diagnosis and the way the information is presented often causes lasting trauma.
+- Marketing incentives for adopting prenatal technologies are often steeped in the perpetuation of stereotypes and fears about disabilities.
+- Lack of regulation of commercial prenatal testing has led to widespread confusion about the accuracy of tests among patients and providers.
+- The forward momentum of technologies surrounding prenatal interventions without the necessary education, ethics, and governance is traumatizing patients, fostering bias against people with disabilities, and creating systems inequities.
 
-From Fetal Surgery to Gene Editing makes extensive recommendations to federal and state policymakers on how to responsibly consider, research, and regulate these interventions.   
+From Fetal Surgery to Gene Editing makes extensive recommendations to federal and state policymakers on how to responsibly consider, research, and regulate these interventions.
 
 Read this and all of NCD’s reports at NCD.gov.
