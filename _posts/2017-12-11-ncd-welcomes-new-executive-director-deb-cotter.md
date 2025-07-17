@@ -2,21 +2,23 @@
 layout: post
 title: NCD Welcomes New Executive Director Deb Cotter
 date: 2017-12-11
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **P﻿ress Release**
 
 December 11, 2017
 
-**WASHINGTON, D.C** — National Council on Disability (NCD) Chairman, Clyde Terry, announced today that Deb Cotter of Washington, DC joins NCD as its new Executive Director. NCD is an independent federal agency charged with advising the President, Congress, and other federal officials and entities on all policies, programs, practices and procedures affecting people with disabilities. NCD's mission is to further the goals enshrined in the Americans with Disabilities Act of 1990: equality of opportunity, full participation, independent living and economic self-sufficiency for all people with disabilities. 
+**WASHINGTON, D.C** — National Council on Disability (NCD) Chairman, Clyde Terry, announced today that Deb Cotter of Washington, DC joins NCD as its new Executive Director. NCD is an independent federal agency charged with advising the President, Congress, and other federal officials and entities on all policies, programs, practices and procedures affecting people with disabilities. NCD's mission is to further the goals enshrined in the Americans with Disabilities Act of 1990: equality of opportunity, full participation, independent living and economic self-sufficiency for all people with disabilities.
 
 Mr. Terry stated, "I am delighted to have selected Deb Cotter as NCD’s new Executive Director. Ms. Cotter is a well-respected disability advocate in her own right.”
 
-Ms. Cotter comes to NCD directly from the Administration for Community Living in the U.S. Department of Health and Human Services, where she has worked on the Independent Living Programs since 2009, when the Program was housed at the U.S. Department of Education. Prior to joining the federal workforce, Ms. Cotter served as a Legislative Aide to Senator George J. Mitchell of Maine; as a Senior Legislative Assistant at the American Psychological Association; and as a Policy Analyst with the National Council on Independent Living. 
+Ms. Cotter comes to NCD directly from the Administration for Community Living in the U.S. Department of Health and Human Services, where she has worked on the Independent Living Programs since 2009, when the Program was housed at the U.S. Department of Education. Prior to joining the federal workforce, Ms. Cotter served as a Legislative Aide to Senator George J. Mitchell of Maine; as a Senior Legislative Assistant at the American Psychological Association; and as a Policy Analyst with the National Council on Independent Living.
 
 “Her range of experiences including congressional, nonprofit advocacy, and regulatory, her personal experience with disability, and her strong work ethic will be an asset to the future work of NCD. We look forward to working with Deb and are excited about her role in NCD’s future," stated Mr. Terry.
 
- 
+
 
 **Biography of Deb Cotter**
 

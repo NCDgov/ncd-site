@@ -4,12 +4,14 @@ title: National Council on Disability Calls for Tougher Standards for Accessible
   Airline Self-Service Kiosk Systems
 collection_name: newsroom
 date: 2006-05-17
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Transportation
 ---
+
 NCD #06-511\
-May 17, 2006 
+May 17, 2006
 
 **WASHINGTON—**National Council on Disability (NCD) today released an NCD Position Paper on Access to Airline Self-Service Kiosk Systems ([/publications/2006/kiosk](https://ncd.gov/publications/2006/05172006)), calling on the U.S. Department of Transportation (DOT) to adopt an updated Air Carrier Access Act (ACAA) standard for accessible design applicable to these kiosk systems and that DOT then initiate settlement negotiations with covered air carriers and airports to bring their kiosk systems into full compliance.
 

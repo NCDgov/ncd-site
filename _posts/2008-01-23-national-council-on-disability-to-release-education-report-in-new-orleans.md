@@ -3,11 +3,13 @@ layout: post
 title: National Council on Disability to Release Education Report in New Orleans
 collection_name: newsroom
 date: 2008-01-23
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
   - Education
 ---
+
 J﻿anuary 23, 2008
 
 **WASHINGTON—**The National Council on Disability (NCD) will release its latest report titled, The No Child Left Behind Act and the Individuals with Disabilities Education Act: A Progress Report, at a news conference at the New Orleans Marriott Convention Center, 859 Convention Center Boulevard, New Orleans, Louisiana, January 28, 2008, at 11:00 a.m. This event is open to the public and the media and free of charge.

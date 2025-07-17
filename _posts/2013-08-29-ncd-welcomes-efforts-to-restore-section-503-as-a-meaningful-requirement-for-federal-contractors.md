@@ -4,10 +4,12 @@ title: NCD Welcomes Efforts to Restore Section 503 as a Meaningful Requirement
   for Federal Contractors
 collection_name: newsroom
 date: 2013-08-29
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Employment
 ---
+
 August 29, 2013
 
 **WASHINGTON–** The National Council on Disability – an independent federal agency that advises the President and Congress on policy matters affecting the lives of Americans with disabilities – welcomes the issuance of the final Section 503 rule by the U.S. Department of Labor’s Office of Federal Contract Compliance (OFCCP).

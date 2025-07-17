@@ -2,11 +2,13 @@
 layout: post
 title: NCD Chairman Statement on Dr. Martin Luther King, Jr. Day
 date: 2022-01-17
-tag: Newsletter
+tags:
+  - Newsletter
 policy_areas:
   - Civil Rights
 image_alt_text: NA
 ---
+
 **For Immediate Release**
 
 Jan. 17, 2022

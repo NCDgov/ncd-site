@@ -3,10 +3,12 @@ layout: post
 title: NCD announces progress update to Health Equity Framework
 collection_name: newsroom
 date: 2023-03-27
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Health Care
 ---
+
 March 27, 2023
 
 **WASHINGTON--**The National Council on Disability recently published a progress update to its February 2022 Health Equity Framework.

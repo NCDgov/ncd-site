@@ -5,17 +5,19 @@ title: Response from National Council on Disability Chairman Jonathan Young to
   Disabilities
 collection_name: newsroom
 date: 2012-08-24
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Employment
 ---
+
 Aug. 23, 2012
 
-**W﻿ASHINGTON--**The [Aug 22 *Washington Times* editorial](http://www.washingtontimes.com/news/2012/aug/22/holders-severe-mental-deficiency), (Holder’s “severe mental deficiency”) categorizing the Department of Justice (DOJ) initiative to hire more Americans with disabilities as “crazy” illustrates a profound mischaracterization both of disability and the Executive Order the *Times* finds objectionable.   
+**W﻿ASHINGTON--**The [Aug 22 *Washington Times* editorial](http://www.washingtontimes.com/news/2012/aug/22/holders-severe-mental-deficiency), (Holder’s “severe mental deficiency”) categorizing the Department of Justice (DOJ) initiative to hire more Americans with disabilities as “crazy” illustrates a profound mischaracterization both of disability and the Executive Order the *Times* finds objectionable.
 
 In the editorial, the *Times* takes issue with a July 31 policy memo issued by the DOJ which seeks to improve agency “hiring of persons with targeted disabilities.” According to the Times, the memo in question lists a number of “targeted disabilities” that “trigger special hiring privileges” in compliance with President Obama’s Executive Order 13548.
 
-While incendiary phrases like “teetering on the edge of sanity” might play well with pundits they do little to make the case the *Times* attempts to argue against hiring disabled workers. Use of words like "trigger," "special" and "privilege" reinforces an unsubtle, archaic bias: “Disabled people are dangerous. They are not like us. Employers beware!” 
+While incendiary phrases like “teetering on the edge of sanity” might play well with pundits they do little to make the case the *Times* attempts to argue against hiring disabled workers. Use of words like "trigger," "special" and "privilege" reinforces an unsubtle, archaic bias: “Disabled people are dangerous. They are not like us. Employers beware!”
 
 Contrary to the apparent attempt by the *Washington Times* to frighten, separate and inflame, Americans with disabilities are us. People with disabilities are America’s returning veterans and our aging seniors, our sons with autism and daughters with Down syndrome. They are our Olympic athletes.  Moreover, you don’t have to be born with a disability to have disability, someday, personally affect you. Most people, 80% in fact, aren’t born into disability, they acquire their conditions later.
 

@@ -3,11 +3,13 @@ layout: post
 title: NCD makes recommendations to National Governors Association on COVID-19
   vaccination equity
 date: 2021-02-10
-tag: Newsletter
+tags:
+  - Newsletter
 policy_areas:
   - ""
 image_alt_text: NA
 ---
+
 **WASHINGTON—**The National Council on Disability (NCD) has sent recommendations to the National Governors Association (NGA) regarding COVID-19 vaccine access for people with disabilities.
 
 In a [letter](https://ncd.gov/publications/2021/ncd-letter-nga-re-vaccine-allocation) to New York Governor and NGA Chairman Andrew Cuomo, NCD Chairman Andrés Gallegos addressed the need for States to prioritize people with disabilities as a matter of equity.

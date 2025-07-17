@@ -4,10 +4,12 @@ title: National Council on Disability Releases National Disability Status Report
   Citing Progress and Challenges
 collection_name: newsroom
 date: 2008-01-15
-tag: Press Release
+tags:
+  - Press Release
 categories:
   - progress reports
 ---
+
 January 15, 2008
 
 **WASHINGTON—**The National Council on Disability (NCD) today released its annual report, *National Disability Policy: A Progress Report* ([January2008/NationalDisabilityPolicy_A_Progress_Report](https://ncd.gov/progress_reports/01152008 "/newsroom/publications/2008/NationalDisabilityPolicy_A_Progress_Report.html")), noting progress where it has occurred and making further recommendations where necessary to the executive and legislative branches of the Federal Government.

@@ -4,16 +4,18 @@ title: 900 Oral health care provider viewpoints inform latest NCD
   recommendations on Medicaid, Medicare
 collection_name: newsroom
 date: 2023-04-05
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Health Care
   - Financial Assistance & Incentives
 ---
-**FOR IMMEDIATE RELEASE**                                                
+
+**FOR IMMEDIATE RELEASE**
 
 April 5, 2023
 
-**WASHINGTON—**Today the National Council on Disability releases its second report focused on addressing unmet oral health care needs of people with intellectual and developmental disabilities (I/DD) with compelling data from over 900 providers.  
+**WASHINGTON—**Today the National Council on Disability releases its second report focused on addressing unmet oral health care needs of people with intellectual and developmental disabilities (I/DD) with compelling data from over 900 providers.
 
 *[Incentivizing Oral Health Care Providers to Treat Patients with Intellectual and Developmental Disabilities](https://ncd.gov/publications/2023/incentivizing-oral-healthcare-providers-treat-patients-IDD)* provides additional insights into sources and solutions regarding the difficulties of adults with I/DD in accessing quality, appropriate, and timely oral health care (OHC) services. Last year, NCD published *[Medicaid Oral Health Coverage for Adults with Intellectual & Developmental Disabilities – A Fiscal Analysis](https://ncd.gov/publications/2022/medicaid-oral-health-coverage-adults-IDD),* providing the initial results of its analysis into how to improve oral health outcomes for people with I/DD.
 
@@ -25,11 +27,11 @@ The report examines legislative, environmental, and system factors as key to exp
 
 Key findings include:
 
-* Medicare and Medicaid programs do not support dental care for adults with I/DD.
-* Unlike the Medicaid medical program, Medicaid dental programs do not capture or link dental services to medical necessity.
-* State Medicaid programs are not required under federal law to cover dental services for adults with I/DD. Existing Medicaid programs serving people with I/DD generally exclude dental services.
-* Dental and medical systems of health care do not support integrated health care models for people with I/DD.
-* Few professional dental education and continuing education programs incorporate integrated health care models.
+- Medicare and Medicaid programs do not support dental care for adults with I/DD.
+- Unlike the Medicaid medical program, Medicaid dental programs do not capture or link dental services to medical necessity.
+- State Medicaid programs are not required under federal law to cover dental services for adults with I/DD. Existing Medicaid programs serving people with I/DD generally exclude dental services.
+- Dental and medical systems of health care do not support integrated health care models for people with I/DD.
+- Few professional dental education and continuing education programs incorporate integrated health care models.
 
 "People with I/DD remain the largest minority population with unmet oral healthcare needs," said Council Member Shawn Kennemer. "To achieve health equality for people with I/DD, policymakers need to examine the shortcomings of current policy against the backdrop of national goals for people with disabilities. As Chairman Gallegos often says, ‘Health is the predicate to living, learning, and earning’ alongside nondisabled peers. NCD’s latest analysis is intended to assist policymakers in taking critical next steps.”
 

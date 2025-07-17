@@ -3,8 +3,10 @@ layout: post
 title: James Brett of Massachusetts Appointed to the National Council on
   Disability by Democratic Leader Nancy Pelosi
 date: 2016-05-20
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **Press Release**
 
 May 20, 2016

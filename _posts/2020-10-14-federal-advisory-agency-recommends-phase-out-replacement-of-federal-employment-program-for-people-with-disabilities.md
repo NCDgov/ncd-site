@@ -3,10 +3,12 @@ layout: post
 title: Federal advisory agency recommends phase out, replacement of federal
   employment program for people with disabilities
 date: 2020-10-14
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Employment
 ---
+
 **For Immediate Release**
 
 Oct. 14, 2020
@@ -19,9 +21,9 @@ In this report, the Council revisits its February 2019 [report](https://ncd.gov
 
 The report flags the following concerns for federal policymakers:
 
-* Despite increased program revenue earned through sales to the Federal Government, the employment of people who are blind has remained stagnant and the employment of people with significant disabilities has declined under the AbilityOne Program over the past eight years;
-* The program undermines current national disability policy goals to create competitive integrated employment opportunities for people with disabilities; and
-* Repeated concerns about transparency and conflicts of interest remain unaddressed and undermine confidence in the program.
+- Despite increased program revenue earned through sales to the Federal Government, the employment of people who are blind has remained stagnant and the employment of people with significant disabilities has declined under the AbilityOne Program over the past eight years;
+- The program undermines current national disability policy goals to create competitive integrated employment opportunities for people with disabilities; and
+- Repeated concerns about transparency and conflicts of interest remain unaddressed and undermine confidence in the program.
 
 In the report, the Council called for the program’s phase out and replacement.
 
@@ -33,10 +35,10 @@ Related to these latest report recommendations is NCD’s prior research and rep
 
 Read the full AbilityOne report at <https://ncd.gov/publications/2020/policies-past-modern-era>
 
- 
 
- 
 
- 
+
+
+
 
 \###

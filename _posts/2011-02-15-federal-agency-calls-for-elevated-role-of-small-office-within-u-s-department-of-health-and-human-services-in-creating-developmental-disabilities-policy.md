@@ -5,13 +5,15 @@ title: Federal Agency Calls for Elevated Role of Small Office within U.S.
   Policy
 collection_name: newsroom
 date: 2011-02-15
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Health Care
   - Civil Rights
 ---
+
 **NCD #11–613**\
-February 15, 2011 
+February 15, 2011
 
 **WASHINGTON —** The National Council on Disability, an independent federal agency, today released a report titled Rising Expectations: The Developmental Disabilities Act Revisited, in which it recommends to Congress changes to develop a more uniform national policy that will support the goals of the Developmental Disabilities Assistance and Bill of Rights Act (DD Act) and improve the programs the law created.
 

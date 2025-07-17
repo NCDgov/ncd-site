@@ -3,10 +3,12 @@ layout: post
 title: NCD Spotlights Connecting People to Jobs by Employing Technology
 collection_name: newsroom
 date: 2011-10-04
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Technology
 ---
+
 ### Independent Federal Agency Releases New Report; Hosts 'Virtual Job Fair'  
 
 O﻿ct. 4, 2011
@@ -15,7 +17,7 @@ O﻿ct. 4, 2011
 
 NCD is a small, independent federal agency comprised of 15 Presidentially-appointed, Senate-confirmed Council Members (and a small staff who support the Council's work), who advise the President and Congress on disability policy.
 
-In "The Power of Digital Inclusion," the independent federal agency examines how six key digital technologies enhance social engagement, increase workplace participation, improve employment prospects and create employment opportunities for people with disabilities. Community participation is directly relevant to employment, but the social and civic participation of people with disabilities is comparatively low. 
+In "The Power of Digital Inclusion," the independent federal agency examines how six key digital technologies enhance social engagement, increase workplace participation, improve employment prospects and create employment opportunities for people with disabilities. Community participation is directly relevant to employment, but the social and civic participation of people with disabilities is comparatively low.
 
 In connection with the report's release, NCD will be utilizing the social media technology discussed in the report to distribute job announcements collected from across the United States throughout the day via its Twitter and Facebook accounts.  Announcements can be followed on Twitter throughout the day by following the hashtag #NCDJobFair
 

@@ -3,8 +3,10 @@ layout: post
 title: "Report Release -- “Implementing the Affordable Care Act: A Roadmap for
   People with Disabilities”"
 date: 2016-01-19
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **First of three reports on health care reform issued by the National Council on Disability**
 
 **January 19, 2016**
@@ -17,9 +19,9 @@ In the first report, NCD equips the community of 57 million disabled Americans w
 
 **The *Implementing the Affordable Care Act* report seeks to:**
 
-* Provide an overview of future healthcare implementation decisions by private insurers and state and federal officials, along with an analytical supplement exploring policy options important to people with disabilities;
-* Maximize ACA’s positive impact on people with disabilities while limiting risks to the disability community that could result from unwise implementation choices; and
-* Evaluate the options facing states as they consider expanding Medicaid, structuring Medicaid benefits for newly eligible adults, defining essential health benefits, implementing state-based exchanges, taking up the Community First Choice State Option, integrating Medicare and Medicaid funding and services for dually eligible adults, and making other critical decisions.
+- Provide an overview of future healthcare implementation decisions by private insurers and state and federal officials, along with an analytical supplement exploring policy options important to people with disabilities;
+- Maximize ACA’s positive impact on people with disabilities while limiting risks to the disability community that could result from unwise implementation choices; and
+- Evaluate the options facing states as they consider expanding Medicaid, structuring Medicaid benefits for newly eligible adults, defining essential health benefits, implementing state-based exchanges, taking up the Community First Choice State Option, integrating Medicare and Medicaid funding and services for dually eligible adults, and making other critical decisions.
 
 “The first in our series of reports on the Affordable Care Act outlines key policy choices at all levels of ACA implementation that can either greatly help or harm people with disabilities depending on how they are conducted,” said NCD Chair Clyde Terry. “It is NCD’s hope that this report will provide the disability community with the tools they need to prioritize issues that warrant careful attention and help influence policymakers as decisions are made.”
 

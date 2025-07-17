@@ -3,8 +3,10 @@ layout: post
 title: National Council on Disability Applauds Latest Industry Action on
   Accessible Prescription Drug Labels
 date: 2016-02-26
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **Press Release**
 
 February 26, 2016

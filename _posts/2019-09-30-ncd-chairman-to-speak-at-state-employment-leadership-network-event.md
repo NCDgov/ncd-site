@@ -2,10 +2,12 @@
 layout: post
 title: NCD Chairman to speak at State Employment Leadership Network event
 date: 2019-09-30
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Employment
 ---
+
 **FOR IMMEDIATE RELEASE**
 
 Sept. 30, 2019
