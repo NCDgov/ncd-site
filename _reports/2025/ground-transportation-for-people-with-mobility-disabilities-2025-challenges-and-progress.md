@@ -7,7 +7,11 @@ date: July 23, 2025
 report_year: 2025
 policy_areas:
   - Transportation
-image_alt_text: na
+pdf_document: reports/2025/ncd-ground-transportation-mobility-disabilities-2025.pdf
+image: images/ground-transportation-report-cover-2025.png
+image_alt_text: NCD report cover showing a woman using a motorized scooter
+  approaches her minivan from the rear. The minivan’s trunk door is open upward
+  and a lift system with hook is visible in the rear of the van.
 redirect_from: []
 ---
 July 23, 2025
