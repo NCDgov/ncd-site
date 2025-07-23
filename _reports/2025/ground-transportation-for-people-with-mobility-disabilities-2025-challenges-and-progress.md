@@ -7,6 +7,7 @@ date: July 23, 2025
 report_year: 2025
 policy_areas:
   - Transportation
+press_release: https://www.ncd.gov/2025/07/23/ncd-report-examines-ground-transportation-barriers-for-americans-with-disabilities/
 pdf_document: reports/2025/ncd-ground-transportation-mobility-disabilities-2025.pdf
 image: images/ground-transportation-report-cover-2025.png
 image_alt_text: NCD report cover showing a woman using a motorized scooter
