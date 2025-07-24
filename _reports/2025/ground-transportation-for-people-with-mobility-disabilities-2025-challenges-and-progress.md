@@ -25,19 +25,13 @@ In this report, NCD examines the barriers that people with mobility disabilities
 
 The report examines the following topics:
 
-\-	Transportation disadvantage of people with disabilities
-
-\-	Transportation network companies
-
-\-	Taxi service
-
-\-	Paratransit 
-
-\-	Microtransit
-
-\-	Shuttle service and rental cars
-
-\-	Autonomous vehicles
+* Transportation disadvantage of people with disabilities
+* Transportation network companies
+* Taxi service
+* Paratransit 
+* Microtransit
+* Shuttle service and rental cars
+* Autonomous vehicles
 
 **Policy Briefing Series** (Register on [Eventbrite](https://www.eventbrite.com/e/ada35-series-ground-transportation-for-people-with-mobility-disabilities-tickets-1487310418499?aff=oddtdtcreator))
 
