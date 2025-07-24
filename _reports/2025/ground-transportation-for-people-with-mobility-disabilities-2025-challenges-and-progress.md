@@ -39,6 +39,16 @@ The report examines the following topics:
 
 \-	Autonomous vehicles
 
+**Policy Briefing Series** (Register on [Eventbrite](https://www.eventbrite.com/e/ada35-series-ground-transportation-for-people-with-mobility-disabilities-tickets-1487310418499?aff=oddtdtcreator))
 
+July 23, 2025 – Transportation Disadvantages of People with Mobility Disabilities 
 
-\-
+July 30, 2025 - Uber, Lyft, and other transportation network companies
+
+August 6, 2025 - Taxis and the need for wheelchair accessible fleet
+
+August 13, 2025  – Autonomous vehicles 
+
+August 20, 2025 – Paratransit and microtransit
+
+August 27, 2025 – Rental cars and shuttle service
