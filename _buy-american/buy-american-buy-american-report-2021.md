@@ -3,7 +3,7 @@ layout: post
 title: Buy American Report 2021
 report_year: 2021
 report_files:
-  - /assets/uploads/buy-american/buy-american-report-2023.pdf
+  - /assets/uploads/buy-american/buy-american-report-2021-final-sof-submitted-22-0225.pdf
 redirect_from: []
 ---
 February 25, 2022
