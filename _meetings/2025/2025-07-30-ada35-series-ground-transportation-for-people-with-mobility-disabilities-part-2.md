@@ -10,8 +10,9 @@ redirect_from: []
 ---
 Join the National Council on Disability (NCD) for a virtual policy briefing series on its upcoming advisement to federal policymakers titled Ground Transportation for People with Mobility Disabilities 2025: Challenges and Progress. The series will begin July 23 and continue through August 27, each week tackling a different topic within the report’s purview. The event will be livestreamed on Zoom for Government, with links provided in advance of the events. American Sign Language (ASL) and CART will be provided at all briefings.
 
-**Briefing Schedule (all times Eastern):**
+**Register via NCD's [Eventbrite page](<>).**
 
+**Briefing Schedule (all times Eastern):**
 
 **Wednesday, July 23: 2:00 PM (45 minutes)**
 [Transportation disadvantages of people with mobility disabilities](<>)
