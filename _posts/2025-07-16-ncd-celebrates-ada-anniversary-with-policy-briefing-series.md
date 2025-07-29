@@ -18,12 +18,12 @@ The series will be livestreamed on Zoom for Government.
 
  The briefing series will start at 2 p.m. EDT each Wednesday. The first briefing on July 23 will feature remarks by former Congressman Jim Langevin. 
 
-* July 23: Transportation disadvantages of people with mobility disabilities
-* July 30: Uber, Lyft, and other transportation network companies (TNCs)
-* August 6: Taxis and the need for wheelchair accessible fleet
-* August 13: Autonomous vehicles
-* August 20: Paratransit and microtransit
-* August 27: Rental cars and shuttle service
+* July 23: [Transportation disadvantages of people with mobility disabilities](https://www.ncd.gov/meeting/2025-07-23-ada35-series-ground-transportation-for-people-with-mobility-disabilities/)
+* July 30: [Uber, Lyft, and other transportation network companies (TNCs)](https://www.ncd.gov/meeting/2025-07-30-ada35-series-ground-transportation-for-people-with-mobility-disabilities-part-2/)
+* August 6: [Taxis and the need for wheelchair accessible fleet](https://www.ncd.gov/meeting/2025-08-06-ada35-series-ground-transportation-for-people-with-mobility-disabilities-part-3/)
+* August 13: [Autonomous vehicles](https://www.ncd.gov/meeting/2025-08-13-ada35-series-ground-transportation-for-people-with-mobility-disabilities-part-4/)
+* August 20: [Paratransit and microtransit](https://www.ncd.gov/meeting/2025-08-13-ada35-series-ground-transportation-for-people-with-mobility-disabilities-part-5/)
+* August 27: [Rental cars and shuttle service](https://www.ncd.gov/meeting/2025-08-27-ada35-series-ground-transportation-for-people-with-mobility-disabilities-part-6/)
 
 CART and ASL will be provided.
 
