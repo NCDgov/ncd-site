@@ -6,6 +6,7 @@ collection_name: meetings
 meeting_year: 2025
 date: 2025-07-30
 thumbnail: thumbnails/ada35-transportation-policy-briefing-series.png
+misc_files_1: meetings/2025/ada35-series-ground-transportation-for-people-with-mobility-disabilities-part-2/ncd-20250730-policy-briefing-2-transportation.pptx
 redirect_from: []
 ---
 **Policy Briefing Part 2: Uber, Lyft, and other transportation network companies (TNCs)**
