@@ -8,6 +8,8 @@ date: 2025-08-06
 thumbnail: thumbnails/ada35-transportation-policy-briefing-series.png
 redirect_from: []
 ---
+**Policy Briefing Part 3: Taxis and the need for wheelchair accessible fleet**
+
 Join the National Council on Disability (NCD) for a virtual policy briefing series on its upcoming advisement to federal policymakers titled Ground Transportation for People with Mobility Disabilities 2025: Challenges and Progress. The series will begin July 23 and continue through August 27, each week tackling a different topic within the report’s purview. The event will be livestreamed on Zoom for Government, with links provided in advance of the events. American Sign Language (ASL) and CART will be provided at all briefings.
 
 **Register via NCD's [Eventbrite page](<>).**
