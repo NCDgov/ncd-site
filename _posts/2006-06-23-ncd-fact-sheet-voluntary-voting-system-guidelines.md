@@ -3,13 +3,15 @@ layout: post
 title: "NCD Fact Sheet: Voluntary Voting System Guidelines"
 collection_name: newsroom
 date: 2006-06-23
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
 categories:
   - fact sheets
 document: documents/ncd-voluntary-voting-system-guidelines-2006.pdf
 ---
+
 J﻿une 23, 2006
 
 Consistent with its legislative mandate as an independent federal agency, the National Council on Disability (NCD) provides advice to the President and Congress by making recommendations on how to enhance the quality of life for all Americans with disabilities and their families. In *Inclusive Federal Election Reform*,1 NCD made recommendations to Congress and the President on how to improve the accessibility of voting systems. This NCD statement shows alignment of those recommendations with the current efforts of the U.S. Election Assistance Commission (EAC), established through the Help America Vote Act (HAVA) of 2002, to establish guidelines for accessible voting systems. As more fully described below, NCD calls on the EAC to make voting systems more accessible to people with disabilities by requiring privacy protections for paper ballots, comprehensible audio for electronic voting machines, and paper ballots that are accessible to voters with poor vision.
@@ -34,13 +36,13 @@ In November of 2005, NCD issued a paper entitled *Enjoyment of the Right to Par
 
 Despite recognizable improvements in the latest version of the VVSG, the EAC failed to address some of the concerns previously expressed by the disability community. NCD reiterates the suggested improvements as follows:
 
-* Privacy: When a voter uses an alternate ballot with accessible features to cast an electronic vote, the VVSG requires voting systems to protect the privacy of that voter by not displaying information that would indicate the voter used an alternate voting format.11 However, the VVSG does not require privacy protections for accessible paper ballots. Yet the VVSG requires the privacy of both paper and electronic ballots when the voter uses alternate language features.12 The VVSG needs a parallel privacy requirement for paper ballots cast in an alternate accessible format.
-* Audio: The VVSG does not require that audio be "readily comprehensible" or that candidate names be correctly pronounced.13 Voters with visual impairments often are accustomed to only hearing candidate names and these voters need voting machines with intelligible speech. Voting systems that provide digitized human speech are preferable to systems with synthesized speech because digitized speech is "more readily comprehensible" and more likely to contain the correct pronunciation of candidate names. "Shall" language would convey the necessity for "readily comprehensible speech" and for normal pronunciation of candidate names.
-* Accessible Paper Ballots: The VVSG fails to ensure accessibility for voters with the full range of visual impairments.14 Voting systems that use paper ballots need to make provisions for voters with poor reading vision.
+- Privacy: When a voter uses an alternate ballot with accessible features to cast an electronic vote, the VVSG requires voting systems to protect the privacy of that voter by not displaying information that would indicate the voter used an alternate voting format.11 However, the VVSG does not require privacy protections for accessible paper ballots. Yet the VVSG requires the privacy of both paper and electronic ballots when the voter uses alternate language features.12 The VVSG needs a parallel privacy requirement for paper ballots cast in an alternate accessible format.
+- Audio: The VVSG does not require that audio be "readily comprehensible" or that candidate names be correctly pronounced.13 Voters with visual impairments often are accustomed to only hearing candidate names and these voters need voting machines with intelligible speech. Voting systems that provide digitized human speech are preferable to systems with synthesized speech because digitized speech is "more readily comprehensible" and more likely to contain the correct pronunciation of candidate names. "Shall" language would convey the necessity for "readily comprehensible speech" and for normal pronunciation of candidate names.
+- Accessible Paper Ballots: The VVSG fails to ensure accessibility for voters with the full range of visual impairments.14 Voting systems that use paper ballots need to make provisions for voters with poor reading vision.
 
 Finally, we encourage the EAC to use NCD's work as a reference point and as a basis for further examination of voting issues that impact the lives of citizens, including people with disabilities. NCD stands ready to work with the EAC, Administration, Congress and the public to ensure that public policy is shaped so it will provide the greatest possible opportunities for all Americans to have an equal opportunity as they strive to be fully productive, contributing citizens.
 
-*The National Council on Disability wishes to express its appreciation to Sheldon Gilbert for his assistance in drafting this document.*
+_The National Council on Disability wishes to express its appreciation to Sheldon Gilbert for his assistance in drafting this document._
 
 1See [/newsroom/publications/2001/electionreform.htm](https://www.ncd.gov/newsroom/publications/2001/electionreform.htm).
 
@@ -48,7 +50,7 @@ Finally, we encourage the EAC to use NCD's work as a reference point and as a ba
 
 3Kim Briggeman, *New computer terminal allows the blind to make their choices in privacy*, The Missoulian, June 7, 2006 at A-1.
 
- 
+
 
 4*U.S. Election Assistance Commission Reports To Congress On Election Reform Progress In 2004* (February 9, 2005)<http://www.eac.gov/news_020905.asp>.
 

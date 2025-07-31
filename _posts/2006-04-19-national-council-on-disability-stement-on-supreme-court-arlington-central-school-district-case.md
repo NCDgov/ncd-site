@@ -4,13 +4,15 @@ title: National Council on Disability Stement on Supreme Court Arlington Central
   School District Case
 collection_name: newsroom
 date: 2006-04-19
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
   - Education
 ---
+
 NCD #06-507\
-April 19, 2006 
+April 19, 2006
 
 **WASHINGTON—**National Council on Disability (NCD) chairperson Lex Frieden released the following statement regarding today's U.S. Supreme Court oral arguments in Arlington Central School District v. Murphy (No. 05-18), a special education case about the award of fees for the use of experts at special education due process hearings.
 

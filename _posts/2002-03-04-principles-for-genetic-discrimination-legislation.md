@@ -3,12 +3,14 @@ layout: post
 title: Principles for Genetic Discrimination Legislation
 collection_name: newsroom
 date: 2002-03-04
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
   - Health Care
 image_alt_text: NA
 ---
+
 M﻿arch 4, 2002
 
 **W﻿ashington, D.C.--**The National Council on Disability presents the following principles for genetic discrimination legislation:

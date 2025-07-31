@@ -3,12 +3,14 @@ layout: post
 title: Letter to Congressional leaders urges COVID-19 legislative support of
   home, community-based services
 date: 2020-04-27
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Long Term Services & Support
   - Health Care
   - Emergency Management
 ---
+
 ### For Immediate Release
 
 April 27, 2020
@@ -27,11 +29,11 @@ Additionally, NCD recommends including HCBS grants, enabling states to train and
 
 NCD, as an independent, nonpartisan federal agency that provides advice to the President and Congress on disability policy issues, has consistently addressed longstanding long-term services and supports issues across numerous administrations.
 
-In 2005, a NCD report titled *[The State of 21st Century Long-Term Services and Supports: Financing and Systems Reform for Americans with Disabilities](https://ncd.gov/publications/2005/12152005)* provided similar recommendations.  
+In 2005, a NCD report titled *[The State of 21st Century Long-Term Services and Supports: Financing and Systems Reform for Americans with Disabilities](https://ncd.gov/publications/2005/12152005)* provided similar recommendations.
 
-NCD reported that “America needs a coherent and comprehensive framework for its \[long-term services and supports] policies, programs, and funding” based in part on the assumption that “formal and informal caregiving must be sustained, including examination of family needs and workforce recruitment and retention challenges.” 
+NCD reported that “America needs a coherent and comprehensive framework for its \[long-term services and supports] policies, programs, and funding” based in part on the assumption that “formal and informal caregiving must be sustained, including examination of family needs and workforce recruitment and retention challenges.”
 
-"NCD has a long history of researching trends and needs within the nation’s long-term services and supports system and incorporating the lived experiences of people with disabilities and those who support them in our advice to Congress and the Administration," wrote the Chairman. "Considering our longstanding findings in these areas, I strongly encourage the inclusion of HCBS investments in the next COVID-19 legislative package." 
+"NCD has a long history of researching trends and needs within the nation’s long-term services and supports system and incorporating the lived experiences of people with disabilities and those who support them in our advice to Congress and the Administration," wrote the Chairman. "Considering our longstanding findings in these areas, I strongly encourage the inclusion of HCBS investments in the next COVID-19 legislative package."
 
 Read the letter at [NCD.gov](https://ncd.gov/publications/2020/letter-congressional-leaders-hcbs-inclusion-next-covid-19-package#overlay-context=publications/2005/12152005).
 

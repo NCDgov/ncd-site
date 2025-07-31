@@ -3,12 +3,14 @@ layout: post
 title: On National Day of Mourning, NCD remembers the impact of President Jimmy Carter
 collection_name: newsroom
 date: 2025-01-09
-tag: Press Release
+tags:
+  - Press Release
 image: ""
 image_alt_text: ""
 video_url: ""
 video_caption_track: ""
 ---
+
 **For Immediate Release**
 
 January 9, 2025

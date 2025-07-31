@@ -3,8 +3,10 @@ layout: post
 title: NCD announces first in-person Council Meeting in four years
 collection_name: newsroom
 date: 2023-06-28
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 June 28, 2023
 
 **WASHINGTON--**The Members of the National Council on Disability (NCD) will hold their first in-person Council Meeting since July 2019 when they meet July 12-13 in Washington, D.C.

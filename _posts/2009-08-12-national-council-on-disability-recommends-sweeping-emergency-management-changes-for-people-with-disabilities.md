@@ -4,10 +4,12 @@ title: National Council on Disability Recommends Sweeping Emergency Management
   Changes for People with Disabilities
 collection_name: newsroom
 date: 2009-08-12
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Emergency Management
 ---
+
 A﻿ug. 12, 2009
 
 **WASHINGTON—**The National Council on Disability (NCD) today released its report Effective Emergency Management: Making Improvements for Communities and People with Disabilities, calling on federal, state, and local authorities to make sweeping changes in emergency management practices for people with disabilities.

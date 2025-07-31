@@ -4,10 +4,12 @@ title: Fort Myers' John R. Vaughn Appointed by President Bush to National
   Council on Disability
 collection_name: newsroom
 date: 2006-08-08
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 NCD #06-518\
-August 8, 2006 
+August 8, 2006
 
 **WASHINGTON—**John R. Vaughn, a resident of Fort Myers, Florida, was appointed by President George W. Bush to serve as a member and chairperson of the National Council on Disability (NCD) ([www.ncd.gov](http://www.ncd.gov/)). The U.S. Senate confirmed Mr. Vaughn's nomination on August 3, 2006.
 

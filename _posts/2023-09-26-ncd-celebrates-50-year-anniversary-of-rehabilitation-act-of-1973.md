@@ -3,11 +3,13 @@ layout: post
 title: NCD celebrates 50 year anniversary of Rehabilitation Act of 1973
 collection_name: newsroom
 date: 2023-09-26
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Health Care
   - Civil Rights
 ---
+
 ![Rehabilitation Act 50 logo](https://74.118.245.87/sites/default/files/Rehabilitation_Act_50_logo_sm.png)
 
 Sept. 26, 2023

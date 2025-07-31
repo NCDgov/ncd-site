@@ -3,10 +3,12 @@ layout: post
 title: NCD Releases Federal "State of the Union"
 collection_name: newsroom
 date: 2011-11-01
-tag: Press Release
+tags:
+  - Press Release
 categories:
   - progress reports
 ---
+
 ### New Report Offers Solutions for Improving Equality and Increasing Savings
 
 N﻿ov. 1, 2011

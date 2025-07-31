@@ -2,8 +2,10 @@
 layout: post
 title: NCD Quarterly Newsletter - Fall 2015
 date: 2015-10-19
-tag: Newsletter
+tags:
+  - Newsletter
 ---
+
 ## **Next Quarterly Meeting**
 
 **Dates:** Monday and Tuesday, November 2-3, 2015\
@@ -35,25 +37,25 @@ The 2016 progress report will examine how technology has or can be leveraged to 
 
 NCD's Council Members and staff are currently or will soon be engaged in policy work on the following topics:
 
-* Affordable Care Act implementation and enforcement
-* Self-driving cars
-* Social Security disability reform
-* Medicaid managed care implementation
-* Small Business Administration's 8(a) Business Development program
-* Mental health legislative proposals
-* Mental health services in higher education
-* Emerging technology in employment and education
-* Rights of parents with disabilities
+- Affordable Care Act implementation and enforcement
+- Self-driving cars
+- Social Security disability reform
+- Medicaid managed care implementation
+- Small Business Administration's 8(a) Business Development program
+- Mental health legislative proposals
+- Mental health services in higher education
+- Emerging technology in employment and education
+- Rights of parents with disabilities
 
 ## **NCD in the News**
 
 Media coverage greatly assists in increasing public awareness and provides opportunities to help frame policy discussions. NCD was featured a number of media stories in recent months. NCD was featured in a number of stories in recent months. Highlights include:
 
-* **[Washington Post](https://www.washingtonpost.com/local/trafficandcommuting/ramps-near-new-silver-line-stations-dont-meet-ada-requirements/2015/08/15/6fc47520-3a0b-11e5-8e98-115a3cf7d7ae_story.html)** interview about ADA compliance and DC Metro access.\
+- **[Washington Post](https://www.washingtonpost.com/local/trafficandcommuting/ramps-near-new-silver-line-stations-dont-meet-ada-requirements/2015/08/15/6fc47520-3a0b-11e5-8e98-115a3cf7d7ae_story.html)** interview about ADA compliance and DC Metro access.\
   (<https://www.washingtonpost.com/local/trafficandcommuting/ramps-near-new-silver-line-stations-dont-meet-ada-requirements/2015/08/15/6fc47520-3a0b-11e5-8e98-115a3cf7d7ae_story.html>)
-* **[NPR affiliate WAMU](http://wamu.org/news/15/08/17/uber_does_not_serve_disabled_people_say_dc_advocates)** interview about disability access in for hire vehicles and services, specifically Uber.\
+- **[NPR affiliate WAMU](http://wamu.org/news/15/08/17/uber_does_not_serve_disabled_people_say_dc_advocates)** interview about disability access in for hire vehicles and services, specifically Uber.\
   (<http://wamu.org/news/15/08/17/uber_does_not_serve_disabled_people_say_dc_advocates>)
-* **[The Daily Signal](http://dailysignal.com/2015/10/09/building-up-skills-how-st-colettas-shops-fills-a-gap-for-adults-with-disabilities/)** (a news service of the Heritage Foundation) interview about employment opportunities for young adults with intellectual and developmental disabilities.\
+- **[The Daily Signal](http://dailysignal.com/2015/10/09/building-up-skills-how-st-colettas-shops-fills-a-gap-for-adults-with-disabilities/)** (a news service of the Heritage Foundation) interview about employment opportunities for young adults with intellectual and developmental disabilities.\
   (<http://dailysignal.com/2015/10/09/building-up-skills-how-st-colettas-shops-fills-a-gap-for-adults-with-disabilities/>)
 
 ## **NCD on the Hill**
@@ -62,13 +64,15 @@ NCD regularly engages Congress on the findings and recommendations of NCD report
 
 Highlights of NCD's recent activities on these topics include:
 
-* Meetings with the House Energy and Commerce Committee staff who are working on mental health reform legislation to express concerns of the disability community regarding proposed legislation and to offer constructive alternatives.
-* July 28 congressional briefing -- “Re-imagining the Social Security System for the 21st Century” -- on modernizing Social Security to meet the demands of youth who are coming of age and want to see SSI become a springboard of opportunity. Two panels of witnesses, including testimony by young people with disabilities, discussed the barriers experienced in navigating the system, and policy measures that are either underway or are needed to address persistent barriers to obtaining and advancing a career.
-* July 7 congressional briefing -- "Social Security Disability 101" -- to give a primer on how SSDI operates and its importance in the lives of people with disabilities. NCD staff moderated a panel including Rebecca Vallas from the Center for American Progress, Romina Boccia of the Heritage Foundation, and Ari Ne'eman, former NCD Council Member.
+- Meetings with the House Energy and Commerce Committee staff who are working on mental health reform legislation to express concerns of the disability community regarding proposed legislation and to offer constructive alternatives.
+- July 28 congressional briefing -- “Re-imagining the Social Security System for the 21st Century” -- on modernizing Social Security to meet the demands of youth who are coming of age and want to see SSI become a springboard of opportunity. Two panels of witnesses, including testimony by young people with disabilities, discussed the barriers experienced in navigating the system, and policy measures that are either underway or are needed to address persistent barriers to obtaining and advancing a career.
+- July 7 congressional briefing -- "Social Security Disability 101" -- to give a primer on how SSDI operates and its importance in the lives of people with disabilities. NCD staff moderated a panel including Rebecca Vallas from the Center for American Progress, Romina Boccia of the Heritage Foundation, and Ari Ne'eman, former NCD Council Member.
 
 ## **NCD in the Community**
 
-### **Twitter Chat: "Building a Better Mental Health System" Hashtag: #MHChatNCD**
+### \*\*Twitter Chat: "Building a Better Mental Health System" Hashtags:
+
+- #MHChatNCD\*\*
 
 On September 10, NCD hosted another of our popular Twitter Chats -- this time to solicit information, expertise and opinions from stakeholders on “Building A Better Mental Health System” in preparation for a briefing we held with congressional staff the following week. The online event was well-received and participation was high among numerous movers and shakers in the mental health community. A [summation](https://storify.com/NatCounDis/mhchatncd) of NCD’s recent Twitter chat on “Building A Better Mental Health System” is available at Storify online, along with an archive of previous chats. (<https://storify.com/NatCounDis/mhchatncd>)
 

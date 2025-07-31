@@ -4,10 +4,12 @@ title: National Council on Disability Recommends Improving Federal Data
   Describing the Status of Americans with Disabilities
 collection_name: newsroom
 date: 2008-03-21
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Technology
 ---
+
 M﻿arch 21, 2008
 
 **WASHINGTON—**The National Council on Disability (NCD) today released *Keeping Track: National Disability Status and Program Performance Indicators* ([/newsroom/publications/2008/Indicators_Report.html](https://ncd.gov/newsroom/publications/2008/Indicators_Report.html)), calling on the Federal Government to do more now to improve federal data describing the status of Americans with disabilities.
@@ -28,7 +30,7 @@ Consequently, NCD recommends the following:
 
 **Recommendation 1: The National Institute on Disability and Rehabilitation Research (NIDRR) establish and fund a coalition of disability policy makers and advocates to: 1) develop a more robust set of indicators that are important to people with disabilities, building on the indicators outlined in this report; and 2) ensure that disability is included as a demographic subgroup as the Key National Indicators Initiative is developed.**
 
-**Recommendation 2:** Promote a standard set of disability questions.  
+**Recommendation 2:** Promote a standard set of disability questions.
 
 **Recommendation 3:** Fully disseminate disability data.
 

@@ -4,10 +4,12 @@ title: New NCD website enters beta phase
 date: 2022-08-01
 excerpt: The National Council on Disability announces a public preview of its
   new website.
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Technology
 ---
+
 **For Immediate Release**
 
 Aug. 1, 2022

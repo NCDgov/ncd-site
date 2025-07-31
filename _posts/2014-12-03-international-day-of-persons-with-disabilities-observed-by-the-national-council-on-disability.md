@@ -4,11 +4,13 @@ title: International Day of Persons with Disabilities Observed by the National
   Council on Disability
 collection_name: newsroom
 date: 2014-12-03
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
   - International
 ---
+
 Dec. 3, 2014
 
 **Washington, D.C. -** The National Council on Disability supports the 2014 United Nations (UN) International Day of Persons with Disabilities (IDPD) on December 3. According to the UN, the official theme of this year's commemoration is “Sustainable Development: The Promise of Technology.”
@@ -25,9 +27,9 @@ Without laws like the ADA abroad, millions of children and adults are housed in 
 
 With this in mind, and in recognition of the 22nd observance of the annual International Day of Persons with Disabilities, NCD reaffirms our support for CRPD and reiterates the following recommendations from our own 2013 report, “Toward the Full Inclusion of People with Disabilities: Examining the Accessibility of Overseas Facilities and Programs Funded by the United States”:
 
-* **Apply Federal Disability Standards to Overseas Programs and Employment.**Congress should instruct USAID, DOS, DOD, and other U.S. Government agencies operating overseas that Sections 501, 503, and 504 of the Rehabilitation Act of 1973 apply to overseas programs and employment opportunities operated by the U.S. Government. This will ensure that Americans with disabilities working for the U.S. Government are afforded the same protections abroad as U.S. residents. It will also foster disability inclusion in overseas development programs funded by the United States.
-* **Limit Accessibility Waivers and Exceptions in Infrastructure to Avoid Costly Redevelopment Costs.** NCD recommends that DOD limit the number of waivers and exceptions permitted under its newly adopted ABA Accessibility Standards for DOD Facilities. Waivers and exceptions have been used throughout the world to build inaccessible infrastructure that later must be retrofitted to provide accessibility at a very high cost to American taxpayers. DOD should closely review waivers and exceptions prior to authorizing them to ensure they are used only in narrowly defined circumstances and only where necessary.
-* **Provide Clear Accessibility Guidelines for New Infrastructure in Developing Countries.** NCD recommends that DOD provide clear guidance to contractors on the application of the ABA Accessibility Standards in developing countries. At present, the standards state they apply “worldwide,” but there is a gap in the standards that allows for contractors to apply for waivers or argue for an exception in developing countries. These standards must clearly indicate that DOD infrastructure projects in developing countries are subject to the same provisions as other DOD infrastructure projects.
+- **Apply Federal Disability Standards to Overseas Programs and Employment.**Congress should instruct USAID, DOS, DOD, and other U.S. Government agencies operating overseas that Sections 501, 503, and 504 of the Rehabilitation Act of 1973 apply to overseas programs and employment opportunities operated by the U.S. Government. This will ensure that Americans with disabilities working for the U.S. Government are afforded the same protections abroad as U.S. residents. It will also foster disability inclusion in overseas development programs funded by the United States.
+- **Limit Accessibility Waivers and Exceptions in Infrastructure to Avoid Costly Redevelopment Costs.** NCD recommends that DOD limit the number of waivers and exceptions permitted under its newly adopted ABA Accessibility Standards for DOD Facilities. Waivers and exceptions have been used throughout the world to build inaccessible infrastructure that later must be retrofitted to provide accessibility at a very high cost to American taxpayers. DOD should closely review waivers and exceptions prior to authorizing them to ensure they are used only in narrowly defined circumstances and only where necessary.
+- **Provide Clear Accessibility Guidelines for New Infrastructure in Developing Countries.** NCD recommends that DOD provide clear guidance to contractors on the application of the ABA Accessibility Standards in developing countries. At present, the standards state they apply “worldwide,” but there is a gap in the standards that allows for contractors to apply for waivers or argue for an exception in developing countries. These standards must clearly indicate that DOD infrastructure projects in developing countries are subject to the same provisions as other DOD infrastructure projects.
 
 “Disability is a natural part of the human experience. An estimated 57.8 million Americans have disabilities; including nearly 40 percent of Americans over the age of 65 – about 16 million people – and roughly 5.5 million disabled American veterans. Around the world, there are approximately 1 billion people with disabilities, with 80% living in developing countries,” said Jeff Rosen, NCD chair. “As technology increases engagement among the global community of 1 billion individuals with disabilities, NCD marks this occasion by shining a spotlight on the worldwide community of persons with disabilities who deserve, but far too often still lack, equal access to quality education and work opportunities, to the children with disabilities languishing in orphanages, and to our own disabled veterans who are routinely denied the same kinds of access laws like the Americans with Disabilities Act affords them here at home.”
 

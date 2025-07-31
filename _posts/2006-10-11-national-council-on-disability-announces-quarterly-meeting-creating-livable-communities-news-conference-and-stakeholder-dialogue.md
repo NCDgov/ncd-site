@@ -4,12 +4,14 @@ title: National Council on Disability Announces Quarterly Meeting, Creating
   Livable Communities News Conference, and Stakeholder Dialogue
 collection_name: newsroom
 date: 2006-10-11
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Housing
 ---
+
 NCD #06-523\
-October 11, 2006 
+October 11, 2006
 
 **WASHINGTON—**The National Council on Disability ([www.ncd.gov](https://ncd.gov/)) today announced its next quarterly meeting, and a news conference and stakeholder dialogue to release its latest report, *Creating Livable Communities*. The report identifies barriers to developing livable communities, and sheds light on potential methods for overcoming these barriers.
 

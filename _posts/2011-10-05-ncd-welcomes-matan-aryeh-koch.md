@@ -3,8 +3,10 @@ layout: post
 title: NCD Welcomes Matan Aryeh Koch
 collection_name: newsroom
 date: 2011-10-05
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 ### **National Council on Disability Board Member Confirmed - Independent Federal Agency Welcomes Matan Aryeh Koch**
 
 O﻿ct. 5, 2011

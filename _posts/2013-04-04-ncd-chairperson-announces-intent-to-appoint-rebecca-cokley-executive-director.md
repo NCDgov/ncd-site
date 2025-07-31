@@ -3,8 +3,10 @@ layout: post
 title: NCD Chairperson Announces Intent to Appoint Rebecca Cokley Executive Director
 collection_name: newsroom
 date: 2013-04-04
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 April 4, 2013
 
 **WASHINGTON –**Today, Chairperson Jeff Rosen announces his intent to appoint Rebecca Cokley as the Executive Director of the National Council on Disability (NCD). Cokley previously served on NCD’s Youth Advisory Commission as Vice Chair during the George W. Bush administration.

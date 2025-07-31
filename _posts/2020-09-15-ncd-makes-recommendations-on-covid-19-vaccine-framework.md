@@ -2,10 +2,12 @@
 layout: post
 title: NCD makes recommendations on COVID-19 vaccine framework
 date: 2020-09-15
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Health Care
 ---
+
 **For Immediate Release**
 
 September 15, 2020
@@ -23,7 +25,5 @@ NCD commented that the framework should make clear that under federal law, polic
 NCD made a number of additional recommendations aimed to help make the final framework one that recognizes the healthcare inequities experienced by people with disabilities and ensures that the most vulnerable are included in Phase 1 of the COVID-19 vaccinations.
 
 Read the [submitted comments](https://ncd.gov/publications/2020/ncd-comments-national-academies-preliminary-covid-19-vaccine-allocation-framework) and five-part [Bioethics report series](https://ncd.gov/publications/2019/bioethics-report-series) at NCD.gov.
-
-
 
 \###

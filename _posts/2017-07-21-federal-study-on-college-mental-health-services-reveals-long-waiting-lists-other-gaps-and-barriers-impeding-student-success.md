@@ -3,8 +3,10 @@ layout: post
 title: Federal Study on College Mental Health Services Reveals Long Waiting
   Lists, Other Gaps and Barriers Impeding Student Success
 date: 2017-07-21
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **PRESS RELEASE**
 
 July 21, 2017
@@ -15,11 +17,11 @@ To understand challenges, best practices, and emerging trends of supporting stud
 
 The *Mental Health on College Campuses* report is available on NCD’s website at <https://ncd.gov/publications/2017/mental-health-college-campuses>. Key findings include:
 
-* Colleges are struggling to provide adequate mental health services and supports for students with mental health disabilities due largely to increased numbers of students with mental health challenges attending colleges and a lack of financial resources. 
-* Students with mental health disabilities are often placed on lengthy waiting lists for mental health services – sometimes waiting over a month. Many schools do not screen for emergencies when students seek help. 
-* Community colleges are the least equipped to deal with student mental health issues when compared with state colleges and universities, even though they statistically serve the most at-risk student populations. 
-* The U.S. Department of Education, Office of Civil Rights (OCR) has not provided guidance to colleges on how to respond to students that pose a threat to themselves. 
-* Multiple restrictions in the provision of federal and college financial aid negatively impact the ability of students with mental health disabilities to complete their postsecondary education.
+- Colleges are struggling to provide adequate mental health services and supports for students with mental health disabilities due largely to increased numbers of students with mental health challenges attending colleges and a lack of financial resources.
+- Students with mental health disabilities are often placed on lengthy waiting lists for mental health services – sometimes waiting over a month. Many schools do not screen for emergencies when students seek help.
+- Community colleges are the least equipped to deal with student mental health issues when compared with state colleges and universities, even though they statistically serve the most at-risk student populations.
+- The U.S. Department of Education, Office of Civil Rights (OCR) has not provided guidance to colleges on how to respond to students that pose a threat to themselves.
+- Multiple restrictions in the provision of federal and college financial aid negatively impact the ability of students with mental health disabilities to complete their postsecondary education.
 
 **TO ARRANGE FOR AN INTERVIEW:** Members of NCD’s research team and staff are available for interviews prior to and following the presentation at the AHEAD conference. Contact Anne Sommers at [asommers@ncd.gov](mailto:asommers@ncd.gov).
 

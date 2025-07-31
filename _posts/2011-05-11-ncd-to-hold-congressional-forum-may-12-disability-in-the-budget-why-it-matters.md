@@ -4,8 +4,10 @@ title: 'NCD to Hold Congressional Forum May 12: "Disability in the Budget: Why
   It Matters"'
 collection_name: newsroom
 date: 2011-05-11
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **NEWS ADVISORY:**\
 **NATIONAL COUNCIL ON DISABILITY**\
 **in Collaboration with the\
@@ -19,24 +21,24 @@ House Bipartisan Disabilities Caucus**\
 **Title:** Disability in the Budget: Why It Matters  \
 **Date/Time:** Thursday, May 12, at 3:00 p.m., Eastern Time\
 **Hosted by:**  National Council on Disability in Collaboration with the House Bipartisan Disabilities Caucus\
-**Location:** 2322 Rayburn House Office Building*
+**Location:** 2322 Rayburn House Office Building\*
 
 **Witnesses**
 
 **Panel 1**
 
-* The Honorable Cathy McMorris Rodgers (R - WA, 5th District), Co-Chair, Bipartisan Disabilities Caucus, Washington, DC
-* The Honorable James Langevin (D - RI, 2nd District), Co-Chair, Bipartisan Disabilities Caucus, Washington, DC
+- The Honorable Cathy McMorris Rodgers (R - WA, 5th District), Co-Chair, Bipartisan Disabilities Caucus, Washington, DC
+- The Honorable James Langevin (D - RI, 2nd District), Co-Chair, Bipartisan Disabilities Caucus, Washington, DC
 
 **Panel 2**
 
-* The Honorable Kevin Concannon, Under Secretary for Food, Nutrition and Consumer Services, U.S. Department of Agriculture, Washington, DC
+- The Honorable Kevin Concannon, Under Secretary for Food, Nutrition and Consumer Services, U.S. Department of Agriculture, Washington, DC
 
 **Panel 3**
 
-* Ms. Kelly Stuart Woodall, Executive Director, Association of Self-Advocates of North Carolina, Raleigh, NC
-* Mr. Ed Lorenzen, Executive Director, The Moment of Truth Project, Committee for a Responsible Federal Budget, Washington, DC
-* Ms. Bonnie Miller, Parent and Coordinator of the Pennsylvania Self-Determination Consumer and Family Group, Greencastle, PA
+- Ms. Kelly Stuart Woodall, Executive Director, Association of Self-Advocates of North Carolina, Raleigh, NC
+- Mr. Ed Lorenzen, Executive Director, The Moment of Truth Project, Committee for a Responsible Federal Budget, Washington, DC
+- Ms. Bonnie Miller, Parent and Coordinator of the Pennsylvania Self-Determination Consumer and Family Group, Greencastle, PA
 
 **Invitation to Testify:** Congressional offices are invited to provide testimony in-person or otherwise join the forum. To ensure optimal participation, NCD kindly requests that Members of Congress interested in providing testimony in-person indicate in advance by notifying Anne Sommers, NCD Director of Legislative Affairs and Outreach, at [asommers@ncd.gov](mailto:asommers@ncd.gov). Members of Congress may also submit written testimony to NCD's record within ten business days of the forum (Deadline: May 26).
 

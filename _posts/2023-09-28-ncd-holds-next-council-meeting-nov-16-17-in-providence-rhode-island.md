@@ -3,8 +3,10 @@ layout: post
 title: NCD holds next Council meeting Nov. 16-17 in Providence, Rhode Island
 collection_name: newsroom
 date: 2023-09-28
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **FOR IMMEDIATE RELEASE**
 
 Sept. 28, 2023

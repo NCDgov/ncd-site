@@ -4,10 +4,12 @@ title: National Council on Disability Announces ADA 16th Anniversary Town Hall
   Meeting and Seminar
 collection_name: newsroom
 date: 2006-04-25
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 NCD #06-508\
-April 25, 2006 
+April 25, 2006
 
 WASHINGTON-National Council on Disability and its federal partners are pleased to announce "A National Dialogue on the State of Disability," a town hall meeting and seminar to observe the 16th Anniversary of the Americans with Disabilities Act.
 

@@ -4,8 +4,10 @@ title: National Council on Disability to Hold Quarterly Board Meeting in Seattle
   to Learn Issues Affecting People with Disabilities in Pacific Northwest
 collection_name: newsroom
 date: 2008-07-03
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 J﻿uly 3, 2008
 
 **WASHINGTON—**The National Council on Disability (NCD) will conduct its next quarterly meeting at the Renaissance Seattle Hotel, 515 Madison Street, Seattle, Washington, beginning at 8:30 a.m. PDT on Monday, July 14 and ending at 4:30 p.m. PDT on Wednesday, July 16, 2008. This meeting is open to the public and free of charge.

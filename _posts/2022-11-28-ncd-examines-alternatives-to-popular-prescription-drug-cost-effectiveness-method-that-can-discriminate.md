@@ -3,12 +3,14 @@ layout: post
 title: NCD examines alternatives to popular prescription drug cost-effectiveness
   method that can discriminate
 date: 2022-11-28
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Financial Assistance & Incentives
   - Civil Rights
   - Health Care
 ---
+
 **For Immediate Release**
 
 Nov. 28, 2022
@@ -25,14 +27,14 @@ NCD is an independent, bipartisan federal agency that advises the President, Con
 
 Read the report at NCD.gov.
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
 
 \###

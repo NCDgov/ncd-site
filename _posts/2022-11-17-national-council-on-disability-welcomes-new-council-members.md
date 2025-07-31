@@ -5,11 +5,13 @@ date: 2022-11-17
 excerpt: Today the National Council on Disability (NCD) welcomes six new members
   to the independent federal agency charged with advising the President,
   Congress, and other federal agencies on disability policy.
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **For Immediate Release**
 
-November 17, 2022                                     
+November 17, 2022
 
 **WASHINGTON —** Today the National Council on Disability (NCD) welcomes six new members to the independent federal agency charged with advising the President, Congress, and other federal agencies on disability policy.
 
@@ -35,12 +37,12 @@ Appointments to NCD are made by the President of the United States, the Senate M
 
 **Risa Jaz Rifkind** is a justice advocate who seeks to make change by shifting access to power and influence. As the Director of Civic Engagement and Marketing for Disability Lead, she propels the organization to realize its vision to have people with disabilities lead with power and influence. By identifying and developing strategic partnerships, Rifkind positions Members to take on leadership roles that advance their careers, civic engagement, and equity for people with disabilities. In 2020, she served on the Disability Inclusion Fund’s grantmaking committee. Previously, Rifkind was Program Manager at The Chicago Community Trust, where she developed their disability inclusion priorities and practices and managed several disability inclusion initiatives, including the Disabilities Fund, ADA 25 Advancing Leadership, and ADA 25 Chicago. Rifkind is passionate about the arts and serves as Treasurer for the Chicago Cultural Accessibility Consortium. She is also a Member of Disability Lead. Rifkind received a B.A. from Johns Hopkins University.
 
-**Emily Voorde** is an Associate Director with NEWCO Strategies, a full-service strategic consulting firm that helps progressive campaigns, organizations, and companies achieve their goals. She most recently served as an Associate Director in the White House Office of Public Engagement as the Biden-Harris Administration’s liaison to Disabled Americans and K-12 educators. Voorde’s personal passions and professional expertise center on justice for individuals with disabilities and equitable access to education. Her career began as an AmeriCorps member and 2nd grade teacher in Pascagoula, Mississippi. In the summer of 2019, Voorde returned to her hometown of South Bend, Indiana to support Secretary Pete Buttigieg’s run for President, serving as Chasten Buttigieg’s full-time body woman on the campaign trail. During the first year of the COVID-19 pandemic, Voorde served as an Associate Director with the University of Notre Dame’s Sara Bea Center for Students with Disabilities. She holds a Bachelor of Arts from the University of Notre Dame, a Masters of Education from the University of Notre Dame, and a Masters of Public Policy in Education from Vanderbilt University. 
+**Emily Voorde** is an Associate Director with NEWCO Strategies, a full-service strategic consulting firm that helps progressive campaigns, organizations, and companies achieve their goals. She most recently served as an Associate Director in the White House Office of Public Engagement as the Biden-Harris Administration’s liaison to Disabled Americans and K-12 educators. Voorde’s personal passions and professional expertise center on justice for individuals with disabilities and equitable access to education. Her career began as an AmeriCorps member and 2nd grade teacher in Pascagoula, Mississippi. In the summer of 2019, Voorde returned to her hometown of South Bend, Indiana to support Secretary Pete Buttigieg’s run for President, serving as Chasten Buttigieg’s full-time body woman on the campaign trail. During the first year of the COVID-19 pandemic, Voorde served as an Associate Director with the University of Notre Dame’s Sara Bea Center for Students with Disabilities. She holds a Bachelor of Arts from the University of Notre Dame, a Masters of Education from the University of Notre Dame, and a Masters of Public Policy in Education from Vanderbilt University.
 
 **About the National Council on Disability (NCD):** First established as a small advisory Council within the Department of Education in 1978, NCD became an independent federal agency in 1984. In 1986, NCD recommended enactment of an Americans with Disabilities Act (ADA), and drafted the first version of the bill which was introduced in the House and Senate in 1988. Since the ADA became law in 1990, NCD has continued to play a leading role in crafting policy solutions, and in advising the President, Congress and other federal agencies on disability policies, programs, and practices.
 
- 
 
- 
+
+
 
 \###

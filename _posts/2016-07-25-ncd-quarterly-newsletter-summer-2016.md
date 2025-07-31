@@ -2,8 +2,10 @@
 layout: post
 title: NCD Quarterly Newsletter - Summer 2016
 date: 2016-07-25
-tag: Newsletter
+tags:
+  - Newsletter
 ---
+
 ## **Next Quarterly Meeting**
 
 **Dates:** Thursday and Friday, July 28-29, 2016\
@@ -26,7 +28,7 @@ On May 5, the NCD and the Christopher & Dana Reeve Foundation released “Parent
 
 ### **Accessible Prescription Drug Labels Best Practices Brochure**
 
-In June, NCD released a trifold brochure summarizing best practices for accessible drug labeling developed by the U.S. Access Board’s stakeholder working group, consistent with provisions of the Food and Drug Administration Safety and Innovation Act (FDSIA), and requested pharmacies and pharmacy associations to disseminate the information to their affiliates and members. To date, the American Pharmacists Association distributed the information to nearly 300,000 individuals in their email list in early July, and will also disseminate it through its publication “Pharmacy Today” to nearly 160,000 in its August edition. 
+In June, NCD released a trifold brochure summarizing best practices for accessible drug labeling developed by the U.S. Access Board’s stakeholder working group, consistent with provisions of the Food and Drug Administration Safety and Innovation Act (FDSIA), and requested pharmacies and pharmacy associations to disseminate the information to their affiliates and members. To date, the American Pharmacists Association distributed the information to nearly 300,000 individuals in their email list in early July, and will also disseminate it through its publication “Pharmacy Today” to nearly 160,000 in its August edition.
 
 **Link:** <http://www.ncd.gov/publications/2016/best-practices-accessible-prescription-drug-labeling>.
 
@@ -34,15 +36,15 @@ In June, NCD released a trifold brochure summarizing best practices for accessib
 
 NCD's Council Members and staff are currently or will soon be engaged in policy work on the following topics:
 
-* Federal self-driving car initiatives
-* Challenges of the direct care workforce
-* Mental health services in higher education
-* Sexual assault of students with disabilities on college campuses
-* Emerging technology in employment and education
-* A report series on the Individuals with Disabilities Education Act
-* Inclusion of people with disabilities in overseas programs of various federal agencies
-* Enforcement and implementation of Section 503 Rehabilitation Act Amendments
-* Guardianship and alternatives to guardianship
+- Federal self-driving car initiatives
+- Challenges of the direct care workforce
+- Mental health services in higher education
+- Sexual assault of students with disabilities on college campuses
+- Emerging technology in employment and education
+- A report series on the Individuals with Disabilities Education Act
+- Inclusion of people with disabilities in overseas programs of various federal agencies
+- Enforcement and implementation of Section 503 Rehabilitation Act Amendments
+- Guardianship and alternatives to guardianship
 
 ## **NCD in the Community**
 
@@ -56,21 +58,21 @@ In July, Rebecca Cokley joined EEOC Commissioner Chai Feldblum, Anupa Iyer, and 
 
 #### NCD Chair Speaks on Affordable Care Act's Impact on People with Disabilities
 
-Clyde Terry spoke at the annual meeting of the National Association of Councils on Developmental Disabilities (NACDD). The topic was “Improving Health Systems across the Life Course.” NACDD was greatly interested in NCD’s [recent reports on the Affordable Care Act](http://ncd.gov/policy/health-care), and Mr. Terry’s remarks focused on addressing health care needs and improving services for those with both physical and cognitive disabilities. 
+Clyde Terry spoke at the annual meeting of the National Association of Councils on Developmental Disabilities (NACDD). The topic was “Improving Health Systems across the Life Course.” NACDD was greatly interested in NCD’s [recent reports on the Affordable Care Act](http://ncd.gov/policy/health-care), and Mr. Terry’s remarks focused on addressing health care needs and improving services for those with both physical and cognitive disabilities.
 
 ## **NCD in the News**
 
-Two news articles were placed covering NCD Chair Clyde Terry’s “co-piloting” of Audi’s prototype semi-autonomous vehicle: 
+Two news articles were placed covering NCD Chair Clyde Terry’s “co-piloting” of Audi’s prototype semi-autonomous vehicle:
 
-* On July 13, an article by Eli Okun in the [New Hampshire Union Leader](http://www.unionleader.com/article/20160713/NEWS12/160719756/-1/) explored the personal and political ramifications of the drive. **Link:** <http://www.unionleader.com/article/20160713/NEWS12/160719756/-1/> 
-* [Bloomberg BNA](http://www.bna.com/blind-driver-pilots-b73014444749/) also published a lengthy overview on July 14, using the test drive as a news hook, by Stephanie Beasley.\
+- On July 13, an article by Eli Okun in the [New Hampshire Union Leader](http://www.unionleader.com/article/20160713/NEWS12/160719756/-1/) explored the personal and political ramifications of the drive. **Link:** <http://www.unionleader.com/article/20160713/NEWS12/160719756/-1/>
+- [Bloomberg BNA](http://www.bna.com/blind-driver-pilots-b73014444749/) also published a lengthy overview on July 14, using the test drive as a news hook, by Stephanie Beasley.\
   **Link:** <http://www.bna.com/blind-driver-pilots-b73014444749/>
 
 Other highlights include:
 
-* On April 13, *[Modern Healthcare](http://goo.gl/bHZvT3)* published an article titled, “Disabled Medicaid Beneficiaries Are Losing Services in Managed Care” which included a summary of NCD’s work on the issue. Wrote the journal, **“**For the past two years, NCD has hosted 10 community forums around the country with over 650 people sharing experiences with managed Medicaid. The report is built on feedback obtained at the events. Overwhelmingly, disabled beneficiaries said they lost access to care. Participants reported that MCOs frequently deny long-term care services and supports that were previously provided by Medicaid.”\
-  **Link:**  <http://goo.gl/bHZvT3> 
-* On June 22, Wendy Button, a former speechwriter for John Edwards and Hillary Clinton, published an excellent first-person editorial in the Washington Post which referenced NCD’s 2013 report on the “Experience of Voters with Disabilities in the 2012 Election Cycle” revealing that even with her history she never thought to ask if her brother, who has a psychiatric disability, had ever voted. **Link:** <https://www.washingtonpost.com/posteverything/wp/2016/07/22/my-job-was-to-engage-voters-but-i-missed-one-close-to-home-my-disabled-brother/>
+- On April 13, *[Modern Healthcare](http://goo.gl/bHZvT3)* published an article titled, “Disabled Medicaid Beneficiaries Are Losing Services in Managed Care” which included a summary of NCD’s work on the issue. Wrote the journal, **“**For the past two years, NCD has hosted 10 community forums around the country with over 650 people sharing experiences with managed Medicaid. The report is built on feedback obtained at the events. Overwhelmingly, disabled beneficiaries said they lost access to care. Participants reported that MCOs frequently deny long-term care services and supports that were previously provided by Medicaid.”\
+  **Link:**  <http://goo.gl/bHZvT3>
+- On June 22, Wendy Button, a former speechwriter for John Edwards and Hillary Clinton, published an excellent first-person editorial in the Washington Post which referenced NCD’s 2013 report on the “Experience of Voters with Disabilities in the 2012 Election Cycle” revealing that even with her history she never thought to ask if her brother, who has a psychiatric disability, had ever voted. **Link:** <https://www.washingtonpost.com/posteverything/wp/2016/07/22/my-job-was-to-engage-voters-but-i-missed-one-close-to-home-my-disabled-brother/>
 
 ## **Public Square**
 

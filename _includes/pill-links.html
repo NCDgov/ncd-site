@@ -5,10 +5,11 @@
 <div class="grid-row">
   <ul class="usa-list usa-list--unstyled">
   {% for item in items %}
-    {% if item == "" %}
+    {% assign is_number = item | plus: 0 %}
+
+    {% if item == "" or is_number > 0 %}
       {% continue %}
     {% endif %}
-
     {% assign item_slug = item | slugify %}
     <li class="display-inline-block line-height-mono-6">
       <a

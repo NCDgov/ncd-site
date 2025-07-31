@@ -4,10 +4,12 @@ title: National Council on Disability to Make Americans with Disabilities Act
   Recommendations at Chicago Board Meeting
 collection_name: newsroom
 date: 2007-07-13
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
 ---
+
 J﻿uly 13, 2007
 
 **Washington, DC---**The National Council on Disability (NCD) will release two reports on the Americans with Disabilities Act (ADA) at a news conference during its summer quarterly board meeting, which will take place July 24-26 at the Crowne Plaza Chicago Metro, 733 West Madison Street, Chicago, Illinois. The news conference will take place on Thursday, July 26 at 9:30 a.m.

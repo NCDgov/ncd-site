@@ -4,8 +4,10 @@ title: Chula Vista Resident Lonnie Moore Reappointed by President Bush to
   National Council on Disability
 collection_name: newsroom
 date: 2008-10-14
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 O﻿ct. 14, 2008
 
 **WASHINGTON—**Lonnie Moore, a resident of Chula Vista, California, was reappointed by President George W. Bush to serve as a member of the National Council on Disability (NCD) ([www.ncd.gov](https://ncd.gov/ "/")). The U.S. Senate reconfirmed Mr. Moore's nomination on October 2, 2008.

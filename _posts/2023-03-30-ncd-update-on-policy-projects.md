@@ -3,17 +3,19 @@ layout: post
 title: NCD Update on Policy Projects
 collection_name: newsroom
 date: 2023-03-30
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 March 30, 2023
 
 **WASHINGTON--**The National Council on Disability as an independent federal agency makes policy and legislative recommendations to the President, Congress, and federal agencies to enhance the quality of life for all Americans with disabilities and their families.
 
 During the February 16, 2023 council meeting, members offered proposals for policy projects for FY24 (beginning October 2023),  and voted to prioritize a top three for funding and staff resource allocation. The outcome of that vote was to prioritize the following three projects:
 
-* Disabled and Living in Tribal Lands
-* Persistent Barriers to Full Integration for People with Mobility Disabilities
-* Supplemental on Tax Project regarding Misclassification of Employees with Disabilities
+- Disabled and Living in Tribal Lands
+- Persistent Barriers to Full Integration for People with Mobility Disabilities
+- Supplemental on Tax Project regarding Misclassification of Employees with Disabilities
 
 The Council also voted to designate a completed project of the prior Council Membership, a report on the impact of extreme weather events on people with disabilities, a priority of the current Council for purposes of moving the completed project to final edits and a vote for approval.
 
@@ -21,7 +23,7 @@ The newly designated priorities as well as in-progress projects for 2023 follows
 
 **Health Equity Framework Year One Progress Report**
 
-**[Released March 2023]({{ site.baseUrl }}/assets/uploads/docs/ncd-health-equity-framework-progress-report.pdf)** – On February 14, 2022, NCD released its first-ever [Health Equity Framework](https://ncd.gov/publications/2023/health-equity-framework), to address the longstanding healthcare needs of people with disabilities, and approximately a year later, issued a status report on the progress made to date.. NCD’s Health Equity Framework identifies five core recommendations, as well as numerous subcomponents, and includes: the federal administrative designation of people with disabilities as a Health Disparities Population; the federal legislative designation of people with disabilities as a Special Medically Underserved Population under the Public Health Service Act; standardized disability competency training of medical professionals; improved health data collection for people with disabilities; and the availability and use of accessible medical equipment.  
+**[Released March 2023]({{ site.baseUrl }}/assets/uploads/docs/ncd-health-equity-framework-progress-report.pdf)** – On February 14, 2022, NCD released its first-ever [Health Equity Framework](https://ncd.gov/publications/2023/health-equity-framework), to address the longstanding healthcare needs of people with disabilities, and approximately a year later, issued a status report on the progress made to date.. NCD’s Health Equity Framework identifies five core recommendations, as well as numerous subcomponents, and includes: the federal administrative designation of people with disabilities as a Health Disparities Population; the federal legislative designation of people with disabilities as a Special Medically Underserved Population under the Public Health Service Act; standardized disability competency training of medical professionals; improved health data collection for people with disabilities; and the availability and use of accessible medical equipment.
 
 **Medicaid Oral Healthcare for People with I/DD**
 
@@ -41,15 +43,15 @@ The newly designated priorities as well as in-progress projects for 2023 follows
 
 **Cummings Decision Update**
 
-**Summer 2023 Release –** On January 19, 2023, NCD published *[Cummings v. Premier Rehab Keller PLLC: Implications and Avenues for Reform](https://www.ncd.gov/publications/2023/cummings-v-premier-rehab-keller-pllc-implications-and-avenues-reform)* , an analysis of the United States Supreme Court’s April 28, 2022 decision which concludes that emotional distress damages are unavailable for violations of the Rehabilitation Act and the Patient Protection and Affordable Care Act. NCD’s analysis predicted that as a result of *Cummings*, public and private colleges and universities, hospitals, group homes, physical therapist offices, and other recipients of federal financial assistance will no longer need to remedy discrimination based on disability when the only harm of the discrimination results in anxiety, stress, depression, marital strain, humiliation, or other similar emotional pain. NCD will supplement the findings and recommendations from its January analysis by examining courts’ positive and negative treatment of the *Cummings* decision and its impact on remedies available under other anti-discrimination statutes. 
+**Summer 2023 Release –** On January 19, 2023, NCD published *[Cummings v. Premier Rehab Keller PLLC: Implications and Avenues for Reform](https://www.ncd.gov/publications/2023/cummings-v-premier-rehab-keller-pllc-implications-and-avenues-reform)* , an analysis of the United States Supreme Court’s April 28, 2022 decision which concludes that emotional distress damages are unavailable for violations of the Rehabilitation Act and the Patient Protection and Affordable Care Act. NCD’s analysis predicted that as a result of *Cummings*, public and private colleges and universities, hospitals, group homes, physical therapist offices, and other recipients of federal financial assistance will no longer need to remedy discrimination based on disability when the only harm of the discrimination results in anxiety, stress, depression, marital strain, humiliation, or other similar emotional pain. NCD will supplement the findings and recommendations from its January analysis by examining courts’ positive and negative treatment of the *Cummings* decision and its impact on remedies available under other anti-discrimination statutes.
 
 **Tax Policy - Supplemental Survey**
 
-**Ongoing 2023 –** NCD is currently examining a 1965 tax exemption for people with disabilities in congregate work settings (“sheltered workshops”) that may restrict them from attaining employment status for federal employment tax purposes and other employment related benefits. This tax exemption creates a conflict of laws between the Fair Labor Standards Act and the Internal Revenue Code – two sovereign employment statutes governing separate jurisdictions - results in “dueling classifications” that leaves people uncertain about their status as “clients,” “independent contractors,” or “employees.” In an expansion of this project, NCD will gather information about how sheltered workshops classify individuals with disabilities for federal employment tax purposes. This information will be used in support of NCD’s current research into the short-term and long-term financial implications of the 1965 tax exemption.  
+**Ongoing 2023 –** NCD is currently examining a 1965 tax exemption for people with disabilities in congregate work settings (“sheltered workshops”) that may restrict them from attaining employment status for federal employment tax purposes and other employment related benefits. This tax exemption creates a conflict of laws between the Fair Labor Standards Act and the Internal Revenue Code – two sovereign employment statutes governing separate jurisdictions - results in “dueling classifications” that leaves people uncertain about their status as “clients,” “independent contractors,” or “employees.” In an expansion of this project, NCD will gather information about how sheltered workshops classify individuals with disabilities for federal employment tax purposes. This information will be used in support of NCD’s current research into the short-term and long-term financial implications of the 1965 tax exemption.
 
 **Fetal Medicine / Gene Editing**
 
-**Fall 2023 Release –** In 2019, NCD published its *[Bioethics and Disability: Report Series](https://ncd.gov/publications/2019/bioethics-report-series)*, regarding negative biases and inaccurate assumptions about the quality of life of a person with a disability that are pervasive in major healthcare settings and can result in the devaluation and disparate treatment of people with disabilities. This year, NCD will publish an additional installment in this  bioethics series and examine the history, arguments, science, and consequences of fetal medicine interventions and germline editing on the lives of unborn people with disabilities. NCD will interview experts in biomedicine, genetics, fetal medicine, disability rights law, biomedical ethics, and disability stakeholders to examine the legal and ethical concerns about fetal medicine and genetic editing and the underlying societal impact of this developing medical technology and its impact on people with disabilities.  
+**Fall 2023 Release –** In 2019, NCD published its *[Bioethics and Disability: Report Series](https://ncd.gov/publications/2019/bioethics-report-series)*, regarding negative biases and inaccurate assumptions about the quality of life of a person with a disability that are pervasive in major healthcare settings and can result in the devaluation and disparate treatment of people with disabilities. This year, NCD will publish an additional installment in this  bioethics series and examine the history, arguments, science, and consequences of fetal medicine interventions and germline editing on the lives of unborn people with disabilities. NCD will interview experts in biomedicine, genetics, fetal medicine, disability rights law, biomedical ethics, and disability stakeholders to examine the legal and ethical concerns about fetal medicine and genetic editing and the underlying societal impact of this developing medical technology and its impact on people with disabilities.
 
 **Native Americans with Disabilities**
 
