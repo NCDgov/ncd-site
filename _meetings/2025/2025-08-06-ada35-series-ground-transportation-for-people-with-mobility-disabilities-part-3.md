@@ -6,6 +6,7 @@ collection_name: meetings
 meeting_year: 2025
 date: 2025-08-06
 thumbnail: thumbnails/ada35-transportation-policy-briefing-series.png
+misc_files_1: meetings/2025/ada35-series-ground-transportation-for-people-with-mobility-disabilities-part-3/briefing-3-transportation.pptx
 redirect_from: []
 ---
 **Policy Briefing Part 3: Taxis and the need for wheelchair accessible fleet**
