@@ -4,10 +4,12 @@ title: National Council on Disability to Hear Presentations from Government
   Leaders about Homeland Security and Emergency Preparedness
 collection_name: newsroom
 date: 2008-04-11
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Emergency Management
 ---
+
 A﻿pril 11, 2008
 
 **WASHINGTON—**The National Council on Disability (NCD) will hear presentations and discuss homeland security and emergency preparedness issues for people with disabilities at the Westin Arlington Gateway, 801 North Glebe Road, Arlington, VA.

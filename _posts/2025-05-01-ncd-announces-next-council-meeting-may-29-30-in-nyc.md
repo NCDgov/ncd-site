@@ -3,8 +3,10 @@ layout: post
 title: NCD announces next Council meeting May 29-30 in NYC
 collection_name: newsroom
 date: 2025-05-02
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **FOR IMMEDIATE RELEASE**
 
 May 2, 2025

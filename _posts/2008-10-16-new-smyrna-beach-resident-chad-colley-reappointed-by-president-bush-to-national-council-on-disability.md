@@ -4,8 +4,10 @@ title: New Smyrna Beach Resident Chad Colley Reappointed by President Bush to
   National Council on Disability
 collection_name: newsroom
 date: 2008-10-16
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 O﻿ct. 16, 2008
 
 **WASHINGTON—**Chad Colley, a resident of New Smyrna Beach, Florida, was reappointed by President George W. Bush to serve as a member of the National Council on Disability (NCD) ([www.ncd.gov](https://ncd.gov/ "/")). The U.S. Senate reconfirmed Mr. Colley's nomination on October 2, 2008.

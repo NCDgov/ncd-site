@@ -4,11 +4,13 @@ title: Senate Appointee Bob Brown Begins Tenure with the National Council on
   Disability
 collection_name: newsroom
 date: 2014-11-13
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 Nov. 13, 2014
 
-**WASHINGTON, D.C. —** November 13 — The National Council on Disability (NCD) – an independent federal agency that recommends disability policy to the Administration, Congress and other federal agencies announced Bob Brown as a new member of NCD.  Mr. Brown’s appointment to NCD by Senator Harry Reid (D-NV) was published in the Congressional Record Wednesday, November 12.
+**WASHINGTON, D.C. —** November 13 — The National Council on Disability (NCD) – an independent federal agency that recommends disability policy to the Administration, Congress and other federal agencies announced Bob Brown as a new member of NCD. Mr. Brown’s appointment to NCD by Senator Harry Reid (D-NV) was published in the Congressional Record Wednesday, November 12.
 
 Under a new provision in the Workforce Innovation Opportunity Act signed into law by President Obama July 22, 2014, four Council Members whose terms are about to expire will be replaced by appointments made by the Senate Majority Leader, the Senate Minority Leader, the Speaker of the House, and the House Minority Leader. In time, NCD’s membership will be reduced from fifteen to nine as the next six Council members will not be replaced when their terms expire.
 

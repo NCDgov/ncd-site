@@ -5,12 +5,14 @@ date: 2021-02-01
 excerpt: WASHINGTON--The National Council on Disability (NCD) today marks the
   35-year anniversary of a federal report that led to the drafting of the
   landmark Americans with Disabilities Act (ADA).
-tag: Newsletter
+tags:
+  - Newsletter
 policy_areas:
   - Civil Rights
 image_alt_text: NA
 ---
-**FOR IMMEDIATE RELEASE**                                               
+
+**FOR IMMEDIATE RELEASE**
 
 **WASHINGTON--**The National Council on Disability (NCD) today marks the 35-year anniversary of a federal report that led to the drafting of the landmark Americans with Disabilities Act (ADA).
 
@@ -29,9 +31,5 @@ The 1986 NCD report drew three general conclusions from its research into 10 maj
 On Jan. 29, 1988, a follow-up report called *[On the Threshold of Independence](https://ncd.gov/publications/1988/Jan1988)* was released by the Council. It was the first draft of what would be used by Congress as the framework for the ADA. Both the House and Senate introduced legislation in 1988 and the ADA became law when it was signed on July 26, 1990, by President George H.W. Bush.
 
 Read the reports at NCD.gov.
-
-
-
-
 
 \###

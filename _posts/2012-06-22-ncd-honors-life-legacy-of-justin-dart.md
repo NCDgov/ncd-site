@@ -3,10 +3,12 @@ layout: post
 title: NCD Honors Life, Legacy of Justin Dart
 collection_name: newsroom
 date: 2012-06-22
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
 ---
+
 June 22, 2012
 
 Friday, June 22nd marks the 10th anniversary of the passing of Justin Dart, Jr. Dart was many things to the disability community – a trusted friend, respected colleague and valued mentor. In honor of his life and legacy, NCD shares the statement he prepared for friends and fellow advocates on the occasion of his death.  Thanks to Justin, his beloved Yoshiko, and countless others the “revolution of empowerment” continues. Lead On!! Lead On!! Lead On!!

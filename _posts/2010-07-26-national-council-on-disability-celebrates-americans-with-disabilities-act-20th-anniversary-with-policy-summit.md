@@ -4,11 +4,13 @@ title: National Council on Disability Celebrates Americans with Disabilities Act
   20th Anniversary with Policy Summit
 collection_name: newsroom
 date: 2010-07-26
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 J﻿uly 26, 2010
 
-**WASHINGTON—**The [National Council on Disability](https://ncd.gov/ "blocked::/") (NCD) and its partners today celebrate the 20th anniversary of the Americans with Disabilities Act (ADA) by convening the first-ever [National Disability Policy Summit](http://www.neweditions.net/ncd2010/index.html "blocked::http\://www.neweditions.net/ncd2010/index.html") in Washington, D.C.
+**WASHINGTON—**The [National Council on Disability](https://ncd.gov/ "blocked::/") (NCD) and its partners today celebrate the 20th anniversary of the Americans with Disabilities Act (ADA) by convening the first-ever [National Disability Policy Summit](http://www.neweditions.net/ncd2010/index.html "blocked::http://www.neweditions.net/ncd2010/index.html") in Washington, D.C.
 
 A diverse group of more than 500 people from 48 states will gather at the multi-day Summit, intended to invigorate a national dialogue on disability policies and programs in the 21st century. Attendees will be asked to identify emerging opportunities to enhance *Living, Learning and Earning* for people with disabilities.
 

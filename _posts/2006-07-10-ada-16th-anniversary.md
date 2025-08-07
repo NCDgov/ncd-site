@@ -3,10 +3,12 @@ layout: post
 title: ADA 16th Anniversary
 collection_name: newsroom
 date: 2006-07-10
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
 ---
+
 July 10, 2006
 
 ADA Town Hall Meeting 2006

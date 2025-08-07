@@ -4,10 +4,12 @@ title: National Council on Disability to Make Housing Recommendations for People
   with Disabilities
 collection_name: newsroom
 date: 2010-01-07
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Housing
 ---
+
 J﻿anuary 7, 2010
 
 **WASHINGTON—**The [National Council on Disability](https://ncd.gov/) (NCD) will release a report on housing programs and policies for people with disabilities at the JW Marriott Houston, 5150 Westheimer, Houston, TX, from 4:00 p.m. until 5:00 p.m. on Tuesday, January 19, 2010. This meeting is open to the public.

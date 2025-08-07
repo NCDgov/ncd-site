@@ -3,13 +3,15 @@ layout: post
 title: National Council on Disability Announces Appointment of Neil Romano by
   Senate Majority Leader Mitch McConnell
 date: 2015-02-03
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **WASHINGTON, D.C. — February 3, 2015 —**  The National Council on Disability (NCD) – an independent federal agency that recommends disability policy to the Administration, Congress and other federal agencies acknowledges the appointment of Neil Romano as a new member of NCD.  Romano’s appointment to NCD by Senate Majority LeaderMitch McConnell (R-KY) was published in the Congressional Record on Tuesday, February 03, 2015.
 
 Under a provision in the Workforce Innovation Opportunity Act signed into law by President Obama on July 22, 2014, four Council Members whose terms are expiring will be or have been replaced by appointments made by the Senate Majority Leader, the Senate Minority Leader, the Speaker of the House, and the House Minority Leader. In time, NCD’s membership will be reduced from fifteen to nine as the next six Council members will not be replaced when their terms expire.
 
-Romano joins NCD Chairperson Jeff Rosen, Co Vice-Chairs Katherine D. Seelman and Royal P. Walker, Jr. and Councilmembers Gary Blumenthal, Chester A. Finn, Captain Jonathan F. Kuniholm USMC (Retired), Janice Lehrer-Stein, Kamilah Oni Martin-Proctor, Ari Ne'eman, Benro T. Ogunyipe, Lynnae Ruttledge, Clyde Terry, Alice Wong and Bob Brown.  
+Romano joins NCD Chairperson Jeff Rosen, Co Vice-Chairs Katherine D. Seelman and Royal P. Walker, Jr. and Councilmembers Gary Blumenthal, Chester A. Finn, Captain Jonathan F. Kuniholm USMC (Retired), Janice Lehrer-Stein, Kamilah Oni Martin-Proctor, Ari Ne'eman, Benro T. Ogunyipe, Lynnae Ruttledge, Clyde Terry, Alice Wong and Bob Brown.
 
 Mr. Romano’s biography is included at the end of this announcement.
 

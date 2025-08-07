@@ -3,8 +3,10 @@ layout: post
 title: NCD Statement on the Passing of Mary Ann Mobley Collins
 collection_name: newsroom
 date: 2014-12-01
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 D﻿ec. 1, 2014
 
 **Washington, D.C. -** Former National Council on Disability member, Mary Ann Mobley Collins, died Tuesday in Beverly Hills, California due to complications from breast cancer. She was 77. Mobley had Crohn's disease, and in 2009, was diagnosed with breast cancer. Funeral services will be held Monday, December 15, in Jackson, Mississippi.

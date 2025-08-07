@@ -3,8 +3,10 @@ layout: post
 title: NCD to hold next Council meeting November 7
 collection_name: newsroom
 date: 2024-10-25
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **For Immediate Release**
 
 Oct. 25, 2024
@@ -19,7 +21,7 @@ Full information on the event can also be found on our [event page](https://www.
 
 Following welcome remarks and introductions, the Executive Committee will provide their report, including financial and governance reports; followed by the Chair’s report; and policy updates.
 
-A presentation updating the Council on NCD’s accessible ground transportation and people with mobility disabilities project will be followed by Council member Q&A. 
+A presentation updating the Council on NCD’s accessible ground transportation and people with mobility disabilities project will be followed by Council member Q&A.
 
 Following Council member community report outs; Council members will receive a disability data presentation, followed by Council member Q&A.
 

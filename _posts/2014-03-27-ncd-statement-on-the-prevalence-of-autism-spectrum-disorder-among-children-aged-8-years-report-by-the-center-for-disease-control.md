@@ -4,8 +4,10 @@ title: NCD Statement on the ‘Prevalence of Autism Spectrum Disorder Among
   Children Aged 8 Years’ Report by the Center for Disease Control
 collection_name: newsroom
 date: 2014-03-27
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 March 27, 2014
 
 **Washington, DC -** On March 27, the Centers for Disease Control (CDC) at the U.S. Department of Health and Human Services (HHS) released “Prevalence of Autism Spectrum Disorder Among Children Aged 8 Years” derived from an active surveillance system of the Autism and Developmental Disabilities Monitoring (ADDM) Network that provides estimates of the prevalence of Autism Spectrum Disorders (ASD) among children 8 years of age whose parents or guardians live in 11 ADDM sites across the nation.
@@ -18,9 +20,9 @@ The 2010 totals released by the CDC show an overall prevalence of ASD among the 
 
 **Key Findings:**
 
-* Overall ASD prevalence estimates varied among sites from 5.7 to 21.9 per 1,000 children aged 8 years.
-* ASD prevalence estimates varied by sex and racial/ethnic group.
-* Non-Hispanic white children were approximately 30% more likely to be identified with ASD than non-Hispanic black children and were almost 50% more likely to be identified with ASD than Hispanic children.
-* Approximately one in 42 boys and one in 189 girls living in the ADDM Network communities were identified as having ASD.
+- Overall ASD prevalence estimates varied among sites from 5.7 to 21.9 per 1,000 children aged 8 years.
+- ASD prevalence estimates varied by sex and racial/ethnic group.
+- Non-Hispanic white children were approximately 30% more likely to be identified with ASD than non-Hispanic black children and were almost 50% more likely to be identified with ASD than Hispanic children.
+- Approximately one in 42 boys and one in 189 girls living in the ADDM Network communities were identified as having ASD.
 
 **About the National Council on Disability (NCD):** NCD is an independent federal agency of 15 Presidentially-appointed Council Members and full-time professional staff, who advise the President, Congress and other federal agencies on disability policy, programs, and practices.

@@ -3,8 +3,10 @@ layout: post
 title: Latest NCD report evaluates progress eliminating subminimum wage
   employment for people with disabilities
 date: 2018-10-16
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **For Immediate Release **                                                                         \
 October 16, 2018
 
@@ -24,16 +26,16 @@ Findings and recommendations in [*From the New Deal to the Real Deal* ](https:
 
 Highlights of the report’s recommendations to improve opportunities for CIE, self-employment, and entrepreneurship for people with disabilities include:
 
-* Phasing out of 14(c) on a six-year timeline, concurrent with a “phase-up” of systems changes necessary to bring people with disabilities into CIE.
-* Department of Labor issuing a two-year moratorium on any new 14(c) certificates
-* Increasing oversight of the existing 14(c) system until phase-out is complete.
-* Retaining the current definition of CIE used by the Department of Education’s Office of Special Education and Rehabilitative Services’ regulations and guidance to build on systems-change success.
-* Amending the Javits Wagner O’Day Act, which requires all federal agencies to purchase certain supplies and services from nonprofits that employ people who are blind or have significant disabilities, to better support employment of people with disabilities in CIE.
+- Phasing out of 14(c) on a six-year timeline, concurrent with a “phase-up” of systems changes necessary to bring people with disabilities into CIE.
+- Department of Labor issuing a two-year moratorium on any new 14(c) certificates
+- Increasing oversight of the existing 14(c) system until phase-out is complete.
+- Retaining the current definition of CIE used by the Department of Education’s Office of Special Education and Rehabilitative Services’ regulations and guidance to build on systems-change success.
+- Amending the Javits Wagner O’Day Act, which requires all federal agencies to purchase certain supplies and services from nonprofits that employ people who are blind or have significant disabilities, to better support employment of people with disabilities in CIE.
 
 The report also makes data-driven observations on the need to build capacity and infrastructure for supported employment services**;** to change pay structures to promote recruitment, retention and advancement of a skilled labor force that can provide supported employment and related services; and to make improvements to the processes of vocational rehabilitation and other employment service providers who support people with disabilities.
 
 Read the report at [ncd.gov/publications/2018/new-deal-real-deal](https://ncd.gov/publications/2018/new-deal-real-deal).
 
-\# # # 
+\# # #
 
 **About the National Council on Disability (NCD):** First established as an advisory Council within the Department of Education in 1978, NCD became an independent federal agency in 1984. In 1986, NCD recommended enactment of an Americans with Disabilities Act (ADA), and drafted the first version of the bill which was introduced in the House and Senate in 1988. Since enactment of the ADA in 1990, NCD has continued to play a leading role in crafting disability policy, and advising the President, Congress and other federal agencies on disability policies, programs, and practices.

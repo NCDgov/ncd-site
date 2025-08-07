@@ -3,11 +3,13 @@ layout: post
 title: NCD applauds HHS final rule updating Section 504
 collection_name: newsroom
 date: 2024-05-01
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
   - Health Care
 ---
+
 **FOR IMMEDIATE RELEASE**
 
 May 1, 2024
@@ -18,9 +20,9 @@ Today, leaders from the U.S. Department of Health and Human Services through its
 
 The rule, titled Discrimination on the Basis of Disability in Health and Human Service Programs or Activities, advances equity and bolsters protections for people with disabilities. It clarifies and strengthens civil rights protections for people with disabilities, addresses discrimination in medical treatment, adds enforceable standards for accessible medical diagnostic equipment, and ensures accessible web content and mobile apps.
 
-“We’re thrilled to see decades of NCD’s research, from Rehabilitating Section 504 to Rocking the Cradle to our more recent bioethics series, reflected in this groundbreaking rule,” said NCD Chair Claudia Gordon. “We are very pleased to have helped shape this final, historic regulation.” 
+“We’re thrilled to see decades of NCD’s research, from Rehabilitating Section 504 to Rocking the Cradle to our more recent bioethics series, reflected in this groundbreaking rule,” said NCD Chair Claudia Gordon. “We are very pleased to have helped shape this final, historic regulation.”
 
-NCD as an independent federal agency makes recommendations to the President, Congress and federal agencies on disability policy. The agency has a long history of recommendations on Section 504. 
+NCD as an independent federal agency makes recommendations to the President, Congress and federal agencies on disability policy. The agency has a long history of recommendations on Section 504.
 
 "The pandemic exposed the devastating consequences of unequal access for people with disabilities,” said Chair Gordon. “Today's rule from HHS OCR marks a significant step towards greater inclusion, and we commend their tireless efforts in bringing it to fruition.”
 
@@ -33,7 +35,5 @@ The final rule can be viewed or downloaded at:
 An HHS Fact Sheet on the final rule is available at:
 
 <https://www.hhs.gov/civil-rights/for-individuals/disability/section-504-rehabilitation-act-of-1973/part-84-final-rule-fact-sheet/index.html>
-
-
 
 \###

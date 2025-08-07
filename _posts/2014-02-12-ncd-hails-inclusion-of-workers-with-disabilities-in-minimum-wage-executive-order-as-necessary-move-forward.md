@@ -4,10 +4,12 @@ title: NCD Hails Inclusion of Workers with Disabilities in Minimum Wage
   Executive Order As “Necessary Move Forward”
 collection_name: newsroom
 date: 2014-02-12
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Employment
 ---
+
 ### Independent Federal Agency Expects Thousands of Workers with Disabilities Under Federal Contracts To Benefit
 
 February 12, 2014
@@ -18,9 +20,9 @@ February 12, 2014
 
 After a two-week campaign by dozens of disability advocacy groups following NCD’s letter, it was announced that the executive order set to be signed this afternoon will now include federal contract workers with disabilities currently working under Section 14(c).  The independent federal agency hopes this signals the first step toward the eventual elimination of the Section 14(c) provision which the agency views as “a relic” of the 1930’s when it was assumed that people with disabilities could not work.
 
-With regard to workers with disabilities working under federal contracts, the Executive Order states: 
+With regard to workers with disabilities working under federal contracts, the Executive Order states:
 
-*“Under current law, workers whose productivity is affected because of their disabilities may be paid less than the wage paid to others doing the same job under certain specialized certificate programs. Under this Executive Order, all individuals working under service or concessions contracts with the federal government will be covered by the same $10.10 per hour minimum wage protections.”*
+_“Under current law, workers whose productivity is affected because of their disabilities may be paid less than the wage paid to others doing the same job under certain specialized certificate programs. Under this Executive Order, all individuals working under service or concessions contracts with the federal government will be covered by the same $10.10 per hour minimum wage protections.”_
 
 “No matter who you are or where you’re from, the opportunities for workers with disabilities to find competitive employment, in the community, alongside non-disabled peers is perhaps better than it has ever been,” said NCD Chairperson Jeff Rosen. “NCD looks forward to working with Congress to keep progress rolling forward until the day we end segregated employment under Section 14(c) where workers with disabilities are still unjustifiably paid below minimum wage more than 80 years after the law was passed. Attitudes have changed since the 1930s and so have expectations for workers with disabilities. The inclusion of thousands of workers with disabilities in the President's Executive Order reflects those necessary changes but we’re not done yet.”
 

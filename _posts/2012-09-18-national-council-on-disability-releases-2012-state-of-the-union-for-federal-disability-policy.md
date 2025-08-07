@@ -4,10 +4,12 @@ title: National Council on Disability Releases 2012 "State of the Union" for
   Federal Disability Policy
 collection_name: newsroom
 date: 2012-09-18
-tag: Press Release
+tags:
+  - Press Release
 categories:
   - progress reports
 ---
+
 Sept. 18, 2012
 
 **WASHINGTON, DC** — On Tuesday, September 18, the National Council on Disability (NCD) released its annual progress report on national disability policy. In the report, NCD assesses the state of federal disability policy in the last year and examines how emerging trends and government policies influence the quality of life of Americans with disabilities. The report notes progress where it has occurred and makes recommendations to both the executive and legislative branches where necessary.

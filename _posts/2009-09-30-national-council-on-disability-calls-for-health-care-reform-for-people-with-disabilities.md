@@ -4,10 +4,12 @@ title: National Council on Disability Calls for Health Care Reform for People
   with Disabilities
 collection_name: newsroom
 date: 2009-09-30
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Health Care
 ---
+
 S﻿ept. 30, 2009
 
 **WASHINGTON—**The National Council on Disability (NCD) today released a report entitled The Current State of Health Care for People with Disabilities, calling for immediate health care reform for people with disabilities.
@@ -18,10 +20,10 @@ The report provides a road map for eliminating the pervasive barriers to health 
 
 Some of the recommendations include:
 
-* Congress should amend the Minority Health and Health Disparities Research and Education Act to broaden the definition of "health disparity population" found in 42 U.S.C. § 287c-31(d) to encompass "populations for which there is a significant disparity in the quality, outcomes, cost, or use of health care services or access to or satisfaction with such services as compared to the general population," as specified in 42 U.S.C. § 299a-1(d). 
-* Congress should establish a technical assistance system through which states, health plans, clinics, hospitals, diagnostic and treatment centers, individual medical practitioners, equipment manufacturers, people with disabilities, and others can easily obtain centralized information on universal standards of care and related practical resources for ensuring full access to culturally competent health care services for people with disabilities.
-* The U.S. Department of Justice (DOJ) must step up monitoring and enforcement of the ADA and Section 504 of the 1973 Rehabilitation Act for health care facilities and programs. DOJ must focus additional resources on compliance monitoring and investigation of Title III complaints concerning programmatic access violations of the ADA and Section 504 by health care providers.
-* Congress should ensure that reform of the health care system in the United States responds to the basic needs of people with disabilities by making certain that health care coverage is available and affordable to all people with disabilities without pre-existing condition limitations.
+- Congress should amend the Minority Health and Health Disparities Research and Education Act to broaden the definition of "health disparity population" found in 42 U.S.C. § 287c-31(d) to encompass "populations for which there is a significant disparity in the quality, outcomes, cost, or use of health care services or access to or satisfaction with such services as compared to the general population," as specified in 42 U.S.C. § 299a-1(d).
+- Congress should establish a technical assistance system through which states, health plans, clinics, hospitals, diagnostic and treatment centers, individual medical practitioners, equipment manufacturers, people with disabilities, and others can easily obtain centralized information on universal standards of care and related practical resources for ensuring full access to culturally competent health care services for people with disabilities.
+- The U.S. Department of Justice (DOJ) must step up monitoring and enforcement of the ADA and Section 504 of the 1973 Rehabilitation Act for health care facilities and programs. DOJ must focus additional resources on compliance monitoring and investigation of Title III complaints concerning programmatic access violations of the ADA and Section 504 by health care providers.
+- Congress should ensure that reform of the health care system in the United States responds to the basic needs of people with disabilities by making certain that health care coverage is available and affordable to all people with disabilities without pre-existing condition limitations.
 
 According to NCD Health Care Committee Co-Chair Anne M. Rader, "People with disabilities bear a disproportionate burden of poor health compared with the general population and use preventive services at a lower rate than people who do not have disabilities."
 

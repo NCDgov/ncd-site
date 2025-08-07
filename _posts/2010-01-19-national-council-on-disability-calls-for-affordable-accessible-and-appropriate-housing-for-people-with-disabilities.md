@@ -4,10 +4,12 @@ title: National Council on Disability Calls for Affordable, Accessible, and
   Appropriate Housing for People with Disabilities
 collection_name: newsroom
 date: 2010-01-19
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Housing
 ---
+
 J﻿anuary 19, 2010
 
 **WASHINGTON—**The [National Council on Disability](https://ncd.gov/) (NCD) today released a report titled The State of Housing in America in the 21st Century: A Disability Perspective that provides recommendations intended to improve housing opportunities for people with disabilities. This report looks at the state of housing for people with disabilities with the intent to provide recommendations that can improve housing opportunities. The research contained in this report provides a comprehensive overview of the state of housing in the twenty-first century and answers important questions about the current housing needs and options for people with disabilities living in the United States.
@@ -18,10 +20,10 @@ According to NCD Chairperson Linda Wetters, "Affordable, accessible, and appropr
 
 The findings and recommendations contained in this document are grounded in data and research gathered from federal agencies, either directly or via published reports, and from research completed by academics and disability advocates. This report also provides evidence of what can be effective in meeting the range of housing needs among a diverse group of consumers with disabilities. This includes best and promising practices drawn from real examples, and lessons learned from experts working on housing issues and policy. In reviewing best and promising practices, data was triangulated from different sources — interviews, published reports, and Internet research — to assure a comprehensive assessment. To this end, the research has been reviewed and commented on by a diverse panel of experts and consumer groups that have all provided valuable insights and guidance. Some of the recommendations include:
 
-* Increase affordable, accessible, and integrated housing for people with disabilities to meet needs and demand.
-* Increase access to existing units.
-* Prevent further loss of affordable, accessible housing.
-* Expand and focus usage of vouchers.
-* Improve fair housing enforcement of disability rights.
+- Increase affordable, accessible, and integrated housing for people with disabilities to meet needs and demand.
+- Increase access to existing units.
+- Prevent further loss of affordable, accessible housing.
+- Expand and focus usage of vouchers.
+- Improve fair housing enforcement of disability rights.
 
 The purpose of NCD, an independent federal agency, is to promote programs, practices, policies and procedures that ensure full inclusion of people with disabilities into all aspects of society. NCD accomplishes this mission by providing advice and making recommendations to the President, Congress, governmental agencies, and other stakeholders.

@@ -4,12 +4,14 @@ title: National Council on Disability to Release Vocational Rehabilitation Youth
   Transition Report
 collection_name: newsroom
 date: 2008-10-21
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Education
   - Employment
   - Youth Perspectives
 ---
+
 O﻿ct. 21, 2008
 
 **WASHINGTON—**The National Council on Disability (NCD) will release *The Rehabilitation Act: Outcomes for Transition-Age Youth*, with a Web posting at [www.ncd.gov](https://ncd.gov/ "/") on Tuesday, October 28 at 9:00 a.m.
