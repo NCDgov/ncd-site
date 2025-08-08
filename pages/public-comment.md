@@ -7,38 +7,85 @@ redirect_from: []
 ---
 ### S﻿ubmit your public comment to NCD
 
-Your participation during the public comment period provides an opportunity for us to hear from you—individuals, businesses, providers, educators, parents and advocates. Your comments are important in bringing attention to issues and priorities of the disability community and informing the work of NCD.
+Your participation during the public comment period provides an opportunity for us to hear from you -- individuals, businesses, providers, educators, parents and advocates. Your comments are important in bringing to the Council’s attention and issues and priorities of the disability community.
 
-**Next Public Comment Opportunity:**
+For the August 28 Council meeting, NCD will have a public comment period of 40 minutes and requests comments from the public on topics related to our upcoming reports: improving the outcome of people with disabilities during and after disasters; disability clinical competency training for healthcare provider training programs; ADA accommodations during court proceedings; and youth and younger adults with disabilities in nursing homes. Additional information on specifics of the topic is available on NCD’s public comment page at https://ncd.gov/public-comment.
 
-Thursday, May 29, 2025, from 4 to 4:45 p.m. EDT during NCD's Council Meeting.
+The Council will receive comments in-person only, but will share comments submitted via email during the meeting. Due to the hybrid nature of the event, in-person presentations will be given priority.
 
-**Topic(s):** Youth and younger adults in nursing homes; 2025 Progress Report notable policy developments
+To provide public comment during an NCD Council Meeting, NCD now requires advanced registration by either signing up to present while registering for the meeting or sending an email to PublicComment@ncd.gov with the subject line “Public Comment” and your name, organization, state, and topic of comment included in the body of your email. 
 
-For the May 29 Council meeting, NCD will have a public comment period of 45 minutes and requests comments from the public regarding the experiences of youth and younger adults in nursing homes and for our 2025 Progress Report focused on what the public considers the most notable disability policy developments since Summer 2024. The Council would also like to hear about any missed opportunities within those achievements.
+Deadline for registration is August 26, 8:00 p.m. EDT. Please indicate if you are providing the comment in-person or only submitting via email. All individuals desiring to make public comment are strongly encouraged to read NCD’s guidelines for public comment in advance of the meeting at: https://ncd.gov/public-comment.
 
-Information on our Council meeting is available on our [Upcoming Event page](https://www.ncd.gov/meeting/2025-05-29-may-29-30-2025-council-meeting/).
+While public comment can be submitted on any topic over email, comments during the meeting should be specific to experiences with youth with disabilities in nursing homes. 
 
-Public comment will be used to further develop the information in NCD’s reports, HCBS Ecosystem (2022), Deinstitutionalization: Unfinished Business (2012); NCD communications with Congress and the Department of Health and Human Services regarding institutionalization and HCBS; and the 2021 Progress Report: The Broadscale Impacts of Covid-19 on People with Disabilities. It will fill a gap in the existing knowledge about younger people with disabilities in nursing homes by describing policies and events that contribute to nursing home placement, presenting state and federal data on the amount of younger people residing in nursing homes and describing the impacts on their lives. Finally, it will provide recommendations to federal and state agencies on improving existing policies and causes that result in the institutionalization of younger people with disabilities, particularly the Department of Health and Human Services (HHS), the Department of Housing and Urban Development (HUD), and state Medicaid agencies. 
+Please send NCD your comments, experiences, articles, data, and other research on the following topics, which are all projects currently underway or soon to be underway. Please provide your comments in the comment box below or send your comments and any attachments to PublicComment@ncd.gov. Your contributions will help strengthen our investigations and provide for a more comprehensive view for federal policymakers. 
 
-**Research Questions** 
+Information on Public Comment Topics:
 
-* What number of people with disabilities ages 21-40 are receiving LTSS in nursing homes? How large is the subset of those under age 21? What are the numbers by state? What are the demographics? What is the average length of stay?  
-* What data gaps exist on these questions and how could the Centers for Medicare and Medicaid Services (CMS) improve them? What reporting could HHS or HUD require of federal fund recipients to obtain data on people with disabilities age 40 and under in nursing homes?  
-* How many people are estimated to be on waiting lists to transfer out of nursing facilities are ages 21-40 and under 21? How have these numbers changed over the past 10 years? What are the best sources for this data? 
-* Are there existing federal and state policies that have the effect of routing younger people with disabilities into nursing homes? Are they the same as those that keep them there? 
-* What impact has Money Follows the Person had on nursing home diversion for younger people with disabilities? Please provide specific examples to the degree possible. What other programs are successful at diversion of younger people with disabilities from nursing homes?  
-* What opportunities are available to younger people with disabilities who reside in nursing homes, for free appropriate public education (FAPE), recreation, community participation?  
-* What are examples of non-governmental initiatives to help move children out of nursing homes? What states house the most children in nursing homes? What are the main causes? What is the remedy? 
-* How could policymakers address the needs of younger people with disabilities in LTSS and housing policy so that nursing home placement is minimized? 
+I. Improving the Outcome of People with Disabilities During and after Disasters
 
+This project will focus on how state and local governments execute their emergency management plans; identify promising practices; and provide resources and recommendations. The following are areas comment:
 
+1. What elements are lacking in state and local disaster preparation plans that would mitigate the adverse impact of disaster recovery and response on people with disabilities?
 
+2. How do states encourage local emergency management operators to be inclusive of people with disabilities before, during and after disasters?
 
-<div id="5"></div>
+3. What is FEMA’s role and responsibility to ensure people with disabilities needs are included in disaster preparation at the local level?
 
+4. What states have an infrastructure that promotes the inclusivity of people with disabilities?
 
+II. Disability Clinical Competency Training for Healthcare Provider Training Programs
 
+This project will offer a framework to clinical preparedness for health care providers in the medical treatment of people with disabilities.  The following are areas comment:
+
+1. What is the current state of healthcare provider education in medical schools, Nurse Practitioner schools and Physician Assistant programs? How many provide clinical training, patient exposure, and patient feedback? What is the response of the students? How many of these training programs require “clinical disability competency” training? How many are simply short, inadequate “watch a video” vignettes?
+
+2. What are the challenges and obstacles for these schools to adopt curriculum over the course of their training?
+
+3. Do the current graduates of these training programs feel they have the confidence, skills, experience and training to effectively provide optimal care?
+
+4. What is the connection between clinical confidence and changes in behavior and attitudes among healthcare providers?
+
+5. What are the estimated overall cost savings for providing optimal healthcare to people with disabilities?
+
+6. What are the transferable skills that clinicians can learn from “disability competency training” to apply to all other patient populations (especially the elderly, complex and chronic co-existing conditions, which is a growing patient population)?
+
+7. What are the existing curriculum resources that can be adopted and incorporated into current provider training?
+
+III. ADA Accommodations during Court Proceedings
+
+This project will explore the lack of available training for judges and ADA coordinators that results in people with disabilities being denied reasonable accommodations in court proceedings, which often directly impacts the outcome of the litigation; and offer recommendations to address this unequal access to the courts. The following are areas comment:
+
+1. How many states have court ADA coordinators?
+
+2. With states that have ADA coordinators, is there an ADA grievance procedure? Is the decision to provide reasonable accommodation decided by the coordinator or the judge?
+
+3. What are the training requirements for judges? Is training available that discusses reasonable accommodations?
+
+4. Why does there seem to be a lack of understanding of reasonable accommodations and family courts?
+
+5. What procedure is required to amend the Administrative Offices of the Courts Regulations?
+
+6. What is the current procedure in federal courts to assess reasonable accommodation requests?
+
+IV. Youth and Younger Adults with Disabilities in Nursing Homes
+
+This project seeks to uncover the drivers of the growing population of youth and younger adults with disabilities living in nursing homes and explore policy solutions that seek to keep youth and younger adults with disabilities in their communities where they can live, learn, and seek employment. The following are areas comment:
+
+1. What number of people with disabilities ages 21-40 are receiving LTSS in nursing homes? How large is the subset of those under age 21? What are the numbers by state? What are the demographics? What is the average length of stay? What placements were made out of state?
+
+2. What data gaps exist on these questions and how could the Centers for Medicare and Medicaid Services (CMS) improve them? What reporting could HHS or HUD require of federal fund recipients to obtain data on people with disabilities age 40 and under in nursing homes?
+
+3. How many people are estimated to be on waiting lists to transfer out of nursing facilities are ages 21-40 and under 21? What federal and state policies assist in gathering this information and what are the federal and state barriers?
+
+4. Are there existing federal and state policies that have the effect of routing younger people with disabilities into nursing homes? (Please note that NCD is not seeking information on what keeps people with disabilities from leaving nursing facilities as we have well-established research on that topic).
+
+5. What impact has Money Follows the Person had on nursing home diversion for younger people with disabilities? Please provide specific examples to the degree possible. What other programs are successful at diversion of younger people with disabilities from nursing homes?
+
+6. What opportunities are available to younger people with disabilities who reside in nursing homes, for free appropriate public education (FAPE), recreation, community participation? What are the results of unavailability/restricted availability of the activities?
+
+7. How could policymakers specifically address the needs of younger people with disabilities in LTSS and housing policy?
 
 
 
