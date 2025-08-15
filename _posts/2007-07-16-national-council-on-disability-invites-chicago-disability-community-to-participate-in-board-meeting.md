@@ -4,10 +4,12 @@ title: National Council on Disability Invites Chicago Disability Community to
   Participate in Board Meeting
 collection_name: newsroom
 date: 2007-07-16
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
 ---
+
 July 16, 2007
 
 **WASHINGTON**—The National Council on Disability (NCD) today invited the Chicago disability community to participate in NCD's Chicago quarterly board meeting, which will take place July 24–26 at the Crowne Plaza Chicago Metro, 733 West Madison Street, Chicago, Illinois.

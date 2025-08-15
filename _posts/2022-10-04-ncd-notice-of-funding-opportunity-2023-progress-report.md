@@ -2,14 +2,16 @@
 layout: post
 title: "NCD Notice of Funding Opportunity: 2023 Progress Report"
 date: 2022-10-04
-tag: Funding Opportunities
+tags:
+  - Funding Opportunities
 policy_areas: []
 categories:
   - progress reports
 ---
+
 **National Council on Disability**
 
-***Progress Report 2023: Income and Assets Limitations Imposed by the Federal Government on People with Disabilities: A Way Forward***
+**_Progress Report 2023: Income and Assets Limitations Imposed by the Federal Government on People with Disabilities: A Way Forward_**
 
 **Overview Information**
 
@@ -65,11 +67,11 @@ NCD’s 2023 Progress Report will determine what reforms to government-imposed i
 
 The following queries will be addressed:
 
-*  Do the asset and income limitations create a greater dependency on the safety net programs?
-* Are there reforms to the asset and income limitations in safety net programs that can advance the purpose for which they were established and simultaneously foster economic self-sufficiency for people with disabilities?
-*  What policy options might be put in place to encourage employment without the fear of losing needed long-term health benefits?
-* What are the successes and deficiencies associated with Ticket to Work and similar programs? What can be done to improve and work toward desired outcomes?
-* Which recommendations from NCD’s previous reports and papers on this issue have been implemented? Which have not been implemented but are still valid recommendations? The contractor will be expected to review NCD’s previous reports on this subject and update the recommendations to reflect current initiatives.
+- Do the asset and income limitations create a greater dependency on the safety net programs?
+- Are there reforms to the asset and income limitations in safety net programs that can advance the purpose for which they were established and simultaneously foster economic self-sufficiency for people with disabilities?
+- What policy options might be put in place to encourage employment without the fear of losing needed long-term health benefits?
+- What are the successes and deficiencies associated with Ticket to Work and similar programs? What can be done to improve and work toward desired outcomes?
+- Which recommendations from NCD’s previous reports and papers on this issue have been implemented? Which have not been implemented but are still valid recommendations? The contractor will be expected to review NCD’s previous reports on this subject and update the recommendations to reflect current initiatives.
 
 To address these queries, federal safety net programs will be reviewed, states’ administration and implementation of those programs will be reviewed, a current understanding of wages earned by people with disabilities compared to those without will be presented and compared to the available information provided by labor agencies regarding hourly wages, and average salaries at the entry, middle management, and senior management levels. The contractor will hold one or more virtual convenings, which will include the development of an invitee list and agenda and will ensure key stakeholders are invested in the project and able to provide meaningful and timely input. Stakeholders may include, but are not limited to, disability organizations that have conducted work on the report topic and people with disabilities who have experienced the barriers in question. Interviews with key stakeholders will be held. With this information, an analysis will be provided whereby it is apparent at what point it becomes more advantageous for an individual to pursue competitive employment beyond the benefits provided by the states.
 
@@ -85,9 +87,9 @@ A revised framing paper incorporating input from NCD Council members and staff.
 
 A first draft report incorporating initial findings, conclusions, and recommendations that can be drawn from the examination.
 
-A final report of no more than 80 pages (not including endnotes or appendices) incorporating input from NCD Council members and staff. Final reports must contain an executive summary with key findings and key recommendations; and specific sections on methodology; all findings; and all recommendations, organized according to the entity to which they are directed. 
+A final report of no more than 80 pages (not including endnotes or appendices) incorporating input from NCD Council members and staff. Final reports must contain an executive summary with key findings and key recommendations; and specific sections on methodology; all findings; and all recommendations, organized according to the entity to which they are directed.
 
-A brief “Report Highlights” document for each report that succinctly and in plain language encapsulates the report’s scope and purpose, major findings, and recommendations, and contains a link to the full report at the bottom. For an example of a Reports Highlights Page, refer to: <https://ncd.gov/publications/2013/10242013>.  
+A brief “Report Highlights” document for each report that succinctly and in plain language encapsulates the report’s scope and purpose, major findings, and recommendations, and contains a link to the full report at the bottom. For an example of a Reports Highlights Page, refer to: <https://ncd.gov/publications/2013/10242013>.
 
 **Requirements**
 
@@ -227,11 +229,11 @@ The awardee will present on its work before NCD at a quarterly Council meeting a
 
 **Business Proposal**
 
-The business proposal shall contain a detailed budget for the project and the certifications and representations required by OMB Circular A-110. 
+The business proposal shall contain a detailed budget for the project and the certifications and representations required by OMB Circular A-110.
 
 Note:  For each type of entity, there is a set of Federal principles for determining allowable costs. Allowable costs shall be determined in accordance with the cost principles applicable to the entity incurring the costs. Thus, allowable costs incurred by State, local or federally-recognized Indian tribal governments is determined in accordance with the provisions of OMB Circular A–87, “Cost Principles for State and Local Governments.” The allowable of costs incurred by non-profit organizations is determined in accordance with the provisions of OMB Circular A–122, “Cost Principles for Non-Profit Organizations.”
 
- 
+
 
 The allowable costs incurred by institutions of higher education is determined in accordance with the provisions of OMB Circular A–21, “Cost Principles for Educational Institutions.” The allowable costs incurred by hospitals is determined in accordance with the provisions of appendix E of 45 CFR part 74, “Principles for Determining Costs Applicable to Research and Development under Grants and Contracts with Hospitals.” The allowable costs incurred by commercial organizations and those non-profit organizations listed in Attachment C to Circular A–122 is determined in accordance with the provisions of the Federal Acquisition Regulation (FAR) at 48 CFR part 31.
 
@@ -261,7 +263,7 @@ The proposal describes to which the overall experience and past performance of t
 
 **Project Start Date**
 
-The expected projected start of the cooperative agreement is December 1, 2022. The projected end date is June 30, 2023. Extension cannot be provided due to statutory limitations.  
+The expected projected start of the cooperative agreement is December 1, 2022. The projected end date is June 30, 2023. Extension cannot be provided due to statutory limitations.
 
 **Citations & Style Guide for NCD Reports**
 
@@ -277,7 +279,7 @@ Reviews of proposals submitted to NCD are solicited from peers with expertise in
 
 **Notice of Award**
 
-NCD will notify the offeror by telephone and e-mail. This will begin negotiations for a cooperative agreement. The notification is not authorization to begin performance. Organizations or individuals whose proposals are declined will be advised as promptly as possible. A summary of the strengths and weaknesses identified by reviewers, of each declined proposal, not including identifying names or information about proposal reviewers, will be made available upon request. 
+NCD will notify the offeror by telephone and e-mail. This will begin negotiations for a cooperative agreement. The notification is not authorization to begin performance. Organizations or individuals whose proposals are declined will be advised as promptly as possible. A summary of the strengths and weaknesses identified by reviewers, of each declined proposal, not including identifying names or information about proposal reviewers, will be made available upon request.
 
 **About the National Council on Disability**
 

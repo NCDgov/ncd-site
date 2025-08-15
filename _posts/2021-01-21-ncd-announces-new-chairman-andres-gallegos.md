@@ -6,12 +6,14 @@ excerpt: WASHINGTON--The National Council on Disability (NCD) – an independent
   nonpartisan federal agency that advises the President, Congress and other
   federal agencies on disability policy – announces Andrés J. Gallegos, of
   Chicago, Illinois, as its new Chairman.
-tag: Newsletter
+tags:
+  - Newsletter
 policy_areas:
   - ""
 image_alt_text: NA
 ---
-**FOR IMMEDIATE RELEASE**                                               
+
+**FOR IMMEDIATE RELEASE**
 
 **WASHINGTON--**
 
@@ -40,9 +42,5 @@ Andrés J. Gallegos, Esq. is the Chairman of the National Council on Disability.
 **About the National Council on Disability:**
 
 First established as an advisory Council within the Department of Education in 1978, NCD became an independent federal agency in 1984. In 1986, NCD recommended enactment of an Americans with Disabilities Act (ADA), and drafted the first version of the bill which was introduced in the House and Senate in 1988. Since enactment of the ADA in 1990, NCD has continued to play a leading role in crafting disability policy, and advising the President, Congress and other federal agencies on disability policies, programs, and practices.
-
-
-
-
 
 \###

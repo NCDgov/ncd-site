@@ -3,10 +3,12 @@ layout: post
 title: Statement of NCD on the 22nd Anniversary of the Americans with Disabilities Act
 collection_name: newsroom
 date: 2012-07-26
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
 ---
+
 July 26, 2012
 
 **W﻿ASHINGTON--**Today, the National Council on Disability (NCD) joins the rest of America in celebrating the 22nd anniversary of the signing of the Americans with Disabilities Act (ADA) into law. As we do, we also celebrate NCD’s own history as the federal agency that proposed the landmark legislation.\

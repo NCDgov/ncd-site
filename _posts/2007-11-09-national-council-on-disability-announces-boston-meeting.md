@@ -3,8 +3,10 @@ layout: post
 title: National Council on Disability Announces Boston Meeting
 collection_name: newsroom
 date: 2007-11-09
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 N﻿ov. 9, 2007
 
 **WASHINGTON—**The National Council on Disability (NCD) today invited the Boston disability community to participate in NCD's next quarterly board meeting, which will take place at the Hyatt Regency Boston, One Avenue de LaFayette, Boston, Massachusetts, on Thursday, November 29, 2007, from 8:30 a.m. until 5:00 p.m.; Friday, November 30 from 8:30 a.m. until 3:45 p.m.; and Saturday, December 1 from 8:15 a.m. until 11:15 a.m.

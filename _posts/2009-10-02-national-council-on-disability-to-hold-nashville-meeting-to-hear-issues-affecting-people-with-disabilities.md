@@ -4,8 +4,10 @@ title: National Council on Disability to Hold Nashville Meeting to Hear Issues
   Affecting People with Disabilities
 collection_name: newsroom
 date: 2009-10-02
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 O﻿ct. 2, 2009
 
 **WASHINGTON—**The National Council on Disability (NCD) will conduct its next quarterly meeting at the Holiday Inn Express, 920 Broadway, Nashville, TN, beginning at 8:30 a.m. on Monday, October 26, 2009, and ending at 11:00 a.m. on Wednesday, October 28, 2009. This meeting is open to the public.

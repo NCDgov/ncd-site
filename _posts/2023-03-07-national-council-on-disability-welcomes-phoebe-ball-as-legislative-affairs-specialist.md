@@ -4,8 +4,10 @@ title: National Council on Disability Welcomes Phoebe Ball as Legislative
   Affairs Specialist
 collection_name: newsroom
 date: 2014-06-16
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 June 16, 2014
 
 **Washington, DC ––** The National Council on Disability (NCD), an independent federal agency that advises the President, Congress, and other federal officials and entities on policies and programs affecting Americans with disabilities has added Phoebe Ball to its team as their Legislative Affairs Specialist.

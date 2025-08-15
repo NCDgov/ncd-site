@@ -4,10 +4,12 @@ title: National Council on Disability Stement Regarding the Forced Drugging of a
   Texas Inmate with a Psychiatric Disability
 collection_name: newsroom
 date: 2006-05-02
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
 ---
+
 NCD #06-509\
 May 2, 2006 \
 **W﻿ASHINGTON--**National Council on Disability Statement Regarding the Forced Drugging of a Texas Inmate with a Psychiatric Disability

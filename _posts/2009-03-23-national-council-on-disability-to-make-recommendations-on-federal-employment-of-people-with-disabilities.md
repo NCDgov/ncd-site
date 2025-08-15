@@ -4,8 +4,10 @@ title: National Council on Disability to Make Recommendations on Federal
   Employment of People with Disabilities
 collection_name: newsroom
 date: 2009-03-23
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 M﻿arch 23, 2009
 
 **WASHINGTON—**The National Council on Disability (NCD) will conduct a news conference to highlight the release of a policy paper examining the status of employment of people with disabilities in the Federal Government and making recommendations for improving federal hiring and advancement of employees with disabilities. The event will take place at 10:15 until 11:00 a.m. on Tuesday, March 31, 2009, at the Academy for Educational Development (AED), 1825 Connecticut Avenue, NW, 8th Floor Conference Center, Washington, DC.

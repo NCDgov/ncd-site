@@ -3,8 +3,10 @@ layout: post
 title: NCD and Christopher & Dana Reeve Foundation Release New Parenting with a
   Disability Toolkit
 date: 2016-05-05
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **Press Release**
 
 May 5, 2016
@@ -31,9 +33,9 @@ Several of the report’s recommendations were adopted in August 2015, when the 
 
 The event will include:
 
-* The release of the new toolkit (including a plain language version) for disabled parents, advocates, and allies;
-* Panels on various topics including the perspectives of parents with disabilities, insights from experts in the child welfare field;
-* A strategy session on how to implement the report’s recommendations; and
-* The re-release of the 2012 report with an easier to read layout, enhanced graphics, and photographs.
+- The release of the new toolkit (including a plain language version) for disabled parents, advocates, and allies;
+- Panels on various topics including the perspectives of parents with disabilities, insights from experts in the child welfare field;
+- A strategy session on how to implement the report’s recommendations; and
+- The re-release of the 2012 report with an easier to read layout, enhanced graphics, and photographs.
 
 To download the “Parents with Disabilities Know Your Rights Toolkit” and the new enhanced edition of “Rocking the Cradle: Ensuring the Rights of Parents with Disabilities and Their Children” go to: <http://www.ncd.gov/publications/2012/Sep272012>

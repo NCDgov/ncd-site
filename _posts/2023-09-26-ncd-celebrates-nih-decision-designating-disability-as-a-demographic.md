@@ -3,12 +3,14 @@ layout: post
 title: NCD celebrates NIH decision designating disability as a demographic
 collection_name: newsroom
 date: 2023-09-26
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Health Care
   - Civil Rights
 ---
-**FOR IMMEDIATE RELEASE**                                               
+
+**FOR IMMEDIATE RELEASE**
 
 September 26, 2023
 

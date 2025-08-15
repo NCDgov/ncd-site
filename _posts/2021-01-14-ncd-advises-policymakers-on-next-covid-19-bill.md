@@ -2,12 +2,14 @@
 layout: post
 title: NCD advises policymakers on next COVID-19 bill
 date: 2021-01-14
-tag: Newsletter
+tags:
+  - Newsletter
 policy_areas:
   - Financial Assistance & Incentives
   - Health Care
 image_alt_text: NA
 ---
+
 <!--StartFragment-->
 
 **WASHINGTON—**The National Council on Disability (NCD) has advised the incoming president and vice president, and current congressional leaders on needed COVID-19 relief legislation.
@@ -25,4 +27,5 @@ NCD is an independent, nonpartisan federal agency with authority to advise the P
 Read the letter at [NCD.gov.](https://ncd.gov/publications/2021/ncd-letter-policymakers-next-covid-19-bill)
 
 \
+
 <!--EndFragment-->

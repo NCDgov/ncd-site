@@ -3,11 +3,13 @@ layout: post
 title: NCD Statement on the Birch Vocational School in Providence, RI
 collection_name: newsroom
 date: 2013-07-13
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Education
   - Civil Rights
 ---
+
 July 13, 2013
 
 **W﻿ASHINGTON--**News reports sparked by a U.S. Department of Justice investigation found that disabled students at the Birch Vocational School in Providence, RI were forced to perform manual labor - including bagging and labeling items for unnamed local companies - for wages between $.50 and $2 per hour. The students were given few, if any, opportunities to learn how to integrate into the workforce as they transitioned into adulthood.

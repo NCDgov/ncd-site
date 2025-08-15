@@ -3,8 +3,10 @@ layout: post
 title: National Council on Disability to Release Disability Indicators Report
 collection_name: newsroom
 date: 2008-04-08
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 A﻿pril 8, 2008
 
 **WASHINGTON—**The National Council on Disability (NCD) will release *Keeping Track: National Disability Status and Performance Indicators* at the Westin Arlington Gateway, 801 North Glebe Road, Arlington, VA, on Monday, April 21 at 1:00 p.m. This event is open to the public.

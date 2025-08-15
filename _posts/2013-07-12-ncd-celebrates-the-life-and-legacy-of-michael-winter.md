@@ -3,8 +3,10 @@ layout: post
 title: NCD Celebrates the Life and Legacy of Michael Winter
 collection_name: newsroom
 date: 2013-07-12
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 July 12, 2013
 
 Michael Winter, a long-time disability advocate and employee of the U.S. Department of Transportation passed away suddenly the evening of July 11.  NCD members and staff are saddened by his passing.

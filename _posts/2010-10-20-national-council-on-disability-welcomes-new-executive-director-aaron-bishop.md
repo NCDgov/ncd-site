@@ -3,8 +3,10 @@ layout: post
 title: National Council on Disability Welcomes New Executive Director Aaron Bishop
 collection_name: newsroom
 date: 2010-10-20
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 Oct. 20, 2010
 
 **WASHINGTON—**[National Council on Disability (NCD)](https://ncd.gov/) Chairman Jonathan Young, announced today that Aaron Bishop of Washington, DC, will become NCD's new Executive Director on November 15. NCD is an independent federal agency charged with advising the President, Congress, and other federal officials and entities on all policies, programs, practices and procedures affecting people with disabilities. NCD's mission is to further the goals enshrined in the Americans with Disabilities Act of 1990: equality of opportunity, full participation, independent living and economic self-sufficiency for all people with disabilities.

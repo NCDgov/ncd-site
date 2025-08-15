@@ -4,8 +4,10 @@ title: President Obama Appoints Three New Members and One Returning Member to
   the National Council on Disability
 collection_name: newsroom
 date: 2014-05-01
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 M﻿ay 1, 2014
 
 **WASHINGTON, DC —** The National Council on Disability (NCD) – an independent federal agency that recommends disability policy to the Administration, Congress and other federal agencies – welcomed President Barack Obama’s announcement that three new members have been appointed to the agency. In addition, Councilmember Janice Lehrer-Stein was reappointed for a second term. New members are expected to begin work with NCD immediately.
@@ -34,4 +36,4 @@ Dr. Katherine D. Seelman is Associate Dean and Professor of Rehabilitation Scien
 
 Royal P. Walker, Jr. is currently Executive Director of the Institute for Disability Studies at The University of Southern Mississippi, a position he has held since 2008.  He first joined the Institute for Disability Studies as Associate Director and Instructor in 1992.  Additionally, Mr. Walker is a consultant at Royal Walker, Jr., J.D. & Associates, Inc., a strategic planning and training firm he founded in 1992.  He was Executive Director of the Gaming Commission of the Mississippi State Tax Commission from 1991 to 1992, and Director of the Division of Budget and Policy Development at the Mississippi Department of Finance and Administration from 1990 to 1991.  Mr. Walker is a past president of the Association of University Centers on Disabilities.  He has served on the board of directors of the American Task Force for the Homeless, the Governor’s Interagency Coordinating Council for Children with Special Needs, the Mississippi Council on Developmental Disabilities, and the Mississippi March of Dimes.  Mr. Walker received a B.A. from Jackson State University and a J.D. from Texas Southern University.
 
-***About the National Council on Disability (NCD):** NCD is an independent federal agency of 15 Presidentially-appointed Council Members and full-time professional staff, who advise the President, Congress and other federal agencies on disability policy, programs, and practices. Members are appointed by the President, from diverse backgrounds across the nation, and the disability spectrum.*
+**\*About the National Council on Disability (NCD):** NCD is an independent federal agency of 15 Presidentially-appointed Council Members and full-time professional staff, who advise the President, Congress and other federal agencies on disability policy, programs, and practices. Members are appointed by the President, from diverse backgrounds across the nation, and the disability spectrum.\*

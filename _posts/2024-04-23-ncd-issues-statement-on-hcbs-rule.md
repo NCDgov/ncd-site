@@ -3,12 +3,14 @@ layout: post
 title: NCD issues statement on HCBS rule
 collection_name: newsroom
 date: 2024-04-23
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Long Term Services & Support
   - Health Care
 ---
-**F﻿OR IMMEDIATE RELEASE** 
+
+**F﻿OR IMMEDIATE RELEASE**
 
 April 23, 2024
 

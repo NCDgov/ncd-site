@@ -4,15 +4,17 @@ title: NCD Applauds Increased Availability of Accessible Prescription Drug Label
   Information
 collection_name: newsroom
 date: 2014-03-20
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Health Care
 ---
+
 March 20, 2014
 
 **Washington, DC –** The National Council on Disability (NCD), an independent federal agency that advises the President, Congress and other federal agencies on disability policy, welcomes the settlement agreement announced March 18 between CVS/pharmacy and the American Council of the Blind, the California Council of the Blind and the American Foundation for the Blind that will make ‘ScripTalk’ talking prescription labels available to online and mail order customers across the United States. CVS customers who are blind or visually impaired may obtain a free device to read the labels.
 
-“Accessible prescription labels equal independence,” said NCD’s Janice Lehrer-Stein. “We applaud this agreement and look forward to the day when full inclusion and accessibility with the medications we take becomes the new standard. The commitment to accessible label information by CVS is an important and necessary step forward toward ensuring safety for millions of prescription drug users including seniors and persons with vision-related disabilities.”   
+“Accessible prescription labels equal independence,” said NCD’s Janice Lehrer-Stein. “We applaud this agreement and look forward to the day when full inclusion and accessibility with the medications we take becomes the new standard. The commitment to accessible label information by CVS is an important and necessary step forward toward ensuring safety for millions of prescription drug users including seniors and persons with vision-related disabilities.”
 
 “No one should have to risk injury or worse when taking prescription medications,” said NCD Chair Jeff Rosen. “As the agreement between CVS, the American Council of the Blind, the California Council of the Blind and the American Foundation for the Blind illustrates, the technology to make talking prescription labels accessible to customers with disabilities is increasingly available and should become the standard used by all pharmacy vendors.”
 

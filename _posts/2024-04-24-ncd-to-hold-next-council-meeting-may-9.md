@@ -3,8 +3,10 @@ layout: post
 title: NCD to hold next Council Meeting May 9
 collection_name: newsroom
 date: 2024-04-24
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **For Immediate Release**
 
 A﻿pril 24, 2024

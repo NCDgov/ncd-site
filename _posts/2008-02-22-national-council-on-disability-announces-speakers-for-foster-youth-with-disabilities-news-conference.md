@@ -4,10 +4,12 @@ title: National Council on Disability Announces Speakers for Foster Youth with
   Disabilities News Conference
 collection_name: newsroom
 date: 2008-02-22
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Youth Perspectives
 ---
+
 F﻿eb. 22, 2008
 
 **WASHINGTON—**The National Council on Disability (NCD) will release its latest report titled, *Youth with Disabilities in the Foster Care System: Barriers to Success and Proposed Policy Solutions*, at a news conference at 1:00 p.m. February 26, 2008, at the U.S. Department of Health and Human Services, 200 Independence Avenue, SW, Room 705A, Washington, DC. This free event is open to the public and the media.

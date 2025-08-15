@@ -5,10 +5,12 @@ title: National Council on Disability Says More Needs to be Done for Service
   Injury
 collection_name: newsroom
 date: 2009-03-04
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Health Care
 ---
+
 M﻿arch 4, 2009
 
 **WASHINGTON—**The National Council on Disability (NCD) today released a report recommending changes in the continuum of health care provided to service members and veterans with Post Traumatic Stress Disorder (PTSD) and Traumatic Brain Injury (TBI).

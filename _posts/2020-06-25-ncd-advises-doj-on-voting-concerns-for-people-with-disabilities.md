@@ -2,10 +2,12 @@
 layout: post
 title: NCD advises DOJ on voting concerns for people with disabilities
 date: 2020-06-25
-tag: null
+tags:
+  - null
 policy_areas:
   - Civil Rights
 ---
+
 June 25, 2020
 
 **WASHINGTON—**The National Council on Disability has sent a letter to the Department of Justice over voting concerns for people with disabilities.

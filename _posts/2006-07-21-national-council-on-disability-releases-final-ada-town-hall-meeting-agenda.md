@@ -3,10 +3,12 @@ layout: post
 title: National Council on Disability Releases Final ADA Town Hall Meeting Agenda
 collection_name: newsroom
 date: 2006-07-21
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 NCD #06-515\
-July 21, 2006 
+July 21, 2006
 
 **WASHINGTON—**The National Council on Disability (NCD) and its federal partners today completed their plans for the upcoming Americans with Disabilities Act (ADA) Town Hall Meeting.
 

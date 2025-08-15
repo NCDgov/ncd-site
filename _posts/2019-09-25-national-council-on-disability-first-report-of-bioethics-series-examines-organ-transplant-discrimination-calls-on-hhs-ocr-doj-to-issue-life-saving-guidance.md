@@ -4,11 +4,13 @@ title: National Council on Disability First Report of Bioethics Series Examines
   Organ Transplant Discrimination, Calls on HHS OCR, DOJ to Issue Life-Saving
   Guidance
 date: 2019-09-25
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Health Care
   - Civil Rights
 ---
+
 **WASHINGTON –** Today, the National Council on Disability (NCD) released the first of five reports in a bioethics and disability series and calls on the U.S. Department of Health and Human Services Office for Civil Rights and the U.S. Department of Justice to issue critical federal guidance on organ transplant discrimination.
 
 This first report titled, *[Organ Transplant Discrimination Against People with Disabilities](https://ncd.gov/publications/2019/bioethics-report-series),* provides an overview of the ways people with disabilities are discriminated against in the organ transplant and procurement processes; an analysis of the protections provided; and the reasons underlying continued discrimination.
@@ -21,22 +23,23 @@ Although federal and state laws ban organ transplant discrimination, people with
 
 **Key findings from the report include:**
 
-* If a person has a disability that is unrelated to the reason a person needs an organ transplant, the disability will generally have little or no impact on the likelihood of the transplant being successful. If a person with a disability receives adequate support, the person’s disability should also have very limited impact on the ability to adhere to a post-transplant care regimen.
-* Disability-related policies vary greatly across organ transplant centers and across categories of disability. Many centers may have a current or past policy that treats HIV or AIDS, psychiatric disabilities, or intellectual and developmental disabilities (I/DD) as relative or absolute contraindications to transplant.
-* The Americans with Disabilities Act and Section 504 of the Rehabilitation Act prohibit organ transplant centers from discriminating on the basis of disability.
-* Nine states have laws banning organ transplant discrimination.
-* The federally-run system overseen by HHS is called the Organ Procurement and Transplantation Network (OPTN), and it is run by the United Network for Organ Sharing (UNOS) as the sole contractor. UNOS/OPTN has proposed organ procurement policies that pose serious risk to people with disabilities. Existing policies and practices fail to protect people with disabilities from being pressured to donate organs, and some recent OPTN proposals would weaken the few protections that currently exist.
+- If a person has a disability that is unrelated to the reason a person needs an organ transplant, the disability will generally have little or no impact on the likelihood of the transplant being successful. If a person with a disability receives adequate support, the person’s disability should also have very limited impact on the ability to adhere to a post-transplant care regimen.
+- Disability-related policies vary greatly across organ transplant centers and across categories of disability. Many centers may have a current or past policy that treats HIV or AIDS, psychiatric disabilities, or intellectual and developmental disabilities (I/DD) as relative or absolute contraindications to transplant.
+- The Americans with Disabilities Act and Section 504 of the Rehabilitation Act prohibit organ transplant centers from discriminating on the basis of disability.
+- Nine states have laws banning organ transplant discrimination.
+- The federally-run system overseen by HHS is called the Organ Procurement and Transplantation Network (OPTN), and it is run by the United Network for Organ Sharing (UNOS) as the sole contractor. UNOS/OPTN has proposed organ procurement policies that pose serious risk to people with disabilities. Existing policies and practices fail to protect people with disabilities from being pressured to donate organs, and some recent OPTN proposals would weaken the few protections that currently exist.
 
 **Key recommendations from the report include:**
 
-* The Department of Justice (DOJ), in conjunction with the Department of Health and Human Services (HHS), should release guidance and provide technical assistance clarifying that Titles II and III of the Americans with Disabilities Act (ADA) and Section 504 of the Rehabilitation Act of 1973 apply to organ transplant centers and hospitals. This guidance and technical assistance should:
+- The Department of Justice (DOJ), in conjunction with the Department of Health and Human Services (HHS), should release guidance and provide technical assistance clarifying that Titles II and III of the Americans with Disabilities Act (ADA) and Section 504 of the Rehabilitation Act of 1973 apply to organ transplant centers and hospitals. This guidance and technical assistance should:
 
-  * Detail the obligations of organ transplant centers and hospitals to avoid discriminating on the basis of disability in the organ transplant process and advise organ transplant centers how to ensure their evaluation of candidates complies with federal law.
-  * Emphasize that UNOS/OPTN should ensure that its policies are consistently applied in a manner that avoids discrimination.
-  * Explicitly state that making assumptions regarding the post-transplant quality of life for people with disabilities violates federal law.
-  * Make clear that the ADA and Section 504 apply throughout the organ transplant process, including informal eligibility determinations, such that disability should only be taken into account to the extent that it can be clearly shown to be likely to impair successful transplantation.
-  * Encourage priority review of any cases brought challenging discrimination on the basis of disability in the organ transplant context in acknowledgment of the time-sensitive nature of a transplant denial.
-* UNOS/OPTN should ensure that individuals and families are able to make informed decisions about the withdrawal of life-sustaining treatment prior to and independent from any contacts from organ procurement organizations.
+  - Detail the obligations of organ transplant centers and hospitals to avoid discriminating on the basis of disability in the organ transplant process and advise organ transplant centers how to ensure their evaluation of candidates complies with federal law.
+  - Emphasize that UNOS/OPTN should ensure that its policies are consistently applied in a manner that avoids discrimination.
+  - Explicitly state that making assumptions regarding the post-transplant quality of life for people with disabilities violates federal law.
+  - Make clear that the ADA and Section 504 apply throughout the organ transplant process, including informal eligibility determinations, such that disability should only be taken into account to the extent that it can be clearly shown to be likely to impair successful transplantation.
+  - Encourage priority review of any cases brought challenging discrimination on the basis of disability in the organ transplant context in acknowledgment of the time-sensitive nature of a transplant denial.
+
+- UNOS/OPTN should ensure that individuals and families are able to make informed decisions about the withdrawal of life-sustaining treatment prior to and independent from any contacts from organ procurement organizations.
 
 **About NCD’s Bioethics and Disability Series**
 

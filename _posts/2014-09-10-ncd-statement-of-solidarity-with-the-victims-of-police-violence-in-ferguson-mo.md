@@ -3,10 +3,12 @@ layout: post
 title: NCD Statement of Solidarity with the Victims of Police Violence in Ferguson, MO
 collection_name: newsroom
 date: 2014-09-10
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
 ---
+
 S﻿ept. 10, 2014
 
 On August 9, 2014, Michael Brown, an unarmed African American teen, was shot and killed by a police officer. The disproportionate and militarized response by law enforcement in response to non-violent protests and peaceful assembly by residents of Ferguson gained attention from around the world including alarm from the United Nations. That same month, Kajime Powell and Ezell Ford, both unarmed African American men were fatally shot by police, raising additional concerns about the ways police officers respond to individuals with disabilities—particularly African American men with disabilities.
@@ -25,18 +27,18 @@ Our communities rely on law enforcement to address situations of varying complex
 
 As a starting point, NCD’s Executive Director Rebecca Cokley offered these recommendations to the Senate Judiciary Committee on Law Enforcement Responses to People with Disabilities in [written testimony](https://www.ncd.gov/newsroom/Testimony/04292014) last April:
 
-* All law enforcement, criminal justice, and correctional personnel, including prison guards and probation officers, as well as people working in victim assistance programs, should submit to mandatory training that sensitizes these public servants to recognize certain disabilities; creates awareness of the unique needs of certain groups of people with disabilities; and informs about specific requirements of the Americans with Disabilities Act (ADA) and other laws that protect the civil and human rights of people with disabilities.
-* People with a variety of disabilities and community organizations representing them should be included in the development and facilitation of such trainings as well as in all policy and program development at the local, state, and federal levels.
-* People with disabilities, particularly those with psychiatric disabilities or ID/DD should also receive training to learn about their rights when in situations involving law enforcement, and Congress should increase funding for such peer-managed support and training programs.
-* Congress should allocate funds toward a spectrum of community-based mental health strategies across the lifespan, including peer-to-peer supports, which are being added to clinical services across the country.
-* The [Substance Abuse and Mental Health Services Administration (SAMHSA)](http://www.samhsa.gov/) should invest in and award “system of care” expansion grants to improve the availability, quality, and affordability of community mental health services, mobile crisis services, housing, and peer supports for people with serious psychiatric disabilities, and to extend mental health preventative and maintenance care access and options for the general population.
-* Policymakers should look for ways to include the views of people with disabilities, particularly those with psychiatric and ID/DD, and their advocates when crafting new laws and regulations. Excluding their insights and viewpoints will likely perpetuate flaws or oversights in policies of the past.
+- All law enforcement, criminal justice, and correctional personnel, including prison guards and probation officers, as well as people working in victim assistance programs, should submit to mandatory training that sensitizes these public servants to recognize certain disabilities; creates awareness of the unique needs of certain groups of people with disabilities; and informs about specific requirements of the Americans with Disabilities Act (ADA) and other laws that protect the civil and human rights of people with disabilities.
+- People with a variety of disabilities and community organizations representing them should be included in the development and facilitation of such trainings as well as in all policy and program development at the local, state, and federal levels.
+- People with disabilities, particularly those with psychiatric disabilities or ID/DD should also receive training to learn about their rights when in situations involving law enforcement, and Congress should increase funding for such peer-managed support and training programs.
+- Congress should allocate funds toward a spectrum of community-based mental health strategies across the lifespan, including peer-to-peer supports, which are being added to clinical services across the country.
+- The [Substance Abuse and Mental Health Services Administration (SAMHSA)](http://www.samhsa.gov/) should invest in and award “system of care” expansion grants to improve the availability, quality, and affordability of community mental health services, mobile crisis services, housing, and peer supports for people with serious psychiatric disabilities, and to extend mental health preventative and maintenance care access and options for the general population.
+- Policymakers should look for ways to include the views of people with disabilities, particularly those with psychiatric and ID/DD, and their advocates when crafting new laws and regulations. Excluding their insights and viewpoints will likely perpetuate flaws or oversights in policies of the past.
 
 It is inadvisable, if not impossible, to equate or compare the kinds of experiences that one community might have with police brutality with that of another. Still, in an increasingly interconnected world, any action that harms one community ultimately hurts us all. To paraphrase Rinku Sen, all people of color are ‘not in the same boat,’ and neither are all people with disabilities.
 
 Justice for everyone is a fundamental commitment of NCD’s. We believe that demonstrable progress will come as a result of improved cultural competence through law enforcement trainings; greater investment in a spectrum of mental health; and involvement of and relationships with the disability community by law enforcement.
 
-NCD stands ready to be of additional service to anyone working for the common good who shares the goals of equal participation, protection and due process for all. 
+NCD stands ready to be of additional service to anyone working for the common good who shares the goals of equal participation, protection and due process for all.
 
 \#BlackLivesMatter\
 #DisabledLivesMatter\

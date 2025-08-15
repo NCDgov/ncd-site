@@ -4,14 +4,16 @@ title: NCD announces new Executive Director Anne Sommers McIntosh
 date: 2021-02-01
 excerpt: "WASHINGTON--The National Council on Disability (NCD) announces Anne C.
   Sommers McIntosh, as its new executive director. "
-tag: Newsletter
+tags:
+  - Newsletter
 policy_areas:
   - ""
 image_alt_text: NA
 ---
-**FOR IMMEDIATE RELEASE**                                              
 
-**WASHINGTON--**The National Council on Disability (NCD) announces Anne C. Sommers McIntosh, as its new executive director. 
+**FOR IMMEDIATE RELEASE**
+
+**WASHINGTON--**The National Council on Disability (NCD) announces Anne C. Sommers McIntosh, as its new executive director.
 
 The designation of Mrs. McIntosh was made official by NCD Chairman Andrés J. Gallegos, Esq., who was designated as Chairman by President Biden on Jan. 20, 2021.
 
@@ -30,9 +32,5 @@ Mrs. McIntosh has been with NCD since 2008, the last 10 as the Director of Legis
 **About the National Council on Disability:**
 
 First established as an advisory Council within the Department of Education in 1978, NCD became an independent federal agency in 1984. In 1986, NCD recommended enactment of an Americans with Disabilities Act (ADA), and drafted the first version of the bill which was introduced in the House and Senate in 1988. Since enactment of the ADA in 1990, NCD has continued to play a leading role in crafting disability policy, and advising the President, Congress and other federal agencies on disability policies, programs, and practices.
-
-
-
-
 
 \###

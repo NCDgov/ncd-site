@@ -3,8 +3,10 @@ layout: post
 title: NCD announces next Council meeting June 27
 collection_name: newsroom
 date: 2024-06-17
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **For Immediate Release**
 
 June 17, 2024
@@ -13,7 +15,7 @@ June 17, 2024
 
 To register for the Zoom webinar, please use the following URL:
 
-[https://events.zoomgov.com/ev/AjDobcDV_mghX7L5f6sWlxUKD\_MJzSAnGh7A-lTuPauDUOd2E5XX~AvJyfkIR6R1x3lgp4sOiST1A5xJPGT-vG8sAh1wmhft2TgV6\_-VtysUgUQ](https://events.zoomgov.com/ev/AjDobcDV_mghX7L5f6sWlxUKD_MJzSAnGh7A-lTuPauDUOd2E5XX~AvJyfkIR6R1x3lgp4sOiST1A5xJPGT-vG8sAh1wmhft2TgV6_-VtysUgUQ).
+[https://events.zoomgov.com/ev/AjDobcDV_mghX7L5f6sWlxUKD_MJzSAnGh7A-lTuPauDUOd2E5XX~AvJyfkIR6R1x3lgp4sOiST1A5xJPGT-vG8sAh1wmhft2TgV6\_-VtysUgUQ](https://events.zoomgov.com/ev/AjDobcDV_mghX7L5f6sWlxUKD_MJzSAnGh7A-lTuPauDUOd2E5XX~AvJyfkIR6R1x3lgp4sOiST1A5xJPGT-vG8sAh1wmhft2TgV6_-VtysUgUQ).
 
 Full information on the event can also be found on our [event page](https://www.ncd.gov/meeting/2024-06-27-june-27-2024-council-meeting/).
 

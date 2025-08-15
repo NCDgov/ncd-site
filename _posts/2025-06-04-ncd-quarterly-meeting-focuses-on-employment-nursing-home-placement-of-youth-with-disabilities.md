@@ -4,12 +4,14 @@ title: NCD quarterly meeting focuses on employment, nursing home placement of
   youth with disabilities
 collection_name: newsroom
 date: 2025-06-04
-tag: Press Release
+tags:
+  - Press Release
 redirect_from: []
 ---
+
 **For Immediate Release**
 
-June 4, 2025                                      
+June 4, 2025
 
 **WASHINGTON –**The National Council on Disability (NCD) visited New York May 29-30 for its latest quarterly meeting.
 
@@ -35,7 +37,7 @@ Following Council member report outs about their community engagement, the meeti
 
 The second day was focused on business of the Council and included required annual training for Council members and staff on the Freedom of Information Act (FOIA); the Chairman’s report and Executive Committee reports; and an agency strategic plan discussion before adjourning.
 
-NCD is an independent federal agency advising policymakers, including the President, Congress and federal agencies on national disability policy. The Council meets quarterly. 
+NCD is an independent federal agency advising policymakers, including the President, Congress and federal agencies on national disability policy. The Council meets quarterly.
 
 The next meeting is scheduled for August 7-8 in Washington, D.C.
 
