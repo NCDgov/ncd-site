@@ -19,16 +19,14 @@ The event will also be streamed live via Zoom for Government videoconference for
 
 <https://www.zoomgov.com/j/1617304403?pwd=hZpdLaE66XxSTLV9sxOcmnaoaJ9fpc.1>
 
-Webinar ID 161 730 4403
-
+Webinar ID 161 730 4403\
 Passcode 609226
 
 **Day 2**
 
 <https://www.zoomgov.com/j/1605707325?pwd=JQrNsajPjlAGiSXioerNWFg72ZTMK4.1>
 
-Webinar ID 160 570 7325
-
+Webinar ID 160 570 7325\
 Passcode 609226
 
 **MATTERS TO BE CONSIDERED:**
