@@ -6,9 +6,10 @@ collection_name: reports
 date: August 4, 1997
 report_year: 1997
 policy_areas:
-  - Cultural Diversity
+#  - Cultural Diversity
 image_alt_text: NA
 ---
+
 NATIONAL COUNCIL ON DISABILITY OUTREACH TO MINORITIES WITH DISABILITIES AND PEOPLE WITH DISABILITIES IN RURAL COMMUNITIES
 
 ROUNDTABLE REPORT OF FINDINGS
@@ -18,7 +19,7 @@ Atlanta, Georgia
 
 NCD wishes to acknowledge the assistance of Bobbie J. Atkins, Ph.D., CRC, in facilitating the Round Table discussion in Atlanta and in preparing the first draft of this report.
 
-- - -
+---
 
 Extensive data point to demographic shifts occurring in America and projected for the year 2000 and beyond, including some emerging information about people with disabilities and ethnic/racial minority group members. Public policy must seek to effectively meet these demographic shifts and consequent refocusing of priorities.
 
@@ -206,17 +207,17 @@ ATTITUDES
 >
 > 57. Promote employer attitude enhancement that results in increased employment for people with disabilities who are minorities and people with disabilities living in rural areas.
 
-- - -
+---
 
 CONCLUSION
 
-Despite any differences of opinion regarding strategies and/or techniques, the vision and goal cannot be compromised:*Quality inclusive services and public policy that meets the needs of all people.*
+Despite any differences of opinion regarding strategies and/or techniques, the vision and goal cannot be compromised:_Quality inclusive services and public policy that meets the needs of all people._
 
 Since the adoption of the 1992 Amendments to the Rehabilitation Act and other federal laws mandating special efforts to ensure participation in federal programs by minorities with disabilities and people with disabilities living in rural communities, implementation strategies have been employed. Yet, the challenges inherent in the need for systems change continue to exist. The refocusing of federal disability-related legislation on diversity, empowerment, collaboration, employment, and choice continue to reflect more vision than reality. The insightful wisdom of Congress to target resources and mandates to "mobilize the resources of the nation to prepare minorities for careers in vocational rehabilitation, independent living, and related services," for example, provides a unique opportunity to craft the future. Moreover, there is a need for federal disability-related legislation to be extended to Indian Reservations. Following up on the findings and recommendations contained in this report, NCD will continue to promote federal policy that meets the needs of *all* people with disabilities.
 
 Nonetheless, the perplexities of diversity and disability are increased due to the primary and secondary effects of racism. The primary effect of racism is discrimination/exclusion which usually leads to inequalities in education, housing, employment, social, economic, and human services. The combination of the effects of racism or geographic isolation and disability results in a large percentage of minorities and rural residents with disabilities being unable to utilize public programs adequately or to attain their personal and economic potential.
 
-In the Executive Summary of the National Council on Disability's 1993 report to the President and the Congress--*[Meeting the Unique Needs of Minorities with Disabilities](https://ncd.gov/publications/1993/minority.htm)*, an important aspect of the challenge is articulated:
+In the Executive Summary of the National Council on Disability's 1993 report to the President and the Congress--_[Meeting the Unique Needs of Minorities with Disabilities](https://ncd.gov/publications/1993/minority.htm)_, an important aspect of the challenge is articulated:
 
 > Disability policy and disability politics are like other areas of domestic policy and politics in our nation-they are dominated by the culture, values, and biases of the majority middle class.... The United States consists of a diverse population and we must make a conscious effort to meet the needs of all our people (NCD, 1993, p.1)
 >
@@ -230,7 +231,7 @@ Disability leaders and the programs and people who serve people with disabilitie
 
 Through collaboration, empowerment, inclusion, and systems change, we can enhance the programs designed to serve people with disabilities to be more responsive, effective, and efficient for all Americans. Minorities with disabilities and people with disabilities living in rural communities are a critical link on the Bridge to the 21st Century.
 
-- - -
+---
 
 REFERENCES
 
@@ -244,6 +245,6 @@ Wright, T. J. (1988). Enhancing the professional preparation of rehabilitation c
 
 NCD (1993). *[Meeting the unique needs of minorities with disabilities](https://ncd.gov/publications/1993/minority.htm). A report to the President and the Congress.*Washington, DC.
 
-- - -
+---
 
-[1](<>) "Accessibility" or "accessible," as these terms are used in this report, refer to architectural, transportation, communication, technology, and environmental access, as well as non-disability related access issues like language, culture, and geography.
+[1]() "Accessibility" or "accessible," as these terms are used in this report, refer to architectural, transportation, communication, technology, and environmental access, as well as non-disability related access issues like language, culture, and geography.

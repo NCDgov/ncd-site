@@ -45,9 +45,9 @@ primary:
       - name: CRPD
         url: /policy-areas/crpd/
         icon: img/sprite.svg#language
-      - name: Cultural Diversity
-        url: /policy-areas/cultural-diversity/
-        icon: img/sprite.svg#people
+      # - name: Cultural Diversity
+      #   url: /policy-areas/cultural-diversity/
+      #   icon: img/sprite.svg#people
       - name: Education
         url: /policy-areas/education/
         icon: img/sprite.svg#school

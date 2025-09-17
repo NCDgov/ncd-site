@@ -4,12 +4,13 @@ title: Common Myths about Diversity and Cultural Competency
 collection_name: newsroom
 date: 2006-06-01
 policy_areas:
-  - Cultural Diversity
+#  - Cultural Diversity
 categories:
   - fact sheets
 document: documents/ncd-fact-sheet-diversity-cultural-competency.doc
 image_alt_text: NA
 ---
+
 J﻿une 1, 2006
 
 (Appreciation to NCD advisory committee members under the leadership of Darrell K. Simmons, JD, and John Armendariz, 2006-07 for these perspectives)
@@ -38,7 +39,7 @@ Awareness means knowledge of the existence of a thing, place, idea, etc. Awarene
 
 Culture is not defined exclusively by race and ethnicity. It includes a broad spectrum of identities. Regardless of the perceived diversity or lack of diversity in one's community, every person encounters people in on a daily basis with cultural experiences that differ from their own. Using a process to practice cultural competence routinely in every case can help a person ensure fair and equal treatment of every person who comes before them for assistance.
 
-**Myth #7:** Diversity equals preferential treatment for others, and doesn't do anything to benefit me or others in the majority.        
+**Myth #7:** Diversity equals preferential treatment for others, and doesn't do anything to benefit me or others in the majority.
 
 Diversity is the collective mixture of differences and similarities among **all** individuals in an organization. Diversity pertains to each and every one of us, and therefore, an effective program should be inclusive-enabling **everyone** to have an equal voice and an equal opportunity to utilize their talents. Organizations that are making great strides in creating work environments that support diversity, and are implementing innovative people practices that provide opportunities for everyone, including women and minority staff are also the very same organizations that are winning praise and recognition for innovative, employee-focused programs that are highly valued and beneficial to **all**.
 

@@ -6,19 +6,20 @@ collection_name: reports
 date: December 1, 1999
 report_year: 1999
 policy_areas:
-  - Cultural Diversity
+  #  - Cultural Diversity
   - International
 pdf_document: reports/1999/ncd-lift-every-voice-1998.pdf
 image_alt_text: NA
 misc_files_1: reports/1999/lift-every-voice-modernizing-disability-policies-and-programs-to-serve-a-diverse-nation/ncd-lift-every-voice-spanish-1998.pdf
 ---
+
 December 1, 1999
 
 This report is also available in Spanish, Chinese, braille, and large print, on diskette and audiocassette, and on the Internet at the National Council on Disability's award-winning Web page (http://www.ncd.gov).
 
 The views contained in this report do not necessarily represent those of the Administration, because this document has not been subjected to the A-19 Executive Branch review process.
 
-- - -
+---
 
 LETTER OF TRANSMITTAL
 
@@ -43,12 +44,12 @@ Chairperson
 
 (This same letter of transmittal was sent to the President Pro Tempore of the U.S. Senate and the Speaker of the U.S. House of Representatives.)
 
-- - -
+---
 
 LIFT EVERY VOICE AND SING"The Black National Anthem"\
 James Weldon Johnson, 1900
 
-*Lift ev'ry voice and sing,\
+_Lift ev'ry voice and sing,\
 Till earth and heaven ring.\
 Ring with the harmonies of Liberty;\
 Let our rejoicing rise,\
@@ -57,9 +58,9 @@ Let it resound loud as the rolling sea.\
 Sing a song full of the faith that the dark past has taught us,\
 Sing a song full of the hope that the present has brought us;\
 Facing the rising sun of our new day begun,\
-Let us march on till victory is won.*
+Let us march on till victory is won._
 
-*Stony the road we trod,\
+_Stony the road we trod,\
 Bitter the chast'ning rod,\
 Felt in the days when hope unborn had died;\
 Yet with a steady beat,\
@@ -69,9 +70,9 @@ We have come over a way that with tears has been watered,\
 We have come, treading our path through the blood of the slaughtered,\
 Out from the gloomy past,\
 Till now we stand at last\
-Where the white gleam of our bright star is cast.*
+Where the white gleam of our bright star is cast._
 
-*God of our weary years,\
+_God of our weary years,\
 God of our silent tears,\
 Thou who has brought us thus far on the way;\
 Thou who has by Thy might.\
@@ -82,11 +83,11 @@ Lest our hearts, drunk with the wine of the world, we forget Thee,\
 Shadowed beneath thy hand,\
 May we forever stand,\
 True to our God,\
-True to our native land.*
+True to our native land._
 
 James W. Johnson originally wrote this song for a presentation in celebration of the birthday of President Abraham Lincoln. It was adopted as the Black National Anthem in the early 1940s.
 
-- - -
+---
 
 **NATIONAL COUNCIL ON DISABILITY\
 MEMBERS AND STAFF**
@@ -120,7 +121,7 @@ Allan W. Holland, Accountant\
 Brenda Bratton, Executive Secretary\
 Stacey S. Brown, Staff Assistant
 
-- - -
+---
 
 ACKNOWLEDGMENTS
 
@@ -128,7 +129,7 @@ The National Council on Disability (NCD) wishes to express its appreciation to S
 
 NCD would also like to thank LaDonna Fowler of the American Indian Rehabilitation Rights Organization of Warriors, Mandan Kundu of the Rehabilitation Counseling Program at Southern University and A&M College, and Paul Leung of the Department of Rehabilitation Counseling at the University of North Texas for their assistance.
 
-- - -
+---
 
 CONTENTS
 
@@ -171,7 +172,7 @@ CONTENTS
 
 [Appendix](https://web.archive.org/web/20150323230116/https://ncd.gov/publications/1999/Dec11999#2)
 
-- - -
+---
 
 **EXECUTIVE SUMMARY**
 
@@ -197,13 +198,13 @@ To broaden the scope of the policy agenda contained in this and other reports th
 
 NCD looks forward to working with the broader disability and civil rights communities in the coming months and years to elevate the voices it heard in San Francisco, New Orleans, and Atlanta and thereby make the policy landscape more inclusive and responsive to the needs of this important population. The pages that follow include many important recommendations for improving service delivery for minorities with disabilities. However, NCD wishes to highlight one recommendation in particular that has potential to enhance the impact of current policies and programs.
 
-*NCD has learned from grassroots witnesses that the best way to empower minorities with disabilities and their families to take full advantage of federal laws, programs, and services is to provide them with easy-to-understand, culturally appropriate information about what their rights are under various federal laws (e.g., ADA, the Rehabilitation Act, IDEA, the Fair Housing Act) and how best to exercise those rights when a violation occurs.*
+_NCD has learned from grassroots witnesses that the best way to empower minorities with disabilities and their families to take full advantage of federal laws, programs, and services is to provide them with easy-to-understand, culturally appropriate information about what their rights are under various federal laws (e.g., ADA, the Rehabilitation Act, IDEA, the Fair Housing Act) and how best to exercise those rights when a violation occurs._
 
-*NCD recommends that an interagency team composed of representatives from the departments of Education, Labor, Health and Human Services, Justice, and Housing and Urban Development, along with the Equal Employment Opportunity Commission, Small Business Administration, and Federal Communications Commission, develop and implement a large-scale outreach and training program targeted to people with disabilities from diverse cultural backgrounds and their families that will provide such information directly to the target audiences through a series of forums, workshops, and seminars across the country. These trainings should be repeated on a regular basis so that new people are trained each year and materials routinely updated.*
+_NCD recommends that an interagency team composed of representatives from the departments of Education, Labor, Health and Human Services, Justice, and Housing and Urban Development, along with the Equal Employment Opportunity Commission, Small Business Administration, and Federal Communications Commission, develop and implement a large-scale outreach and training program targeted to people with disabilities from diverse cultural backgrounds and their families that will provide such information directly to the target audiences through a series of forums, workshops, and seminars across the country. These trainings should be repeated on a regular basis so that new people are trained each year and materials routinely updated._
 
-*This interagency team should work with disability communities, minority communities, other disability, minority, and religious organizations, and other interested organizations to develop a workplan, timetables, and appropriate consultation as it begins its work. In addition, NCD recommends that the interagency team recruit, train, and contract with a core group of people with disabilities from diverse cultural backgrounds and their family members to help develop the written materials and programs that will be used for the trainings, translate them into different languages with awareness of the cultural appropriateness of terminology, and conduct the trainings once the materials are produced. The federal partners should make efforts to include and accommodate often-overlooked groups among the people to be trained and include young adults with disabilities, people with disabilities living on Indian reservations and in other rural or isolated locations, people with mental disabilities, and people with limited English proficiency. Finally, NCD recommends that the federal partners eliminate any potential financial barriers to participation so that the population trained will truly represent the population to be served.*
+_This interagency team should work with disability communities, minority communities, other disability, minority, and religious organizations, and other interested organizations to develop a workplan, timetables, and appropriate consultation as it begins its work. In addition, NCD recommends that the interagency team recruit, train, and contract with a core group of people with disabilities from diverse cultural backgrounds and their family members to help develop the written materials and programs that will be used for the trainings, translate them into different languages with awareness of the cultural appropriateness of terminology, and conduct the trainings once the materials are produced. The federal partners should make efforts to include and accommodate often-overlooked groups among the people to be trained and include young adults with disabilities, people with disabilities living on Indian reservations and in other rural or isolated locations, people with mental disabilities, and people with limited English proficiency. Finally, NCD recommends that the federal partners eliminate any potential financial barriers to participation so that the population trained will truly represent the population to be served._
 
-- - -
+---
 
 **I. HAVING A SEAT AT THE TABLE: BARRIERS TO RESOURCES**A. BARRIERS TO EMPLOYMENT
 
@@ -219,12 +220,12 @@ Family members of minority individuals with disabilities have unique needs and c
 
 Recommendations for Improving Employment Opportunities:
 
-* *The Department of Labor (DOL), the Small Business Administration (SBA), and the Department of Education should expand funding for culturally appropriate job training and career development opportunities and should require all federally funded programs to demonstrate their ability to meet the language, culture, and disability needs of the whole population in their service areas.*
-* *The Rehabilitation Services Administration (RSA) should address the racial disparities apparent in the vocational rehabilitation system, particularly in the areas of job training and placement services.*
-* *RSA should strengthen and increase the number of interventions outlined in Section 21 of the Rehabilitation Act, which requires vocational rehabilitation agencies to take action to better address the needs of underserved groups within their service areas.*
-* *RSA should conduct compliance reviews of all state departments of rehabilitation to determine the extent to which their efforts to comply with Section 21 of the Rehabilitation Act have produced better outcomes for minorities with disabilities in their state.*
-* *The SBA, working with the Presidential Task Force on Employment of Adults with Disabilities, should provide more entrepreneurial opportunities for minority individuals with disabilities to promote economic independence.*
-* *Federal, state, and local policy makers should incorporate the unique needs of family members of minority individuals with disabilities into the larger disability policy agenda, particularly in the area of employment.*
+- _The Department of Labor (DOL), the Small Business Administration (SBA), and the Department of Education should expand funding for culturally appropriate job training and career development opportunities and should require all federally funded programs to demonstrate their ability to meet the language, culture, and disability needs of the whole population in their service areas._
+- _The Rehabilitation Services Administration (RSA) should address the racial disparities apparent in the vocational rehabilitation system, particularly in the areas of job training and placement services._
+- _RSA should strengthen and increase the number of interventions outlined in Section 21 of the Rehabilitation Act, which requires vocational rehabilitation agencies to take action to better address the needs of underserved groups within their service areas._
+- _RSA should conduct compliance reviews of all state departments of rehabilitation to determine the extent to which their efforts to comply with Section 21 of the Rehabilitation Act have produced better outcomes for minorities with disabilities in their state._
+- _The SBA, working with the Presidential Task Force on Employment of Adults with Disabilities, should provide more entrepreneurial opportunities for minority individuals with disabilities to promote economic independence._
+- _Federal, state, and local policy makers should incorporate the unique needs of family members of minority individuals with disabilities into the larger disability policy agenda, particularly in the area of employment._
 
 One barrier to employment for family members of minority children with disabilities that was mentioned repeatedly at the San Francisco hearing was the lack of accessible, affordable, and integrated childcare and after-school programs. Very few after-school programs are available in California, let alone programs that are affordable, integrated, and accessible. The programs that do meet these criteria tend to have waiting lists of a year or longer. Even where programs do exist, they are rarely staffed with employees trained to work with children of varied abilities and from different cultural backgrounds.
 
@@ -232,10 +233,10 @@ The lack of accessible, affordable, and integrated childcare and after-school pr
 
 Recommendations for Improving Access to Childcare:
 
-* *The Department of Justice (DOJ) should place a high priority on investigations to assess compliance with ADA Title III mandates for access among social service center establishments serving children.*
-* *The Departments of Education and Justice should place a high priority on investigations of school district compliance with IDEA least restrictive environment requirements in the implementation of district-provided after-school programs.*
-* *Congress should appropriate funding to increase the supply of accessible, affordable, and integrated childcare and after-school programs and should require that all federally funded programs not only meet federal disability access standards but also demonstrate the capacity to meet the language, cultural, and disability needs of their entire service population.*
-* *The Departments of Education, Justice, and Health and Human Services (HHS), including the federally funded legal services programs and protection and advocacy systems, should increase outreach efforts to parents of minority children with disabilities regarding their rights under ADA, IDEA, section 504 of the Rehabilitation Act, the Fair Housing Act, and other federal disability civil rights laws.*
+- _The Department of Justice (DOJ) should place a high priority on investigations to assess compliance with ADA Title III mandates for access among social service center establishments serving children._
+- _The Departments of Education and Justice should place a high priority on investigations of school district compliance with IDEA least restrictive environment requirements in the implementation of district-provided after-school programs._
+- _Congress should appropriate funding to increase the supply of accessible, affordable, and integrated childcare and after-school programs and should require that all federally funded programs not only meet federal disability access standards but also demonstrate the capacity to meet the language, cultural, and disability needs of their entire service population._
+- _The Departments of Education, Justice, and Health and Human Services (HHS), including the federally funded legal services programs and protection and advocacy systems, should increase outreach efforts to parents of minority children with disabilities regarding their rights under ADA, IDEA, section 504 of the Rehabilitation Act, the Fair Housing Act, and other federal disability civil rights laws._
 
 B. BARRIERS TO PUBLIC ACCOMMODATIONS
 
@@ -245,10 +246,10 @@ Serious gaps exist in the legal protections afforded minority individuals with d
 
 Recommendations for Improving Access to Public Accommodations:
 
-* *Congress should require federal enforcement agencies such as DOJ, the Equal Employment Opportunity Commission (EEOC), the Department of Transportation (DOT), and the Department of Housing and Urban Development (HUD) to demonstrate their effectiveness in serving people with disabilities from diverse cultural backgrounds.*
-* *Federal enforcement agencies should work together to develop a multiagency outreach and technical assistance strategy that would constitute a national campaign to increase knowledge of civil rights protections and how to file complaints among protected communities, focused on underserved groups such as language, racial, and ethnic minorities, youth, and rural residents with disabilities and their families.*
-* *Congress should ensure that civil rights enforcement agencies have adequate financial and staffing resources to address the needs of their entire service areas effectively.*
-* *Congress and the Bureau of Indian Affairs should provide federal financial support and assistance for the development of tribal disability rights legislation.*
+- _Congress should require federal enforcement agencies such as DOJ, the Equal Employment Opportunity Commission (EEOC), the Department of Transportation (DOT), and the Department of Housing and Urban Development (HUD) to demonstrate their effectiveness in serving people with disabilities from diverse cultural backgrounds._
+- _Federal enforcement agencies should work together to develop a multiagency outreach and technical assistance strategy that would constitute a national campaign to increase knowledge of civil rights protections and how to file complaints among protected communities, focused on underserved groups such as language, racial, and ethnic minorities, youth, and rural residents with disabilities and their families._
+- _Congress should ensure that civil rights enforcement agencies have adequate financial and staffing resources to address the needs of their entire service areas effectively._
+- _Congress and the Bureau of Indian Affairs should provide federal financial support and assistance for the development of tribal disability rights legislation._
 
 C. BARRIERS TO TRANSPORTATION
 
@@ -260,10 +261,10 @@ The number of transportation options available to minority individuals with disa
 
 Recommendations for Improving Access to Transportation:
 
-* *DOT and/or DOJ should investigate the extent to which local compliance with ADA transportation requirements is influenced by race and ethnicity.*
-* *Congress should ensure that transportation civil rights enforcement agencies have adequate financial and staffing resources to maintain an adequate presence with covered transportation entities to ensure compliance.*
-* *DOT should make funds available for local transportation providers to offer ongoing diversity and disability awareness training for all public transportation personnel, as well as specific training on the public transportation provisions of ADA.*
-* *DOT should create incentives for local transportation providers to increase efforts to hire bilingual public transportation personnel in service areas with high concentrations of non-English speakers.*
+- _DOT and/or DOJ should investigate the extent to which local compliance with ADA transportation requirements is influenced by race and ethnicity._
+- _Congress should ensure that transportation civil rights enforcement agencies have adequate financial and staffing resources to maintain an adequate presence with covered transportation entities to ensure compliance._
+- _DOT should make funds available for local transportation providers to offer ongoing diversity and disability awareness training for all public transportation personnel, as well as specific training on the public transportation provisions of ADA._
+- _DOT should create incentives for local transportation providers to increase efforts to hire bilingual public transportation personnel in service areas with high concentrations of non-English speakers._
 
 D. BARRIERS TO CULTURALLY COMPETENT SERVICE DELIVERY
 
@@ -285,14 +286,14 @@ Of the 18 current state independent living council (SILC) members in California,
 
 Recommendations for Improving Diversity of Disability Service Providers:
 
-* *The Departments of Education, HHS, and Labor should increase incentives for minority individuals, particularly minority individuals with disabilities, to enter disability service professions and to be afforded educational and professional development opportunities after entry. For example, the Department of Education should enhance funding for scholarships funded through the Office of Special Education and Rehabilitative Services to minority institutions of higher education to increase the number of qualified graduates of culturally diverse backgrounds, especially those with disabilities.*
-* *RSA and the Office of Special Education Programs (OSEP) should continue their efforts to increase the number of minority professionals working in vocational rehabilitation, special education, independent living, and related services, and other disability service agencies should create similar initiatives. For example, Rehabilitation Capacity Building initiatives should be used to develop new programs in Historically Black Colleges and Universities, Hispanic Serving Institutions, Native American Serving Institutions, and Asian American/Pacific Islander Serving Institutions, which will increase the number of qualified rehabilitation personnel of diverse cultures in the system.*
-* *RSA and other federal funders should require disability service providers to have a demonstrated commitment to workplace diversity and family-friendly policies. Along these lines, RSA should mandate hiring of a higher percentage of graduates (RSA scholarship recipients) of the programs mentioned above each year to fulfill the Comprehensive System of Personnel Development needs of every agency.*
-* *Congress should appropriate adequate funding to the EEOC, DOJ, HUD, DOT, and the Department of Education to enable them to conduct disability rights training for minorities with disabilities, their family members, and bilingual individuals, with the goal of creating a core group of culturally diverse individuals in every state who can train additional individuals in the requirements of federal civil rights laws and how to use those laws when a violation occurs.*
-* *The Department of Education should issue a policy memorandum mandating targeted recruitment and hiring of bilingual and bicultural special education staff at all levels.*
-* *OSEP, along with the Office for Civil Rights at the Department of Education, should investigate the racial and ethnic composition of special education mediators and hearing officers nationally and the extent to which race and ethnicity influence mediation and due process outcomes.*
-* *Federal funding agencies such as the Departments of Education, HHS, and Labor should encourage voluntary public disclosure of diversity data for entities receiving federal funds. In addition, federal agencies such as RSA should require an annual cultural competency assessment for every state agency and maintain a national database containing the following personnel information: position, ethnicity, gender, disability status, education, certification/licensure, and salary.*
-* *NIDRR should fund a longitudinal study on participation of culturally diverse professionals in the rehabilitation system. In addition, NIDRR should fund research on such factors as rehabilitation outcomes and educational outcomes as a function of counselor/teacher ethnicity, gender, disability, education, and professional competency.*
+- _The Departments of Education, HHS, and Labor should increase incentives for minority individuals, particularly minority individuals with disabilities, to enter disability service professions and to be afforded educational and professional development opportunities after entry. For example, the Department of Education should enhance funding for scholarships funded through the Office of Special Education and Rehabilitative Services to minority institutions of higher education to increase the number of qualified graduates of culturally diverse backgrounds, especially those with disabilities._
+- _RSA and the Office of Special Education Programs (OSEP) should continue their efforts to increase the number of minority professionals working in vocational rehabilitation, special education, independent living, and related services, and other disability service agencies should create similar initiatives. For example, Rehabilitation Capacity Building initiatives should be used to develop new programs in Historically Black Colleges and Universities, Hispanic Serving Institutions, Native American Serving Institutions, and Asian American/Pacific Islander Serving Institutions, which will increase the number of qualified rehabilitation personnel of diverse cultures in the system._
+- _RSA and other federal funders should require disability service providers to have a demonstrated commitment to workplace diversity and family-friendly policies. Along these lines, RSA should mandate hiring of a higher percentage of graduates (RSA scholarship recipients) of the programs mentioned above each year to fulfill the Comprehensive System of Personnel Development needs of every agency._
+- _Congress should appropriate adequate funding to the EEOC, DOJ, HUD, DOT, and the Department of Education to enable them to conduct disability rights training for minorities with disabilities, their family members, and bilingual individuals, with the goal of creating a core group of culturally diverse individuals in every state who can train additional individuals in the requirements of federal civil rights laws and how to use those laws when a violation occurs._
+- _The Department of Education should issue a policy memorandum mandating targeted recruitment and hiring of bilingual and bicultural special education staff at all levels._
+- _OSEP, along with the Office for Civil Rights at the Department of Education, should investigate the racial and ethnic composition of special education mediators and hearing officers nationally and the extent to which race and ethnicity influence mediation and due process outcomes._
+- _Federal funding agencies such as the Departments of Education, HHS, and Labor should encourage voluntary public disclosure of diversity data for entities receiving federal funds. In addition, federal agencies such as RSA should require an annual cultural competency assessment for every state agency and maintain a national database containing the following personnel information: position, ethnicity, gender, disability status, education, certification/licensure, and salary._
+- _NIDRR should fund a longitudinal study on participation of culturally diverse professionals in the rehabilitation system. In addition, NIDRR should fund research on such factors as rehabilitation outcomes and educational outcomes as a function of counselor/teacher ethnicity, gender, disability, education, and professional competency._
 
 2. Culturally Appropriate Outreach
 
@@ -312,12 +313,12 @@ There is an equally profound need to increase awareness about minority cultural 
 
 Recommendations for Improving Culturally Appropriate Outreach:
 
-* *Congress should amend the definition of "Minority Entities" under Section 21 of the Rehabilitation Act to once again include "Community-Based Minority Organizations," which were deleted from the definition in the 1998 amendments.*
-* *Congress should ask the General Accounting Office (GAO) to investigate the cultural and linguistic appropriateness of public information activities related to ADA, IDEA, the Fair Housing Act, and other federal disability civil rights laws.*
-* *The Departments of Education, HHS, HUD, Transportation, and Labor, as well as the SBA, should require their grantees and field offices to develop a culturally appropriate outreach plan that takes into account the fundamental differences between majority and minority cultures.*
-* *NIDRR should require its research and training centers with emphasis on minority populations to develop and test guides describing the services provided by independent living centers that use appropriate cultural and linguistic terminology for diverse populations. Once these guides are produced, RSA should require centers for independent living (CILs) and SILCs to use these guides to improve their outreach and service delivery to diverse populations.*
-* *Federal agencies funding outreach efforts should encourage initiatives directed not only toward minority individuals with disabilities, but also toward their families and racial and ethnic community organizations.*
-* *Federal agencies conducting or funding outreach should emphasize that successful outreach requires an awareness of the perception of disability and related issues, such as independent living, that exists within a particular cultural community.*
+- _Congress should amend the definition of "Minority Entities" under Section 21 of the Rehabilitation Act to once again include "Community-Based Minority Organizations," which were deleted from the definition in the 1998 amendments._
+- _Congress should ask the General Accounting Office (GAO) to investigate the cultural and linguistic appropriateness of public information activities related to ADA, IDEA, the Fair Housing Act, and other federal disability civil rights laws._
+- _The Departments of Education, HHS, HUD, Transportation, and Labor, as well as the SBA, should require their grantees and field offices to develop a culturally appropriate outreach plan that takes into account the fundamental differences between majority and minority cultures._
+- _NIDRR should require its research and training centers with emphasis on minority populations to develop and test guides describing the services provided by independent living centers that use appropriate cultural and linguistic terminology for diverse populations. Once these guides are produced, RSA should require centers for independent living (CILs) and SILCs to use these guides to improve their outreach and service delivery to diverse populations._
+- _Federal agencies funding outreach efforts should encourage initiatives directed not only toward minority individuals with disabilities, but also toward their families and racial and ethnic community organizations._
+- _Federal agencies conducting or funding outreach should emphasize that successful outreach requires an awareness of the perception of disability and related issues, such as independent living, that exists within a particular cultural community._
 
 3. Language and Communication Barriers
 
@@ -335,19 +336,19 @@ A follow-up study conducted after the hearing by Kathy Abrahamson and Kathy Knox
 
 Recommendations for Removing Language and Communication Barriers:
 
-* *The departments of Education, HHS, HUD, Transportation, and Labor, as well as the SBA, should require that their field offices and grantees conduct targeted recruitment and hiring of minority individuals who are bilingual and bicultural, especially minority individuals with disabilities.*
-* *The Office of Special Education and Rehabilitative Services should issue a policy memorandum mandating targeted recruitment and hiring of bilingual special education staff at all levels.*
-* *RSA should include language interpreter information and referral as a core service at all centers for independent living that have significant populations of non-English-speaking people within their service areas.*
-* *RSA should require all CILs with significant non-English-speaking populations in their service area to develop language and communication action plans that include the following:*
-* *Establishing contacts within minority community agencies who can assist in facilitating communication with ethnically diverse populations.*
-* *Developing a language interpreter referral database that is available in multiple languages and alternative formats, including the World Wide Web.*
-* *Sending all existing or new translated materials to the SCLC for widespread distribution to other centers for independent living and related agencies and organizations in the state.*
-* *Establishing sign language and other language interpreter and translator training programs that provide instruction on translation of cultural concepts, behaviors and body language, expectations about relationships, and other technical disability-related terms (medical terms, educational and legal acronyms).*
-* *Providing language-dedicated telephone lines in Spanish and other languages, and information in bilingual formats on Web pages.*
-* *The departments of Education, HHS, HUD, Labor, and Transportation, as well as the SBA should make available adequate funding to all field offices and grantees for translation and interpretation services.*
-* *Congress should ask GAO to investigate the quality of service delivery for minority individuals with disabilities and their families in terms of language and cultural competence.*
+- _The departments of Education, HHS, HUD, Transportation, and Labor, as well as the SBA, should require that their field offices and grantees conduct targeted recruitment and hiring of minority individuals who are bilingual and bicultural, especially minority individuals with disabilities._
+- _The Office of Special Education and Rehabilitative Services should issue a policy memorandum mandating targeted recruitment and hiring of bilingual special education staff at all levels._
+- _RSA should include language interpreter information and referral as a core service at all centers for independent living that have significant populations of non-English-speaking people within their service areas._
+- _RSA should require all CILs with significant non-English-speaking populations in their service area to develop language and communication action plans that include the following:_
+- _Establishing contacts within minority community agencies who can assist in facilitating communication with ethnically diverse populations._
+- _Developing a language interpreter referral database that is available in multiple languages and alternative formats, including the World Wide Web._
+- _Sending all existing or new translated materials to the SCLC for widespread distribution to other centers for independent living and related agencies and organizations in the state._
+- _Establishing sign language and other language interpreter and translator training programs that provide instruction on translation of cultural concepts, behaviors and body language, expectations about relationships, and other technical disability-related terms (medical terms, educational and legal acronyms)._
+- _Providing language-dedicated telephone lines in Spanish and other languages, and information in bilingual formats on Web pages._
+- _The departments of Education, HHS, HUD, Labor, and Transportation, as well as the SBA should make available adequate funding to all field offices and grantees for translation and interpretation services._
+- _Congress should ask GAO to investigate the quality of service delivery for minority individuals with disabilities and their families in terms of language and cultural competence._
 
-- - -
+---
 
 **II. GETTING IN THE DOOR: BARRIERS TO CITIZENSHIP**
 
@@ -363,13 +364,13 @@ The April 7, 1999, memorandum also included guidance to field adjudicators on de
 
 Recommendations for Improving the Naturalization Process:
 
-* *Congress should ask GAO to conduct a study of INS compliance with disability access mandates under federal law, examining in part whether the changes put in place in the past year have resolved the long-standing problems identified in this report.*
-* *INS should conduct training for field staff regarding the new procedures and policies outlined in its April 7, 1999, memorandum. Such training should be completed by October 1, 1999.*
-* *Congress should amend the Immigration and Nationality Act to provide for a disability waiver for the oath of allegiance requirement.*
-* *INS should ensure timely processing of naturalization applications for applicants with disabilities.*
-* *The Disability Rights Sections of the Civil Rights Divisions of DOJ, NCD, and INS should work together to monitor implementation of INS's recent efforts to address long-standing problems with its naturalization process regarding access for applicants with disabilities, and to address ongoing problems as they occur. To further this effort, DOJ should institute a toll-free number to a central location staffed with trained multilingual employees so that anyone having problems with accommodations in the naturalization process could raise those issues and have the staff take steps to address both the individual and the systemic issues identified. This toll-free number should be publicized in numerous languages in every INS office and on INS forms and materials.*
+- _Congress should ask GAO to conduct a study of INS compliance with disability access mandates under federal law, examining in part whether the changes put in place in the past year have resolved the long-standing problems identified in this report._
+- _INS should conduct training for field staff regarding the new procedures and policies outlined in its April 7, 1999, memorandum. Such training should be completed by October 1, 1999._
+- _Congress should amend the Immigration and Nationality Act to provide for a disability waiver for the oath of allegiance requirement._
+- _INS should ensure timely processing of naturalization applications for applicants with disabilities._
+- _The Disability Rights Sections of the Civil Rights Divisions of DOJ, NCD, and INS should work together to monitor implementation of INS's recent efforts to address long-standing problems with its naturalization process regarding access for applicants with disabilities, and to address ongoing problems as they occur. To further this effort, DOJ should institute a toll-free number to a central location staffed with trained multilingual employees so that anyone having problems with accommodations in the naturalization process could raise those issues and have the staff take steps to address both the individual and the systemic issues identified. This toll-free number should be publicized in numerous languages in every INS office and on INS forms and materials._
 
-- - -
+---
 
 **III. BEING RECOGNIZED: THE NEED FOR ACCURATE DEMOGRAPHIC DATA**
 
@@ -383,9 +384,9 @@ Service delivery systems have been developed and focused on the needs of the maj
 
 Recommendations for Improving the Accuracy of Demographic Data:
 
-* *The Census Bureau and the Bureau of Labor Statistics, working with NIDRR and the National Center for Health Statistics, should develop alternative methods for tracking the prevalence of disability within racial/ethnic minority communities at the national, state, and local levels.*
-* *The Census Bureau should make affirmative efforts to hire minority and bilingual individuals with disabilities as part of the workforce that will assist with Census 2000.*
-* *NIDRR and other federal research entities should conduct studies that explore the intra-ethnic experience and prevalence of disability.*
+- _The Census Bureau and the Bureau of Labor Statistics, working with NIDRR and the National Center for Health Statistics, should develop alternative methods for tracking the prevalence of disability within racial/ethnic minority communities at the national, state, and local levels._
+- _The Census Bureau should make affirmative efforts to hire minority and bilingual individuals with disabilities as part of the workforce that will assist with Census 2000._
+- _NIDRR and other federal research entities should conduct studies that explore the intra-ethnic experience and prevalence of disability._
 
 NCD believes that every person with a disability, regardless of race or ethnicity, should have the opportunity to realize the promise of freedom and equality made in ADA. The importance of racial and ethnic diversity must be recognized as a key component of the disability civil rights movement in the new millennium. These recommendations are submitted in the belief that they will promote that recognition and begin the process of tearing down the shameful wall of exclusion that has prevented minority racial and ethnic individuals with disabilities and their families from participating fully in all aspects of American society.
 
@@ -495,16 +496,16 @@ Recommendations
 
 It is clear that people with disabilities from minority communities still have tremendous difficulty gaining access not only to appropriate training and career development opportunities, but also to a host of additional employment resources that are often available to the larger community. To address these barriers, NCD recommends the following action:
 
-* The Department of Labor, the Small Business Administration, and the Department of Education should expand funding for culturally appropriate job training and career development opportunities, and should require all federally funded programs to demonstrate their ability to meet the language, cultural, and disability needs of all populations in their service area.
+- The Department of Labor, the Small Business Administration, and the Department of Education should expand funding for culturally appropriate job training and career development opportunities, and should require all federally funded programs to demonstrate their ability to meet the language, cultural, and disability needs of all populations in their service area.
 
 According to witnesses at the 1998 hearing, one of the main barriers to finding appropriate job training and career development opportunities is the failure of the vocational rehabilitation system to address minority community needs. It is evident from testimony and data reviewed that in spite of the Rehabilitation Cultural Diversity Initiative started in 1992, significant racial disparities continue to exist in the delivery of vocational rehabilitation services. In California, these disparities are particularly apparent in the areas of job training and placement services. To change these disparities and improve service delivery for minority individuals with disabilities in the state-federal vocational rehabilitation system, NCD recommends that the following actions be taken:
 
-* The Rehabilitation Services Administration should address the racial disparities apparent in the vocational rehabilitation system, particularly in the areas of job training and placement services.
-* RSA should expand long-term funding for culturally appropriate job training and career development opportunities.
-* RSA should strengthen and increase the number of interventions outlined in Section 21 of the Rehabilitation Act, which requires vocational rehabilitation agencies to take action to better address the needs of underserved groups within their service areas.
-* RSA should conduct compliance reviews of all state departments of rehabilitation to determine the extent to which their efforts to comply with Section 21 of the Rehabilitation Act have produced better outcomes for people with disabilities from diverse cultural backgrounds in their states.
-* The Small Business Administration, working with the Presidential Task Force on Employment of Adults with Disabilities, should provide more entrepreneurial opportunities for people with disabilities from diverse cultural backgrounds to promote economic independence.
-* Federal, state, and local policy makers should incorporate the unique needs of family members of individuals with disabilities from diverse cultural backgrounds into the larger disability policy agenda, particularly in the area of employment.
+- The Rehabilitation Services Administration should address the racial disparities apparent in the vocational rehabilitation system, particularly in the areas of job training and placement services.
+- RSA should expand long-term funding for culturally appropriate job training and career development opportunities.
+- RSA should strengthen and increase the number of interventions outlined in Section 21 of the Rehabilitation Act, which requires vocational rehabilitation agencies to take action to better address the needs of underserved groups within their service areas.
+- RSA should conduct compliance reviews of all state departments of rehabilitation to determine the extent to which their efforts to comply with Section 21 of the Rehabilitation Act have produced better outcomes for people with disabilities from diverse cultural backgrounds in their states.
+- The Small Business Administration, working with the Presidential Task Force on Employment of Adults with Disabilities, should provide more entrepreneurial opportunities for people with disabilities from diverse cultural backgrounds to promote economic independence.
+- Federal, state, and local policy makers should incorporate the unique needs of family members of individuals with disabilities from diverse cultural backgrounds into the larger disability policy agenda, particularly in the area of employment.
 
 NCD applauds the efforts of the Department of Education to fund and support the creation of culturally appropriate job training and career development opportunities for minority individuals with disabilities.
 
@@ -524,10 +525,10 @@ One of the major themes that emerged from the testimony presented at the 1998 he
 
 To address this situation, NCD recommends that the following actions be taken:
 
-* The Department of Justice should give a high priority to investigations to assess compliance with Title III access mandates among social service center establishments serving children.
-* The Department of Education and the Department of Justice should set a high priority on investigations of school district compliance with IDEA least restrictive environment requirements in the implementation of district-provided after-school programs.
-* Congress should appropriate funding to increase the supply of accessible, affordable, and integrated childcare and after-school programs, and it should require that all federally funded programs meet the language, cultural, and disability needs of their entire service populations.
-* The Department of Education should launch a nationwide outreach campaign aimed at informing parents of minority children with disabilities of the childcare and after-school program options available to them. Parents need immediate and direct access to information in bilingual and alternative formats on the availability of accessible, affordable, and integrated childcare in their area.
+- The Department of Justice should give a high priority to investigations to assess compliance with Title III access mandates among social service center establishments serving children.
+- The Department of Education and the Department of Justice should set a high priority on investigations of school district compliance with IDEA least restrictive environment requirements in the implementation of district-provided after-school programs.
+- Congress should appropriate funding to increase the supply of accessible, affordable, and integrated childcare and after-school programs, and it should require that all federally funded programs meet the language, cultural, and disability needs of their entire service populations.
+- The Department of Education should launch a nationwide outreach campaign aimed at informing parents of minority children with disabilities of the childcare and after-school program options available to them. Parents need immediate and direct access to information in bilingual and alternative formats on the availability of accessible, affordable, and integrated childcare in their area.
 
 b) Public accommodations
 
@@ -569,10 +570,10 @@ Recommendations
 
 To address the persistent barriers that exist for minority individuals with disabilities and their families in getting into public accommodations, NCD makes the following recommendations.
 
-* Congress should require federal enforcement agencies such as DOJ, EEOC, DOT, and HUD to demonstrate their effectiveness in serving people with disabilities from diverse cultural backgrounds.
-* Federal enforcement agencies should work together to develop a multi-agency outreach and technical assistance strategy that would constitute a national campaign to increase knowledge of civil rights protections and how to file complaints among protected communities, focused on underserved groups such as language, racial, and ethnic minorities, Native Americans, youth, and rural residents with disabilities, and their families.
-* Congress should ensure that civil rights enforcement agencies have adequate financial and staffing resources to effectively address the needs of their entire service areas.
-* Congress and the Bureau of Indian Affairs should provide federal financial support and assistance for the development of tribal disability rights legislation.
+- Congress should require federal enforcement agencies such as DOJ, EEOC, DOT, and HUD to demonstrate their effectiveness in serving people with disabilities from diverse cultural backgrounds.
+- Federal enforcement agencies should work together to develop a multi-agency outreach and technical assistance strategy that would constitute a national campaign to increase knowledge of civil rights protections and how to file complaints among protected communities, focused on underserved groups such as language, racial, and ethnic minorities, Native Americans, youth, and rural residents with disabilities, and their families.
+- Congress should ensure that civil rights enforcement agencies have adequate financial and staffing resources to effectively address the needs of their entire service areas.
+- Congress and the Bureau of Indian Affairs should provide federal financial support and assistance for the development of tribal disability rights legislation.
 
 Effective regulation and enforcement of the public accommodation provisions of ADA is critical to addressing the unique needs of people with disabilities from diverse cultural backgrounds.
 
@@ -626,10 +627,10 @@ Recommendations
 
 Many factors contribute to the inability of minority group members with disabilities to gain access to transportation, including an unwillingness on the part of public transportation personnel to provide necessary accommodations and implement existing laws; language and communication barriers; limited transportation options for people living in isolated areas and rural communities; and prolonged waiting time for transportation, both public and paratransit. To address transportation barriers, NCD makes the following recommendations.
 
-* DOT and/or DOJ should investigate the extent to which local compliance with ADA transportation requirements is influenced by race, ethnicity, and culture.
-* Congress should ensure that transportation civil rights enforcement agencies have adequate financial and staffing resources to maintain an adequate presence with covered transportation entities to ensure compliance.
-* DOT should make funds available for local transportation providers to furnish on- going diversity and disability awareness training for all public transportation personnel, as well as specific training on the public transportation provisions of ADA.
-* DOT should create incentives for local transportation providers to increase efforts to hire bilingual public transportation personnel in service areas with high concentrations of non-English speakers.
+- DOT and/or DOJ should investigate the extent to which local compliance with ADA transportation requirements is influenced by race, ethnicity, and culture.
+- Congress should ensure that transportation civil rights enforcement agencies have adequate financial and staffing resources to maintain an adequate presence with covered transportation entities to ensure compliance.
+- DOT should make funds available for local transportation providers to furnish on- going diversity and disability awareness training for all public transportation personnel, as well as specific training on the public transportation provisions of ADA.
+- DOT should create incentives for local transportation providers to increase efforts to hire bilingual public transportation personnel in service areas with high concentrations of non-English speakers.
 
 Effective regulation and enforcement of the transportation provisions of ADA is critical to addressing the unique needs of people with disabilities from diverse cultural backgrounds. Testimony presented at the 1998 NCD hearing suggests a major need to provide ongoing diversity and disability awareness training for all public transportation personnel. Additional training is needed to ensure that public transportation personnel are aware of the access mandates embedded in federal law for people with disabilities, as well as the accountability measures that will be undertaken in the event of noncompliance. They need to know that there are consequences for failing to honor federal access requirements, as well as rewards for success.
 
@@ -737,14 +738,14 @@ Recommendations
 
 Based on the testimony presented at the 1998 NCD hearing, it is clear that minority individuals with disabilities still encounter significant barriers to culturally competent service delivery as a result of a shortage of disability service personnel from diverse cultural backgrounds. To address this barrier, NCD makes the following recommendations.
 
-* The Departments of Education, Health and Human Services, and Labor should increase incentives for recruitment and education of individuals from diverse minority and cultural communities, particularly individuals with disabilities, to enter disability service professions, and to be afforded educational and professional development opportunities after entry. For example, the Department of Education should enhance funding for scholarships funded through the Office of Special Education and Rehabilitative Services to minority institutions to increase the number of qualified graduates of culturally diverse backgrounds, especially those with disabilities.
-* RSA and the Office of Special Education and Rehabilitative Services (OSEP) should continue efforts to increase the number of minority professionals working in vocational rehabilitation, independent living, and related services, and they should encourage duplication of these efforts by other disability service agencies. Rehabilitation Capacity Building initiatives should be used to develop new programs in Historically Black Colleges and Universities, Hispanic Serving Institutions, Native American serving institutions, and Asian American/Pacific Islanders serving institutions that will increase the number of qualified rehabilitation personnel of diverse cultures in the system.
-* RSA and other federal funders should require disability service providers to have a demonstrated commitment to workplace diversity and family-friendly policies. Along these lines, RSA should mandate hiring of a higher percentage of graduates (RSA scholarship recipients) of the programs mentioned above each year to fulfill the Comprehensive System of Personnel Development needs of every agency.
-* Congress should appropriate adequate funding to EEOC, DOJ, HUD, DOT, and DOED to enable them to provide disability rights training to people with disabilities from diverse cultural backgrounds, their family members, and bilingual individuals, with the goal of creating a core group of culturally diverse individuals in every state who can train additional individuals in the requirements of federal civil rights laws and how to use those laws when a violation occurs.
-* The Department of Education should issue a policy memorandum mandating targeted recruitment and hiring of bilingual and bicultural special education staff, including staff with disabilities, at all levels.
-* OSEP, along with the Office for Civil Rights at the Department of Education, should investigate the racial and ethnic composition of special education staff, including mediation and due process outcomes.
-* Federal funding agencies such as Education, HHS, and DOL should encourage voluntary public disclosure of diversity data for entities receiving federal funds. In addition, federal agencies such as RSA should require an annual cultural competency assessment for every state agency and maintain a national database containing the following personnel information: position, ethnicity, gender, disability status, education, certification/licenser, and salary.
-* NIDRR should fund a longitudinal study on participation of culturally diverse professionals in the rehabilitation system. In addition, NIDRR should fund research on rehabilitation outcomes, educational outcomes, and so forth, as a function of counselor/teacher ethnicity, gender, disability, education, and professional competency.
+- The Departments of Education, Health and Human Services, and Labor should increase incentives for recruitment and education of individuals from diverse minority and cultural communities, particularly individuals with disabilities, to enter disability service professions, and to be afforded educational and professional development opportunities after entry. For example, the Department of Education should enhance funding for scholarships funded through the Office of Special Education and Rehabilitative Services to minority institutions to increase the number of qualified graduates of culturally diverse backgrounds, especially those with disabilities.
+- RSA and the Office of Special Education and Rehabilitative Services (OSEP) should continue efforts to increase the number of minority professionals working in vocational rehabilitation, independent living, and related services, and they should encourage duplication of these efforts by other disability service agencies. Rehabilitation Capacity Building initiatives should be used to develop new programs in Historically Black Colleges and Universities, Hispanic Serving Institutions, Native American serving institutions, and Asian American/Pacific Islanders serving institutions that will increase the number of qualified rehabilitation personnel of diverse cultures in the system.
+- RSA and other federal funders should require disability service providers to have a demonstrated commitment to workplace diversity and family-friendly policies. Along these lines, RSA should mandate hiring of a higher percentage of graduates (RSA scholarship recipients) of the programs mentioned above each year to fulfill the Comprehensive System of Personnel Development needs of every agency.
+- Congress should appropriate adequate funding to EEOC, DOJ, HUD, DOT, and DOED to enable them to provide disability rights training to people with disabilities from diverse cultural backgrounds, their family members, and bilingual individuals, with the goal of creating a core group of culturally diverse individuals in every state who can train additional individuals in the requirements of federal civil rights laws and how to use those laws when a violation occurs.
+- The Department of Education should issue a policy memorandum mandating targeted recruitment and hiring of bilingual and bicultural special education staff, including staff with disabilities, at all levels.
+- OSEP, along with the Office for Civil Rights at the Department of Education, should investigate the racial and ethnic composition of special education staff, including mediation and due process outcomes.
+- Federal funding agencies such as Education, HHS, and DOL should encourage voluntary public disclosure of diversity data for entities receiving federal funds. In addition, federal agencies such as RSA should require an annual cultural competency assessment for every state agency and maintain a national database containing the following personnel information: position, ethnicity, gender, disability status, education, certification/licenser, and salary.
+- NIDRR should fund a longitudinal study on participation of culturally diverse professionals in the rehabilitation system. In addition, NIDRR should fund research on rehabilitation outcomes, educational outcomes, and so forth, as a function of counselor/teacher ethnicity, gender, disability, education, and professional competency.
 
 In 1992, Congress added a new Section 21 to the Rehabilitation Act of 1973 entitled "Traditionally Underserved Populations." Through Section 21, Congress hoped to improve the delivery of culturally competent services to minority individuals with disabilities in the state-federal vocational rehabilitation program by mandating the creation of interventions that would increase the number of minority professionals working in vocational rehabilitation, independent living, and related services.
 
@@ -840,12 +841,12 @@ As CRI's example illustrates, increasing awareness among minority individuals wi
 
 Recommendations
 
-* Congress should amend the definition of "minority entities" under Section 21 of the Rehabilitation Act to once again include "community-based minority organizations."
-* Congress should ask GAO to investigate the cultural and linguistic appropriateness of public information activities related to ADA, IDEA, the Fair Housing Act, and other federal civil rights disabilities laws.
-* The Departments of Education, Health and Human Services, Labor, and Transportation, as well as the SBA should require their grantees and field offices to develop a culturally appropriate outreach plan that takes into account the fundamental differences between majority, minority and sovereign tribal cultures.
-* The National Institute on Disability and Rehabilitation Research should require its research and training centers with emphasis on minority populations to develop and test guides describing the services provided by independent living centers that use appropriate cultural and linguistic terminology for diverse populations. Once these guides are produced, RSA should require CILS and SILCs to use the guidelines to improve their outreach and service delivery to diverse populations.
-* Federal agencies funding outreach efforts should encourage initiatives directed not only toward diverse individuals with disabilities, but also toward their families and community organizations.
-* Federal agencies conducting or funding outreach should emphasize that successful outreach requires an awareness of the perception of disability and related concepts like independent living that exists within a particular cultural community.
+- Congress should amend the definition of "minority entities" under Section 21 of the Rehabilitation Act to once again include "community-based minority organizations."
+- Congress should ask GAO to investigate the cultural and linguistic appropriateness of public information activities related to ADA, IDEA, the Fair Housing Act, and other federal civil rights disabilities laws.
+- The Departments of Education, Health and Human Services, Labor, and Transportation, as well as the SBA should require their grantees and field offices to develop a culturally appropriate outreach plan that takes into account the fundamental differences between majority, minority and sovereign tribal cultures.
+- The National Institute on Disability and Rehabilitation Research should require its research and training centers with emphasis on minority populations to develop and test guides describing the services provided by independent living centers that use appropriate cultural and linguistic terminology for diverse populations. Once these guides are produced, RSA should require CILS and SILCs to use the guidelines to improve their outreach and service delivery to diverse populations.
+- Federal agencies funding outreach efforts should encourage initiatives directed not only toward diverse individuals with disabilities, but also toward their families and community organizations.
+- Federal agencies conducting or funding outreach should emphasize that successful outreach requires an awareness of the perception of disability and related concepts like independent living that exists within a particular cultural community.
 
 Section 21 of the 1992 amendments to the Rehabilitation Act directed the commissioner of the Rehabilitation Services Administration to develop a "plan to provide outreach services" to "minority entities" in order to "enhance their capacity and increase their participation in competitions for available financial assistance." Under the 1992 amendments, "minority entities" were defined as (1) Historically Black Colleges and Universities, Hispanic-serving institutions of higher education, and other institutions of higher education whose minority student enrollment is at least 50 percent; (2) nonprofit and for-profit agencies at least 51 percent owned or controlled by one or more minority individuals; and (3) underrepresented populations.
 
@@ -903,21 +904,21 @@ Recommendations
 
 Based on the testimony presented at the 1998 NCD hearing, therefore, it is clear that minority individuals with disabilities and their families still encounter multiple language and communication barriers in signed, written, and spoken language. Among these barriers are the lack of bilingual service providers, interpreting services, and language appropriate materials; differences in body language and communication styles; and English-only phone services, limited funding for translation and interpretation services, and the absence of translated materials in alternative formats. To address these language and communication barriers, NCD makes the following recommendations.
 
-* The Departments of Education, HHS, HUD, and DOT and the SBA should require that their field offices and grantees conduct targeted recruitments and hiring of diverse individuals who are bilingual and bicultural, especially diverse individuals with disabilities.
-* The Office of Special Education and Rehabilitative Services should issue a policy memorandum mandating targeted recruitment and hiring of bilingual special education staff at all levels.
-* Federally funded disability programs should conduct targeted recruitment and hiring of minority individuals who are bilingual and bicultural.
+- The Departments of Education, HHS, HUD, and DOT and the SBA should require that their field offices and grantees conduct targeted recruitments and hiring of diverse individuals who are bilingual and bicultural, especially diverse individuals with disabilities.
+- The Office of Special Education and Rehabilitative Services should issue a policy memorandum mandating targeted recruitment and hiring of bilingual special education staff at all levels.
+- Federally funded disability programs should conduct targeted recruitment and hiring of minority individuals who are bilingual and bicultural.
 
 In order to address the lack of language capacity among many disability service providers, NCD recommends that all disability service agencies, particularly those in areas with a high minority concentration, conduct targeted recruitment and hiring of minority individuals who are bilingual and bicultural. Minority group members with disabilities and their families who are limited- or non-English speaking need to have direct and immediate access to qualified, bilingual disability service staff who are sensitive to their cultural needs and knowledgeable about resources available in their cultural community.
 
-* RSA should include language interpreter information and referral as a core service at all centers for independent living servicing significant populations of non-English-speaking people within their service area.
-* RSA should require all Centers for Independent Living (CIL) with significant non-English speaking populations in their service area to develop language/communication action plans that include:
-* Establishing contacts within minority community agencies who can assist in facilitating communication with ethnically diverse populations.
-* Developing a language interpreter referral database that is available in multiple languages and alternative formats, including the World Wide Web.
-* Sending all existing or new translated materials to the SCLC for widespread distribution to other Centers for Independent Living and related agencies/organizations in the state.
-* Establishing sign language and other language and other interpreter/translator training programs that provide instruction on translation of cultural concepts, behaviors and body language, expectations about relationships, and other technical disability-related terms (e.g., medical terms and educational and legal acronyms).
-* Providing language-dedicated telephone lines in Spanish and other languages with information in bilingual formats on Web pages.
-* The Departments of Education, Health and Human Services, Housing and Urban Development, Labor, and Transportation and the Small Business Administration should make available adequate funding to all field offices and grantees for translation and interpretation services.
-* Congress should ask GAO to investigate the quality of service delivery for diverse individuals with disabilities and their families in terms of language and cultural competence.
+- RSA should include language interpreter information and referral as a core service at all centers for independent living servicing significant populations of non-English-speaking people within their service area.
+- RSA should require all Centers for Independent Living (CIL) with significant non-English speaking populations in their service area to develop language/communication action plans that include:
+- Establishing contacts within minority community agencies who can assist in facilitating communication with ethnically diverse populations.
+- Developing a language interpreter referral database that is available in multiple languages and alternative formats, including the World Wide Web.
+- Sending all existing or new translated materials to the SCLC for widespread distribution to other Centers for Independent Living and related agencies/organizations in the state.
+- Establishing sign language and other language and other interpreter/translator training programs that provide instruction on translation of cultural concepts, behaviors and body language, expectations about relationships, and other technical disability-related terms (e.g., medical terms and educational and legal acronyms).
+- Providing language-dedicated telephone lines in Spanish and other languages with information in bilingual formats on Web pages.
+- The Departments of Education, Health and Human Services, Housing and Urban Development, Labor, and Transportation and the Small Business Administration should make available adequate funding to all field offices and grantees for translation and interpretation services.
+- Congress should ask GAO to investigate the quality of service delivery for diverse individuals with disabilities and their families in terms of language and cultural competence.
 
 Although several disability service agencies have recognized the importance of readily available interpreter and translation services, few funding sources are available to provide these services. To address this situation, several witnesses at the hearing suggested that more funding should be provided for interpretation and translation of important agency materials into both bilingual and alternative formats. Funding was also requested for the specific purpose of translating agency materials and placing them on videotape for minority individuals and their families who may be illiterate or have a significant learning disability.
 
@@ -1017,12 +1018,12 @@ In May of 1997, INS developed an "action plan" to address the systemic problems 
 
 For these reasons, NCD recommends that the following actions be taken:
 
-* Congress should ask GAO to conduct a study of INS compliance with disability access mandates under federal law, examining in part whether the changes put in place in the past year have resolved the long-standing problems identified in this report.
-* INS should conduct training for field staff regarding the new procedures and policies outlined in its April 7, 1999, memorandum, and training should be completed by October 1, 1999.
-* Congress should amend the Immigration and Nationality Act to provide for a disability waiver for the oath of allegiance requirement.
-* INS should ensure timely processing of naturalization applications for applicants with disabilities.
-* The Disability Rights sections of the Civil Rights Divisions of DOJ, NCD, and INS should work together to monitor implementation of INS's recent efforts to address long-standing problems with its naturalization process regarding access for applicants with disabilities and to address ongoing problems as they occur. To further this effort, the DOJ should institute a toll-free number, to a central location staffed with trained multilingual employees, where anyone encountering problems with accommodations during the naturalization process could raise those issues and the staff would track the nature of the problem and take steps to address both the individual and systemic issues identified. The toll-free number should be publicized in numerous languages in every INS office and published on all INS forms and materials.
-* Individuals with significant developmental and psychiatric disabilities should not be prohibited from becoming citizens for the sole reason that they cannot demonstrate the capacity to take a "meaningful" oath of allegiance.[95](https://web.archive.org/web/20150323230116/https://ncd.gov/publications/1999/Dec11999#foot95)
+- Congress should ask GAO to conduct a study of INS compliance with disability access mandates under federal law, examining in part whether the changes put in place in the past year have resolved the long-standing problems identified in this report.
+- INS should conduct training for field staff regarding the new procedures and policies outlined in its April 7, 1999, memorandum, and training should be completed by October 1, 1999.
+- Congress should amend the Immigration and Nationality Act to provide for a disability waiver for the oath of allegiance requirement.
+- INS should ensure timely processing of naturalization applications for applicants with disabilities.
+- The Disability Rights sections of the Civil Rights Divisions of DOJ, NCD, and INS should work together to monitor implementation of INS's recent efforts to address long-standing problems with its naturalization process regarding access for applicants with disabilities and to address ongoing problems as they occur. To further this effort, the DOJ should institute a toll-free number, to a central location staffed with trained multilingual employees, where anyone encountering problems with accommodations during the naturalization process could raise those issues and the staff would track the nature of the problem and take steps to address both the individual and systemic issues identified. The toll-free number should be publicized in numerous languages in every INS office and published on all INS forms and materials.
+- Individuals with significant developmental and psychiatric disabilities should not be prohibited from becoming citizens for the sole reason that they cannot demonstrate the capacity to take a "meaningful" oath of allegiance.[95](https://web.archive.org/web/20150323230116/https://ncd.gov/publications/1999/Dec11999#foot95)
 
 In testimony at the 1998 NCD hearing, Eva Casas-Sarmiento, statewide outreach coordinator for Protection & Advocacy, Inc., asked the members of NCD to "make sure that people with disabilities who apply to become citizens are not placed at the bottom of the list. Right now, they are at the bottom of the list, and they're having to wait longer than other people to become citizens." In order to prevent the unnecessary delays described previously, NCD recommends that INS implement procedures to ensure that naturalization applications by people with disabilities are processed as efficiently as others.
 
@@ -1078,13 +1079,13 @@ Recommendations
 
 The testimony and evidence reviewed in this chapter indicates that Hispanics and Asians/Pacific Islanders not only experience disability at a higher rate than reported in the national estimates, they also experience inequalities in service delivery as a result of this statistical inaccuracy, which can often lead to feelings of frustration and isolation. The California experience, moreover, raises questions about nationwide demographics of disability in the Hispanic and Asian/Pacific Islander communities. NCD recommends:
 
-* The U.S. Bureau of the Census and the Bureau of Labor Statistics, working with the National Institute on Disability and Rehabilitation Research and the National Center for Health Statistics, should develop alternative methods for tracking the prevalence of disability within racial/ethnic minority communities nationally and at the state, local, and tribal government levels.
+- The U.S. Bureau of the Census and the Bureau of Labor Statistics, working with the National Institute on Disability and Rehabilitation Research and the National Center for Health Statistics, should develop alternative methods for tracking the prevalence of disability within racial/ethnic minority communities nationally and at the state, local, and tribal government levels.
 
 In order to obtain a more accurate count of people living in poor minority and immigrant neighborhoods, Representative Dan Miller (R-Fla.), head of the House panel that oversees the census, and Representative Carrie Meeks (D-Fla.) introduced legislation to encourage the hiring of minority individuals as census takers. They said "current research shows that accuracy is increased when members of those communities help in counting."[127](https://web.archive.org/web/20150323230116/https://ncd.gov/publications/1999/Dec11999#foot127) Whether by legislation or other policy means, NCD recommends that the Census Bureau do targeted recruitment of qualified minorities with disabilities as it hires workers for census taking.
 
 NCD recommends:
 
-* The Census Bureau should make affirmative action efforts to hire minority and bilingual individuals with disabilities as part of the workforce that will assist with Census 2000.
+- The Census Bureau should make affirmative action efforts to hire minority and bilingual individuals with disabilities as part of the workforce that will assist with Census 2000.
 
 For a variety of historical reasons, individuals from minority communities may be reluctant to participate in governmental surveys because of a fear of intrusion. When coupled with the negative perceptions of disability that exist within many minority communities, this leads to a decreased willingness on the part of minority individuals with disabilities to participate in census surveys and identify themselves as having a disability.
 
@@ -1094,11 +1095,11 @@ In order to address the inequities that exist in service delivery for Hispanics 
 
 Because of the widespread tendency to lump many distinct ethnic groups into a few broad categories (Native Americans, African Americans, Hispanics, and Asians/Pacific Islanders), and to make generalizations based on this categorization, significant cultural differences have been masked, which has had a direct impact on the effectiveness of service delivery for minority individuals with disabilities and their families. NCD recommends:
 
-* NIDRR should fund nationwide studies that will explore the prevalence and experience of disability within different ethnic groups in a particular cultural community.
+- NIDRR should fund nationwide studies that will explore the prevalence and experience of disability within different ethnic groups in a particular cultural community.
 
 Research should be supported that studies in-group variability based on quantifiable data, and processes should be in place to control for the confounding of such variables as location (e.g., urban, rural, or suburban), acculturation, language, and socioeconomic level.[128](https://web.archive.org/web/20150323230116/https://ncd.gov/publications/1999/Dec11999#foot128) Researchers and disability service agencies should not assume that the experience of a Mexican individual with a disability will mirror that of a Puerto Rican individual with a disability, or that the experience of an immigrant with a disability will directly coincide with that of a nonimmigrant with a disability.
 
-- - -
+---
 
 **IV. CONCLUSION**
 
@@ -1118,7 +1119,7 @@ In an attempt to tear down this wall of exclusion and fulfill the promise of fre
 
 In order to "tear down this wall" of exclusion once and for all, people with disabilities and their families from diverse cultural communities came forward at the 1998 NCD hearing in San Francisco to insist that the "agenda for the future" be transformed into an immediate "course of action for today." In his testimony, Vernon Phillips, a freelance writer and musician who is blind, stated that it is time to "make some changes and deal with people's realistic circumstances, and not just what looks and sounds good." "I hope today can be the start," he said, "the start for better things." In answer to this call for action, NCD has charted out a "course of action for today," a declaration of interdependence for minority individuals with disabilities and their families, which if implemented will represent substantial progress toward the promise of freedom and equality for minority individuals with disabilities and their families.
 
-- - -
+---
 
 **V. NOTES**\
 \
@@ -1384,7 +1385,7 @@ In order to "tear down this wall" of exclusion once and for all, people with dis
 
 131 Martin Luther King, Jr., "I Have a Dream." In *Contemporary American Voices: Significant Speeches in American History*, 1945-Present, edited by James Andrews and David Zarefsky, Longman Publishing Group, White Plains, NY, 1963, pp. 79-81.
 
-- - -
+---
 
 **APPENDIX**
 
@@ -1400,16 +1401,16 @@ Specific Duties
 
 The current statutory mandate of NCD includes the following:
 
-* Reviewing and evaluating, on a continuing basis, policies, programs, practices, and procedures concerning individuals with disabilities conducted or assisted by federal departments and agencies, including programs established or assisted under the Rehabilitation Act of 1973, as amended, or under the Developmental Disabilities Assistance and Bill of Rights Act; as well as all statutes and regulations pertaining to federal programs that assist such individuals with disabilities, in order to assess the effectiveness of such policies, programs, practices, procedures, statutes, and regulations in meeting the needs of individuals with disabilities.
-* Reviewing and evaluating, on a continuing basis, new and emerging disability policy issues affecting individuals with disabilities at the federal, state, and local levels and in the private sector, including the need for and coordination of adult services, access to personal assistance services, school reform efforts and the impact of such efforts on individuals with disabilities, access to health care, and policies that act as disincentives for individuals to seek and retain employment.
-* Making recommendations to the President, Congress, the secretary of education, the director of the National Institute on Disability and Rehabilitation Research, and other officials of federal agencies about ways to better promote equal opportunity, economic self-sufficiency, independent living, and inclusion and integration into all aspects of society for Americans with disabilities.
-* Providing Congress, on a continuing basis, with advice, recommendations, legislative proposals, and any additional information that NCD or Congress deems appropriate.
-* Gathering information about the implementation, effectiveness, and impact of the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.).
-* Advising the President, Congress, the commissioner of the Rehabilitation Services Administration, the assistant secretary for Special Education and Rehabilitative Services within the Department of Education, and the director of the National Institute on Disability and Rehabilitation Research on the development of the programs to be carried out under the Rehabilitation Act of 1973, as amended.
-* Providing advice to the commissioner with respect to the policies and conduct of the Rehabilitation Services Administration.
-* Making recommendations to the director of the National Institute on Disability and Rehabilitation Research on ways to improve research; service; administration, and the collection, dissemination, and implementation of research findings affecting persons with disabilities.
-* Providing advice regarding priorities for the activities of the Interagency Disability Coordinating Council and reviewing the recommendations of this council for legislative and administrative changes to ensure that such recommendations are consistent with NCD's purpose of promoting the full integration, independence, and productivity of individuals with disabilities.
-* Preparing and submitting to the President and Congress an annual report titled National Disability Policy: A Progress Report.
+- Reviewing and evaluating, on a continuing basis, policies, programs, practices, and procedures concerning individuals with disabilities conducted or assisted by federal departments and agencies, including programs established or assisted under the Rehabilitation Act of 1973, as amended, or under the Developmental Disabilities Assistance and Bill of Rights Act; as well as all statutes and regulations pertaining to federal programs that assist such individuals with disabilities, in order to assess the effectiveness of such policies, programs, practices, procedures, statutes, and regulations in meeting the needs of individuals with disabilities.
+- Reviewing and evaluating, on a continuing basis, new and emerging disability policy issues affecting individuals with disabilities at the federal, state, and local levels and in the private sector, including the need for and coordination of adult services, access to personal assistance services, school reform efforts and the impact of such efforts on individuals with disabilities, access to health care, and policies that act as disincentives for individuals to seek and retain employment.
+- Making recommendations to the President, Congress, the secretary of education, the director of the National Institute on Disability and Rehabilitation Research, and other officials of federal agencies about ways to better promote equal opportunity, economic self-sufficiency, independent living, and inclusion and integration into all aspects of society for Americans with disabilities.
+- Providing Congress, on a continuing basis, with advice, recommendations, legislative proposals, and any additional information that NCD or Congress deems appropriate.
+- Gathering information about the implementation, effectiveness, and impact of the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.).
+- Advising the President, Congress, the commissioner of the Rehabilitation Services Administration, the assistant secretary for Special Education and Rehabilitative Services within the Department of Education, and the director of the National Institute on Disability and Rehabilitation Research on the development of the programs to be carried out under the Rehabilitation Act of 1973, as amended.
+- Providing advice to the commissioner with respect to the policies and conduct of the Rehabilitation Services Administration.
+- Making recommendations to the director of the National Institute on Disability and Rehabilitation Research on ways to improve research; service; administration, and the collection, dissemination, and implementation of research findings affecting persons with disabilities.
+- Providing advice regarding priorities for the activities of the Interagency Disability Coordinating Council and reviewing the recommendations of this council for legislative and administrative changes to ensure that such recommendations are consistent with NCD's purpose of promoting the full integration, independence, and productivity of individuals with disabilities.
+- Preparing and submitting to the President and Congress an annual report titled National Disability Policy: A Progress Report.
 
 International
 

@@ -6,10 +6,11 @@ date: February 14, 2001
 report_year: 2001
 policy_areas:
   - Education
-  - Cultural Diversity
+#  - Cultural Diversity
 pdf_document: reports/2001/ncd-applied-leadership-effective-coalitions-2001.pdf
 image_alt_text: NA
 ---
+
 February 14, 2001
 
 **S﻿COPE AND PURPOSE:**

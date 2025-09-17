@@ -5,14 +5,15 @@ collection_name: reports
 date: October 3, 2012
 report_year: 2012
 policy_areas:
-  - Cultural Diversity
+  #  - Cultural Diversity
   - International
 categories:
   - progress reports
 word_document: reports/2012/2012-progress-report-ontribal-consultation-coordination.docx
 image_alt_text: NA
 ---
-## **Implementation of the Tribal Consultation Coordination Plan Annual Progress Report:**    **National Council on Disability**
+
+## **Implementation of the Tribal Consultation Coordination Plan Annual Progress Report:**   **National Council on Disability**
 
 **(September 1, 2011 – August 31, 2012)**
 
@@ -30,19 +31,19 @@ Future considerations: Based on strengthened tribal input and NCD’s role as co
 
 ![Anchor](https://ncd.gov/sites/all/libraries/ckeditor/images/spacer.gif?t=C9A85WF "Anchor")\[1] The NCD TCC workgroup is comprised of 14 members who are AIVR Program Directors and CANAR Leaders. Names, Affiliation and Geographic Location are:
 
-1.     Director Mary Meruvia, Mississippi Band of Choctaw Indians (MS)
-2.     Director Connie Lee Berg, Red Lake Band of Chippewa Indians (MN)
-3.     Director, Dr. Christina Venable, Lower Muskogee VR Program (GA)
-4.     Director Norman Shawanokasic, Menominee Tribe (WI)
-5.     Director Lyle Cook, Cheyenne River Lakota (SD)
-6.     Director Wilfred Bear, Assiniboine Sioux (MT)
-7.     Director David K. Tripp, Hoopa Valley Tribe (CA)
-8.     Director Michelle Wilson, Chickasaw Nation (OK)
-9.     Director Stephen “Corky” West”, Oneida Nation (WI)
-10.     Director Bryan Sykes, Cheyenne/Arapaho Nation (OK)
-11.     Director Lanor Curole, United Houma Nation (LA)
-12.     Director Amanda Race, Tanana Chiefs (AK)
-13.     CANAR President, Treva Roanhorse, Navajo Nation (AZ)
-14.     CANAR Executive Director, Joseph Kelley,  Winnfield, LA
+1.  Director Mary Meruvia, Mississippi Band of Choctaw Indians (MS)
+2.  Director Connie Lee Berg, Red Lake Band of Chippewa Indians (MN)
+3.  Director, Dr. Christina Venable, Lower Muskogee VR Program (GA)
+4.  Director Norman Shawanokasic, Menominee Tribe (WI)
+5.  Director Lyle Cook, Cheyenne River Lakota (SD)
+6.  Director Wilfred Bear, Assiniboine Sioux (MT)
+7.  Director David K. Tripp, Hoopa Valley Tribe (CA)
+8.  Director Michelle Wilson, Chickasaw Nation (OK)
+9.  Director Stephen “Corky” West”, Oneida Nation (WI)
+10. Director Bryan Sykes, Cheyenne/Arapaho Nation (OK)
+11. Director Lanor Curole, United Houma Nation (LA)
+12. Director Amanda Race, Tanana Chiefs (AK)
+13. CANAR President, Treva Roanhorse, Navajo Nation (AZ)
+14. CANAR Executive Director, Joseph Kelley,  Winnfield, LA
 
 ![Anchor](https://ncd.gov/sites/all/libraries/ckeditor/images/spacer.gif?t=C9A85WF "Anchor")\[2] National Council on Disability Strategic Plan, FY 2012-2017. Retrieved October 2, 2012 at[/Accountability/strategicplan/](https://ncd.gov/Accountability/strategicplan/)
