@@ -36,7 +36,7 @@ primary:
       - name: FAQ
         url: /resources/faq/
   - name: Public Comment
-    url: https://www.ncd.gov/public-comment/
+    url: /public-comment/
   - name: Policy Areas
     children:
       - name: Civil Rights
