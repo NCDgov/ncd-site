@@ -7,7 +7,7 @@ tags:
   - Press Release
 policy_areas:
   - Civil Rights
-  - Cultural Diversity
+  #  - Cultural Diversity
   - Education
   - Emergency Management
   - Employment

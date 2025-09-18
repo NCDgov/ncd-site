@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NCD Bylaws
-date: July 13, 2022
+date: July 13, 2023
 redirect_from:
   - /Accountability/Bylaws
 ---

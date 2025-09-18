@@ -6,7 +6,7 @@ date: 2013-06-17
 tags:
   - null
 policy_areas:
-  - Cultural Diversity
+#  - Cultural Diversity
 ---
 
 June 17, 2013

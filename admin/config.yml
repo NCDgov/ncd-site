@@ -734,6 +734,7 @@ collections:
         pattern: "Press Release"
     editor:
       preview: true
+    preview_path: "{{year}}/{{month}}/{{day}}/{{slug}}"
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Title", name: "title", widget: "string" }

@@ -6,11 +6,12 @@ date: July 28, 2003
 report_year: 2003
 policy_areas:
   - Civil Rights
-  - Cultural Diversity
+#  - Cultural Diversity
 word_document: reports/2003/ncd-outreach-for-all-forum-summary-paper.doc
 pdf_document: reports/2003/ncd-outreach-for-all-forum-summary-paper.pdf
 image_alt_text: NA
 ---
+
 July 28, 2003
 
 **S﻿COPE AND PURPOSE:**

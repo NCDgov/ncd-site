@@ -4,13 +4,14 @@ title: 2021 NCD Report on Implementation of the Tribal Consultation Coordination
 date: October 23, 2021
 report_year: 2021
 policy_areas:
-  - Cultural Diversity
+  #  - Cultural Diversity
   - International
   - Civil Rights
   - Employment
   - Health Care
 image_alt_text: NA
 ---
+
 2021 NCD Report on Implementation of the Tribal Consultation Coordination (TCC) Annual Progress Report: National Council on Disability (January 2021-October 23, 2021)
 
 **Report Date:** October 23, 2021
@@ -28,8 +29,6 @@ During 2021, NCD (1) sought tribal input by entering into an MOU with NICOA to c
 **Future Considerations:**
 
 Looking toward the future, NCD calls attention to resolving unmet needs, with the help of TCC members, NCD can revisit information gathered in 2021-2022 which has pinpointed needs and offer suggestions related to disability policy issues. The plan can include further exploration and determination about concrete actions that might be effective in addressing the findings from NCD’s 2021 and 2022 Progress Reports. As well as the ability to address program, funding and services gaps found while updating the Toolkit. NCD welcomes the opportunity to partner with additional tribal organizations in the future.
-
- 
 
 
 

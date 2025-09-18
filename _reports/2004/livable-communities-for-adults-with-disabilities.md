@@ -8,7 +8,7 @@ policy_areas:
   - Civil Rights
   - Employment
   - Education
-  - Cultural Diversity
+  #  - Cultural Diversity
   - Health Care
   - Housing
   - Technology
@@ -18,6 +18,7 @@ categories:
 pdf_document: reports/2004/ncd-livable-communities-2004.pdf
 image_alt_text: NA
 ---
+
 D﻿ecember 2, 2004
 
 S﻿COPE AND PURPOSE:

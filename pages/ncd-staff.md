@@ -5,13 +5,9 @@ permalink: /staff/
 title: NCD Staff
 redirect_from: []
 ---
-
-
-
 ## Executive Director
 
 **Ana Torres-Davis**
-(Acting)
 
 
 ## Policy & Legal Team
@@ -27,15 +23,12 @@ Senior Attorney Advisor
 **Amged Soliman**
 Senior Attorney Advisor
 
-
-
 ## Legislative Affairs & Outreach Team
 
 The Legislative Affairs & Outreach Team closely monitors Congressional activity on issues critical to the disability community and cultivates and maintains effective working relationships with NCD stakeholders at the federal, state, and local levels.
 
 **Anne Sommers McIntosh**
 Director of Legislative Affairs and Outreach
-
 
 **Kimie Eacobacci**
 Legislative Affairs Specialist
@@ -46,7 +39,6 @@ Public Affairs Specialist
 ## Administration, Finance, & Operations Team
 
 The Finance, Operations & Administration Team provides critical staff support and monitors the agency’s finance and accounting, information technology, and human resources management, as well as partners with the policy and outreach teams to build strategic relationships that are critical to the agency’s work.
-
 
 **Stacey S. Brown**
 Staff Assistant

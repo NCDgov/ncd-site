@@ -1,49 +1,32 @@
 ---
 layout: post
-title: NCD seeks public comment during May 29 Council meeting
+title: NCD seeks public comment during August 28 Council meeting
 collection_name: newsroom
-date: 2025-05-09
+date: 2025-08-20
 tags:
   - Press Release
 ---
 
 **For Immediate Release**
 
-May 9, 2025
+August 20, 2025
 
-**WASHINGTON–**The National Council on Disability (NCD) invites the public to present public comment during the Council's next quarterly meeting May 29 in New York, N.Y.
+**WASHINGTON–**The National Council on Disability (NCD) invites the public to present public comment during the Council's next quarterly meeting here August 28.
 
-During a 45-minute public comment session starting at 4 p.m. EDT, the Council will receive input specifically on youth and younger adults in nursing homes; and on the most notable developments in disability policy since Summer 2024.
+During a public comment session starting at 3 p.m. EDT, the Council will receive input specifically on four different projects NCD is working on.
 
-The meeting will be held at the JW Marriott Essex House (Tivoli Room), 160 Central Park South, New York, NY 10019.
+For the August 28 Council meeting, NCD will have a public comment period of 40 minutes and requests comments from the public on topics related to our upcoming reports: improving the outcome of people with disabilities during and after disasters; disability clinical competency training for healthcare provider training programs; ADA accommodations during court proceedings; and youth and younger adults with disabilities in nursing homes. Additional information on specifics of the topic is available on NCD’s public comment page at [https://ncd.gov/public-comment](https://www.ncd.gov/public-comment/).
 
-Registration is not required to attend, but appreciated via our [Eventbrite page](https://www.eventbrite.com/e/ncd-council-meeting-may-29-30-2025-new-york-ny-tickets-1345489889479?aff=oddtdtcreator).
+The meeting will be held at the U.S. Access Board Conference Room, 1331 F Street Northwest #800 Washington, DC 20004. Registration is not required to attend, but appreciated via our [Eventbrite page](<>).
 
-The Council will receive public comment in person only. Those unable to attend can submit comments by email.
+The Council will receive comments in-person only, but will share comments submitted via email during the meeting. Due to the hybrid nature of the event, in-person presentations will be given priority.
 
-Public comment session data may be included in NCD's upcoming report that will fill a gap in the existing knowledge about younger people with disabilities in nursing homes by describing policies and events that contribute to nursing home placement, presenting state and federal data on the amount of younger people residing in nursing homes and describing the impacts on their lives. Finally, it will provide recommendations to federal and state agencies on improving existing policies and causes that result in the institutionalization of younger people with disabilities, particularly the Department of Health and Human Services (HHS), the Department of Housing and Urban Development (HUD), and state Medicaid agencies.
+To provide public comment during an NCD Council Meeting, NCD now requires advanced registration by either signing up to present while registering for the meeting or sending an email to PublicComment@ncd.gov with the subject line “Public Comment” and your name, organization, state, and topic of comment included in the body of your email.
 
-The following questions are relevant to the public comments:
+Deadline for registration is August 26, 8:00 p.m. EDT. Please indicate if you are providing the comment in-person or only submitting via email. All individuals desiring to make public comment are strongly encouraged to read NCD’s guidelines for public comment in advance of the meeting at: [https://ncd.gov/public-comment](https://www.ncd.gov/public-comment/).
 
-- What number of people with disabilities ages 21-40 are receiving LTSS in nursing homes? How large is the subset of those under age 21? What are the numbers by state? What are the demographics? What is the average length of stay?
-- What data gaps exist on these questions and how could the Centers for Medicare and Medicaid Services (CMS) improve them? What reporting could HHS or HUD require of federal fund recipients to obtain data on people with disabilities age 40 and under in nursing homes?
-- How many people are estimated to be on waiting lists to transfer out of nursing facilities are ages 21-40 and under 21? How have these numbers changed over the past 10 years? What are the best sources for this data?
-- Are there existing federal and state policies that have the effect of routing younger people with disabilities into nursing homes? Are they the same as those that keep them there?
-- What impact has Money Follows the Person had on nursing home diversion for younger people with disabilities? Please provide specific examples to the degree possible. What other programs are successful at diversion of younger people with disabilities from nursing homes?
-- What opportunities are available to younger people with disabilities who reside in nursing homes, for free appropriate public education (FAPE), recreation, community participation?
-- What are examples of non-governmental initiatives to help move children out of nursing homes? What states house the most children in nursing homes? What are the main causes? What is the remedy?
-- How could policymakers address the needs of younger people with disabilities in LTSS and housing policy so that nursing home placement is minimized?
+While public comment can be submitted on any topic over email, comments during the meeting should be specific to the topics listed.
 
-This will further develop the information in NCD’s reports, HCBS Ecosystem (2022), Deinstitutionalization: Unfinished Business (2012); NCD communications with Congress and the Department of Health and Human Services regarding institutionalization and HCBS; and the 2021 Progress Report: The Impacts of Covid-19 on People with Disabilities.
-
-Comments on notable developments in disability policy since Summer 2024 may be included in our 2025 Progress Report.
-
-Public comment guidelines are available on NCD’s public comment page at <https://www.ncd.gov/public-comment/>.
-
-Those wanting to participate in public comment must preregister, either through indicating they want to provide public comment by sending an email to publiccomment@ncd.gov by 8 p.m. EDT May 28. Public comments on any other topic will only be accepted by email.
-
-If any time remains following the conclusion of the comments of those registered, NCD may call upon those who desire to make comments on the topic but did not register.
-
-The Council meeting is free and open to the public. Full information on the event can be found on our [upcoming meeting page](https://www.ncd.gov/meeting/2025-05-29-may-29-30-2025-council-meeting/). Registration for the meeting is not required, but appreciated on our Eventbrite page.
+The Council meeting is free and open to the public. Full information on the event can be found on our [upcoming meeting page](https://www.ncd.gov/meeting/2025-08-28-aug-28-29-2025-council-meeting/). Registration for the meeting is not required, but appreciated on our Eventbrite page.
 
 CART and ASL will be provided.

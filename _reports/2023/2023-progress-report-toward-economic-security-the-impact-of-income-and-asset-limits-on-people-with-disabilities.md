@@ -10,7 +10,7 @@ policy_areas:
 categories:
   - progress reports
 word_document: reports/2023/ncd_2023-progress-report.docx
-pdf_document: reports/2023/ncd_2023-progress-report.pdf
+pdf_document: reports/2023/ncd-2023-progress-report.pdf.pdf
 image: images/ncd_toward_economic_security_cover.jpg
 image_alt_text: Report cover features a man with Down syndrome wearing jean
   jacket and red backpack gets money from an ATM machine. A blue rectangle below

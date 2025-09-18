@@ -8,7 +8,7 @@ tags:
 policy_areas:
   - Financial Assistance & Incentives
   - Civil Rights
-  - Cultural Diversity
+  #  - Cultural Diversity
   - Health Care
 ---
 

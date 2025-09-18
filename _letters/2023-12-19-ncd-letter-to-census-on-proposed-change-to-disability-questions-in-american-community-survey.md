@@ -8,9 +8,10 @@ policy_areas:
   - Health Care
   - Housing
   - Financial Assistance & Incentives
-  - Cultural Diversity
+#  - Cultural Diversity
 date: 2023-12-19
 ---
+
 Submitted electronically to the Director of the Bureau of the Census and to [www.regulations.gov](http://www.regulations.gov/)
 
 December 19, 2023
@@ -29,7 +30,7 @@ The National Council on Disability (NCD) is an independent, nonpartisan federal 
 
 On behalf of NCD, I write to express several substantive and procedural concerns about the Census Bureau’s proposal to change the current disability questions in the American Community Survey to the Washington Group Short Set of disability questions in the 2025 American Community Survey and Puerto Rico Community Survey.[3](https://ncd.gov/publications/2023/letter-to-census-on-ACS#_ftn3) We recommend against making this change for the reasons set out below.
 
-*The Census Bureau’s Proposal to Change the Disability Questions in the American Community Survey*
+_The Census Bureau’s Proposal to Change the Disability Questions in the American Community Survey_
 
 The current set of questions in the American Community Survey (ACS-6) consist of six yes/no questions on functioning (ACS-6). Those who respond ‘yes’ to any of the questions are considered to have a disability for purposes of the ACS. The Census Bureau (the Bureau) proposes to change these six questions to the Washington Group Short Set on Functioning (WG-SS), which consist of six questions that that ask whether a person has ‘no difficulty’, ‘some difficulty’, ‘a lot of difficulty, or ‘cannot do it at all’ in six areas of functioning. The Bureau proposes that only those who answer ‘a lot of difficulty’ or ‘cannot do it at all’ to at least one of the six questions will be considered a person with disability for purposes of the ACS.
 
@@ -37,17 +38,17 @@ The Bureau conducted testing of the WG-SS and found that, using this threshold, 
 
 Use of the WG-SS with this threshold, means that millions of people with disabilities that are less severe or whose disabilities are mitigated by using assistive technologies or medications e.g., will not be counted in U.S. census data. Advocates for people with disabilities assert that this change “disappears” forty percent of people with disabilities in U.S. census data, question the purpose for proposing this action, and whether the Bureau would take such a drastic action for any other population.
 
-*Importance of Counting all People with Disabilities in the ACS*
+_Importance of Counting all People with Disabilities in the ACS_
 
 Documenting the number of people with disabilities in the U.S. is crucial for many reasons, including allocating sufficient resources for federal, state and local programs to meet their needs. According to the Census Bureau, questions on disability create data that help communities provide adequate housing through local and federal programs; provide health care to families; help communities enroll eligible families in programs designed to assist them such as: Marketplace, Medicaid, the Children's Health Insurance Program (CHIP); help governments and communities enforce laws, regulations, and policies against discrimination on the basis of disability status; help local officials provide programs and services that enable older adults to remain living safely in their homes and communities (Older Americans Act), provide services and assistance to people with a disability, such as financial assistance with utilities (Low Income Home Energy Assistance Program); to inform researchers, advocacy groups, and policymakers on whether people with disabilities have the same opportunities in education, employment, voting, and home ownership. Communities use data on the prevalence of various types of disabilities to ensure that they can meet needs during weather events, disasters, and public health emergencies.[5](https://ncd.gov/publications/2023/letter-to-census-on-ACS#_ftn5)
 
 Since disability data informs these programs and a multitude of research purposes, it is imperative that the Bureau use the most effective questions to determine the population of people with disabilities. While the current disability questions used in the ACS have limitations and do not count all people with disabilities, the WG-SS proposed is far worse and undercounts people with disabilities by a significant degree. This was a result  known to the Bureau even before it conducted testing on the WG-SS.[6](https://ncd.gov/publications/2023/letter-to-census-on-ACS#_ftn6)
 
-*Application of the WG-SS as a Stand-Alone Measure of Disability is Not Appropriate for the Purposes of the ACS*
+_Application of the WG-SS as a Stand-Alone Measure of Disability is Not Appropriate for the Purposes of the ACS_
 
 The Washington Group on Disability Statistics was formed to address the need for population-based measures of disability for country use and for international comparisons.[7](https://ncd.gov/publications/2023/letter-to-census-on-ACS#_ftn7) The major objective is to provide basic necessary information on disability that is comparable throughout the world.[8](https://ncd.gov/publications/2023/letter-to-census-on-ACS#_ftn8) The Group, housed in the National Center for Health Statistics at the CDC, guided the development of the WG-SS.
 
-The threshold that is recommended by the Washington Group shows that the WG-SS is not being used to obtain a count of people with disabilities in the U.S. but to identify only  people with the most significant/severe disabilities.[9](https://ncd.gov/publications/2023/letter-to-census-on-ACS#_ftn9)   
+The threshold that is recommended by the Washington Group shows that the WG-SS is not being used to obtain a count of people with disabilities in the U.S. but to identify only  people with the most significant/severe disabilities.[9](https://ncd.gov/publications/2023/letter-to-census-on-ACS#_ftn9)
 
 According to the Washington Group, the purpose of the WG-SS is not to count all people with disabilities – another reason it is a poor choice for meeting the purpose of the ACS. It has stated in documents that, "The questions were designed to provide comparable data cross-nationally for populations living in a great variety of cultures with varying economic resources. The objective (of the WG-SS) was to identify persons with similar types and levels of limitation in basic activity functioning regardless of nationality or culture. It was not our purpose to identify every person with a disability within every community."[10](https://ncd.gov/publications/2023/letter-to-census-on-ACS#_ftn10) “The population captured by the short set will not represent the total population with limitations, nor will it necessarily represent the “true” population with disability, which would require measuring limitation in all domains and a much more extensive set of questions.”[11](https://ncd.gov/publications/2023/letter-to-census-on-ACS#_ftn11) "Does the WG-SS identify everyone with a disability? Does it need to? The answer to this is easy. No, the WG-SS does not identify all people with disabilities, nor does it need to identify all people with disabilities."[12](https://ncd.gov/publications/2023/letter-to-census-on-ACS#_ftn12)
 
@@ -55,11 +56,11 @@ Two additional very recent studies also prove that a significant undercounting o
 
 Another recent study compared ACS-6 and WG-SS responses with self-reported disability types in the National Survey on Health and Disability (NSHD), which uses both the ACS-6 and the WG-SS question sets and contains other disability questions.[14](https://ncd.gov/publications/2023/letter-to-census-on-ACS#_ftn14) The ACS-6 and WG-SS failed to identify 20 percent and 43 percent, respectively, of respondents who reported disabilities in response to other NSHD questions (a broader WG-SS version missed 4.4 percent of respondents). The ACS-6 and the WG-SS performed especially poorly in capturing respondents with psychiatric disabilities or chronic health conditions. The authors recommended that researchers and policy makers augment or strengthen federal disability questions to improve the accuracy of disability prevalence counts.
 
-*The Proposal to Use the WG-SS as a Stand-Alone Measure of Disability in the ACS Fails to Consider Requirements and Protections of U.S Federal Disability Rights and Equal Opportunity Laws*
+_The Proposal to Use the WG-SS as a Stand-Alone Measure of Disability in the ACS Fails to Consider Requirements and Protections of U.S Federal Disability Rights and Equal Opportunity Laws_
 
 While we appreciate the Bureau’s desire to adopt a disability measure that is internationally comparable, decisions on what disability questions will be used in the ACS should be foremost a domestic policy decision that includes consideration of the unique legislative landscape of the U.S. regarding the federal rights and protections for people with disabilities, and the obligations of federal agencies under federal civil rights and equal opportunity laws.
 
-*Section 504 of the Rehabilitation Act of 1973*
+_Section 504 of the Rehabilitation Act of 1973_
 
 Section 504 of the Rehabilitation Act requires equal opportunity for people with disabilities and prohibits disability discrimination in programs conducted by federal agencies.
 
@@ -67,9 +68,9 @@ The Department of Commerce Section 504 regulation applies to all programs or act
 
 The agency may not, directly or through contractual or other arrangements, utilize criteria or methods of administration the purpose or effect of which would -  (ii) Defeat or substantially impair accomplishment of the objectives of a program or activity with respect to individuals with handicaps. 15 CFR 8c(30)(b)(3).
 
-A decision by the Bureau to change the current questions in the ACS to the WG-SS using the proposed threshold (only deeming people disabled if they have ‘a lot of difficulty’ or ‘cannot do at all’ as disabled), with knowledge that this method does not identify millions of people with disabilities that are less significant/severe or are mitigated, and that the WG-SS was not designed to count all people with disabilities, appears to defeat or substantially impair the objective of the American Community Survey with respect to identifying people with disabilities in the U.S.  
+A decision by the Bureau to change the current questions in the ACS to the WG-SS using the proposed threshold (only deeming people disabled if they have ‘a lot of difficulty’ or ‘cannot do at all’ as disabled), with knowledge that this method does not identify millions of people with disabilities that are less significant/severe or are mitigated, and that the WG-SS was not designed to count all people with disabilities, appears to defeat or substantially impair the objective of the American Community Survey with respect to identifying people with disabilities in the U.S.
 
-*The ADA Amendments Act*
+_The ADA Amendments Act_
 
 Section 504 and the ADA define disability as (1) a physical or mental impairment that substantially limits a major life activity; (2) a record of such an impairment; or (3) being regarded as having such an impairment.[15](https://ncd.gov/publications/2023/letter-to-census-on-ACS#_ftn15)
 
@@ -79,13 +80,13 @@ In the phrase "a physical or mental impairment that substantially limits a major
 
 This is relevant to the Bureau’s proposal to not recognize persons who report having ‘some difficulty’ in any of the six areas of function in the WG-SS as people with disabilities. Many people with disabilities, including those that are at the significant/severe end of the spectrum (‘a lot of difficulty, ‘cannot do at all’), mitigate the effects of their disability through the use of assistive technologies, medications etc. and may therefore report having only ‘some difficulty’ in the six areas of function. Mitigation does not remove the underlying disability however, and this population is considered disabled under the ADAAA, with the exception noted above. To serve the purposes of counting people with disabilities in the U.S., this population must also be counted by the ACS, or the count will be artificially reduced.
 
-If the Bureau chooses not to change the proposed threshold to include those who report ‘some difficulty,’ it should continue to examine what questions can be used, either in addition to the WG-SS or in addition to the current ACS-62, that will include them. As with Section 504, other nations likely do not have the guardrails and protections for people with disabilities that must be considered by U.S. federal agencies when implementing changes that directly impact people with disabilities.  
+If the Bureau chooses not to change the proposed threshold to include those who report ‘some difficulty,’ it should continue to examine what questions can be used, either in addition to the WG-SS or in addition to the current ACS-62, that will include them. As with Section 504, other nations likely do not have the guardrails and protections for people with disabilities that must be considered by U.S. federal agencies when implementing changes that directly impact people with disabilities.
 
-*Other Issues Raised by the Bureau’s Proposed Changes*
+_Other Issues Raised by the Bureau’s Proposed Changes_
 
 As researchers specializing in disability have pointed out in recent letters to the Bureau,  the proposed change would make it difficult for researchers in the U.S. to make comparisons across surveys that use the same measures of disability. Healthy People 2010 set a goal for developing common standards for identifying the population of people with disabilities and the 2010 Affordable Care Act requires consistent standards for collecting disability information. The Department of Health and Human Services has chosen the ACS-6 as their minimum standard for identifying and measuring disability.[19](https://ncd.gov/publications/2023/letter-to-census-on-ACS#_ftn19) While limitations of the ACS-6 are well documented, the question set is widely used and provides an important benchmark that can be employed across population surveillance systems and facilitate cross survey comparisons.
 
-*Lack of Engagement with Disability Stakeholders* 
+_Lack of Engagement with Disability Stakeholders_
 
 During the November 16th National Advisory Committee Meeting, a presenter from the National Center on Health Statistics, stated that the Washington Group had the input of an interagency disability advisory group consisting of several federal agencies during the development of the WG-SS, however, it is unclear whether any participants had expertise in disability, or the extent and duration of their participation. No mention was made of engagement with disability stakeholders at the meeting, and many disability stakeholders - including demographers, sociologists, physicians, policy analysts, and epidemiologists with expertise in disability data - were shocked at the proposal and questioned why there had been no engagement with the community during the development and testing stages.
 
@@ -93,7 +94,7 @@ The Bureau should have engaged in continued, open and transparent communication 
 
 We urge you to fully engage the disability community and continue to work towards finding a manner to better count the disability population in the U.S. This should include the active input of those with expertise in the field of disability, including researchers, and offices within federal agencies that focus on people with disabilities, including HHS’ National Institute on Disability, Independent Living, and Rehabilitation Research, and the broader stakeholder community.
 
-*Insufficient Information in the Federal Register Notice*
+_Insufficient Information in the Federal Register Notice_
 
 The lack of adequate information in the Federal Register notice prevented the public from understanding the consequences of making the proposed change on the disability community. On its face, the Notice was entirely positive and claimed that this change was an improvement:
 
@@ -103,7 +104,7 @@ This information, on its own, could not be expected to elicit informed comments 
 
 It was not the Bureau that informed the public, but a concerned group of researchers and professionals who were engaged at the federal level and knowledgeable about this issue that brought it to the attention of the disability community. The public should not need to look beyond the Federal Register notice to obtain necessary information.
 
-*Keeping Public Comments Undisclosed During the Comment Period*
+_Keeping Public Comments Undisclosed During the Comment Period_
 
 Compounding the opacity of the proposed changes for the public was the Bureau’s decision to not publish public comments during the comment period – only allowing the public to see comments after the comment period closed. While we are not familiar with the standard practice of the Bureau when it publishes public comment requests, this is not the usual conduct of federal agencies, with public comments commonly being posted to Regulations.gov as they are submitted. The importance of allowing the public to view the comments submitted is clear – those who do not fully understand what is being proposed or the benefits or disadvantages of proposed actions, can educate themselves by reading the detailed comments of experts and organizations to help inform their opinions on the matter at hand. Keeping these closed prevented the public from accessing an important source of information – this was especially important here, where the Federal Register notice lacked sufficient information.
 
@@ -120,9 +121,7 @@ Vice Chair
 
 cc: Brian Moyer, Dire
 
-
-
-- - -
+---
 
 [1](https://ncd.gov/publications/2023/letter-to-census-on-ACS#_ftnref1) 29 U.S.C. § 781(a)(5) - (a)(6).
 

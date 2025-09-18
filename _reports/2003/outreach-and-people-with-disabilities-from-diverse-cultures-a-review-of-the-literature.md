@@ -6,11 +6,12 @@ collection_name: reports
 date: November 20, 2003
 report_year: 2003
 policy_areas:
-  - Cultural Diversity
+#  - Cultural Diversity
 word_document: reports/2003/ncd-outreach-people-with-disabilities-diverse-cultures-2003.doc
 pdf_document: reports/2003/ncd-outreach-people-with-disabilities-diverse-cultures-2003.pdf
 image_alt_text: NA
 ---
+
 N﻿ovember 20, 2003
 
 **S﻿COPE AND PURPOSE:**
