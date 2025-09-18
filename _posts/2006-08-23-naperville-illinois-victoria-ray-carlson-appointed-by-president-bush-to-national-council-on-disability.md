@@ -4,10 +4,12 @@ title: Naperville Illinois' Victoria Ray Carlson Appointed by President Bush to
   National Council on Disability
 collection_name: newsroom
 date: 2006-08-23
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 NCD #06-520\
-August 23, 2006 
+August 23, 2006
 
 **WASHINGTON—**Victoria Ray Carlson, a resident of Naperville, Illinois, and native of Iowa was appointed by President George W. Bush to serve as a member of the National Council on Disability (NCD) ([www.ncd.gov](https://ncd.gov/)). The U.S. Senate confirmed Ms. Carlson's nomination on August 3, 2006.
 

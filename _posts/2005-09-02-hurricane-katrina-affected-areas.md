@@ -3,13 +3,15 @@ layout: post
 title: Hurricane Katrina Affected Areas
 collection_name: newsroom
 date: 2005-09-02
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Emergency Management
 categories:
   - fact sheets
 document: documents/ncd-katrina-affected-areas-2005.pdf
 ---
+
 September 2, 2005
 
 **Basic Info**
@@ -32,28 +34,21 @@ The 102,122 people with disabilities living in New Orleans include people who ar
 
 The total destruction of the physical environment and public/private infrastructure and communications systems in the Gulf Coastal areas affected by Hurricane Katrina has life-threatening implications for all citizens with disabilities, and those without disabilities. The implications for these people include:
 
-* for people with physical disabilities and who are over 65 years of age, being unable to leave their homes, group homes, nursing homes, hospitals without significant assistance;
+- for people with physical disabilities and who are over 65 years of age, being unable to leave their homes, group homes, nursing homes, hospitals without significant assistance;
 
-   
-* for all people with disabilities, being prevented from using any type of accessible public transportation which in all likelihood do not exist anymore;
+- for all people with disabilities, being prevented from using any type of accessible public transportation which in all likelihood do not exist anymore;
 
-   
-* for people who are blind, being unable to even get around in their own flooded neighborhoods because they can no longer navigate the environmental landscape;
+- for people who are blind, being unable to even get around in their own flooded neighborhoods because they can no longer navigate the environmental landscape;
 
-   
-* for all people with disabilities driven by floods from institutions or group homes or nursing homes, needing to be housed in less than satisfactory conditions with considerably less than the necessary range of services and supports they need for an indeterminate amount of time;
+- for all people with disabilities driven by floods from institutions or group homes or nursing homes, needing to be housed in less than satisfactory conditions with considerably less than the necessary range of services and supports they need for an indeterminate amount of time;
 
-   
-* for people with disabilities who have service animals, are unable to rely on those animals outside of the house or group home because these animals cannot navigate safely in the flooded streets;
+- for people with disabilities who have service animals, are unable to rely on those animals outside of the house or group home because these animals cannot navigate safely in the flooded streets;
 
-   
-* for people who are deaf, being challenged to access emergency information through television, radio, TTY, etc. because public communications systems are somewhat compromised;
+- for people who are deaf, being challenged to access emergency information through television, radio, TTY, etc. because public communications systems are somewhat compromised;
 
-   
-* for all people with disabilities, being unable to secure life-saving food and water because many of them are trapped within the confines of inadequate supplied shelters, stadiums, etc.; and
+- for all people with disabilities, being unable to secure life-saving food and water because many of them are trapped within the confines of inadequate supplied shelters, stadiums, etc.; and
 
-   
-* people may have lost or become separated from the drugs they rely on daily for diabetes, heart disease and other chronic ailments. Pharmacies in the affected areas may have insufficient stocks of vital drugs like insulin for diabetics, creating a need to organize efforts to import and distribute essential medicines in the area. In addition, many pharmacies have been raided by looters.
+- people may have lost or become separated from the drugs they rely on daily for diabetes, heart disease and other chronic ailments. Pharmacies in the affected areas may have insufficient stocks of vital drugs like insulin for diabetics, creating a need to organize efforts to import and distribute essential medicines in the area. In addition, many pharmacies have been raided by looters.
 
 **Where to go for help?**
 
@@ -103,9 +98,9 @@ Sending money is the first priority. Sending supplies to those centers is helpfu
 
 Here are the suggested options for right now:
 
-1) Send a check or credit card payment to the Red Cross and designate it for Hurricane Relief, or designate it for people with disabilities in the Biloxi/Hattiesburg or New Orleans areas.
+1. Send a check or credit card payment to the Red Cross and designate it for Hurricane Relief, or designate it for people with disabilities in the Biloxi/Hattiesburg or New Orleans areas.
 
-2) If you want to send money for the CILs that are dealing with this disaster directly, here are your options:
+2. If you want to send money for the CILs that are dealing with this disaster directly, here are your options:
 
 For the Biloxi Center, mail the check (payable to LIFE of Central MS and designated for the Biloxi Center) to:
 

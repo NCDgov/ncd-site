@@ -3,7 +3,8 @@ layout: post
 title: NCD Statement in Support of LGBT Pride
 collection_name: newsroom
 date: 2013-06-17
-tag: null
+tags:
+  - null
 policy_areas:
 #  - Cultural Diversity
 ---

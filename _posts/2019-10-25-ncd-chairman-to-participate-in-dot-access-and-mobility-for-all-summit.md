@@ -2,10 +2,12 @@
 layout: post
 title: NCD Chairman to participate in DOT Access and Mobility for All Summit
 date: 2019-10-25
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Transportation
 ---
+
 **FOR IMMEDIATE RELEASE**
 
 **Oct. 25, 2019**

@@ -3,8 +3,10 @@ layout: post
 title: NCD seeks public comment during August 28 Council meeting
 collection_name: newsroom
 date: 2025-08-20
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **For Immediate Release**
 
 August 20, 2025

@@ -4,9 +4,11 @@ title: NCD Welcomes Appointment of Taryn Mackenzie Williams as White House
   Public Engagement Advisor
 collection_name: newsroom
 date: 2014-07-15
-tag: Press Release
+tags:
+  - Press Release
 ---
-July 15, 2014 
+
+July 15, 2014
 
 **WASHINGTON –** The National Council on Disability (NCD), an independent federal agency that advises the President, Congress and other federal agencies on disability policy, welcomes the appointment of Taryn Mackenzie Williams as an incoming Advisor at the Office of Public Engagement for the White House.  She began working in the position July 14, 2014.
 

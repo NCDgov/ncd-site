@@ -5,8 +5,10 @@ date: 2019-06-17
 excerpt: The National Council on Disability (NCD) mourns the passing of Deb
   Cotter, 51, who passed away June 17, in Washington, D.C. Deb was the Executive
   Director of NCD from December 2017 to March 2018.
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **June 27, 2019**
 
 **WASHINGTON--**The National Council on Disability (NCD) mourns the passing of Deb Cotter, 51, who passed away June 17, in Washington, D.C. Deb was the Executive Director of NCD from December 2017 to March 2018.

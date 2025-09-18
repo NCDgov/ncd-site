@@ -3,27 +3,29 @@ layout: post
 title: National Council on Disability announces new Vice Chair
 collection_name: newsroom
 date: 2024-06-04
-tag: Press Release
+tags:
+  - Press Release
 image: images/emily_voorde1.png
 image_alt_text: Vice Chair Emily Voorde headshot in front of U.S. flag
 ---
+
 **For Immediate Release**
 
-June 4, 2024                                      
+June 4, 2024
 
-**WASHINGTON —** Today the National Council on Disability (NCD) announces the designation of Councilmember Emily Voorde as NCD’s new Vice Chair. 
+**WASHINGTON —** Today the National Council on Disability (NCD) announces the designation of Councilmember Emily Voorde as NCD’s new Vice Chair.
 
 NCD Chair Claudia L. Gordon selected Voorde, who has served on the Council since November 2022, to serve in the position she previously held.
 
- “I’m proud to announce our new Vice Chair will be Emily Voorde, who brings an abundance of experience, ideas and energy into this critical role,” said Chair Gordon. “Emily is passionate about NCD’s rich history and important mission, and as an alumna of the Biden-Harris Administration’s White House Office of Public Engagement where she served as the liaison to Disabled Americans, she is well-experienced to help NCD advance our advice to policymakers.
+“I’m proud to announce our new Vice Chair will be Emily Voorde, who brings an abundance of experience, ideas and energy into this critical role,” said Chair Gordon. “Emily is passionate about NCD’s rich history and important mission, and as an alumna of the Biden-Harris Administration’s White House Office of Public Engagement where she served as the liaison to Disabled Americans, she is well-experienced to help NCD advance our advice to policymakers.
 
 “I’m honored to have been asked to serve as the National Council on Disability’s Vice Chair by Chair Claudia Gordon,” said Voorde. “This Council has the opportunity to advocate for critical, long-recommended updates to disability rights and regulations on behalf of disabled Americans,” she said. “I feel immensely privileged to serve alongside Chair Gordon, my fellow Council Members, and the NCD staff.”
 
-Both Gordon and Voorde were appointed by President Joseph R. Biden, Jr. and took the oath of office as Councilmembers on Nov. 17, 2022. Gordon was Vice Chair under previous Chairman Andrés J. Gallegos and became acting chair when he died Dec. 1, 2023. 
+Both Gordon and Voorde were appointed by President Joseph R. Biden, Jr. and took the oath of office as Councilmembers on Nov. 17, 2022. Gordon was Vice Chair under previous Chairman Andrés J. Gallegos and became acting chair when he died Dec. 1, 2023.
 
 Gordon was later announced as Council Chair by the White House on April 5, so designated by President Biden.
 
-The Council includes Chair Gordon, Vice Chair Voorde, Hoskie Benally, Jr., Sascha Bittner, Theo Braddy, Shawn Kennemer, Risa Rifkind and Neil Romano. 
+The Council includes Chair Gordon, Vice Chair Voorde, Hoskie Benally, Jr., Sascha Bittner, Theo Braddy, Shawn Kennemer, Risa Rifkind and Neil Romano.
 
 Appointments to NCD are made by the President of the United States, the Senate Majority Leader, the Senate Minority Leader, the Speaker of the House, and the House Minority Leader pursuant to section 451 of the Workforce Innovation and Opportunity Act (Pub. L. 113–128).
 

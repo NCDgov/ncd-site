@@ -3,12 +3,14 @@ layout: post
 title: Federal report finds Small Business Administration abandoning people with
   disabilities; federal training programs focus on wrong industries
 date: 2020-07-24
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Education
   - Employment
   - Financial Assistance & Incentives
 ---
+
 **For Immediate Release**
 
 July 24, 2020
@@ -27,15 +29,15 @@ Just days before the 30th anniversary of the ADA, NCD’s research informs Congr
 
 Among the report’s key findings include the following:
 
-* **Small Business –** Although people with disabilities, particularly visible disabilities and “severe” disabilities, clearly meet the standards for inclusion in the presumptively eligible groups for the SBA 8(a) Business Development program, and SBA has been presented with substantial evidence of this eligibility for inclusion in the 8(a) program, SBA has declined to publish notice of the request for their inclusion in the *Federal Register* and receive comments as required under federal regulation; 
-* **Safety Net Programs –** Many nonworking people with disabilities participate in social safety net programs like the Supplemental Security Income (SSI) and Social Security Disability Insurance (SSDI) that have strong, systemic disincentives to work. These disincentives contribute to the overall number of people with disabilities excluded from the labor force participation rate each year; 
-* **Workforce Development –** Secondary school youth transition programs, and the workforce development system, including the Vocational Rehabilitation program, historically have connected people with disabilities to retail and manual skills training that has become in considerably far less demand than other emerging information, knowledge, and technology-based industries; and 
-* **Federal Metrics** – Many government interventions are largely analgesic rather than curative – muting the pain of poverty and the consequences of protracted unemployment, and not measured by success in eliminating root causes or success in assisting such persons to enter the mainstream market and achieve economic self-sufficiency.
+- **Small Business –** Although people with disabilities, particularly visible disabilities and “severe” disabilities, clearly meet the standards for inclusion in the presumptively eligible groups for the SBA 8(a) Business Development program, and SBA has been presented with substantial evidence of this eligibility for inclusion in the 8(a) program, SBA has declined to publish notice of the request for their inclusion in the *Federal Register* and receive comments as required under federal regulation;
+- **Safety Net Programs –** Many nonworking people with disabilities participate in social safety net programs like the Supplemental Security Income (SSI) and Social Security Disability Insurance (SSDI) that have strong, systemic disincentives to work. These disincentives contribute to the overall number of people with disabilities excluded from the labor force participation rate each year;
+- **Workforce Development –** Secondary school youth transition programs, and the workforce development system, including the Vocational Rehabilitation program, historically have connected people with disabilities to retail and manual skills training that has become in considerably far less demand than other emerging information, knowledge, and technology-based industries; and
+- **Federal Metrics** – Many government interventions are largely analgesic rather than curative – muting the pain of poverty and the consequences of protracted unemployment, and not measured by success in eliminating root causes or success in assisting such persons to enter the mainstream market and achieve economic self-sufficiency.
 
 NCD concludes its report to policymakers with pointed recommendations to Congress, federal agencies, and the President in the areas of youth in transition; employer engagement; disincentives tied to public benefits; and support of entrepreneurship.
 
 **Read the full report:** <https://ncd.gov/progressreport/2020/2020-progress-report>
 
- 
+
 
 \###

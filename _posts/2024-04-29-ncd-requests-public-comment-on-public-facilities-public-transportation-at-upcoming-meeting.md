@@ -4,8 +4,10 @@ title: NCD requests public comment on public facilities, public transportation
   at upcoming meeting
 collection_name: newsroom
 date: 2024-04-29
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **FOR IMMEDIATE RELEASE**
 
 April 29, 2024
@@ -16,15 +18,15 @@ For the May 9 Council meeting, NCD will have a public comment session to receive
 
 During a 30-minute public comment session at 4 p.m. EST, the public will have the opportunity to share experiences and/or knowledge on the accessibility of municipal/county or private recreation facilities including:
 
-* Buildings (accessibility of buildings, locker rooms, weight rooms, exercise areas)
-* Fitness equipment (exercise machines, weight machines)
-* Exercise classes (integrated classes, modifications)
-* Swimming facilities (pool lifts, entry ramps)
-* Other accessibility comments on private or federally financed recreation facilities.
-* Invitation for Public Comment on Ground Transportation
-* NCD continues to seek public comment on ground transportation. Please provide comments about –
-* The accessibility of rental cars (reservations, hand-controls, cars available for rental)
-* The accessibility of hotel shuttles or other public shuttles
+- Buildings (accessibility of buildings, locker rooms, weight rooms, exercise areas)
+- Fitness equipment (exercise machines, weight machines)
+- Exercise classes (integrated classes, modifications)
+- Swimming facilities (pool lifts, entry ramps)
+- Other accessibility comments on private or federally financed recreation facilities.
+- Invitation for Public Comment on Ground Transportation
+- NCD continues to seek public comment on ground transportation. Please provide comments about –
+- The accessibility of rental cars (reservations, hand-controls, cars available for rental)
+- The accessibility of hotel shuttles or other public shuttles
 
 The public comment period provides an opportunity for NCD hear from you – individuals, businesses, providers, educators, parents and advocates. The comments will also provide data for an upcoming NCD report.
 

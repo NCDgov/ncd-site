@@ -2,12 +2,14 @@
 layout: post
 title: NCD Chairman statement on death of Michael Hickson
 date: 2020-07-02
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
   - Emergency Management
   - Health Care
 ---
+
 ### For Immediate Release
 
 July 2, 2020

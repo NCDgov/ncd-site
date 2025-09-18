@@ -4,13 +4,15 @@ title: National Council on Disability recognizes history, journey drafting the A
 collection_name: newsroom
 date: 2023-07-26
 excerpt: NCD celebrates the 35th anniversary of the the ADA's first draft.
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
 image_alt_text: NA
 video_url: https://www.youtube.com/watch?v=Zc9IQnFNwTw
 ---
-**FOR IMMEDIATE RELEASE**                                               
+
+**FOR IMMEDIATE RELEASE**
 
 July 26, 2023
 

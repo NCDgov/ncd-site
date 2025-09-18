@@ -9,17 +9,19 @@ excerpt: In a recently released report, new federal research examining
   pipeline” that results in people with ID/DD being placed under guardianships
   from their earliest years of majority rather than exploring use of less
   restrictive decision-making supports.
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
 ---
+
 June 10, 2019
 
 **WASHINGTON, D.C.** – In a recently released report, new federal research examining guardianships of people with intellectual and developmental disabilities (ID/DD) finds data supporting the existence of a “school-to-guardianship pipeline” that results in people with ID/DD being placed under guardianships from their earliest years of majority rather than exploring use of less restrictive decision-making supports.
 
 Under guardianship, an individual can have the following rights removed: the right to marry; the right to determine one own’s friends; the right to vote; the right to seek or retain employment; the right to consent to a medical procedure, including a sterilization or abortion; the right to drive; the right to decide where to live; and many others.
 
-In its latest report about these and other related findings, the National Council on Disability (NCD) – an independent federal agency that advises Congress, the President, and other federal agencies, found that school officials may be biasing parents toward pursuing guardianships over their adult children with disabilities because of the manner in which they are conveying information – and without understanding the legal implications of guardianship. Schools are the number one referral source for guardianship and a full 58 percent of people with ID/DD ages 18-22 receiving publicly funded services have guardians, most of whom will remain under guardianships for decades to come – many unnecessarily.  
+In its latest report about these and other related findings, the National Council on Disability (NCD) – an independent federal agency that advises Congress, the President, and other federal agencies, found that school officials may be biasing parents toward pursuing guardianships over their adult children with disabilities because of the manner in which they are conveying information – and without understanding the legal implications of guardianship. Schools are the number one referral source for guardianship and a full 58 percent of people with ID/DD ages 18-22 receiving publicly funded services have guardians, most of whom will remain under guardianships for decades to come – many unnecessarily.
 
 NCD’s newest research examines whether the increased risk for people with ID/DD being under guardianships may be linked to the different ways in which states apply their guardianship laws, as well as to assumptions about the abilities of people with ID/DD to fully experience the dignity of risk. The research goes on to examine how being under a guardianship impacts one’s ability to benefit from key civil rights laws.
 

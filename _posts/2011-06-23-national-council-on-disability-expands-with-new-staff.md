@@ -3,8 +3,10 @@ layout: post
 title: National Council on Disability Expands with New Staff
 collection_name: newsroom
 date: 2011-06-23
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 J﻿une 23, 2011
 
 **Washington, DC** –The National Council on Disability, an independent federal agency, which advises the President, Congress, and other federal officials and entities on policies and programs affecting Americans with disabilities, recently added four new staff to its team. NCD is pleased to welcome back two staff to NCD. Rejoining the agency are Robyn Powell as Attorney Advisor and Mark Seifarth as Legislative Affairs Specialist. Previously a Legal Intern for NCD in 2006, Powell returns after working as the Assistant Director for Policy and Advocacy for the Disability Policy Consortium in Boston. Seifarth served as NCD's Congressional Liaison from 2005 to 2007. He worked as the Legislative Liaison for the Ohio Department of Developmental Disabilities and retired in March with over thirty years of public policy and legislative work before returning to NCD.

@@ -4,14 +4,16 @@ title: UN Convention on the Rights of People with Disabilities Takes Giant Step
   Forward
 collection_name: newsroom
 date: 2006-09-22
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
   - CRPD
   - International
 ---
+
 NCD #06-522\
-September 22, 2006 
+September 22, 2006
 
 **WASHINGTON--**National Council on Disability (NCD) chairperson John R. Vaughn today released the following statement regarding the United Nations International Convention on the Rights of People with Disabilities.
 

@@ -3,10 +3,12 @@ layout: post
 title: Disability Healthcare Policy Forum to Be Held in Scottsdale, Arizona
 collection_name: newsroom
 date: 2009-01-05
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Health Care
 ---
+
 J﻿anuary 5, 2009
 
 **WASHINGTON—**Disability healthcare reform will be the subject of a policy forum sponsored by the National Council on Disability (NCD) on Tuesday, January 13, 2009, from 3:00 p.m. until 4:30 p.m. MST. The forum will be held at the Chaparral Suites Resort, 5001 N. Scottsdale Road, Scottsdale, Arizona. This meeting is open to the public.

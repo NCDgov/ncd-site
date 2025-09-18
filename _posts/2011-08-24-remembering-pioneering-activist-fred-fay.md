@@ -3,8 +3,10 @@ layout: post
 title: Remembering Pioneering Activist Fred Fay
 collection_name: newsroom
 date: 2011-08-24
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 Aug. 24, 2011
 
 **Washington, DC** – The National Council on Disability (NCD) -- an independent federal agency that advises the President, Congress, and other federal agencies on the policies and programs affecting the lives of Americans with disabilities honors the life and legacy of pioneering disability advocate Fred Fay who passed away August 20, 2011 in Concord, MA.

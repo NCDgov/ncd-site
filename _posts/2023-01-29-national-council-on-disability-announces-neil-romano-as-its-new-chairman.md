@@ -2,13 +2,15 @@
 layout: post
 title: National Council on Disability Announces Neil Romano as Its New Chairman
 date: 2018-03-08
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 March 8, 2018
 
 **WASHINGTON, D.C.** — The National Council on Disability (NCD) – an independent, nonpartisan federal agency that advises the President, Congress and other federal agencies on disability policy – announces current board member Neil Romano, of Orlando, Florida, as its new Chairman. Previous Chairperson Clyde Terry remains on the Council as a member. Mr. Romano’s designation as Chairman of the Council was made official by the White House on Monday, February 26. No further changes to the Council were made and existing presidential appointees have been asked to stay.
 
-Before being designated as Chairman by President Trump, Mr. Romano was appointed to NCD in February of 2015 and then reappointed for a second term of three years by Senate Majority Leader Mitch McConnell on February 15, 2018. Mr. Romano remains a congressional appointee to NCD.   
+Before being designated as Chairman by President Trump, Mr. Romano was appointed to NCD in February of 2015 and then reappointed for a second term of three years by Senate Majority Leader Mitch McConnell on February 15, 2018. Mr. Romano remains a congressional appointee to NCD.
 
 During his time at NCD, Mr. Romano has also served on NCD’s Executive Committee in his capacity as the Chairman of the Finance Committee. With his designation as Chairman of the Council, Mr. Romano requested Council Member Billy Altom to take on the role of Finance Committee Chair, which he accepted. Council Member Benro Ogunyipe will remain the Vice Chairperson.
 

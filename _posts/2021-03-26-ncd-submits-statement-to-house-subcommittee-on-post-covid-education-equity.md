@@ -6,11 +6,13 @@ excerpt: WASHINGTON--National Council on Disability submitted a statement for
   the record Thursday from Chairman Andrés J. Gallegos to the U.S. House of
   Representatives Committee on Education & Labor, Subcommittee on Early
   Childhood, Elementary, and Secondary Education.
-tag: Newsletter
+tags:
+  - Newsletter
 policy_areas:
   - ""
 image_alt_text: NA
 ---
+
 **WASHINGTON--**National Council on Disability submitted a statement for the record Thursday from Chairman Andrés J. Gallegos to the U.S. House of Representatives Committee on Education & Labor, Subcommittee on Early Childhood, Elementary, and Secondary Education.
 
 The following statement  is titled *Lessons Learned: Charting the Path to Educational Equity Post-COVID-19:*
@@ -25,17 +27,13 @@ While the COVID-19 pandemic caused significant disruptions to the educational ex
 
 The often overlapping problems experienced by students with disabilities include: barriers to accessing remote education related to equipment, technology and broadband; the inability of some students with disabilities to focus and learn during remote learning; the failure of schools to accommodate the needs of students with disabilities on remote platforms; the inability to receive services and supports that were provided in person or on school campuses, such as occupational therapy, speech and language therapy, behavioral and mental health supports, small group instruction, and one-on-one aides; among others. Those and other issues will be addressed in NCD’s report this summer.
 
-Given the detrimental effects that students with disabilities have experienced as a result of the extended school closures, future federal responses to the COVID-19 pandemic must include additional IDEA funding, as well as provide compensatory education services to allow students with disabilities to regain the skills that were disrupted, delayed or completely lost. In planning for future national emergencies, it is of critical importance that we invest in technology, equipment and connectivity, not only for students with disabilities to have an equal opportunity to engage and succeed in remote learning, if that is the only option, but also to ensure they continue to receive the services and supports that are essential for their academic success.  
+Given the detrimental effects that students with disabilities have experienced as a result of the extended school closures, future federal responses to the COVID-19 pandemic must include additional IDEA funding, as well as provide compensatory education services to allow students with disabilities to regain the skills that were disrupted, delayed or completely lost. In planning for future national emergencies, it is of critical importance that we invest in technology, equipment and connectivity, not only for students with disabilities to have an equal opportunity to engage and succeed in remote learning, if that is the only option, but also to ensure they continue to receive the services and supports that are essential for their academic success.
 
 Most Respectfully,
 
 Andrés J. Gallegos\
 Chairman
 
-
-
-
-
 [1](https://ncd.gov/#_ednref1) *See* National Council on Disability, *Broken Promises: The Underfunding of IDEA* 1, 13 (Washington, D.C.: Feb. 7, 2018) (describing how the federal government funds only 18 percent of IDEA costs, and how funding issues can cause delays in evaluations or rejection of requests for independent educational evaluations, inappropriate changes in placement and/or services, and failures to properly implement individualized education programs (IEPs), together with resentment and discrimination against children with disabilities in their public schools), <{{ site.baseUrl }}/assets/uploads/docs/ncd-brokenpromises-508.pdf>.
 
-[2](https://ncd.gov/#_ednref2) *See* GAO, *Distance Learning*, *supra* n. _, at 18 (discussing students with social anxiety or other mental health conditions).
+[2](https://ncd.gov/#_ednref2) *See* GAO, *Distance Learning*, *supra* n. \_, at 18 (discussing students with social anxiety or other mental health conditions).

@@ -2,7 +2,8 @@
 layout: post
 title: NCD Chairman testifies at USCCR briefing
 date: 2021-06-28
-tag: Newsletter
+tags:
+  - Newsletter
 policy_areas:
   - ""
 image_alt_text: NA

@@ -3,8 +3,10 @@ layout: post
 title: National Council on Disability Introduces Eight New Board Members, New Chairman
 collection_name: newsroom
 date: 2010-06-24
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 J﻿une 24, 2010
 
 **WASHINGTON—**The [National Council on Disability](https://ncd.gov/ "blocked::/") (NCD) is proud to introduce eight new Board Members who were nominated by President Barack Obama on December 17, 2009, confirmed by the U.S. Senate, and duly appointed as Members. President Obama has further designated Jonathan Young as Chairman. The new Members are: Jonathan Young (Chairman), Gary Blumenthal, Chester Finn, Sara Gelser, Ari Ne'eman, Dongwoo Joseph "Joe" Pak, Carol Jean Reynolds, and Fernando M. Torres-Gil. Individual biographies for each new Council Member are located at the end of this release.

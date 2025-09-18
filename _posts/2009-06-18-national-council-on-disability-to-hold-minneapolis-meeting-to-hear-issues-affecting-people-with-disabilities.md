@@ -4,8 +4,10 @@ title: National Council on Disability to Hold Minneapolis Meeting to Hear Issues
   Affecting People with Disabilities
 collection_name: newsroom
 date: 2009-06-18
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 J﻿une 17, 2009
 
 **WASHINGTON—**The National Council on Disability (NCD) will conduct its next quarterly meeting at the Minneapolis Marriott City Center, 30 South 7th Street, Minneapolis, MN, beginning at 8:30 a.m. on Monday, July 20, 2009, and ending at 11:00 a.m. on Wednesday, July 22, 2009. All times are Central Daylight Time. This meeting is open to the public.

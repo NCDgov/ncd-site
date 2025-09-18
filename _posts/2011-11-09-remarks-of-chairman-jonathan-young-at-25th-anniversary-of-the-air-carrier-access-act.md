@@ -4,10 +4,12 @@ title: Remarks of Chairman Jonathan Young at 25th Anniversary of the Air Carrier
   Access Act
 collection_name: newsroom
 date: 2011-11-09
-tag: Speech
+tags:
+  - Speech
 policy_areas:
   - Transportation
 ---
+
 ## **PREPARED REMARKS**
 
 November 9, 2011\
@@ -25,7 +27,7 @@ Today we celebrate 25 years of our nation's recognition that access to air trave
 
 Although enactment of the Air Carrier Access Act may not be recognized as a milestone by most Americans, people like John Kemp know all too well what life was like before the Air Carrier Access Act. The history of disability has been for far too long a history of exclusion. Sometimes subtle. Sometimes a consequence of benign neglect. And sometimes based on outright hostility. In the 19th century, for instance, many states had "ugly laws" that provided broad discretion to exclude people from public for no other reason than some people didn't like having to look at certain people. These attitudes extended to air travel, and persisted well after most states repealed their "ugly laws."
 
-Here's an excerpt from the Air Traffic Conference of America's 1962 Trade Practices Manual: "Persons who have malodorous conditions, gross disfigurement, or other unpleasant characteristics so unusual as to offend fellow passengers should not be transported by any member." This type of standard was as elastic as it is now offensive, and gave airlines license to implement subjective policies of discrimination toward passengers with disabilities. 
+Here's an excerpt from the Air Traffic Conference of America's 1962 Trade Practices Manual: "Persons who have malodorous conditions, gross disfigurement, or other unpleasant characteristics so unusual as to offend fellow passengers should not be transported by any member." This type of standard was as elastic as it is now offensive, and gave airlines license to implement subjective policies of discrimination toward passengers with disabilities.
 
 A 1976 study discovered one airline would not allow an unaccompanied blind person to sit next to a person of the opposite sex; another airline refused to accept people with epilepsy as passengers; at least seven airlines refused service to passengers with psychiatric disabilities; and at one airline expressly excluded individuals with intellectual disabilities from passenger service at all.
 
@@ -51,6 +53,6 @@ We can all be proud of the progress made under the Air Carrier Access Act - and 
 
 The National Council on Disability, together with our federal partners, embraces this challenge. We are excited by the inclusive opportunities that lie ahead and look forward, with great anticipation, to the next two decades and beyond.
 
-As we've all heard here today, there are plenty of reasons for all of us to be optimistic-and vigilant. 
+As we've all heard here today, there are plenty of reasons for all of us to be optimistic-and vigilant.
 
 Thank you.

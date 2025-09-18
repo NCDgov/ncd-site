@@ -3,8 +3,10 @@ layout: post
 title: National Council on Disability Commends Senate Commerce Committee for
   Hearings on Self-Driving Cars
 date: 2016-03-16
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **P﻿ress Release**
 
 March 16, 2016
@@ -17,9 +19,9 @@ March 16, 2016
 
 **Why Self-Driving Cars Are Important to 57 Million Americans with Disabilities:**
 
-* Autonomous vehicles, or AVs, hold great potential to advance social inclusion by offering people with a variety of disabilities, including blindness, independent mobility to get to school, get jobs, and participate that other Americans take for granted each day. They offer the possibility of ending the isolation many people who are aging experience by keeping connections with others through common activities that are often lost when people lose the ability to drive.
-* AV technology holds the key for independent use of vehicles by people who cannot hold a driver’s license. However, without explicit inclusion of accessibility in the development of AV technologies, the potential for independence decreases. For example, equal access to the internet for people who are blind, have low-vision or other disabilities was not considered by web developers, and many people with disabilities experienced unnecessary obstacles to information (e.g., text that is inaccessible to screen reader software, lack of captions on audio content, keyboard-only navigation). Untapped markets were neglected. This is a lesson for AV researchers and engineers—now is the time to commit to and ensure equal accessibility while at the same time amassing market share.
-* Once level 4 AVs (i.e., fully self-driving cars) are available, there is no reason for an occupant to be licensed at all. In order for people with a variety of disabilities to benefit from the technology, licensing or operating requirements should be consistent across all 50 states. National guidelines developed by the United States Department of Transportation should help states develop licensing requirements that do not impose undue or unnecessary limits on people with disabilities.
+- Autonomous vehicles, or AVs, hold great potential to advance social inclusion by offering people with a variety of disabilities, including blindness, independent mobility to get to school, get jobs, and participate that other Americans take for granted each day. They offer the possibility of ending the isolation many people who are aging experience by keeping connections with others through common activities that are often lost when people lose the ability to drive.
+- AV technology holds the key for independent use of vehicles by people who cannot hold a driver’s license. However, without explicit inclusion of accessibility in the development of AV technologies, the potential for independence decreases. For example, equal access to the internet for people who are blind, have low-vision or other disabilities was not considered by web developers, and many people with disabilities experienced unnecessary obstacles to information (e.g., text that is inaccessible to screen reader software, lack of captions on audio content, keyboard-only navigation). Untapped markets were neglected. This is a lesson for AV researchers and engineers—now is the time to commit to and ensure equal accessibility while at the same time amassing market share.
+- Once level 4 AVs (i.e., fully self-driving cars) are available, there is no reason for an occupant to be licensed at all. In order for people with a variety of disabilities to benefit from the technology, licensing or operating requirements should be consistent across all 50 states. National guidelines developed by the United States Department of Transportation should help states develop licensing requirements that do not impose undue or unnecessary limits on people with disabilities.
 
 **NCD’s report “Self-Driving Cars: Mapping Access to a Technology Revolution” can be read or downloaded from:** <http://www.ncd.gov/publications/2015/self-driving-cars-mapping-access-technology-revolution>
 

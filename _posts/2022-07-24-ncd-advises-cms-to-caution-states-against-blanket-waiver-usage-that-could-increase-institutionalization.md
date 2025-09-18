@@ -3,13 +3,15 @@ layout: post
 title: NCD advises CMS to caution states against blanket waiver usage that could
   increase institutionalization
 date: 2020-04-15
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
   - Emergency Management
   - Health Care
   - Long Term Services & Support
 ---
+
 ### For Immediate Release
 
 April 15, 2020
@@ -22,7 +24,7 @@ NCD understands the COVID-19 pandemic is of the like that our country has never 
 
 The specific blanket waivers that lead to the institutionalization of people with disabilities are waiver of the three-day hospitalization stay prior to admission to an SNF, Minimum Data Set (MDS) assessments, staffing data, and Preadmission Screening and  Resident Review (PASRR).
 
- “Persons with disabilities incur long-term repercussions when transferred to an institutional setting. Even if the intent is short-term,” wrote Chairman Neil Romano.
+“Persons with disabilities incur long-term repercussions when transferred to an institutional setting. Even if the intent is short-term,” wrote Chairman Neil Romano.
 
 Last May, NCD published the report Preserving Freedom: Ending Institutionalization of People With Disabilities During and After Disasters. The report highlighted the institutional rate of persons with disabilities during and after Hurricane Katrina, Harvey, Irma and Maria.
 

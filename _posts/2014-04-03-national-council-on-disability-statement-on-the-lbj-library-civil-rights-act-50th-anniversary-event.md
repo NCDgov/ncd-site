@@ -4,10 +4,12 @@ title: National Council on Disability Statement on the LBJ Library Civil Rights
   Act 50th Anniversary Event
 collection_name: newsroom
 date: 2014-04-03
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
 ---
+
 April 3, 2014
 
 Beginning April 8, the LBJ Presidential Library will conduct a Civil Rights Summit to mark the 50th Anniversary of the Civil Rights Act. The historic event will include presentations by three U.S. Presidents and distinguished panelists across the civil rights spectrum. Regrettably, the Summit does not include representation from the disability community. The National Council on Disability (NCD), an independent federal agency whose 15 members are appointed by the President, urges the LBJ Presidential Library to take this opportunity to include the perspectives and contributions 54 million Americans with disabilities in keeping our collective eyes on the prize for every American still subject to discrimination.

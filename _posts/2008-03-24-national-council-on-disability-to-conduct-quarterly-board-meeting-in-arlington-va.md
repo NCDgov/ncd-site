@@ -4,8 +4,10 @@ title: National Council on Disability to Conduct Quarterly Board Meeting in
   Arlington, VA
 collection_name: newsroom
 date: 2008-03-24
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 M﻿arch 24, 2008
 
 **WASHINGTON—**The National Council on Disability (NCD) will conduct its next quarterly meeting at the Westin Arlington Gateway, 801 North Glebe Road, Arlington, VA, beginning Monday, April 21, 2008, at 8:30 a.m. and ending Wednesday, April 23 at 12:30 p.m. This meeting is open to the public.

@@ -3,7 +3,8 @@ layout: post
 title: "Tomorrow: National Summit on Disability Policy to Convene in Washington, DC"
 collection_name: newsroom
 date: 2010-07-26
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
   #  - Cultural Diversity

@@ -2,8 +2,10 @@
 layout: post
 title: Clyde Terry Appointed New Chairperson of the National Council on Disability
 date: 2015-09-21
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 S﻿ept. 21, 2015
 
 **WASHINGTON, D.C. —** The National Council on Disability (NCD) – an independent federal agency that advises the President, Congress and other federal agencies on disability policy – welcomes Clyde Terry as its new chairperson. The appointment was announced by the White House Friday, September 18.
@@ -26,6 +28,6 @@ Current NCD members include:  Clyde Terry (Incoming Chair), Co-Vice Chairs Kath
 
 Clyde Terry is the Chief Executive Officer of Granite State Independent Living in Concord, NH. Previously, Terry was the Executive Director of the New Hampshire Developmental Disabilities Council. His work has included spearheading a national coalition of disability organizations on election reform and election accessibility. In this role, he co-authored "Voters Denied Equal Access at the Polls; A Status Report of the Accessibility of Polling Places in the United States" in 2001. Terry received his B.S. from Emerson College and his J.D. from the Franklin Pierce Law Center, now the University of New Hampshire School of Law.
 
-**About the National Council on Disability (NCD):** 
+**About the National Council on Disability (NCD):**
 
 First established as an advisory Council within the Department of Education in 1978, NCD became an independent federal agency in 1984. In 1986, NCD recommended enactment of an Americans with Disabilities Act (ADA), and drafted the first version of the bill which was introduced in the House and Senate in 1988. Since enactment of the ADA in 1990, NCD has continued to play a leading role in crafting disability policy, and advising the President, Congress and other federal agencies on disability policies, programs, and practices.

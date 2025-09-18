@@ -4,12 +4,14 @@ title: National Council on Disability to Hear Presentations from Regional
   Leaders on Issues Affecting People with Disabilities
 collection_name: newsroom
 date: 2009-10-22
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Employment
   - Health Care
   - Education
 ---
+
 O﻿ct. 22, 2009
 
 **WASHINGTON—**The National Council on Disability (NCD) will hear presentations and discuss employment, health care, and restraint and seclusion issues affecting people with disabilities during its quarterly meeting at the Holiday Inn Express, 920 Broadway, Nashville, TN, which begins at 8:30 a.m. on Monday, October 26, 2009, and concludes at 11:00 a.m. on Wednesday, October 28, 2009. This meeting is open to the public.

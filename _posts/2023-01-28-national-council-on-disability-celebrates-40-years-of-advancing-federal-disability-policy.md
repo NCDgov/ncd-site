@@ -3,8 +3,10 @@ layout: post
 title: National Council on Disability celebrates 40 years of advancing federal
   disability policy
 date: 2018-11-06
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **For Immediate Release**
 
 **Nov. 6, 2018**
@@ -13,7 +15,7 @@ tag: Press Release
 
 On Nov. 6, 1978, President Jimmy Carter signed Public Law 95-602, replacing the former Title IV of the Rehabilitation Act of 1973 with a new Title IV. The change established an advisory council within the Department of Health, Education, and Welfare called the National Council on the Handicapped, which was NCD’s original name.
 
-The law set forth the duties of the National Council, including establishing general policies for the [National Institute of Handicapped Research--now known as the ](<>)National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR)-- and reviewing and evaluating on a continuing basis [policies, programs, and activities ](<>)concerning people with disabilities.
+The law set forth the duties of the National Council, including establishing general policies for the [National Institute of Handicapped Research--now known as the ]()National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR)-- and reviewing and evaluating on a continuing basis [policies, programs, and activities ]()concerning people with disabilities.
 
 A year later, Congress passed the Department of Education Organization Act and President Carter signed Public Law 96-88 into law, at which time the Council was moved under the newly-created U.S. Department of Education.
 
@@ -27,6 +29,6 @@ While several government agencies deal with issues and programs affecting people
 
 Visit ncd.gov for more.
 
- 
+
 
 \# # #

@@ -2,10 +2,12 @@
 layout: post
 title: National Council on Disability status during COVID-19 outbreak
 date: 2020-03-16
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Emergency Management
 ---
+
 ### For Immediate Release
 
 March 16, 2020
@@ -14,14 +16,14 @@ March 16, 2020
 
 NCD as a federal agency is open for business, however, in response to the directive that all Federal Executive Branch agencies are encouraged to maximize telework flexibilities, effective Monday, March 15, 2020, the option to telework on a full-time basis was extended to all NCD staff.
 
-Business continues as normal, and any teleworking employees will still be accessible by phone or email.  
+Business continues as normal, and any teleworking employees will still be accessible by phone or email.
 
-* Guidance from OPM:  <https://www.chcoc.gov/content/coronavirus-disease-2019-covid-19-additional-guidance>
-* CDC Information: <https://www.cdc.gov/coronavirus/2019-ncov/index.html>
-* Occupational Safety and Health Administration (OSHA) guidance: <https://www.osha.gov/SLTC/covid-19/>
-* Overseas Travel Information: <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/>
-* OMB M-20-13   <https://www.whitehouse.gov/wp-content/uploads/2020/03/M-20-13.pdf>
+- Guidance from OPM:  <https://www.chcoc.gov/content/coronavirus-disease-2019-covid-19-additional-guidance>
+- CDC Information: <https://www.cdc.gov/coronavirus/2019-ncov/index.html>
+- Occupational Safety and Health Administration (OSHA) guidance: <https://www.osha.gov/SLTC/covid-19/>
+- Overseas Travel Information: <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/>
+- OMB M-20-13   <https://www.whitehouse.gov/wp-content/uploads/2020/03/M-20-13.pdf>
 
- 
+
 
 \###

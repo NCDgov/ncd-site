@@ -3,13 +3,15 @@ layout: post
 title: NCD Welcomes Newest Council Member, Stephanie Orlando
 collection_name: newsroom
 date: 2012-04-12
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 April 12, 2012
 
 **WASHINGTON, DC --** The National Council on Disability (NCD) -- an independent federal agency that advises the President, Congress, and other federal agencies on the policies and programs that affect the lives of people with disabilities -- is honored to welcome Stephanie Orlando to the agency. On July 5, 2011, President Barack Obama nominated Orlando to NCD. She was confirmed by the United States Senate March 29, 2012.
 
-NCD's Chairman Jonathan Young hailed Orlando's confirmation saying, "Once a recipient of children's mental health, special education and residential services herself, Ms. Orlando has grown into respected advocate for youth with disabilities. Her previous work with NCD as the Chairperson of our Youth Advisory Committee and the valuable work she's done since have demonstrated her commitment and skill in championing equal access and opportunity for people with disabilities – particularly the next generation. We enthusiastically welcome Stephanie to the National Council on Disability."   
+NCD's Chairman Jonathan Young hailed Orlando's confirmation saying, "Once a recipient of children's mental health, special education and residential services herself, Ms. Orlando has grown into respected advocate for youth with disabilities. Her previous work with NCD as the Chairperson of our Youth Advisory Committee and the valuable work she's done since have demonstrated her commitment and skill in championing equal access and opportunity for people with disabilities – particularly the next generation. We enthusiastically welcome Stephanie to the National Council on Disability."
 
 With the addition of Stephanie Orlando, the NCD Board now consists of: Chairman Jonathan Young, Vice Chair Janice Lehrer-Stein, Gary Blumenthal, Chester Finn, Sara Gelser, Marylyn Howe, Matan Koch, Lonnie Moore, Ari Ne'eman, Dongwoo ("Joe") Pak, Clyde Terry, Dr. Fernando Torres-Gill, Linda Wetters and Pam Young-Holmes.
 

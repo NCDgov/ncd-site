@@ -3,10 +3,12 @@ layout: post
 title: As ADA Nears 23rd Anniversary, NCD Assesses Impact of 2008's ADA Amendments Act
 collection_name: newsroom
 date: 2013-07-23
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
 ---
+
 July 23, 2013
 
 **WASHINGTON --** Today, the National Council on Disability (NCD), an independent federal agency, released a report titled “A Promising Start: Preliminary Analysis of Court Decisions Under the ADA Amendments Act,” which reviews the court decisions that have been rendered to date applying the Americans with Disabilities Act Amendments Act of 2008 (ADAAA) and reveals significant improvements in how courts are interpreting protections intended for coverage under the ADA.

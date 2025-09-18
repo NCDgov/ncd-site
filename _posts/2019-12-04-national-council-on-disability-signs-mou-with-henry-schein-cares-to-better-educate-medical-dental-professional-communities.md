@@ -6,8 +6,10 @@ date: 2019-12-04
 excerpt: The National Council on Disability (NCD)—an independent federal agency
   that advises the President and Congress— has signed a memorandum of
   understanding (MOU) with Henry Schein Cares (HSC).
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **WASHINGTON –** The National Council on Disability (NCD)—an independent federal agency that advises the President and Congress— has signed a memorandum of understanding (MOU) with Henry Schein Cares (HSC).
 
 The MOU, signed at the Dec. 3 Greater New York Dental Meeting in New York City, is a collaboration seeking improved access to care for Americans with disabilities. NCD and HSC developed the MOU to coordinate their efforts and better educate the professional medical and dental communities in disability competency.
@@ -22,7 +24,7 @@ Over the last several years NCD has worked toward better educating and informing
 
 In 2017, NCD published *[Neglected for Too Long: Dental Care for People with Intellectual and Developmental Disabilities](https://ncd.gov/publications/2017/dental-issue-brief).* NCD’s communication efforts since then resulted in the American Dental Association and its Commission on Dental Accreditation making significant changes to professional code and training requirements.
 
- “We look forward to continuing to make progress for the disability community and ensuring that dentists can provide care for this most deserving population, said Chairman Romano.”
+“We look forward to continuing to make progress for the disability community and ensuring that dentists can provide care for this most deserving population, said Chairman Romano.”
 
 To learn more about the Henry Schein Cares, visit their [website](https://www.henryschein.com/us-en/corporate/access-to-care.aspx).
 

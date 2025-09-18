@@ -4,8 +4,10 @@ title: National Council on Disability to Meet in Scottsdale to Hear Issues
   Affecting People with Disabilities in Southwest
 collection_name: newsroom
 date: 2008-12-08
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 D﻿ec. 8, 2008
 
 **WASHINGTON—**The National Council on Disability (NCD) will conduct its next quarterly meeting at the Chaparral Suites Resort, 5001 N. Scottsdale Road, Scottsdale, Arizona, beginning at 8:30 a.m. MST on Monday, January 12, 2009, and ending at 4:00 p.m. MST on Wednesday, January 14, 2009. This meeting is open to the public.

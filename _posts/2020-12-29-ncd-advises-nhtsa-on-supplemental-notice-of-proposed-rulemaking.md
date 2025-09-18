@@ -2,16 +2,18 @@
 layout: post
 title: NCD advises NHTSA on supplemental notice of proposed rulemaking
 date: 2020-12-29
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Transportation
 image_alt_text: NA
 ---
+
 **WASHINGTON—**Chairman of the National Council on Disability (NCD) applauded National Highway Traffic Safety Administration (NHTSA) leaders regarding recent actions to improve accessibility for people with disabilities.
 
-In a letter to Deputy Administrator James Owens, NCD Chairman Neil Romano expressed his appreciation, and that of the Council, for NHTSA's recent publication of a supplemental notice of proposed rulemaking. 
+In a letter to Deputy Administrator James Owens, NCD Chairman Neil Romano expressed his appreciation, and that of the Council, for NHTSA's recent publication of a supplemental notice of proposed rulemaking.
 
-In the letter, he noted NHTSA’s “Make Inoperative Exemptions; Vehicle Modifications to Accommodate People with Disabilities,” would be an incremental but important step forward for drivers who use wheelchairs or otherwise rely on hand controls to operate a car or truck. 
+In the letter, he noted NHTSA’s “Make Inoperative Exemptions; Vehicle Modifications to Accommodate People with Disabilities,” would be an incremental but important step forward for drivers who use wheelchairs or otherwise rely on hand controls to operate a car or truck.
 
 Chairman Romano not only endorsed the rule, but requested consideration of an interim final rule or other step to make the language effective immediately.
 

@@ -4,10 +4,12 @@ title: NCD Statement on Forced Drugging of a Texas Inmate with a Psychiatric
   Disability
 collection_name: newsroom
 date: 2006-06-23
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
 ---
+
 June 23, 2006
 
 **W﻿ASHINGTON, D.C.--**A state district judge in Texas has ordered inmate Steven Kenneth Staley to take psychiatric medication so that he can be declared mentally fit for execution. In 2003, the U.S. Circuit Court of Appeals permitted officials in Arkansas to forcibly administer medication to control an inmate's behavior, making him "competent" enough to be executed.

@@ -4,7 +4,8 @@ title: NCD announces update to Understanding Disabilities in American Indian &
   Alaska Native Communities Toolkit Guide
 collection_name: newsroom
 date: 2023-03-24
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
 #  - Cultural Diversity
 categories:

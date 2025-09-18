@@ -7,13 +7,15 @@ excerpt: The National Council on Disability (NCD) – an independent, nonpartisa
   federal agency that advises the President, Congress, and other federal
   agencies on disability policy – announces Claudia L. Gordon, Esq., of
   Washington, D.C., as its new Chair.
-tag: Press Release
+tags:
+  - Press Release
 image: images/claudia-gordon-headshot.jpg
 image_alt_text: Black woman with teal top with elbows on top of a white box and
   interlocked fingers under her chin. There is a tan background.
 video_url: ""
 ---
-FOR IMMEDIATE RELEASE                                     
+
+FOR IMMEDIATE RELEASE
 
 April 9, 2024
 

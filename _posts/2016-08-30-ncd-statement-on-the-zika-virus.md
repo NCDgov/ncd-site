@@ -2,8 +2,10 @@
 layout: post
 title: NCD Statement on the Zika Virus
 date: 2016-08-30
-tag: null
+tags:
+  - null
 ---
+
 Posted: August 30, 2016
 
 The mosquito-born Zika virus has spread to over 34 countries by date, with confirmed cases in the United States, and has thus emerged as the dominant public health concern of 2016. In April, the Centers for Disease Control and Protection concluded that there is “definitive evidence” of a link between the Zika virus and babies being born with serious birth defects. Most recently, on August 26, the Food and Drug Administration called for all blood banks to screen donations for the infection even in states where the virus is not currently circulating as an added safeguard against further transmission.

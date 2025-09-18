@@ -4,11 +4,13 @@ title: NCD assesses, advises on impact of Supreme Court Cummings decision
 date: 2023-01-19
 excerpt: Today the National Council on Disability releases a policy brief on a
   legal decision impacting people experiencing disability-based discrimination.
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
 ---
-**FOR IMMEDIATE RELEASE**                                                       
+
+**FOR IMMEDIATE RELEASE**
 
 January 19, 2023
 
@@ -24,6 +26,6 @@ The policy brief concludes by recommending a legislative fix to the Supreme Cour
 
 NCD is an independent, nonpartisan federal agency that advises the President, Congress and other federal agencies on disability policy. The report is available at NCD.gov.
 
- 
+
 
 \###

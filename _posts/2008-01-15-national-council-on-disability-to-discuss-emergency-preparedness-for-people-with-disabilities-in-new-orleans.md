@@ -4,10 +4,12 @@ title: National Council on Disability to Discuss Emergency Preparedness for
   People with Disabilities in New Orleans
 collection_name: newsroom
 date: 2008-01-15
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Emergency Management
 ---
+
 J﻿anuary 15, 2008
 
 **WASHINGTON—**The National Council on Disability (NCD) will hear presentations on emergency preparedness for people with disabilities at the New Orleans Marriott Convention Center, 859 Convention Center Boulevard, New Orleans, Louisiana, January 29, 2008, at 1:15 p.m. These presentations are open to the public and the media.

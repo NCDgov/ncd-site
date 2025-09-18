@@ -5,15 +5,17 @@ title: NCD remembers former NCD Chairperson Marca Bristo – first NCD chair to
 date: 2019-09-09
 excerpt: The National Council on Disability (NCD) remembers former NCD
   Chairperson Marca Bristo, who passed away Sunday, Sept. 8, at the age of 66.
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 **WASHINGTON--**The National Council on Disability (NCD) remembers former NCD Chairperson Marca Bristo, who passed away Sunday, Sept. 8, at the age of 66.
 
 Bristo, who in 1978 was paralyzed from a diving accident, had been at the forefront of the disability rights movement over the last four decades.
 
 She founded Access Living in 1980, worked tirelessly on the Americans with Disabilities Act that passed in 1990, and co-founded the National Council on Independent Living (NCIL) in 1992.
 
-"Marca was a strong and inspirational leader in the disability community for many years," said NCD Chairman Neil Romano. "Every time I had the pleasure of being in her company, I learned a great deal and was inspired by her energy and her single-mindedness on behalf of people with disabilities," he said. 
+"Marca was a strong and inspirational leader in the disability community for many years," said NCD Chairman Neil Romano. "Every time I had the pleasure of being in her company, I learned a great deal and was inspired by her energy and her single-mindedness on behalf of people with disabilities," he said.
 
 Bristo was appointed to NCD by President Bill Clinton in 1994 and served as Chair until 2002. She was the first NCD Chair to have a disability.
 

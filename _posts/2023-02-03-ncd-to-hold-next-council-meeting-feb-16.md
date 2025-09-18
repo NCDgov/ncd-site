@@ -3,8 +3,10 @@ layout: post
 title: NCD to hold next Council Meeting Feb. 16
 collection_name: newsroom
 date: 2023-02-03
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 Feb. 3, 2023
 
 **W﻿ASHINGTON--**The Members of the National Council on Disability (NCD) will hold a quarterly business meeting on Thursday, February 16, 12-4 p.m. EST via Zoom.

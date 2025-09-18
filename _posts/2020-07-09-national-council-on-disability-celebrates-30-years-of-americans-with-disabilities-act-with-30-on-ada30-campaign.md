@@ -3,7 +3,8 @@ layout: post
 title: National Council on Disability celebrates 30 years of Americans with
   Disabilities Act with '30 on ADA30' campaign
 date: 2020-07-09
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Civil Rights
   #  - Cultural Diversity

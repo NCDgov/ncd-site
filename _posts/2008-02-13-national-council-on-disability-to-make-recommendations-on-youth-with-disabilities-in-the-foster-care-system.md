@@ -4,10 +4,12 @@ title: National Council on Disability to Make Recommendations on Youth with
   Disabilities in the Foster Care System
 collection_name: newsroom
 date: 2008-02-13
-tag: Press Release
+tags:
+  - Press Release
 policy_areas:
   - Youth Perspectives
 ---
+
 F﻿eb. 13, 2008
 
 **WASHINGTON—**The National Council on Disability (NCD) will release its latest report titled, *Youth with Disabilities in the Foster Care System: Barriers to Success and Proposed Policy Solutions*, at a news conference at 1:00 p.m. February 26, 2008, at the U.S. Department of Health and Human Services, 200 Independence Avenue, SW, Room 505A, Washington, DC. This event is open to the public and the media and free of charge.

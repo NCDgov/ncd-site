@@ -4,8 +4,10 @@ title: National Council on Disability Welcomes New Board Member from Wisconsin
   and Announces Agency Leadership Changes
 collection_name: newsroom
 date: 2010-10-04
-tag: Press Release
+tags:
+  - Press Release
 ---
+
 Oct. 4, 2010
 
 **WASHINGTON—**[National Council on Disability](https://ncd.gov/) (NCD) Acting Chairman Linda Wetters today welcomed **Pamela Young-Holmes** of Madison, WI, as a new NCD Board Member. She was confirmed by unanimous consent by the United States Senate on September 29, 2010.
@@ -18,6 +20,6 @@ Working at Ultratec since 1987, she has worked extensively on issues related to 
 
 Ms. Holmes was twice appointed to the U.S. Access Board (1994 and 1997), and was elected Chair of the Board in 2001. During her tenure on the Board, Ms. Holmes played a lead role in the Board's development of accessibility guidelines for telecommunications equipment and federal electronic and information technology. She currently serves as a member of the WI Public Service Commission Universal Service Fund Council. She previously served as Chair of the Gallaudet University Board of Trustees and as a Director on the Telecommunications for the Deaf, Inc. Board of Directors.
 
-Ms. Holmes has a MS in Deaf Education from the University of Tennessee and a BA in English from Gallaudet University. 
+Ms. Holmes has a MS in Deaf Education from the University of Tennessee and a BA in English from Gallaudet University.
 
 Due to a temporary medical condition, Chairman [Jonathan M. Young](https://ncd.gov/newsroom/members/ncdbios.htm#Young "/newsroom/members/ncdbios.htm#Young") is currently on sabbatical. Until his return, Dr. Young has chosen NCD's current Vice Chair, [Linda Wetters](https://ncd.gov/newsroom/members/ncdbios.htm#Wetters "/newsroom/members/ncdbios.htm#Wetters"), to serve as the Acting Chairman. Dr. Young has also chosen NCD Vice Chair [Fernando Torres-Gil](https://ncd.gov/newsroom/members/ncdbios.htm#Torres-Gil "/newsroom/members/ncdbios.htm#Torres-Gil"), Ph.D. as Vice Chair for Policy and NCD Board Member [Ari Ne'eman](https://ncd.gov/newsroom/members/ncdbios.htm#Neeman "/newsroom/members/ncdbios.htm#Neeman") as Vice Chair for Engagement. Under Dr. Young's leadership, the appointment of Vice Chairs will be selected from the Board and will occur periodically at the Chair's discretion.

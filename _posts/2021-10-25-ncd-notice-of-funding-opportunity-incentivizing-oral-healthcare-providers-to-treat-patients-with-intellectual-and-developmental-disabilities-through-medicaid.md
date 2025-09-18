@@ -4,9 +4,11 @@ title: "NCD Notice of Funding Opportunity: Incentivizing Oral Healthcare
   Providers to Treat Patients with Intellectual and Developmental Disabilities
   Through Medicaid"
 date: 2021-10-25
-tag: Funding Opportunities
+tags:
+  - Funding Opportunities
 image_alt_text: NA
 ---
+
 **National Council on Disability**
 
 **Incentivizing Oral Healthcare Providers to Treat Patients with Intellectual and Developmental Disabilities Through Medicaid**
@@ -61,16 +63,16 @@ Many of the policy recommendations NCD has made in the space of oral healthcare 
 
 **Statement of Work**
 
-For this project a questionnaire will be disseminated to oral healthcare providers to determine why more providers do not participate in Medicaid programs and waivers that allow for the treatment of patients with I/DD. The questionnaire will further query oral healthcare providers about potential incentives that could rectify that problem. Additionally, the report will establish a method by which states could potentially calculate a comprehensive return-on-investment for investments that result in increased provider participation that go beyond healthcare costs savings, including but not limited to savings across all respective state departments and programs, and additional state-wide economic concerns and benefits. 
+For this project a questionnaire will be disseminated to oral healthcare providers to determine why more providers do not participate in Medicaid programs and waivers that allow for the treatment of patients with I/DD. The questionnaire will further query oral healthcare providers about potential incentives that could rectify that problem. Additionally, the report will establish a method by which states could potentially calculate a comprehensive return-on-investment for investments that result in increased provider participation that go beyond healthcare costs savings, including but not limited to savings across all respective state departments and programs, and additional state-wide economic concerns and benefits.
 
 The Report will address the following:
 
-* Query oral healthcare providers that formerly participated in Medicaid programs and waivers that facilitate the treatment of patients with I/DD as to why they no longer do.
-* Query oral healthcare providers as to whether low Medicaid reimbursement rates disincentivize them from participation in the treatment of patients with I/DD through Medicaid and, if so, inquire as to what rate might serve as a sufficient incentive.
-* Query oral healthcare providers that have in the past and still do participate in Medicaid programs and waivers as to why they continue to participate.
-* Query non-participating oral healthcare providers concerning what policies would incentivize them to participate in providing care to patients with I/DD through Medicaid and related waivers.
-* Determine in which states, if any, is information concerning Medicaid Managed Care Organizations’ reimbursement rates available?
-* Determine an optimal formula for states to use to analyze a return on investment for programs that incentivize oral healthcare providers to treat patients with I/DD through participation in Medicaid that go beyond just the healthcare costs saved due to an increase in preventive oral healthcare (including but not limited to savings across state departments and programs and additional state-wide economic concerns and benefits).
+- Query oral healthcare providers that formerly participated in Medicaid programs and waivers that facilitate the treatment of patients with I/DD as to why they no longer do.
+- Query oral healthcare providers as to whether low Medicaid reimbursement rates disincentivize them from participation in the treatment of patients with I/DD through Medicaid and, if so, inquire as to what rate might serve as a sufficient incentive.
+- Query oral healthcare providers that have in the past and still do participate in Medicaid programs and waivers as to why they continue to participate.
+- Query non-participating oral healthcare providers concerning what policies would incentivize them to participate in providing care to patients with I/DD through Medicaid and related waivers.
+- Determine in which states, if any, is information concerning Medicaid Managed Care Organizations’ reimbursement rates available?
+- Determine an optimal formula for states to use to analyze a return on investment for programs that incentivize oral healthcare providers to treat patients with I/DD through participation in Medicaid that go beyond just the healthcare costs saved due to an increase in preventive oral healthcare (including but not limited to savings across state departments and programs and additional state-wide economic concerns and benefits).
 
 **Time Period**
 
@@ -84,9 +86,9 @@ A revised framing paper incorporating input from NCD Council members and staff.
 
 A first draft report incorporating initial findings, conclusions, and recommendations that can be drawn from the examination.
 
-A final report of no more than 80 pages (not including endnotes or appendices) incorporating input from NCD Council members and staff. Final reports must contain an executive summary with key findings and key recommendations; and specific sections on methodology; all findings; and all recommendations, organized according to the entity to which they are directed. 
+A final report of no more than 80 pages (not including endnotes or appendices) incorporating input from NCD Council members and staff. Final reports must contain an executive summary with key findings and key recommendations; and specific sections on methodology; all findings; and all recommendations, organized according to the entity to which they are directed.
 
-A brief “Report Highlights” document for each report that succinctly and in plain language encapsulates the report’s scope and purpose, major findings, and recommendations, and contains a link to the full report at the bottom. For an example of a Reports Highlights Page, refer to: *<https://ncd.gov/publications/2013/10242013>*.  
+A brief “Report Highlights” document for each report that succinctly and in plain language encapsulates the report’s scope and purpose, major findings, and recommendations, and contains a link to the full report at the bottom. For an example of a Reports Highlights Page, refer to: *<https://ncd.gov/publications/2013/10242013>*.
 
 **Requirements**
 
@@ -226,7 +228,7 @@ The awardee will present on its work before NCD at a quarterly Council meeting a
 
 **Business Proposal**
 
-The business proposal shall contain a detailed budget for the project and the certifications and representations required by OMB Circular A-110. 
+The business proposal shall contain a detailed budget for the project and the certifications and representations required by OMB Circular A-110.
 
 Note:  For each type of entity, there is a set of Federal principles for determining allowable costs. Allowable costs shall be determined in accordance with the cost principles applicable to the entity incurring the costs. Thus, allowable costs incurred by State, local or federally-recognized Indian tribal governments is determined in accordance with the provisions of OMB Circular A–87, “Cost Principles for State and Local Governments.” The allowable of costs incurred by non-profit organizations is determined in accordance with the provisions of OMB Circular A–122, “Cost Principles for Non-Profit Organizations.”
 
@@ -258,7 +260,7 @@ The proposal describes to which the overall experience and past performance of t
 
 **Project Start Date**
 
-The expected projected start of the cooperative agreement is January 2, 2021. The projected end date is July 2, 2022.  
+The expected projected start of the cooperative agreement is January 2, 2021. The projected end date is July 2, 2022.
 
 **Citations & Style Guide for NCD Reports**
 
@@ -274,7 +276,7 @@ Reviews of proposals submitted to NCD are solicited from peers with expertise in
 
 **Notice of Award**
 
-NCD will notify the offeror by telephone and e-mail. This will begin negotiations for a cooperative agreement. The notification is not authorization to begin performance. Organizations or individuals whose proposals are declined will be advised as promptly as possible. A summary of the strengths and weaknesses identified by reviewers, of each declined proposal, not including identifying names or information about proposal reviewers, will be made available upon request. 
+NCD will notify the offeror by telephone and e-mail. This will begin negotiations for a cooperative agreement. The notification is not authorization to begin performance. Organizations or individuals whose proposals are declined will be advised as promptly as possible. A summary of the strengths and weaknesses identified by reviewers, of each declined proposal, not including identifying names or information about proposal reviewers, will be made available upon request.
 
 **About the National Council on Disability**
 
@@ -328,9 +330,7 @@ NCD was established in 1978 as an advisory board within the Department of Health
 
 For General Information, visit www.ncd.gov
 
-
-
-- - -
+---
 
 [1](https://ncd.gov/#_ftnref1) The Arc. “Still in the Shadows with Their Future Uncertain.” Available at : <http://www.thearc.org/document.doc?id=3672>. (Accessed September 26, 2021.)
 
