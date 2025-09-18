@@ -2,17 +2,14 @@ ruby '~> 3.1'
 
 source "https://rubygems.org"
 
-gem "jekyll", "4.2.2"
-gem "sprockets", "~> 4"
+gem "jekyll"
+gem "sprockets"
 gem "autoprefixer-rails"
-gem "webrick" # not included in jekyll directly until 4.3.0 https://github.com/jekyll/jekyll/pull/8524
-gem "csv"
-gem "base64"
-gem "bigdecimal"
+
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.15"
+  gem "jekyll-feed"
   gem 'jekyll-redirect-from'
-  gem 'jekyll-paginate-v2', '~> 3.0'
+  gem 'jekyll-paginate-v2'
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
 end
