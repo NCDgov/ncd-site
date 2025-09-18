@@ -6,10 +6,11 @@ collection_name: reports
 date: June 21, 2004
 report_year: 2004
 policy_areas:
-  - Cultural Diversity
+#  - Cultural Diversity
 pdf_document: reports/2004/ncd-summary-native-american-forum-2004.pdf
 image_alt_text: NA
 ---
+
 June 21, 2004
 
 **S﻿COPE AND PURPOSE:**

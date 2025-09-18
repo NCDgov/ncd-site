@@ -6,7 +6,7 @@ date: 2020-07-09
 tag: Press Release
 policy_areas:
   - Civil Rights
-  - Cultural Diversity
+  #  - Cultural Diversity
   - Emergency Management
   - Employment
   - Financial Assistance & Incentives
@@ -18,6 +18,7 @@ policy_areas:
   - Technology
   - Transportation
 ---
+
 ### For Immediate Release
 
 July 9, 2020

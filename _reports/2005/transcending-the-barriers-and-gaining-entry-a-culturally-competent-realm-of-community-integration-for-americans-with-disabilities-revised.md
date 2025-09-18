@@ -6,10 +6,11 @@ collection_name: reports
 date: May 6, 2005
 report_year: 2005
 policy_areas:
-  - Cultural Diversity
+#  - Cultural Diversity
 word_document: reports/2005/ncd-transcending-barriers-gaining-entry-2005.doc
 image_alt_text: NA
 ---
+
 May 6, 2005
 
 **S﻿COPE AND PURPOSE:**

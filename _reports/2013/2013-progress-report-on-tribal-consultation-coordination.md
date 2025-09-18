@@ -4,14 +4,15 @@ title: 2013 Progress Report on Tribal Consultation Coordination
 date: December 16, 2013
 report_year: 2013
 policy_areas:
-  - Cultural Diversity
+#  - Cultural Diversity
 image_alt_text: na
 ---
+
 **Report Date:**  December 16, 2013
 
 The National Council on Disability (NCD) provides this fourth annual report and transmittal letter to the Office of Management and Budget (OMB), as per the requirements of President Obama’s November 5, 2009, Memorandum on implementation of Executive Order 13175, “Consultation and Coordination with Indian Tribal Governments.”  This document updates tribal outreach progress since October 2012.  NCD expresses appreciation to the 14 members of the NCD Tribal Consultation Coordination (TCC) workgroup [1](https://ncd.gov/publications/2013/TribalCoordination2013/#Footnote1) for their time and collaborative efforts to help raise national awareness about some of the unique and unmet needs of tribal[2](https://ncd.gov/publications/2013/TribalCoordination2013/#Footnote2) people with disabilities.  Lessons learned through these efforts can carve future pathways as the changing national demographics justify NCD expanding its work to address an array of diversity matters in the disability community and beyond.
 
-**Current Status**: 
+**Current Status**:
 
 Implementation of the TCC plan continues to align with NCD’s amended five-year strategic plan (See [NCD Strategic Plan, Updated March 2013]({{ site.baseUrl }}/assets/uploads/docs/1cae06af-387e-43d7-b16b-956d1c50fa69.txt)). Highlights from the March 2013 update of NCD’s strategic plan include identification of tribal communities among the agency’s stakeholders, goals, objectives, and strategies. The Objective on Engagement is under NCD’s Strategic Goal to advance “the Americans with Disabilities Act by promoting policies, programs, practices, and procedures that guarantee equal opportunity and provide for economic self-sufficiency, independent living, and inclusion and integration into all aspects of society for individuals with disabilities.”[3](https://ncd.gov/publications/2013/TribalCoordination2013/#Footnote3)  In 2013, NCD continued to (1) work with respected American Indian/Alaska Native (AI/AN) community leaders; (2) engage in dialogue with representatives of different AI/AN communities; and (3) advance opportunities for communication and outreach efforts that include and draw attention to the issues affecting the lives of AI/AN people with disabilities in federal initiatives.
 
@@ -21,13 +22,13 @@ NCD continued its positive working relationship with representatives of the Cons
 
 After development of the tribal disabilities issues paper, the TCC workgroup and NCD looked forward to a follow-up listening session, seeking to confirm the identified issues, and expanding tribal outreach at the 2013 CANAR[5](https://ncd.gov/publications/2013/TribalCoordination2013/#Footnote5) annual training conference. The November 5-7, 2013 CANAR conference was hosted by the Oregon Tribal vocational rehabilitation (VR) Programs which include the Confederated Tribes of Siletz, Confederated Tribes of Grand Ronde, Confederated Tribes of Warm Springs, Confederated Tribes of Umatilla and The Klamath Tribes.[6](https://ncd.gov/publications/2013/TribalCoordination2013/#Footnote6) When it was learned that federal budget constraints precluded NCD travel to the conference site, TCC executed an idea to use written inquiry, since the workgroup was already finalizing a questionnaire for future outreach.
 
-In lieu of listening circles, Portland participants in the annual CANAR conference were provided an opportunity to respond to the questionnaire. NCD was able to assist with document printing and mailing.  CANAR’s Executive Director agreed to disseminate, collect, and return completed responses after the conference.  From the information obtained after the conference, TCC members will look for patterns that seem to link unmet disability needs and to be matters deliberated and addressed in the long awaited reauthorization of federal legislation such as the Workforce Investment Act (WIA) – (which includes Vocational Rehabilitation (VR) funding and requirements for state and tribal VR programs).  At the printing of this annual TCC progress report, the tribal issues questionnaire results were under review for future presentation in a TCC summary. 
+In lieu of listening circles, Portland participants in the annual CANAR conference were provided an opportunity to respond to the questionnaire. NCD was able to assist with document printing and mailing.  CANAR’s Executive Director agreed to disseminate, collect, and return completed responses after the conference.  From the information obtained after the conference, TCC members will look for patterns that seem to link unmet disability needs and to be matters deliberated and addressed in the long awaited reauthorization of federal legislation such as the Workforce Investment Act (WIA) – (which includes Vocational Rehabilitation (VR) funding and requirements for state and tribal VR programs).  At the printing of this annual TCC progress report, the tribal issues questionnaire results were under review for future presentation in a TCC summary.
 
-**Future considerations**:  
+**Future considerations**:
 
 Whether federal appropriations reflect budgetary constraints or adequate funding, it is important to maintain NCD’s public commitment as a convener of groups that partner for the benefit of people with disabilities across tribal and broader communities.  As such, NCD will continue to support actions and events that: (1) use the TCC workgroup as a nucleus for the agency’s outreach to tribal people with disabilities and their families; (2) embrace flexible ways of inviting other federal entities to the table for dialogue about disability issues that affect tribal people; and (3) raise awareness about the roles and meanings of diversity, cultural, and linguistic sensitivity with respect to other unserved and traditionally underserved people.  NCD will continue to pursue innovative outreach.
 
-- - -
+---
 
 [1] The NCD TCC workgroup is comprised of 14 members who are AIVR Program Directors and CANAR Leaders.  Names, Affiliation and Geographic Location are:
 

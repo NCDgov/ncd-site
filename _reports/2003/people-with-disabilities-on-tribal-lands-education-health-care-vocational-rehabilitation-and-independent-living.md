@@ -6,10 +6,11 @@ collection_name: reports
 date: August 1, 2003
 report_year: 2003
 policy_areas:
-  - Cultural Diversity
+#  - Cultural Diversity
 pdf_document: reports/2003/ncd-people-with-disabilities-on-tribal-lands-2003.pdf
 image_alt_text: NA
 ---
+
 A﻿ugust 1, 2003
 
 **S﻿COPE AND PURPOSE:**
