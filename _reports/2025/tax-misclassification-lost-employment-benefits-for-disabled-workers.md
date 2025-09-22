@@ -6,6 +6,7 @@ date: March 6, 2025
 report_year: 2025
 policy_areas:
   - Financial Assistance & Incentives
+  - Employment
 word_document: reports/2025/ncd-tax-misclassification-2025.docx
 pdf_document: reports/2025/ncd-tax-misclassification-2025.pdf
 image: images/ncd_tax_misclassification_front_cover.jpg
