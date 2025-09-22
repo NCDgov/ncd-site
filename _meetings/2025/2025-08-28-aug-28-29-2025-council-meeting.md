@@ -6,8 +6,8 @@ federal_register_notice: ""
 meeting_year: 2025
 date: 2025-08-28
 minutes: ""
-misc_files_1: ""
-misc_files_2: ""
+misc_files_1: meetings/2025/aug-28-29-2025-council-meeting/transcript-082825-ncd-council-meeting-day-1.docx.docx
+misc_files_2: meetings/2025/aug-28-29-2025-council-meeting/transcript-082925-ncd-council-meeting-day-2.docx.docx
 ---
 The Members of the National Council on Disability (NCD) will hold a two-day in-person Council meeting on Thursday, August 28, 2025, 9:30 a.m.– 3:40 p.m. Eastern Daylight Time (EDT). and Friday, August 29, 2025, 9:30 – 11:55 a.m., EDT.
 
