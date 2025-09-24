@@ -52,32 +52,32 @@ Vice Chair/Acting Chair
 
 \------
 
-[^1] Medicaid and CHIP Payment and Access Commission, People with Disabilities, 2022, https://www.macpac.gov/subtopic/people-with-disabilities/.
+[^1]: Medicaid and CHIP Payment and Access Commission, People with Disabilities, 2022, https://www.macpac.gov/subtopic/people-with-disabilities/.
 
-[^2] U.S. Social Security Administration, Program Operations Manual System. SI 02302.200 Chartered Threshold Amounts, December 14, 2021, available at: https://secure.ssa.gov/poms.nsf/lnx/0502302200. Notes: The 2023 threshold amounts were calculated using 2019 average per capita Medicaid expenses by State, as 2020 data was unavailable.
+[^2]: U.S. Social Security Administration, Program Operations Manual System. SI 02302.200 Chartered Threshold Amounts, December 14, 2021, available at: https://secure.ssa.gov/poms.nsf/lnx/0502302200. Notes: The 2023 threshold amounts were calculated using 2019 average per capita Medicaid expenses by State, as 2020 data was unavailable.
 
-[^3] What is the Medicaid marriage penalty?, American Council on Aging  (February 17, 2023) available at: https://www.medicaidplanningassistance.org/question/what-is-the-medicaid-marriage-penalty/#:~:text=What%20is%20the%20Medicaid%20marriage%20penalty%3F,-2%20Answers&text=The%20Medicaid%20marriage%20penalty%20is,a%20result%20of%20getti. 
+[^3]: What is the Medicaid marriage penalty?, American Council on Aging  (February 17, 2023) available at: https://www.medicaidplanningassistance.org/question/what-is-the-medicaid-marriage-penalty/#:~:text=What%20is%20the%20Medicaid%20marriage%20penalty%3F,-2%20Answers&text=The%20Medicaid%20marriage%20penalty%20is,a%20result%20of%20getti. 
 
-[^4] Kathleen Romig and Sam Washington, Policymakers Should Expand and Simplify Supplemental Security Income, Center on Budget and Policy Priorities (May 4, 2022) available at: https://www.cbpp.org/research/social-security/policymakers-should-expand-and-simplify-supplemental-security-income. 
+[^4]: Kathleen Romig and Sam Washington, Policymakers Should Expand and Simplify Supplemental Security Income, Center on Budget and Policy Priorities (May 4, 2022) available at: https://www.cbpp.org/research/social-security/policymakers-should-expand-and-simplify-supplemental-security-income. 
 
-[^5] Felix Wellschmied, The welfare effects of asset mean-testing income support, Quantitative Economics, 12(1), pp.217-249 (January 2021) available at: https://www.econometricsociety.org/publications/quantitative-economics/2021/01/01/The-welfare-effects-of-asset-meantesting-income-support.  
+[^5]: Felix Wellschmied, The welfare effects of asset mean-testing income support, Quantitative Economics, 12(1), pp.217-249 (January 2021) available at: https://www.econometricsociety.org/publications/quantitative-economics/2021/01/01/The-welfare-effects-of-asset-meantesting-income-support.  
 
-[^6] How Medicaid Spend Down Works: Rules, Exemptions and Strategies, American Council on Aging, last updated (December 14, 2022) available at: https://www.medicaidplanningassistance.org/medicaid-spend-down/.
+[^6]: How Medicaid Spend Down Works: Rules, Exemptions and Strategies, American Council on Aging, last updated (December 14, 2022) available at: https://www.medicaidplanningassistance.org/medicaid-spend-down/.
 
-[^7] National Council on Disability (October 31, 2023) Toward Economic Security: The Impact of Income and Asset Limits on People with Disabilities, available at: National Council on Disability | 2023 Progress Report: Toward Economic Security: The Impact of Income and Asset Limits on People with Disabilities. 
+[^7]: National Council on Disability (October 31, 2023) Toward Economic Security: The Impact of Income and Asset Limits on People with Disabilities, available at: National Council on Disability | 2023 Progress Report: Toward Economic Security: The Impact of Income and Asset Limits on People with Disabilities. 
 
-[^8] Toward Economic Security: The Impact of Income and Assets Limitations on People with Disabilities
+[^8]: Toward Economic Security: The Impact of Income and Assets Limitations on People with Disabilities
 
-[^9] National Council on Disability (March 6, 2025) Tax Misclassification: Lost Employment Benefits for Disabled Workers, available at: National Council on Disability | Tax Misclassification: Lost Employment Benefits for Disabled Workers.
+[^9]: National Council on Disability (March 6, 2025) Tax Misclassification: Lost Employment Benefits for Disabled Workers, available at: National Council on Disability | Tax Misclassification: Lost Employment Benefits for Disabled Workers.
 
-[^10] 26 USCS § 640 (Notwithstanding any other provision of law, any refund (or advance payment with respect to a refundable credit) made to any individual under this title shall not be taken into account as income, and shall not be taken into account as resources for a period of 12 months from receipt, for purposes of determining the eligibility of such individual (or any other individual) for benefits or assistance (or the amount or extent of benefits or assistance) under any Federal program or under any State or local program financed in whole or in part with Federal funds.)   
+[^10]: 26 USCS § 640 (Notwithstanding any other provision of law, any refund (or advance payment with respect to a refundable credit) made to any individual under this title shall not be taken into account as income, and shall not be taken into account as resources for a period of 12 months from receipt, for purposes of determining the eligibility of such individual (or any other individual) for benefits or assistance (or the amount or extent of benefits or assistance) under any Federal program or under any State or local program financed in whole or in part with Federal funds.)   
 
-[^11] Social Security Administration, SI 01130.676 Federal Tax Refunds and Advance Tax Credits for SSI Resources, (December 7, 2023) available at: https://secure.ssa.gov/poms.nsf/lnx/0501130676.
+[^11]: Social Security Administration, SI 01130.676 Federal Tax Refunds and Advance Tax Credits for SSI Resources, (December 7, 2023) available at: https://secure.ssa.gov/poms.nsf/lnx/0501130676.
 
-[^12] See Sorenson v. Sec’y of the Treasury of the United States, 475 U.S. 851, 864, 106 S. Ct. 1600, 89 L. Ed. 2d 855 (1986) (citing the legislative record); In re James, 406 F.3d 1340, 1344 (11th Cir. 2005) (quoting Sorenson, 475 U.S. at 864). Department of the Treasury, Internal Revenue Service, Publication 596 Earned Income Credit (EIC) For use in preparing 2023 Returns, available at: https://www.irs.gov/pub/irs-pdf/p596.pdf (last accessed November 26, 2024). 
+[^12]: See Sorenson v. Sec’y of the Treasury of the United States, 475 U.S. 851, 864, 106 S. Ct. 1600, 89 L. Ed. 2d 855 (1986) (citing the legislative record); In re James, 406 F.3d 1340, 1344 (11th Cir. 2005) (quoting Sorenson, 475 U.S. at 864). Department of the Treasury, Internal Revenue Service, Publication 596 Earned Income Credit (EIC) For use in preparing 2023 Returns, available at: https://www.irs.gov/pub/irs-pdf/p596.pdf (last accessed November 26, 2024). 
 
-[^13] Internal Revenue Service, Statistics for Tax Returns with the Earned Income Tax Credit (EITC) available at: Earned Income Tax Credit statistics | Internal Revenue Service.
+[^13]: Internal Revenue Service, Statistics for Tax Returns with the Earned Income Tax Credit (EITC) available at: Earned Income Tax Credit statistics | Internal Revenue Service.
 
-[^14]  Id.
+[^14]:  Id.
 
-[^15]  Id.
+[^15]:  Id.
