@@ -1,16 +1,16 @@
 ---
 layout: post
 title: NCD advises House Ways and Means Joint Social Security and Work & Welfare
-  Subcommittees
+  Subcommittee
 collection_name: newsroom
 date: 2025-09-25
 redirect_from: []
 ---
 September 25, 2025
 
-**WASHINGTON--**The National Council on Disability submitted a statement for the record to the U.S. House of Representatives Ways and Means Subcommittees on  Joint Social Security and Work & Welfare. 
+**WASHINGTON--**The National Council on Disability submitted a statement for the record to the U.S. House of Representatives Ways and Means Subcommittees on Social Security and Work & Welfare. 
 
-The statement was in regards to the September 9 hearing, [Untapped Talent in America: Removing Barriers to Work and Supporting Opportunity for Individuals with Disabilities.](https://waysandmeans.house.gov/event/joint-social-security-and-work-welfare-subcommittee-hearing-on-untapped-talent-in-america-removing-barriers-to-work-and-supporting-opportunity-for-individuals-with-disabilities/)
+The statement was in regards to the September 9 joint subcommittee hearing, [Untapped Talent in America: Removing Barriers to Work and Supporting Opportunity for Individuals with Disabilities.](https://waysandmeans.house.gov/event/joint-social-security-and-work-welfare-subcommittee-hearing-on-untapped-talent-in-america-removing-barriers-to-work-and-supporting-opportunity-for-individuals-with-disabilities/)
 
 NCD as an independent federal agency responsible for advising Congress, the President and federal agencies on disability policy, recommended for policymakers to remove employment disincentives for recipients of Supplemental Security Income (SSI) and Social Security Disability Insurance (SSDI).
 
