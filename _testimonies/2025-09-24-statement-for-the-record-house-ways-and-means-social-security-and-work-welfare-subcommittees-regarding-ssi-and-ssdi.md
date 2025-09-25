@@ -9,7 +9,6 @@ redirect_from: []
 Statement for the Record
 U.S. House of Representatives
 Ways and Means Committee
-
 Joint Social Security and Work & Welfare Subcommittee Hearing: Untapped Talent in America: Removing Barriers to Work and Supporting Opportunity for Individuals with Disabilities Hearing on September 9, 2025
 
 Dear Chairman Estes, Representative Carey, Ranking Members Larson and Davis, and distinguished Members of the Subcommittee:
