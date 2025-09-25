@@ -3,7 +3,7 @@ layout: post
 title: NCD advises House Ways and Means Joint Social Security and Work & Welfare
   Subcommittees
 collection_name: newsroom
-date: 2025-07-09
+date: 2025-09-25
 redirect_from: []
 ---
 September 25, 2025
