@@ -58,11 +58,12 @@ Vice Chair/Acting Chair
 [^8]: Toward Economic Security: The Impact of Income and Assets Limitations on People with Disabilities
 [^9]: National Council on Disability (March 6, 2025) Tax Misclassification: Lost Employment Benefits for Disabled Workers, available at: National Council on Disability | Tax Misclassification: Lost Employment Benefits for Disabled Workers.
 
-[^10]: 26 USCS § 640 (Notwithstanding any other provision of law, any refund (or advance payment with respect to a refundable credit) made to any individual under this title shall not be taken into account as income, and shall not be taken into account as resources for a period of 12 months from receipt, for purposes of determining the eligibility of such individual (or any other individual) for benefits or assistance (or the amount or extent of benefits or assistance) under any Federal program or under any State or local program financed in whole or in part with Federal funds.)\
+[^10]: 26 USCS § 640 (Notwithstanding any other provision of law, any refund (or advance payment with respect to a refundable credit) made to any individual under this title shall not be taken into account as income, and shall not be taken into account as resources for a period of 12 months from receipt, for purposes of determining the eligibility of such individual (or any other individual) for benefits or assistance (or the amount or extent of benefits or assistance) under any Federal program or under any State or local program financed in whole or in part with Federal funds.)
+
 [^11]: Social Security Administration, SI 01130.676 Federal Tax Refunds and Advance Tax Credits for SSI Resources, (December 7, 2023) available at: https://secure.ssa.gov/poms.nsf/lnx/0501130676.
+
 [^12]: See Sorenson v. Sec’y of the Treasury of the United States, 475 U.S. 851, 864, 106 S. Ct. 1600, 89 L. Ed. 2d 855 (1986) (citing the legislative record); In re James, 406 F.3d 1340, 1344 (11th Cir. 2005) (quoting Sorenson, 475 U.S. at 864).
-  Department of the Treasury, Internal Revenue Service, Publication 596 Earned
-Income Credit (EIC) For use in preparing 2023 Returns, available at: https://www.irs.gov/pub/irs-pdf/p596.pdf (last accessed November 26, 2024).
-[^13]: Internal Revenue Service, Statistics for Tax Returns with the Earned Income Tax Credit (EITC) available at: Earned Income Tax Credit statistics | Internal Revenue Service.
-[^14]:  Id.
+ [^13]: Department of the Treasury, Internal Revenue Service, Publication 596 Earned Income Credit (EIC) For use in preparing 2023 Returns, available at: https://www.irs.gov/pub/irs-pdf/p596.pdf (last accessed November 26, 2024).
+[^14]: Internal Revenue Service, Statistics for Tax Returns with the Earned Income Tax Credit (EITC) available at: Earned Income Tax Credit statistics | Internal Revenue Service.
+
 [^15]:  Id.
