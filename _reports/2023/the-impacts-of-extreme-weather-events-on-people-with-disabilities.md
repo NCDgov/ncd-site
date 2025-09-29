@@ -15,7 +15,7 @@ image_alt_text: Report cover includes image of flooding with Handicapped Parking
 ---
 May 4, 2023
 
-[Press Release](https://ncd.gov/newsroom/2023/federal-report-finds-extreme-weather-substantially-and-disproportionately-impacts)
+
 
 **SCOPE AND PURPOSE**: Extreme weather events are increasing in frequency, severity, and cost. In 2022 alone, the United States experienced 18 separate billion-dollar weather disasters, including drought, flooding, severe storm events, tropical cyclone events, wildfire and winter storm events. During an emergency or major disaster people with physical, sensory, mental, or cognitive disabilities are disproportionately impacted. Despite this, the needs of people with disabilities are being overlooked in disaster management policy and planning. In this report, NCD examines the extent of compliance with federal laws and examines applicable federal programs and policies and their implementation in health care, housing, education, and emergency management. The report offers findings and recommendations to bring about critical policy and systems change intended to advance national disability policy goals and reduce casualties.
 
