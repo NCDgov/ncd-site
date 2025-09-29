@@ -20,7 +20,7 @@ Total number of agency employees expected to be on board before implementation o
 
 Total number of agency employees expected to be furloughed under the plan (unduplicated count):	10 employees
 
-Total number of employees to be retained under the plan for each of the following categories:
+**Total number of employees to be retained under the plan for each of the following categories:**
 
 Compensation is financed by a resource other than annual appropriations:	0 employees
 
@@ -32,7 +32,7 @@ Necessary to the discharge of the President's constitutional duties and powers:	
 
 Necessary to protect life and property:	0 employees
 
-Brief summary of significant agency activities that will continue during a lapse:
+**Brief summary of significant agency activities that will continue during a lapse:**
 
 No activities will continue during the lapse. 
 
@@ -40,15 +40,14 @@ Brief summary of significant agency activities that will cease during a lapse:
 
 All activities will cease during the laps. 
 
-1.	PURPOSE: To provide the National Council on Disability’s (“NCD”) policy guidance and instructions for actions to be taken when Congress fails to enact either regular appropriations, a continuing resolution, or needed supplemental appropriations, resulting in a lapse in appropriations. In the absence of appropriations:
+1. PURPOSE: To provide the National Council on Disability’s (“NCD”) policy guidance and instructions for actions to be taken when Congress fails to enact either regular appropriations, a continuing resolution, or needed supplemental appropriations, resulting in a lapse in appropriations. In the absence of appropriations:
 
 •	NCD officers may not incur any obligations that cannot lawfully be funded from prior appropriations unless such obligations are otherwise authorized by law.
 
 •	NCD officers may incur obligations as necessary for orderly termination of an agency's functions, but funds may not be disbursed.
 
-2.	SCOPE: This plan applies to all NCD personnel including the nine Special Government Employees (private citizen Presidential and Congressional appointees.)
-
-3.	POLICY: In order to execute an orderly shutdown, the following information is provided:
+2. SCOPE: This plan applies to all NCD personnel including the nine Special Government Employees (private citizen Presidential and Congressional appointees.)
+3. POLICY: In order to execute an orderly shutdown, the following information is provided:
 
 •	 Executive Director, on behalf of the Chair, will notify OMB that shutdown procedures have initiated;
 
@@ -68,15 +67,13 @@ All activities will cease during the laps.
 
 •	Agency personnel will be instructed to obtain information from news outlets for when a continuing resolution or an FY 2026 appropriation has been approved and that they will be expected to return to work on their next regularly scheduled workday.
 
-4.	REFERENCES:
+4. REFERENCES:
 
 •	OMB Circular No. A-ll (2015), Section 124.2, pages 1-2
 
 •	OMB Memo M-13-22, Planning for Agency Operations during a Potential Lapse in Appropriations (and attachments), September 17, 2013.
 
-5.	REVIEW: This Agency Shutdown Plan has been prepared, with the assistance of NCD’s General Counsel, and reviewed by the undersigned. It complies with guidance provided in the reference documents.
-
-
+5. REVIEW: This Agency Shutdown Plan has been prepared, with the assistance of NCD’s General Counsel, and reviewed by the undersigned. It complies with guidance provided in the reference documents.
 
 Shawn Kennemer
 
