@@ -6,7 +6,7 @@ date: May 4, 2023
 report_year: 2023
 policy_areas:
   - Emergency Management
-word_document: reports/2023/ncd-extreme-weather-2023.docx
+word_document: ""
 pdf_document: reports/2023/ncd-extreme-weather-2023.pdf
 image: images/extreme-weather-cover.png
 image_alt_text: Report cover includes image of flooding with Handicapped Parking
