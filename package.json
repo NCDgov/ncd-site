@@ -12,7 +12,7 @@
     "start-detached": "bundle exec jekyll serve --detach"
   },
   "dependencies": {
-    "decap-cms": "^3.8.3",
+    "decap-cms": "^3.8.4",
     "uswds": "^2.14.0",
     "video.js": "^8.23.4",
     "videojs-youtube": "^3.0.1"
