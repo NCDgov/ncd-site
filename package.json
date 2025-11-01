@@ -18,6 +18,6 @@
     "videojs-youtube": "^3.0.1"
   },
   "devDependencies": {
-    "rimraf": "^6.0.1"
+    "rimraf": "^6.1.0"
   }
 }
