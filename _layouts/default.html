@@ -1,12 +1,163 @@
----
-layout: base
----
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>
+      {% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}
+    </title>
+    <meta
+      name="description"
+      content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace }}"
+    />
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
+  </head>
+  <body class="ncd-landing display-flex flex-column minh-viewport">
+    <a class="usa-skipnav" href="#main-content">Skip to main content</a>
+    <section class="usa-banner" aria-label="Official government website">
+      <div class="usa-accordion">
+        <header class="usa-banner__header">
+          <div class="usa-banner__inner">
+            <div class="grid-col-auto">
+              <img
+                class="usa-banner__header-flag"
+                src="{{ '/assets/img/uswds/us_flag_small.png' | relative_url }}"
+                alt="U.S. flag"
+              />
+            </div>
+            <div class="grid-col-fill tablet:grid-col-auto" aria-hidden="true">
+              <p class="usa-banner__header-text">
+                An official website of the United States government
+              </p>
+              <p class="usa-banner__header-action">Here’s how you know</p>
+            </div>
+            <button
+              type="button"
+              class="usa-accordion__button usa-banner__button"
+              aria-expanded="false"
+              aria-controls="gov-banner-default"
+            >
+              <span class="usa-banner__button-text">Here’s how you know</span>
+            </button>
+          </div>
+        </header>
+        <div
+          class="usa-banner__content usa-accordion__content"
+          id="gov-banner-default"
+        >
+          <div class="grid-row grid-gap-lg">
+            <div class="usa-banner__guidance tablet:grid-col-6">
+              <img
+                class="usa-banner__icon usa-media-block__img"
+                src="{{ '/assets/img/uswds/icon-dot-gov.svg' | relative_url }}"
+                alt="Dot gov"
+              />
 
-{% comment %}
-This is used for just about every page. It provides the border around the content.
-The home page uses wide.html layout, since it extends full width of page
-{% endcomment %}
+              <div class="usa-media-block__body">
+                <p>
+                  <strong>Official websites use .gov</strong><br />A
+                  <strong>.gov</strong> website belongs to an official
+                  government organization in the United States.
+                </p>
+              </div>
+            </div>
+            <div class="usa-banner__guidance tablet:grid-col-6">
+              <img
+                class="usa-banner__icon usa-media-block__img"
+                src="{{ '/assets/img/uswds/icon-https.svg' | relative_url }}"
+                alt="Https"
+              />
 
-<main id="main-content">
-  {{ content }}
-</main>
+              <div class="usa-media-block__body">
+                <p>
+                  <strong>Secure .gov websites use HTTPS</strong><br />A
+                  <strong>lock</strong> (
+                  <span class="icon-lock"
+                    ><svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      width="52"
+                      height="64"
+                      viewBox="0 0 52 64"
+                      class="usa-banner__lock-image"
+                      role="img"
+                      aria-labelledby="banner-lock-description-default"
+                      focusable="false"
+                    >
+                      <title id="banner-lock-title-default">Lock</title>
+                      <desc id="banner-lock-description-default">
+                        Locked padlock icon
+                      </desc>
+                      <path
+                        fill="#000000"
+                        fill-rule="evenodd"
+                        d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"
+                      />
+                    </svg> </span
+                  >) or <strong>https://</strong> means you’ve safely connected
+                  to the .gov website. Share sensitive information only on
+                  official, secure websites.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <header class="usa-header usa-header--extended">
+      <div class="usa-navbar">
+        <div class="usa-logo" id="ncd-logo">
+          <em class="usa-logo__text">
+            <a
+              href="{{ '/' | relative_url }}"
+              title="{{ site.title }}"
+              aria-label="{{ site.title }}"
+            >
+              {{ site.title }}
+            </a>
+          </em>
+        </div>
+      </div>
+    </header>
+    <main id="main-content" class="usa-section flex-1">{{ content }}</main>
+    <footer class="usa-footer site-footer" role="contentinfo">
+      <div class="usa-identifier site-identifier">
+        <section
+          class="usa-identifier__section usa-identifier__section--masthead"
+          aria-label="Agency identifier"
+        >
+          <div class="usa-identifier__container">
+            <div class="usa-identifier__logos">
+              <a href="https://www.gsa.gov">
+                <img
+                  class="usa-identifier__logo"
+                  src="{{ '/assets/img/logo-gsa.svg' | relative_url }}"
+                  alt="GSA logo"
+                />
+              </a>
+            </div>
+            <div
+              class="usa-identifier__identity"
+              aria-label="Agency description"
+            >
+              <p class="usa-identifier__identity-domain">Cloud.gov</p>
+              <p class="usa-identifier__identity-disclaimer">
+                This site is served by
+                <a class="external_link" href="https://cloud.gov">Cloud.gov</a>,
+                a unit of the
+                <a class="external_link" href="https://gsa.gov"
+                  >General Services Administration</a
+                >
+              </p>
+            </div>
+          </div>
+        </section>
+      </div>
+    </footer>
+    <script
+      src="{{ '/assets/js/uswds-init.min.js' | relative_url }}"
+      defer
+    ></script>
+    <script src="{{ '/assets/js/uswds.min.js' | relative_url }}" defer></script>
+  </body>
+</html>

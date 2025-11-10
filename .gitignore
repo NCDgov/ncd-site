@@ -1,23 +1,11 @@
-_site
-.sass-cache
-.jekyll-metadata
-node_modules
-.bundle
+# Jekyll
+_site/
+.sass-cache/
 .jekyll-cache/
+.bundle/
+vendor/
 .DS_Store
-.lycheecache
-lychee-out.md
-
-## Assets
-assets/uswds/*
-!assets/uswds/.gitkeep
-assets/js/uswds*
-assets/video-js
-assets/youtube-video-js
-assets/swiper
-assets/stickyfilljs
-assets/netlify-cms
-assets/decap-cms
-assets/jquery
-assets/fontawesome-free
-assets/jquery-toast-plugin
+node_modules/
+assets/js/uswds*.js
+assets/img/uswds/
+assets/fonts/uswds/

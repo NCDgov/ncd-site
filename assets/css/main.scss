@@ -1,0 +1,25 @@
+---
+---
+
+@use "uswds" with (
+  $theme-image-path: "../img/uswds",
+  $theme-font-path: "../fonts/uswds",
+  $theme-identifier-max-width: "desktop-lg",
+  $theme-footer-max-width: "desktop-lg",
+  $theme-header-max-width: "desktop-lg",
+  $theme-banner-max-width: "desktop-lg",
+  $theme-grid-container-max-width: "desktop-lg",
+  $theme-site-margins-breakpoint: "desktop-lg",
+  $theme-site-alert-max-width: "desktop-lg",
+  $theme-show-notifications: false
+);
+
+.usa-hero {
+  background: linear-gradient(135deg, #162e51 0%, #112f4e 100%);
+  color: #fff;
+  padding: 4rem 0;
+}
+
+.usa-hero__callout {
+  max-width: 40rem;
+}
