@@ -1,12 +1,13 @@
 {
   "name": "ncd-site",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Temporary USWDS-backed landing page built with Jekyll.",
   "main": "postcss.config.js",
   "scripts": {
     "uswds:copy": "node scripts/copy-uswds.js",
     "build": "npm run uswds:copy && bundle exec jekyll build",
-    "develop": "npm run uswds:copy && bundle exec jekyll serve --livereload"
+    "develop": "npm run uswds:copy && bundle exec jekyll serve --livereload",
+    "pages": "npm run uswds:copy"
   },
   "repository": {
     "type": "git",
