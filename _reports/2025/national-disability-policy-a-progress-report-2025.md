@@ -7,7 +7,7 @@ report_year: 2025
 categories:
   - progress reports
 word_document: reports/2025/ncd-2025-progress-report.docx
-pdf_document: reports/2025/ncd-2025-progress-report.docx
+pdf_document: reports/2025/ncd-2025-progress-report.pdf
 image: images/2025-pr-cover.png
 image_alt_text: photo of outside of the U.S. capital with flag on flagpole
 redirect_from: []
