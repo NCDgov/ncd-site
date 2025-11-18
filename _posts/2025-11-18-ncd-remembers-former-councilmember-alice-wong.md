@@ -4,7 +4,7 @@ title: NCD remembers former Councilmember Alice Wong
 collection_name: newsroom
 date: 2025-11-18
 tag: Press Release
-image: images/alice-wong-ncd.jpg
+image: images/alice-wong-ncdsm.jpg
 image_alt_text: 12 people taking a photo in front of the Ed Roberts Campus building
 redirect_from: []
 ---
