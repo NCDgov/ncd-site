@@ -2,7 +2,7 @@
 layout: post
 title: "National Disability Policy: A Progress Report 2025"
 collection_name: reports
-date: October 31, 2025
+date: November 19, 2025
 report_year: 2025
 categories:
   - progress reports
@@ -12,7 +12,7 @@ image: images/2025-pr-cover.png
 image_alt_text: photo of outside of the U.S. capital with flag on flagpole
 redirect_from: []
 ---
-Nov. 18, 2025
+Nov. 19, 2025
 
 **SCOPE AND PURPOSE:** The collective effort of the federal government in coordination with states and U.S. Territories are essential in advancing policy that supports Congress’s goals in enacting the Americans with Disabilities Act of 1990. These partnerships are essential in promoting equality of opportunity, economic self-sufficiency, independent living, and full participation of people with disabilities in all aspects of society regardless of type or severity of disability.
 
