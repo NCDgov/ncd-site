@@ -24,4 +24,4 @@ The information provided will be kept confidential and will not be attributed to
 
 Electronic comments and information must be submitted by 11:59 EST on January 6, 2026 via email to NCD Senior Attorney Advisor Amged Soliman at asoliman@ncd.gov.
 
-Read the full RFI in the Federal Register at <https://www.federalregister.gov/documents/2025/12/01/2025-21585/request-for-information-disability-clinical-care>.
+Read the full RFI <https://www.ncd.gov/2025/12/01/disability-competency-training-rfi-posted-to-federal-register/>[](https://www.federalregister.gov/documents/2025/12/01/2025-21585/request-for-information-disability-clinical-care).
