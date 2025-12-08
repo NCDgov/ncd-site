@@ -46,8 +46,8 @@ Vice Chairman and Acting Chair
 
 - - -
 
-[^1:] <https://www.ncd.gov/assets/uploads/reports/2025/ncd-ground-transportation-mobility-disabilities-2025.pdf>.
+[^1]: <https://www.ncd.gov/assets/uploads/reports/2025/ncd-ground-transportation-mobility-disabilities-2025.pdf>.
 
-[^2:] See, e.g., NAT’L SCI. AND TECH. COUNCIL & U.S. DEP’T OF TRANSP., ENSURING AMERICAN LEADERSHIP IN AUTOMATED VEHICLE TECHNOLOGIES: AUTOMATED VEHICLES 4.0, at 3 (Jan. 2020), available at <https://www.transportation.gov/sites/dot.gov/files/2020-02/EnsuringAmericanLeadershipAVTech4.pdf>.
+[^2]: See, e.g., NAT’L SCI. AND TECH. COUNCIL & U.S. DEP’T OF TRANSP., ENSURING AMERICAN LEADERSHIP IN AUTOMATED VEHICLE TECHNOLOGIES: AUTOMATED VEHICLES 4.0, at 3 (Jan. 2020), available at <https://www.transportation.gov/sites/dot.gov/files/2020-02/EnsuringAmericanLeadershipAVTech4.pdf>.
 
-[^3:] Inclusive Design Challenge, U.S. DEP’T OF TRANSP., <https://www.transportation.gov/accessibility/inclusivedesign> (last updated Apr. 25, 2024).
+[^3]: Inclusive Design Challenge, U.S. DEP’T OF TRANSP., <https://www.transportation.gov/accessibility/inclusivedesign> (last updated Apr. 25, 2024).
