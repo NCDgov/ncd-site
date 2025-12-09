@@ -9,7 +9,6 @@ redirect_from: []
 
 **Ana Torres-Davis**
 
-
 ## Policy & Legal Team
 
 The Policy & Legal Team analyzes federal laws, regulations, programs, policies, and case law precedent; and proposes and develops NCD policy positions that have a national, state and international impact on the lives of people with disabilities.
@@ -22,6 +21,10 @@ Senior Attorney Advisor
 
 **Amged Soliman**
 Senior Attorney Advisor
+
+**Joy Welan**
+Senior Attorney Advisor
+
 
 ## Legislative Affairs & Outreach Team
 
