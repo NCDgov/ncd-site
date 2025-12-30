@@ -26,7 +26,11 @@ PLACE: This meeting will take place at the Rosen Shingle Creek Orlando, 9939 Uni
 
 Zoom links will be provided in advance of the meeting. It will also be livestreamed on our YouTube channel.
 
+**MATTERS TO BE CONSIDERED:** 
 
+Day 1 – Following welcome remarks by Vice Chair / Acting Chair, Shawn Kennemer, and introductions, the Council will receive a policy update, followed by a panel discussion on institutionalization of youth in nursing homes and a public comment period for input, in person and by Zoom, on youth in nursing homes. After a break, there will be a panel of Floridians with disabilities describing their experiences during and after recent natural disasters, followed by a public comment period for Floridians to provide their experiences in-person and by Zoom. After a lunch break, the meeting will resume with a panel discussion on barriers and innovations in accessible transportation in Florida followed by a Council discussion, and public comment before adjourning.
+
+Day 2 – Following welcoming remarks, the Council will receive the Chairman’s report; Council member’s individual reports; an Executive Committee report; and a legislative and media update; a presentation on NCD’s disability competency curriculum project for medical professionals, followed by a Council discussion; a presentation on a study of HCBS denials in Florida, followed by a Council question. We conclude the meeting with an award presentation for NCD Council Member / Former Chair Neil Romano.
 
 **AGENDA:** The times provided below are approximations (all Eastern Standard Time):
 
