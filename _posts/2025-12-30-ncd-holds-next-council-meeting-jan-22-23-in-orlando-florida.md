@@ -9,7 +9,7 @@ tag: Press Release
 
 Dec. 30, 2025
 
-**WASHINGTON--**The Members of the National Council on Disability (NCD) will hold a two-day in-person Council meeting on Thursday, January 22, 2026, 9:00 a.m.– 3:25 p.m. Eastern Standard Time (EST) and Friday, January 23, 2026, 9:00 – 12:00 p.m. EST at the Rosen Shingle Creek Orlando, 9939 Universal Blvd., Orlando, Florida 32819. 
+**WASHINGTON--**The Members of the National Council on Disability (NCD) will hold a two-day in-person Council meeting on Thursday, January 22, 2026, 9 a.m.– 3:25 p.m. Eastern Standard Time (EST) and Friday, January 23, 2026, 9 a.m. - 12 p.m. EST at the Rosen Shingle Creek Orlando, 9939 Universal Blvd., Orlando, Florida 32819. 
 
 The event will also be streamed live via Zoom for Government and NCD's YouTube channel for those not able to attend in person.
 
