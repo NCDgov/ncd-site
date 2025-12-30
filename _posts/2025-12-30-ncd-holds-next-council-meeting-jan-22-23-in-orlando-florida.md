@@ -19,11 +19,7 @@ On January 22, the meeting will include welcome remarks and introductions; a pol
 
 Additional information on specifics of the topic is available on NCD’s public comment page at [https://ncd.gov/public-comment](<>).
 
-For the January 23 business meeting, welcome and call to order, the Council will receive the Chairman’s report; Council member reports; Executive Committee report; and a panel discussion on improving state and local disaster preparation plans for people with disabilities; before adjourning.
-
-
-
-Following welcoming remarks, the Council will receive the Chairman’s report; Council member’s individual reports; an Executive Committee report; and a legislative and media update; a presentation on NCD’s disability competency curriculum project for medical professionals, followed by a Council discussion; a presentation on a study of HCBS denials in Florida, followed by a Council question. We conclude the meeting with an award presentation for NCD Council Member / Former Chair Neil Romano.
+For the January 23 business meeting, following welcoming remarks, the Council will receive the Chairman’s report; Council member’s individual reports; an Executive Committee report; and a legislative and public affairs update; a presentation on NCD’s disability competency curriculum project for medical professionals, followed by a Council discussion; a presentation on a study of HCBS denials in Florida, followed by Council questions; concluding the meeting with an award presentation for NCD Council member (and former Chairman) Neil Romano.
 
 ASL Interpreters will be provided in-room and included during the live streamed meeting, and CART has been arranged for this meeting and will be embedded into the Zoom platform as well as available via streamtext link.
 
