@@ -9,6 +9,14 @@ redirect_from: []
 
 **Next Public Comment Opportunity January 22, 2026:**
 
+**Topics:** 
+
+* **Youth and younger adults with disabilities in nursing homes**
+* **Improving the outcome of people with disabilities during and after disasters**
+* **Accessible Transportation in Florida**
+
+9:30 – 10:40 a.m. – Panel on Institutionalization of Youth in Nursing Homes
+
 **10:40 – 11:05 a.m. – Public Comment on Youth in Nursing Homes**
 
 11:20 – 12:25 p.m. – Panel on Experiences of Disabled Floridians During/After Recent Natural Disasters
@@ -19,15 +27,7 @@ redirect_from: []
 
 **3:10 – 3:35 p.m. – Public Comment on Accessible Transportation in Florida**
 
-
-**Topics:** 
-
-* **Youth and younger adults with disabilities in nursing homes**
-* **Improving the outcome of people with disabilities during and after disasters**
-
 Public participation during the public comment period provides an opportunity for us to hear from individuals, businesses, providers, educators, parents and advocates. Your comments are important in bringing to the Council's attention the issues and priorities of the disability community.
-
-For the January 22 Council meeting, NCD will have two public comment periods of 25 minutes each. The first on youth institutionalized in nursing homes, and the second on experiences of disabled Floridians in recent natural disasters. Additional information on specifics of the topic is available on NCD's public comment page at https://ncd.gov/​public-comment.
 
 The Council will receive comments from in-person commenters first, and time allowing, from Florida residents who attend via Zoom for Government livestream. Comments are also always accepted via email.
 
