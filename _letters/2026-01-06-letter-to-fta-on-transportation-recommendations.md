@@ -19,7 +19,7 @@ January 6, 2026
 
 Dear Administrator Molinaro:
 
-I write as Vice Chairman and Acting Chair of the National Council on Disability (NCD), an independent federal agency charged with advising the President, Congress, and other federal agencies on disability policy to advance the goals of the Americans with Disabilities Act (ADA): equal opportunity, full participation, independent living, and economic self-sufficiency for people with disabilities.  In July, NCD submitted a report to the President and Congress entitled, Ground Transportation for People with Mobility Disabilities 2025: Challenges and Progress.[^1](https://www.ncd.gov/assets/uploads/reports/2025/ncd-ground-transportation-mobility-disabilities-2025.pdf.)  This report is the product of an examination of the current state of ground transportation in the United States for people with mobility disabilities who rely on and require accessible transportation—particularly wheelchair users.  The report offers extensive research findings and policy recommendations, while detailing continued barriers, challenges, and some promising innovations.
+I write as Vice Chairman and Acting Chair of the National Council on Disability (NCD), an independent federal agency charged with advising the President, Congress, and other federal agencies on disability policy to advance the goals of the Americans with Disabilities Act (ADA): equal opportunity, full participation, independent living, and economic self-sufficiency for people with disabilities.  In July, NCD submitted a report to the President and Congress entitled, Ground Transportation for People with Mobility Disabilities 2025: Challenges and Progress.[^1]  This report is the product of an examination of the current state of ground transportation in the United States for people with mobility disabilities who rely on and require accessible transportation—particularly wheelchair users.  The report offers extensive research findings and policy recommendations, while detailing continued barriers, challenges, and some promising innovations.
 
 Overall, NCD found that while some progress has been made, transportation barriers remain a major concern for people with mobility disabilities across the nation.  These barriers contribute to a host of negative outcomes like unemployment, poverty, inability to access health care, isolation, and diminished social participation.  Wheelchair users remain a population that is often left behind, even as technology advances, and the nation is growing increasingly older.[^2] 
 
@@ -50,7 +50,7 @@ David Shawn Kennemer
 Vice Chairman and Acting Chair
 
 \---
-
+[^1]:<https://www.ncd.gov/assets/uploads/reports/2025/ncd-ground-transportation-mobility-disabilities-2025.pdf.>
 [^2]: U.S. Census Bureau, Demographic Turning Points for the United States: Population Projections for 2020 to 2060, P25-1144, 2-3, Feb. 2020, <https://www.census.gov/content/dam/Census/library/publications/2020/demo/p25-1144.pdf>. Accessed Jan. 5, 2026.
 
 [^3]: Mobility on Demand Sandbox Program, U.S. DEP’T OF TRANSP., <https://www.transit.dot.gov/research-innovation/mobility-demand-mod-sandbox-program> (last updated Feb. 24, 2025). 
