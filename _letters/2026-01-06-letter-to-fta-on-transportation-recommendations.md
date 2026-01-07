@@ -51,7 +51,7 @@ Vice Chairman and Acting Chair
 
 \---
 
-[^1]: <https://www.ncd.gov/assets/uploads/reports/2025/ncd-ground-transportation-mobility-disabilities-2025.pdf..
+[^1]: <https://www.ncd.gov/assets/uploads/reports/2025/ncd-ground-transportation-mobility-disabilities-2025.pdf>.
 
 [^2]: U.S. Census Bureau, Demographic Turning Points for the United States: Population Projections for 2020 to 2060, P25-1144, 2-3, Feb. 2020, <https://www.census.gov/content/dam/Census/library/publications/2020/demo/p25-1144.pdf>. Accessed Jan. 5, 2026.
 
