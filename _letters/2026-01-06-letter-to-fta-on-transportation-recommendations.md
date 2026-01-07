@@ -35,7 +35,7 @@ Specifically, based on the complete set of findings in our report, NCD urges FTA
 
 •	Continue to fund innovative transit models that are of wheelchair users and other people with disabilities.  One example of these models is microtransit, which is a demand-responsive model that provides wheelchair-accessible public transportation and has proven to be a successful method for increasing transportation access for people with disabilities, even in rural areas.  FTA’s Mobility on Demand Sandbox Program has funded and studied several innovative transit models, including microtransit projects. [^4] 
 
-•	Continue to support partnerships between public transit agencies and private transportation providers (e.g., taxis, TNCs and microtransit providers) to increase the availability of wheelchair-accessible, on-demand transit for people with disabilities, for first-mile/last-mile connections, door-to-door service, and to extend limited fixed-route bus service.  FTA’s Mobility on Demand Sandbox program has been an important source of support for many such partnerships. [^5] One transit agency stated that its program “would not have been possible without FTA funding and institutional support.” [^6]
+•	Continue to support partnerships between public transit agencies and private transportation providers (e.g., taxis, TNCs and microtransit providers) to increase the availability of wheelchair-accessible, on-demand transit for people with disabilities, for first-mile/last-mile connections, door-to-door service, and to extend limited fixed-route bus service.  FTA’s Mobility on Demand Sandbox program has been an important source of support for many such partnerships. [^5](Id.) One transit agency stated that its program “would not have been possible without FTA funding and institutional support.” [^6]
 
 •	Allow more flexibility in transit agencies’ use of federal transit funding so that they may pursue operationally focused projects, like microtransit, which can increase wheelchair-accessible transportation, instead of limiting transit agencies’ funding to capital expenditures.  Rural areas, which frequently lack accessible transportation options, would particularly benefit from greater funding flexibility that would allow agencies to use on-demand microtransit to reach people with disabilities where bus routes do not exist or are not easy to access. 
 
@@ -49,7 +49,9 @@ David Shawn Kennemer
 
 Vice Chairman and Acting Chair
 
-\---\
+\---
+
+\
 [^1]: <https://www.ncd.gov/assets/uploads/reports/2025/ncd-ground-transportation-mobility-disabilities-2025.pdf>.
 
 [^2]: U.S. Census Bureau, Demographic Turning Points for the United States: Population Projections for 2020 to 2060, P25-1144, 2-3, Feb. 2020, <https://www.census.gov/content/dam/Census/library/publications/2020/demo/p25-1144.pdf>. Accessed Jan. 5, 2026.
