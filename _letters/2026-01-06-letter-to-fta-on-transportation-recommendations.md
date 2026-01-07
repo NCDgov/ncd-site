@@ -2,6 +2,8 @@
 layout: post
 title: Letter to FTA on transportation recommendations
 collection_name: letters
+policy_areas:
+  - Transportation
 date: 2026-01-06
 redirect_from: []
 ---
