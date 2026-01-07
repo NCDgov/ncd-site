@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Letter to DOT on transportation recommendations
+title: Letter to DOT on accessible ground transportation recommendations
 collection_name: letters
 policy_areas:
   - Transportation
