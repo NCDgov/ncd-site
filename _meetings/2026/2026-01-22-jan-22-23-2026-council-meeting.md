@@ -19,7 +19,7 @@ Zoom links will be provided in advance of the meeting. It will also be livestrea
 
 [](https://www.youtube.com/NCDgov)**MATTERS TO BE CONSIDERED:** 
 
-Day 1 – Following welcome remarks by Vice Chair / Acting Chair, Shawn Kennemer, and introductions, the Council will receive a policy update, followed by a panel discussion on institutionalization of youth in nursing homes and a public comment period for input, in person and by Zoom, on youth in nursing homes. After a break, there will be a panel of Floridians with disabilities describing their experiences during and after recent natural disasters, followed by a public comment period for Floridians to provide their experiences in-person and by Zoom. After a lunch break, the meeting will resume with a panel discussion on barriers and innovations in accessible transportation in Florida followed by a Council discussion, and public comment before adjourning.
+Day 1 – Following welcome remarks by Vice Chair / Acting Chair, Shawn Kennemer, and introductions, the Council will receive a policy update, followed by a panel discussion on institutionalization of youth in nursing homes and a public comment period for input, in person and by Zoom, on youth in nursing homes. After a break, there will be a panel of Floridians with disabilities describing their experiences during and after recent natural disasters, followed by a public comment period for Floridians to provide their experiences in-person and by Zoom. After a lunch break, the meeting will resume with a panel discussion on barriers and innovations in accessible transportation in Florida followed by a Council discussion before adjourning.
 
 Day 2 – Following welcoming remarks, the Council will receive the Chairman’s report; Council member’s individual reports; an Executive Committee report; and a legislative and media update; a presentation on NCD’s disability competency curriculum project for medical professionals, followed by a Council discussion; a presentation on a study of HCBS denials in Florida, followed by a Council question. We conclude the meeting with an award presentation for NCD Council Member / Former Chair Neil Romano.
 
@@ -27,35 +27,35 @@ Day 2 – Following welcoming remarks, the Council will receive the Chairman’s
 
 **Thursday, January 22, 2026**
 
-9:00 – 9:15 a.m. – Welcome Greetings, Roll Call, Acceptance of Agenda
+9 – 9:15 a.m. – Welcome Greetings, Roll Call, Acceptance of Agenda
 
 9:15 – 9:30 a.m. – Policy Update
 
-9:30 – 10:40 a.m. – Panel on Institutionalization of Youth in Nursing Homes
+9:30 – 10:30 a.m. – Panel on Institutionalization of Youth in Nursing Homes
 
-10:40 – 11:05 a.m. – Public Comment on Youth in Nursing Homes
+10:30 – 10:55 a.m. – Public Comment on Youth in Nursing Homes
 
-11:05 – 11:20 a.m. – Break
+10:55 – 11:10 a.m. – Break
 
-11:20 – 12:25 p.m. – Panel on Experiences of Disabled Floridians During/After Recent Natural Disasters
+11:10 a.m. – 12:10 p.m. – Panel on Experiences of Disabled Floridians During/After Recent Natural Disasters
 
-12:25 – 12:50 p.m. – Public Comment on Experiences in Natural Disasters
+12:10 – 12:35 p.m. – Public Comment on Experiences and Services in Recent Florida Disasters
 
-12:50 – 2:10 p.m. – Lunch Break
+12:35 – 2 p.m. – Lunch Break
 
-2:10 – 3:10 p.m. – Panel on Accessible Transportation in Florida: Barriers and Innovations 
+2 – 3 p.m. – Panel on Accessible Transportation in Florida: Barriers and Innovations 
 
-3:10 – 3:35 p.m. – Public Comment on Accessible Transportation in Florida 
+3 – 3:15 p.m. – Council Question and Answer on Accessible Transportation in Florida 
 
-3:35 p.m. – Adjourn until January 23 at 9:00 a.m.
+3:15 p.m. – Adjourn until January 23 at 9 a.m.
 
 **Friday, January 23, 2026**
 
-9:00 – 9:10 a.m. – Welcome and Call to Order
+9:00 – 9:05 a.m. – Welcome and Call to Order
 
-9:10 – 9:20 a.m. – Chairman’s Report
+9:05 – 9:15 a.m. – Chairman’s Report
 
-9:20 – 9:40 a.m. – Council Member Reports
+9:15 – 9:40 a.m. – Council Member Reports
 
 9:40 – 9:55 a.m. – Executive Committee Report
 
@@ -65,19 +65,19 @@ Day 2 – Following welcoming remarks, the Council will receive the Chairman’s
 
 10:25 – 10:50 a.m. – Description of Disability Competency Curriculum Project, RFI Responses to Date, and Potential NCD Recommendations
 
-10:50 – 11:00 p.m. – Council Question and Answer on Project
+10:50 – 11:00 a.m. – Council Question and Answer on Project
 
-11:00 – 11:30 - Presentation: A Study of Denials of Florida HCBS Waiver Eligibility
+11:00 – 11:35 a.m. - Presentation: A Study of Denials of Florida HCBS Waiver Eligibility
 
-11:30 – 11:40 a.m. – Council Questions and Answers on Study
+11:35 – 11:45 a.m. – Council Questions and Answers on HCBS Study
 
-11:40 – 12:00 p.m. – Public Service Award for NCD Council Member Neil Romano
+11:45 – 12 p.m. – Public Service Award for NCD Council Member and Former Chair Neil Romano
 
 12:00 p.m. – Adjourn the Quarterly Meeting
 
 **PUBLIC COMMENT:** Public participation during the public comment period provides an opportunity for us to hear from individuals, businesses, providers, educators, parents and advocates. Your comments are important in bringing to the Council’s attention the issues and priorities of the disability community.
 
-For the January 22 Council meeting, NCD will have three public comment periods of 25 minutes each. The first on youth institutionalized in nursing homes, the second on experiences of disabled Floridians in recent natural disasters, and the third on accessible transportation in Florida.  Additional information on specifics of the topic is available on NCD’s public comment page at <https://ncd.gov/public-comment>.
+For the January 22 Council meeting, NCD will have two public comment periods of 25 minutes each. The first on youth institutionalized in nursing homes, the second on experiences of disabled Floridians in recent natural disasters in Florida.  Additional information on specifics of the topic is available on NCD’s public comment page at <https://ncd.gov/public-comment>.
 
 The Council will receive comments from in-person commenters first, and time allowing, from Florida residents who attend via Zoom for Government livestream. Comments are also always accepted via email.
 
