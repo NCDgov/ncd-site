@@ -1,32 +1,37 @@
 ---
 layout: post
-title: NCD seeks public comment during August 28 Council meeting
+title: NCD seeks public comment during Jan 22 Council meeting in Orlando, Florida
 collection_name: newsroom
-date: 2025-08-20
+date: 2026-01-08
 tags:
   - Press Release
 ---
-
 **For Immediate Release**
 
-August 20, 2025
+January 8, 2026
 
-**WASHINGTON–**The National Council on Disability (NCD) invites the public to present public comment during the Council's next quarterly meeting here August 28.
+**WASHINGTON–**The National Council on Disability (NCD) invites the public to present public comment during the Council's next quarterly meeting January 22 in Orlando, Florida.
 
-During a public comment session starting at 3 p.m. EDT, the Council will receive input specifically on four different projects NCD is working on.
+For the January 22 Council meeting, NCD will have two public comment periods of 25 minutes each. The first on youth institutionalized in nursing homes, and the second on experiences of disabled Floridians in recent natural disasters in Florida.  Additional information on specifics of the topic is available on NCD’s public comment page at [https://ncd.gov/public-comment](https://www.ncd.gov/public-comment/).
 
-For the August 28 Council meeting, NCD will have a public comment period of 40 minutes and requests comments from the public on topics related to our upcoming reports: improving the outcome of people with disabilities during and after disasters; disability clinical competency training for healthcare provider training programs; ADA accommodations during court proceedings; and youth and younger adults with disabilities in nursing homes. Additional information on specifics of the topic is available on NCD’s public comment page at [https://ncd.gov/public-comment](https://www.ncd.gov/public-comment/).
+This meeting will take place at the Rosen Shingle Creek Orlando, 9939 Universal Blvd., Orlando, Florida 32819. The event will also be streamed live via Zoom for Government for those not able to attend in person.
 
-The meeting will be held at the U.S. Access Board Conference Room, 1331 F Street Northwest #800 Washington, DC 20004. Registration is not required to attend, but appreciated via our [Eventbrite page](<>).
+The Council will receive comments in-person and over Zoom, and will share comments submitted via email during the meeting. 
 
-The Council will receive comments in-person only, but will share comments submitted via email during the meeting. Due to the hybrid nature of the event, in-person presentations will be given priority.
+Due to the hybrid nature of the event, in-person presentations will be given priority. While preference is to receive input from Florida residents, those with comments on the topic may still participate.
 
-To provide public comment during an NCD Council Meeting, NCD now requires advanced registration by either signing up to present while registering for the meeting or sending an email to PublicComment@ncd.gov with the subject line “Public Comment” and your name, organization, state, and topic of comment included in the body of your email.
+To provide public comment during the Meeting, NCD requests advanced registration by sending an email to PublicComment@ncd.gov with the subject line “Public Comment” and your name, organization, state, and topic of comment included in the body of your email.
 
-Deadline for registration is August 26, 8:00 p.m. EDT. Please indicate if you are providing the comment in-person or only submitting via email. All individuals desiring to make public comment are strongly encouraged to read NCD’s guidelines for public comment in advance of the meeting at: [https://ncd.gov/public-comment](https://www.ncd.gov/public-comment/).
+Deadline for registration is January 20, 8 p.m. EST. Please indicate if you are providing the comment in-person, over Zoom or only submitting via email. All individuals desiring to make public comment are strongly encouraged to read NCD’s guidelines for public comment in advance of the meeting at: [https://ncd.gov/public-comment](https://www.ncd.gov/public-comment/).
+
+To provide written comments by email, please send personal experiences, and/or articles, data, and other research on the following topics to PublicComment@ncd.gov. Your contributions will help strengthen our investigations and provide for a more comprehensive view for federal policymakers.
 
 While public comment can be submitted on any topic over email, comments during the meeting should be specific to the topics listed.
 
-The Council meeting is free and open to the public. Full information on the event can be found on our [upcoming meeting page](https://www.ncd.gov/meeting/2025-08-28-aug-28-29-2025-council-meeting/). Registration for the meeting is not required, but appreciated on our Eventbrite page.
+In-person attendees can also sign up for public comment at the venue.
+
+The Council meeting is a public event. Full information on the event can be found on our [upcoming meeting page](https://www.ncd.gov/meeting/2026-01-22-jan-22-23-2026-council-meeting/). Registration is not required to attend the meeting, but appreciated via our [Eventbrite page](https://www.eventbrite.com/e/ncd-council-meeting-jan-22-23-2026-orlando-florida-tickets-1978613907460?aff=oddtdtcreator). 
+
+
 
 CART and ASL will be provided.
