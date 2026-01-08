@@ -13,19 +13,14 @@ redirect_from: []
 
 * **Youth and younger adults with disabilities in nursing homes**
 * **Improving the outcome of people with disabilities during and after disasters**
-* **Accessible Transportation in Florida**
 
-9:30 – 10:40 a.m. – Panel on Institutionalization of Youth in Nursing Homes
+9:30 – 10:30 a.m. – Panel on Institutionalization of Youth in Nursing Homes
 
-**10:40 – 11:05 a.m. – Public Comment on Youth in Nursing Homes**
+**10:30 – 10:55 a.m. – Public Comment on Youth in Nursing Homes**
 
-11:20 – 12:25 p.m. – Panel on Experiences of Disabled Floridians During/After Recent Natural Disasters
+11:10 a.m. – 12:10 p.m. – Panel on Experiences of Disabled Floridians During/After Recent Natural Disasters
 
-**12:25 – 12:50 p.m. – Public Comment on Experiences in Natural Disasters**
-
-2:10 – 3:10 p.m. – Panel on Accessible Transportation in Florida: Barriers and Innovations
-
-**3:10 – 3:35 p.m. – Public Comment on Accessible Transportation in Florida**
+**12:10 – 12:35 p.m. – Public Comment on Experiences and Services in Recent Florida Disasters**
 
 Public participation during the public comment period provides an opportunity for us to hear from individuals, businesses, providers, educators, parents and advocates. Your comments are important in bringing to the Council's attention the issues and priorities of the disability community.
 
@@ -47,7 +42,7 @@ To provide comments by email, please send personal experiences, and/or articles,
 
 Your contributions will help strengthen our investigations and provide for a more comprehensive view for federal policymakers.
 
-I. Youth and Younger Adults With Disabilities in Nursing Homes
+**I. Youth and Younger Adults With Disabilities in Nursing Homes**
 
 This project seeks to uncover the drivers of the growing population of youth and younger adults with disabilities living in nursing homes and explore policy solutions that seek to keep youth and younger adults with disabilities in their communities where they can live, learn, and seek employment. Responses to any of the following questions are helpful.
 
@@ -59,7 +54,7 @@ This project seeks to uncover the drivers of the growing population of youth and
 6. What opportunities are available to younger people with disabilities who reside in nursing homes, for free appropriate public education (FAPE), recreation, community participation? What are the results of unavailability/restricted availability of the activities?
 7. How could policymakers specifically address the needs of younger people with disabilities in LTSS and housing policy?
 
-II. Improving the Outcome of People With Disabilities During and After Disasters
+**II. Improving the Outcome of People With Disabilities During and After Disasters**
 
 This project focuses on how state and local governments execute their emergency management plans; identifies promising practices; and provides resources and recommendations. Comments on any of the following questions are helpful.
 
