@@ -10,7 +10,7 @@ policy_areas:
 categories:
   - frameworks
 press_release: ""
-pdf_document: reports/2023/framework-to-end-health-disparities-people-with-disabilities-april2025.pdf
+pdf_document: ""
 image: images/framework-cover.jpg
 image_alt_text: "Framework cover with NCD seal and photo of black man entering a
   building in an electric wheelchair. "
