@@ -11,11 +11,22 @@ misc_files_2: ""
 ---
 The Members of the National Council on Disability (NCD) will hold a two-day in-person Council meeting on Thursday, January 22, 2026, 9:00 a.m.– 3:25 p.m. Eastern Standard Time (EST) and Friday, January 23, 2026, 9:00 – 12:00 p.m. EST.
 
-This meeting will take place at the Rosen Shingle Creek Orlando, 9939 Universal Blvd., Orlando, Florida 32819. The event will also be streamed live via Zoom videoconference for those not able to attend in person. 
+This meeting will take place at the Rosen Shingle Creek Orlando (Wekiwa Meeting Room 3/4), 9939 Universal Blvd., Orlando, Florida 32819. The event will also be streamed live via Zoom videoconference for those not able to attend in person. It will also be livestreamed on our YouTube channel.
+
+
+Day 1
+
+
+
+Day 2
+
+
+
+
 
 Registration is not required but appreciated on our [Eventbrite](https://www.eventbrite.com/e/ncd-council-meeting-jan-22-23-2025-orlando-florida-tickets-1978613907460?aff=oddtdtcreator) page.
 
-Zoom links will be provided in advance of the meeting. It will also be livestreamed on our YouTube channel.
+Zoom links will be provided in advance of the meeting. .
 
 [](https://www.youtube.com/NCDgov)**MATTERS TO BE CONSIDERED:** 
 
