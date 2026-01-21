@@ -13,20 +13,51 @@ The Members of the National Council on Disability (NCD) will hold a two-day in-p
 
 This meeting will take place at the Rosen Shingle Creek Orlando (Wekiwa Meeting Room 3/4), 9939 Universal Blvd., Orlando, Florida 32819. The event will also be streamed live via Zoom videoconference for those not able to attend in person. It will also be livestreamed on our YouTube channel.
 
+**Day 1 - Jan 22, 2026 09:00 AM Eastern Time (US and Canada)**
 
-Day 1
+<https://www.zoomgov.com/j/1615237630?pwd=a2sznv52GakmlJA4eYgEfK0rLL5OAj.1>
 
+Meeting ID: 161 523 7630
 
+Passcode: 077649
 
-Day 2
+Or One tap mobile :
 
++16468287666,,1615237630#,,,,*077649# US (New York)
 
++16469641167,,1615237630#,,,,*077649# US (US Spanish Line)
 
+Or Telephone:
 
+Dial(for higher quality, dial a number based on your current location):
+
++1 646 828 7666 US (New York)
+
++1 669 216 1590 US (San Jose)
+
+**Day 2 - Jan 23, 2026 09:00 AM Eastern Time (US and Canada)**
+
+<https://www.zoomgov.com/j/1610725494?pwd=gJmplaKDwDEDq9oXNBwCEWEkRwolzi.1>
+
+Webinar ID: 161 072 5494
+
+Passcode: 646839
+
+Or One tap mobile :
+
++16468287666,,1610725494#,,,,*646839# US (New York)
+
++16469641167,,1610725494#,,,,*646839# US (US Spanish Line)
+
+Or Telephone:
+
+Dial(for higher quality, dial a number based on your current location):
+
++1 646 828 7666 US (New York)
+
++1 669 216 1590 US (San Jose)
 
 Registration is not required but appreciated on our [Eventbrite](https://www.eventbrite.com/e/ncd-council-meeting-jan-22-23-2025-orlando-florida-tickets-1978613907460?aff=oddtdtcreator) page.
-
-Zoom links will be provided in advance of the meeting. .
 
 [](https://www.youtube.com/NCDgov)**MATTERS TO BE CONSIDERED:** 
 
