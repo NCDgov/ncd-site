@@ -10,7 +10,7 @@ redirect_from: []
 
 January 27, 2026                                      
 
-**WASHINGTON –** The National Council on Disability (NCD) met January 22-23 in Orlando, Florida,to be informed on local and regional matters on disability policy and accessibility. 
+**WASHINGTON –** The National Council on Disability (NCD) met January 22-23 in Orlando, Florida.
 
 The January 22 meeting included policy updates, panels, and two public comment sessions.
 
