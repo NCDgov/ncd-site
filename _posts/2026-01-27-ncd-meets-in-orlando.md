@@ -24,13 +24,13 @@ A panel shared experience of disabled Floridians during and after recent natural
 
 The setback to the special needs shelter--it doesn't work for us, because they have strict guidelines, said Alberto Salvi, from Pembrooke Pines, Florida. If you're going to go, you need one person with you.  I have a family of five, he said, in sharing his experience as a wheelchair user on limitations and accessibility of storm shelters in his area.  
 
-“Many of the people in Pinellas County who evacuated never returned back to their homes," said Kim Dittman, Disability Achievement Center. Elevators were continuing to have problems and were not operating; people went to nursing homes, so they had to leave everything behind.
+"Many of the people in Pinellas County who evacuated never returned back to their homes," said Kim Dittman, Disability Achievement Center. Elevators were continuing to have problems and were not operating; people went to nursing homes, so they had to leave everything behind.
 
 NCD is working on an emergency management toolkit for states and local municipalities that can assist in plans and solutions that will be inclusive of people with disabilities.
 
 The day concluded with a panel presentation on accessible transportation in Florida and questions from the Council.
 
-“The barriers that people talked about today (are) something we see universally around the state,” said Martin Catala, Center for Urban Transportation Research at the University of South Florida. “The challenge is coming up with a solution set.”  
+"The barriers that people talked about today (are) something we see universally around the state,” said Martin Catala, Center for Urban Transportation Research at the University of South Florida. “The challenge is coming up with a solution set.”  
 
 The January 23 business meeting included the Chairman’s report; Councilmember reports; an Executive Committee report; legislative and public affairs updates.
 
