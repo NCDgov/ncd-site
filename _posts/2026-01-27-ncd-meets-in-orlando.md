@@ -22,9 +22,9 @@ Right now, there is over 100 children in Florida nursing homes who should not be
 
 A panel shared experience of disabled Floridians during and after recent natural disasters. 
 
-The setback to the special needs shelter--it doesn't work for us, because they have strict guidelines, said Alberto Salvi, from Pembrooke Pines, Florida. If you're going to go, you need one person with you.  I have a family of five, he said, in sharing his experience as a wheelchair user .  
+The setback to the special needs shelter--it doesn't work for us, because they have strict guidelines, said Alberto Salvi, from Pembrooke Pines, Florida. If you're going to go, you need one person with you.  I have a family of five, he said, in sharing his experience as a wheelchair user on limitations and accessibility of storm shelters in his area.  
 
-“Many of the people in Pinellas County who evacuated never returned back to their homes, said Kim Dittman, Disability Achievement Center. Elevators were continuing to have problems and were not operating; people went to nursing homes, so they had to leave everything behind.
+“Many of the people in Pinellas County who evacuated never returned back to their homes," said Kim Dittman, Disability Achievement Center. Elevators were continuing to have problems and were not operating; people went to nursing homes, so they had to leave everything behind.
 
 NCD is working on an emergency management toolkit for states and local municipalities that can assist in plans and solutions that will be inclusive of people with disabilities.
 
