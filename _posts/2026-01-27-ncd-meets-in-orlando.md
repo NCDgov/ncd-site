@@ -40,7 +40,7 @@ The Council then received a group presentation on a study looking at denials of 
 
 “To explain what this process does, it effectively says that Florida does not have a problem helping people with developmental disabilities because the people who have applied don't have developmental disabilities,” said Robert Latham, associate director of the Children and Youth Law Clinic at the University of Miami. 
 
-The meeting finished with Acting Chairman presenting a public service award for NCD Councilmember and former Chairman Neil Romano.
+The meeting finished with Acting Chairman Shawn Kennemer presenting a public service award for NCD Councilmember and former Chairman Neil Romano.
 
 As an independent federal agency, NCD Council meetings under the Sunshine Act are free and open to the public. Learn more about the Council and upcoming meetings at NCD.gov. 
 
