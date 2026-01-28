@@ -5,8 +5,9 @@ title: NCD recognizes Neil Romano for service to Council, makes leadership
 collection_name: newsroom
 date: 2026-01-28
 tag: Press Release
-image: ""
-image_alt_text: Two people in suits smiling and holding an award.
+image: images/neil-award.jpg
+image_alt_text: NCD Chairman Shawn Kennemer presents Neil Romano with service
+  award. Both wearing dark suits, smiling and holding an award.
 redirect_from: []
 ---
 **For Immediate Release** 
