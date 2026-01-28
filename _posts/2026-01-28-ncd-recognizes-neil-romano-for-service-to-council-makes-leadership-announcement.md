@@ -13,7 +13,7 @@ January 28, 2026
 
 **WASHINGTON –** The National Council on Disability (NCD) recognized Councilmember and former Chairman Neil Romano during the January 23 meeting in Orlando, Florida.
 
-Acting Chairman Shawn Kennemer presenting the public service award to Romano also announced the former chairman would again take up a leadership role, becoming the new Vice Chairman for the Council.
+Acting Chairman Shawn Kennemer presenting a public service award to Romano also announced the former chairman would again take up a leadership role, becoming the new Vice Chairman for the Council.
 
 "Being the Acting Chair of the NCD, it's my pleasure to present the following, said Chairman Kennemer.  
 
@@ -43,43 +43,35 @@ It says:  In gratitude to Neil Romano for 10 years of devoted public service, de
 
 Neil, at this time, we thank you for this.  I want to present this to you.
 
-ANA TORRES-DAVIS:  Photo op.
+"Last week I asked Neil to be the Vice Chair for the National Council, and he accepted so he is now the Acting Vice Chair for this National Council," said Kennemer.
 
-\[Applause]
+Council members and staff gave congratulations to the vice chairman on his service.
 
-SHAWN KENNEMER:  One other thing I wanted to point out, just last week I asked Neil to be the Vice Chair for the National Council, and he accepted so he is now the Acting Vice Chair for this National Council.
-
-And then right now I want to open it up to the staff at the National Council who have worked with Neil for their remarks if they have anything.
-
-And Theo, oh, sorry, we'll wait for Theo to please --
-
-NEIL ROMANO:  I'm in trouble now.
-
-THEO BRADDY:  Can you hear me?
-
-SHAWN KENNEMER:  We got you.
-
-THEO BRADDY:  All right.  I couldn't let this moment go by.  Neil is my guy, right?  Neil is, you know, he don't put out his accomplishments out there.  You don't wear them on his sleeves.  He just have quietly done this stuff for so long.
-
-And I just wanted to say to you, Neil, how much I appreciate you, how much I look to you for advice and counsel.  Right?
-
-It's not too many people that can change my thoughts on certain topic, right?  I'm like a rock when I have a particular feel for something or thoughts for something, but I have learned over the time working with Neil to listen to him.  And he have, to my surprise, changed my position on stuff.  Not too many people can do that.
+Councilmember Theo Braddy: "It's not too many people that can change my thoughts on certain topic," said Braddy.  I'm like a rock when I have a particular feel for something or thoughts for something, but I have learned over the time working with Neil to listen to him," he said. And he has, to my surprise, changed my position on stuff; not too many people can do that.
 
 So Neil, I just want to let you know that you are someone I highly respect and look towards, and I just appreciate who you are.
 
 So please, don't ever change.  So congratulations.
 
-NEIL ROMANO:  Thank you.
-
-SHAWN KENNEMER:  Thank you.
-
-Sascha.
-
-SASCHA BITTNER:  Yeah.  I just wanted to say that I've appreciated working with you.  And I especially appreciate how you focus on advocacy within the medical community.  As we just mentioned, it's such a critical issue.  And I really appreciate that you're laser focused on it.
+"I've appreciated working with you," said Councilmember Sascha Bittner, "and I especially appreciate how you focus on advocacy within the medical community.  It's such a critical issue and I really appreciate that you're laser focused on it."
 
 
 
 
+
+KIM RIDLEY:  "As the newest member of the Council, I just want to say thank you. I've already learned a tremendous amount from you.  I am exceptionally grateful that this is not an award because you have decided to leave the Council.  I was a little worried, I will admit, for a few minutes, so Shawn, thank you for clarifying.
+
+I just want to say I am in awe of how you present yourself, how you present the issues that you're talking about and your career in general.  It's something that I think most of us never really go into and feel the same way.  Congratulations, and I'm so grateful to continue working with you.
+
+
+
+NEIL ROMANO:  This is an incredible honor today because of how I respect every single person in this room.  That doesn't necessarily mean we always got along or every decision was agreed upon.  But by the grace of God, we've had a single goal, and NCD has had a single goal, and I have been so proud to be part of that, to be able to push forward every day.  We don't come here to ever talk about anything but the rights and the needs of people with disabilities.
+
+"I've worked with a lot of Council Members over the years, and I have yet to sit here and ever see a Council Member or person who is ever doing anything for self-serving purposes, anything they did, except for people with disabilities.  And I have to tell you, it is a great pride in my life to work with these folks."
+
+"And I would like to thank you, Mr. Chairman. he continued. "When you called a couple of weeks ago to say you wanted to talk to me, I thought you were going to say, 'Hey, Neil, you're fired.," he said. "I'm greatly honored and for as long as I'm allowed or I can, I will be working for NCD on behalf of people with disabilities, and I appreciate it."
+
+"Thank you all and God bless you all."
 
 
 
