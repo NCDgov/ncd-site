@@ -5,6 +5,7 @@ title: NCD recognizes Neil Romano for service to Council, makes leadership
 collection_name: newsroom
 date: 2026-01-28
 tag: Press Release
+image: images/neil-award.jpg
 redirect_from: []
 ---
 **For Immediate Release** 
