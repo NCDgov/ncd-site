@@ -6,8 +6,8 @@ federal_register_notice: ""
 meeting_year: 2026
 date: 2026-01-22
 minutes: ""
-misc_files_1: ""
-misc_files_2: ""
+misc_files_1: meetings/2026/jan-22-23-2026-council-meeting/20260122-meeting-transcript.docx
+misc_files_2: meetings/2026/jan-22-23-2026-council-meeting/20260123-meeting-transcript.docx
 ---
 The Members of the National Council on Disability (NCD) will hold a two-day in-person Council meeting on Thursday, January 22, 2026, 9:00 a.m.– 3:25 p.m. Eastern Standard Time (EST) and Friday, January 23, 2026, 9:00 – 12:00 p.m. EST.
 
