@@ -49,7 +49,7 @@ A Federal agency cannot discriminate against an employee or applicant with respe
 
 A Federal employee with authority to take, direct others to take, recommend or approve any personnel action must not use that authority to take or fail to take, or threaten to take or fail to take, a personnel action against an employee or applicant because of disclosure of information by that individual that is reasonably believed to evidence violations of law, rule or regulation; gross mismanagement; gross waste of funds; an abuse of authority; or a substantial and specific danger to public health or safety, unless disclosure of such information is specifically prohibited by law and such information is specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs.
 
-Retaliation against an employee or applicant for making a protected disclosure is prohibited by 5 U.S.C. 2302(b)(8). If you believe that you have been the victim of whistleblower retaliation, you may file a written complaint (Form OSC-11) with the U.S. Office of Special Counsel at 1730 M Street NW., Suite 218, Washington, DC 20036-4505 or online through the OSC website (external link).
+Retaliation against an employee or applicant for making a protected disclosure is prohibited by 5 U.S.C. 2302(b)(8). If you believe that you have been the victim of whistleblower retaliation, you may file a written complaint (Form OSC-11) with the U.S. Office of Special Counsel at 1730 M Street NW., Suite 218, Washington, DC 20036-4505 or online through the OSC website <https://www.osc.gov/>.
 
 ## **Retaliation for Engaging in Protected Activity**
 
