@@ -39,7 +39,7 @@ No activities will continue during the lapse.
 
 Brief summary of significant agency activities that will cease during a lapse:
 
-All activities will cease during the laps. 
+All activities will cease during the lapse. 
 
 **1. PURPOSE:** To provide the National Council on Disability’s (“NCD”) policy guidance and instructions for actions to be taken when Congress fails to enact either regular appropriations, a continuing resolution, or needed supplemental appropriations, resulting in a lapse in appropriations. In the absence of appropriations:
 
