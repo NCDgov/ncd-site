@@ -1,7 +1,7 @@
 ---
 layout: council-member
 member_name: Neil Romano
-member_title: Vice Chairman
+member_title: Acting Chairman
 location: Orlando, Florida
 image: images/neil-romano.jpg
 image_alt_text: Neil Romano Picture
