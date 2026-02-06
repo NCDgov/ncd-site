@@ -14,8 +14,8 @@ Neil has dedicated his career to marketing ideas and programs designed to save l
 
 In 2007, Romano was nominated by President George W. Bush to be the Assistant Secretary of Labor for Disability Employment Policy and was unanimously confirmed by the U.S. Senate. As head of the U.S. Department of Labor’s Office of Disability Employment Policy (ODEP), he advised the Secretary of Labor and worked with all DOL agencies to lead a comprehensive and coordinated national policy regarding the employment of people with disabilities in the United States. 
 
-His work as a member of the Committee for Purchase from People Who are Blind or Severely Disabled helped improve the quality of life for workers with disabilities across America. 
+His work as a member of the Committee for Purchase from People Who are Blind or Severely Disabled helped improve the quality of life for workers with disabilities across America. In 2010, his work as a member of that committee was recognized by the full committee with a special leadership award. 
 
-In 2010, his work as a member of that committee was recognized by the full committee with a special leadership award. As a producer/director, his film, “Youth Homicide: A Public Health Crisis,” earned a Best Director Emmy Nomination. 
+As a producer/director, his film, “Youth Homicide: A Public Health Crisis,” earned a Best Director Emmy Nomination. 
 
 Neil lives in Orlando with his wife, Barbara, of 35 years, and he has two married adult daughters, Bianca Stephens and Christina Retallick, and is the proud grandfather of Rosalie Retallick.
