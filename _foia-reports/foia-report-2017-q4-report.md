@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FY2017 Q1 Report
+title: FY2017 Q1 FOIA Report
 report_type: quarterly
 report_year: 2017
 quarter: 4
