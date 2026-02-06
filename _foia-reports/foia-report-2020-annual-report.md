@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2020 Annual Report
+title: FY2020 FOIA Annual Report
 report_type: yearly
 report_year: 2020
 report_files:
