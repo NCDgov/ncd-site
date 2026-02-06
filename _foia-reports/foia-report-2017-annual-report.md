@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FY2017 Annual Report
+title: FY2017 FOIA Annual Report
 report_type: yearly
 report_year: 2017
 report_files:
