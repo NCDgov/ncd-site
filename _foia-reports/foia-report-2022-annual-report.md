@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022 Annual Report
+title: FY2022 FOIA Annual Report
 report_type: yearly
 report_year: 2022
 report_files:
