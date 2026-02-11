@@ -18,10 +18,10 @@ primary:
   - name: Newsroom
     url: ""
     children:
-      - name: Transcripts
-        url: /transcripts/
       - name: Latest News
         url: /newsroom/
+      - name: Transcripts
+        url: /transcripts/
       - name: Speaker Requests
         url: /speaker-request/
       - name: Subscribe to NCD Updates
