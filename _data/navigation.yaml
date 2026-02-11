@@ -17,6 +17,13 @@ primary:
         url: /employment/
   - name: Newsroom
     url: /newsroom/
+    children:
+      - name: Transcripts
+        url: /transcripts/
+      - name: Speaker Requests
+        url: /speaker-request/
+      - name: Subscribe to NCD Updates
+        url: /subscribe/
   - name: Policy Advice
     children:
       - name: Letters
