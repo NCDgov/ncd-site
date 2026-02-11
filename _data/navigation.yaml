@@ -13,7 +13,7 @@ primary:
         url: /meetings/
       - name: Feedback
         url: /feedback/
-      - name: Job Announcements
+      - name: Employment Opportunities
         url: /employment/
   - name: Newsroom
     url: /newsroom/
