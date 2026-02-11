@@ -16,10 +16,12 @@ primary:
       - name: Employment Opportunities
         url: /employment/
   - name: Newsroom
-    url: /newsroom/
+    url: ""
     children:
       - name: Transcripts
         url: /transcripts/
+      - name: Latest News
+        url: /newsroom/
       - name: Speaker Requests
         url: /speaker-request/
       - name: Subscribe to NCD Updates
