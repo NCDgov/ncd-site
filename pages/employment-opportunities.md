@@ -1,6 +1,6 @@
 ---
 layout: single-page
-published: false
+published: true
 permalink: /employment/
 title: Employment Opportunities
 redirect_from: []
