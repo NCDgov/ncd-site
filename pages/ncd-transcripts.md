@@ -13,4 +13,10 @@ redirect_from: []
 
 [Aug. 28, 2025 Council Meeting Day 1 - Washington, DC](https://www.ncd.gov/assets/uploads/meetings/2025/aug-28-29-2025-council-meeting/transcript-082825-ncd-council-meeting-day-1.docx)
 
-[Aug. 29, 2025 Council Meeting Day 2 - Washington, DC](https://www.ncd.gov/assets/uploads/meetings/2025/aug-28-29-2025-council-meeting/transcript-082925-ncd-council-meeting-day-2.docx)[](https://www.ncd.gov/assets/uploads/meetings/2026/jan-22-23-2026-council-meeting/20260122-meeting-transcript.docx)
+[Aug. 29, 2025 Council Meeting Day 2 - Washington, DC](https://www.ncd.gov/assets/uploads/meetings/2025/aug-28-29-2025-council-meeting/transcript-082925-ncd-council-meeting-day-2.docx)
+
+[May 29, 2025 Council Meeting Day 1 - New York, New York](https://www.ncd.gov/assets/uploads/meetings/2025/may-29-30-2025-council-meeting/transcript-052925-ncd-council-meeting-day-1.docx)
+
+[May 30, 2025 Council Meeting Day 2 - New York, New York](https://www.ncd.gov/assets/uploads/meetings/2025/may-29-30-2025-council-meeting/transcript-053025-ncd-council-meeting-day-2.docx)
+
+[](https://www.ncd.gov/assets/uploads/meetings/2025/aug-28-29-2025-council-meeting/transcript-082925-ncd-council-meeting-day-2.docx)[](https://www.ncd.gov/assets/uploads/meetings/2026/jan-22-23-2026-council-meeting/20260122-meeting-transcript.docx)
