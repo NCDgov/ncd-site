@@ -43,6 +43,8 @@ Patchett started his career as the Director for Assistive Technology at Easterse
 
 Patchett has pursued policy and advocacy with the Louisiana State Legislature as a member of the Louisiana Rehabilitation Council. He serves on the board at Vision Serve Alliances and co-chairs the Public Policy Committee. He is a member of the Public Policy Committee for National Association on Employment for People with Disabilities (NAEPB). 
 
+All Council biographies are available at [https://www.ncd.gov/council-members](https://www.ncd.gov/council-members/)/
+
 **About the National Council on Disability (NCD):**
 
 First established as a small advisory Council within the Department of Health, Education, and Welfare Rehabilitation in 1978, NCD became an independent federal agency in 1984. In 1986, NCD recommended enactment of an Americans with Disabilities Act (ADA) and drafted the first version of the bill which was introduced in the House and Senate in 1988. Since the ADA became law in 1990, NCD has continued to play a leading role in crafting policy solutions, and in advising the President, Congress and other federal agencies on disability policies, programs, and practices.
