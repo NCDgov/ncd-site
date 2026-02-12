@@ -2,7 +2,7 @@
 layout: council-member
 member_name: Brian Patchett
 member_title: Council Member
-location: Shreveport, Louisiana
+location: Bossier City, Louisiana
 image: images/brian-patchett-headshot.jpg
 image_alt_text: Man with dark hair, tan skin wearing dark suit, blue shirt and tie is smiling
 order: 5
