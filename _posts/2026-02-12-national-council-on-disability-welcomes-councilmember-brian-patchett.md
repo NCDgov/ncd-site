@@ -41,7 +41,7 @@ From his time in college until now, Patchett worked in the field of assistive te
 
 Patchett started his career as the Director for Assistive Technology at Easterseals Washington and as the manager of the Eastern Washington office for three years, then as the Vice President for Easterseals Arizona for 6 years. He built many programs and services from the ground up including assistive technology, employment services, independent living and in-home care services for seniors and people with disabilities. He was the CEO of Easterseals Nevada in Las Vegas for 15 years and North Central Sight Services in Williamsport, Pennsylvania, for three years. Currently, he is President & CEO for Louisiana Association of the Blind where he has been for 2.5 years, implementing significant changes while collaborating closely with colleagues to improve technology, employment services, and accessibility for our employees and clients across the community.
 
-Patchett  has pursued policy and advocacy with the Louisiana State Legislature as a member of the Louisiana Rehabilitation Council. He serves on the board at Vision Serve Alliances and co-chairs the Public Policy Committee. He is a member of the Public Policy Committee for National Association on Employment for People with Disabilities (NAEPB). 
+Patchett has pursued policy and advocacy with the Louisiana State Legislature as a member of the Louisiana Rehabilitation Council. He serves on the board at Vision Serve Alliances and co-chairs the Public Policy Committee. He is a member of the Public Policy Committee for National Association on Employment for People with Disabilities (NAEPB). 
 
 **About the National Council on Disability (NCD):**
 
