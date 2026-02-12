@@ -1,6 +1,6 @@
 ---
 layout: post
-title: National Council on Disability welcomes Councilmember Brian Patchett
+title: NCD welcomes Councilmember Brian Patchett
 collection_name: newsroom
 date: 2026-02-12
 image: ""
