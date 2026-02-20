@@ -2,6 +2,8 @@
 layout: post
 title: NIH Strat Plan letter from NCD
 collection_name: letters
+policy_areas:
+  - Health Care
 date: 2026-02-19
 redirect_from: []
 ---
