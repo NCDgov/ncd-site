@@ -70,6 +70,14 @@ Pursuant to section 205 of the No FEAR Act, neither the Act nor this notice crea
 
 # EEO
 
+**EEO Contact Information**
+
+EEO Director – Ana Torres-Davis, NCD Executive Director, atorres-davis@ncd.gov
+
+EEO Counselor – GSA's Office of Civil Rights EEO division, eeo@gsa.gov
+
+Special Emphasis Program Manager – GSA's Office of Civil Rights EEO division, eeo@gsa.gov
+
 [EEO Policy Statement](https://www.ncd.gov/accountability/eeo-policy-statement/)
 
 [Affirmative Action Plan](https://www.ncd.gov/assets/uploads/docs/NCD-Affirmative-Action-Plan-2025.pdf)
