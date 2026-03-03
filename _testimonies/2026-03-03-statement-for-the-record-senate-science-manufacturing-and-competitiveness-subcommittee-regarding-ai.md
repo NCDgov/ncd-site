@@ -39,14 +39,10 @@ National Council on Disability
 
 \----
 
-[^1]: Harrer S, Shah P, Antony B, et al., “Artificial Intelligence for Clinical Trial Design,” Trends in Pharmacological Science, 2019;40(8):577–591. doi:10.1016/j.tips.2019.05.005.
-
-
-[^2]:  National Council on Disability, “The Implicit and Explicit Exclusion of People with Disabilities in Clinical Trials,” (2024) available at [National Council on Disability | Federal report illuminates need for disability inclusion in clinical trials](https://www.ncd.gov/2024/08/14/federal-report-illuminates-need-for-disability-inclusion-in-clinical-trials/). 
-
-
-[^3]:  Von Itzstein MS, Hullings M, Mayo H, et al., “Application of Information Technology to Clinical Trial Evaluation and Enrollment: A Review,” JAMA Oncology, 2021;7(10):1559–1566. doi:10.1001/jamaoncol.2021.1165.
-[^4]:  Woo M, “An AI Boost for Clinical Trials,” Nature, 2019;573(7775): S100–S102. doi:10.1038/D41586-019-02871-3.
-[^5]:  Shakespeare T, Iezzoni LI, Groce NE, “Disability and the Training of Health Professionals,” Lancet, 2009;374(9704):1815–1816. 
-[^6]:  Association of American Medical Colleges, Cultural Competence Education for Medical Students, 2005. <https://www.aamc.org/download/54338/data/culturalcomped.pdf>.
+[^1]: Harrer S, Shah P, Antony B, et al., “Artificial Intelligence for Clinical Trial Design,” Trends in Pharmacological Science, 2019;40(8):577–591. doi:10.1016/j.tips.2019.05.005.\
+[^2]:  National Council on Disability, “The Implicit and Explicit Exclusion of People with Disabilities in Clinical Trials,” (2024) available at [National Council on Disability | Federal report illuminates need for disability inclusion in clinical trials](https://www.ncd.gov/2024/08/14/federal-report-illuminates-need-for-disability-inclusion-in-clinical-trials/). \
+[^3]:  Von Itzstein MS, Hullings M, Mayo H, et al., “Application of Information Technology to Clinical Trial Evaluation and Enrollment: A Review,” JAMA Oncology, 2021;7(10):1559–1566. doi:10.1001/jamaoncol.2021.1165.\
+[^4]:  Woo M, “An AI Boost for Clinical Trials,” Nature, 2019;573(7775): S100–S102. doi:10.1038/D41586-019-02871-3.\
+[^5]:  Shakespeare T, Iezzoni LI, Groce NE, “Disability and the Training of Health Professionals,” Lancet, 2009;374(9704):1815–1816. \
+[^6]:  Association of American Medical Colleges, Cultural Competence Education for Medical Students, 2005. <https://www.aamc.org/download/54338/data/culturalcomped.pdf>.\
 [^7]:  Govere L, Govere EM, “How Effective Is Cultural Competence Training of Healthcare Providers on Improving Patient Satisfaction of Minority Groups? A Systematic Review of literature,” Worldviews on Evidence-Based Nursing, 2016;13(6):402–410. Accessed January 16, 2024. <https://sigmapubs.onlinelibrary.wiley.com/doi/full/10.1111/wvn.12176>
