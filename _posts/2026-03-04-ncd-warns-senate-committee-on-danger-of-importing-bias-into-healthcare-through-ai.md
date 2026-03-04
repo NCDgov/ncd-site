@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NCD warns Senate Committee on danger of importing bias into healthcare
+title: NCD warns Senate committee on danger of importing bias into healthcare
   through AI
 collection_name: newsroom
 date: 2026-03-04
