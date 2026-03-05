@@ -12,6 +12,7 @@ redirect_from:
   - /FOIA/make-a-FOIA-request
   - /accountability/foia/
 ---
+
 The Freedom of Information Act (FOIA) is a federal law that permits individuals to request access to federal agency information and documents, except for records protected from disclosure by FOIA.
 
 # Make a FOIA Request
@@ -20,9 +21,9 @@ Before submitting a FOIA request, please be sure to thoroughly browse NCD's webs
 
 When submitting a FOIA request to NCD, the requestor should:
 
-*     State the request is being made under the Freedom of Information Act;
-*     Be as specific as possible in identifying requested records;
-*     Include his or her name, address, and phone number.
+-     State the request is being made under the Freedom of Information Act;
+-     Be as specific as possible in identifying requested records;
+-     Include his or her name, address, and phone number.
 
 NCD will make every effort to respond to FOIA requests as quickly and as thoroughly as possible.
 
@@ -46,25 +47,25 @@ Additional resources are available for the FOIA [reference guide](/foia/referenc
 
 NCD strives to proactively publish as much information about NCD and our work processes as possible. That way, information that might be requested via a FOIA request can be readily found by any member of the public on our website, but not necessarily in this e-library. Examples of available documents on our website are: NCD Bylaws; Performance and Results Act Reports ; Congressional Budget Justification Reports; Financial Audit Reports; NCD strategic plan; Letters to stakeholders; NCD reports and NCD’s FOIA policy and procedures for requesters. While NCD publications are posted throughout the NCD.gov website, non-NCD documents, such as official government responses to NCD letters, will be posted here to the NCD FOIA e-Library. If you need help to determine whether the information you seek is posted to our website please contact NCD’s FOIA Public Liaison, Amged Soliman, at 202-731-5910 or [asoliman@ncd.gov](mailto:asoliman@ncd.gov)[](mailto:anicholas@ncd.gov?subject=FOIA).
 
-* AbilityOne Commission response to NCD request for assistance collecting data for NCD report ([PDF](https://www.ncd.gov/assets/uploads/docs/abilityone-commission-response-to-ncd-correspondence.pdf))
-* FEMA Response to NCD Letter on Office of Disability Integration and Coordination ([PDF](https://www.ncd.gov/assets/uploads/docs/mr.-clyde-terry---response---508---2017-03-03.pdf))
-* NCD Contact List May 2025 ([PDF](https://www.ncd.gov/assets/uploads/docs/NCD-Employee-List_5_2025.pdf))
+- AbilityOne Commission response to NCD request for assistance collecting data for NCD report ([PDF](https://www.ncd.gov/assets/uploads/docs/abilityone-commission-response-to-ncd-correspondence.pdf))
+- FEMA Response to NCD Letter on Office of Disability Integration and Coordination ([PDF](https://www.ncd.gov/assets/uploads/docs/mr.-clyde-terry---response---508---2017-03-03.pdf))
+- NCD Contact List May 2025 ([PDF](https://www.ncd.gov/assets/uploads/docs/NCD-Employee-List_5_2025.pdf))
 
 # FOIA Reports
 
-{% assign foia_years = site.foia-reports | map: "report_year" | reverse | uniq %}
+{% assign foia_years = site.foia-reports | map: "report_year" | sort | reverse | uniq %}
 
 {% for year in foia_years %}
-  {% assign year_reports = site.foia-reports | where: "report_year", year %}
+{% assign year_reports = site.foia-reports | where: "report_year", year %}
 
-  {% assign annual = year_reports | where: "report_type", "yearly" %}
-  {% assign annual_length = annual | size %}
+{% assign annual = year_reports | where: "report_type", "yearly" %}
+{% assign annual_length = annual | size %}
 
-  {% assign quarter = year_reports | where: "report_type", "quarterly" | sort: "quarter" %}
-  {% assign quarter_length = quarter | size %}
+{% assign quarter = year_reports | where: "report_type", "quarterly" | sort: "quarter" %}
+{% assign quarter_length = quarter | size %}
 
-  {% assign chief = year_reports | where: "report_type", "chief-officer" %}
-  {% assign chief_length = chief | size %}
+{% assign chief = year_reports | where: "report_type", "chief-officer" %}
+{% assign chief_length = chief | size %}
 
   <h2>{{ year }} Reports</h2>
 
