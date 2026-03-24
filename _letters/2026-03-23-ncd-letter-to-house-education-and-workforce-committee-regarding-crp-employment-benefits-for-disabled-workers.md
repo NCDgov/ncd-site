@@ -64,3 +64,25 @@ Acting Chairman
 Cc:
 
 Members of the Education and Workforce Committee
+
+
+
+
+
+  National Council on Disability, Subminimum Wage and Supported Employment  (2012), at: https://www.ncd.gov/report/national-council-on-disability-report-on-subminimum-wage-and-supported-employment/; From the New Deal to the Real Deal: Joining the Industries of the Future (2018), at: https://www.ncd.gov/report/national-disability-employment-policy-from-the-new-deal-to-the-real-deal-joining-the-industries-of-the-future/.
+
+  See Tax Misclassification: Lost Employment Benefits for Disabled Workers (2024), at: https://www.ncd.gov/report/tax-misclassification-lost-employment-benefits-for-disabled-workers/.
+
+  See National Council on Disability, Subminimum Wage and Supported Employment  (2012), at: https://www.ncd.gov/report/national-council-on-disability-report-on-subminimum-wage-and-supported-employment/; From the New Deal to the Real Deal: Joining the Industries of the Future (2018), at: https://www.ncd.gov/report/national-disability-employment-policy-from-the-new-deal-to-the-real-deal-joining-the-industries-of-the-future/; Tax Misclassification: Lost Employment Benefits for Disabled Workers (2024), at: https://www.ncd.gov/report/tax-misclassification-lost-employment-benefits-for-disabled-workers/.
+
+  National Council on Disability, Tax Misclassification: Lost Employment Benefits for Disabled Workers (2024), at: https://www.ncd.gov/report/tax-misclassification-lost-employment-benefits-for-disabled-workers/. 
+
+  See Sorenson v. Sec’y of the Treasury of the United States, 475 U.S. 851, 864, 106 S. Ct. 1600, 89 L. Ed. 2d 855 (1986) (citing the legislative record); In re James, 406 F.3d 1340, 1344 (11th Cir. 2005) (quoting Sorenson, 475 U.S. at 864).
+
+  Department of the Treasury, Internal Revenue Service, Publication 596 Earned 
+
+Income Credit (EIC) For use in preparing 2023 Returns, available at: https://www.irs.gov/pub/irs-pdf/p596.pdf (last accessed November 26, 2024). 
+
+  Internal Revenue Service, Statistics for Tax Returns with the Earned Income Tax Credit (EITC) available at: Earned Income Tax Credit statistics | Internal Revenue Service.
+
+  Id.
