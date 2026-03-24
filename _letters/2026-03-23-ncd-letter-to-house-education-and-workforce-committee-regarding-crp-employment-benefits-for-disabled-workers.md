@@ -16,7 +16,7 @@ Committee on Education and Workforce\
 2266 Rayburn House Office Building\
 Washington DC 20515
 
-The Honorable Robert “Boddy” Scott, Ranking Member\
+The Honorable Robert “Bobby” Scott, Ranking Member\
 U.S. House of Representatives\
 Committee on Education and Workforce\
 2328 Rayburn House Office Building\
@@ -50,7 +50,7 @@ NCD identified employment dispute cases where CRPs relied on outdated tax loopho
 
 Workers with Disabilities Must Be Classified as “Employees” for Tax Purposes in Order to Qualify for the IRS’s Anti-Poverty Programs 
 
-The misclassification of workers with disabilities as “rehabilitation clients” may also leave scores of workers ineligible to participate in the IRS’s antipoverty programs offered to low-income employees, further confounding the federal policy goal of economic self-sufficiency. The IRS implements some of the largest federal antipoverty programs in the United States. For example, the Earned Income Tax Credit (EITC) is a refundable tax credit intended to reduce work disincentives by providing financial assistance to qualifying low-income workers and relief to low-income families. [^5] The Department of Treasury stated that the purpose of the EITC is to help lift families above the poverty line and encourage people to work. [^6] According to tax year 2022 data from the IRS, the most recent year for which tax data was available at the time of our research, approximately 23 million workers and families received $57 billion in EITC payments, with an average amount nationwide of $2,541. [^7] In 2025, the EITC tax credit ranged from $649 (families with no qualifying children) to $8,046 (families with three or more qualifying children). [^8] The EITC is different from other federal benefit programs for low-income families because it requires earned income to qualify.  In contrast, employees misclassified as rehabilitation clients can also result in their earnings being misclassified as “awards or incentives” rather than wages, which leaves these workers ineligible for the EITC.
+The misclassification of workers with disabilities as “rehabilitation clients” may also leave scores of workers ineligible to participate in the IRS’s antipoverty programs offered to low-income employees, further confounding the federal policy goal of economic self-sufficiency. The IRS implements some of the largest federal antipoverty programs in the United States. For example, the Earned Income Tax Credit (EITC) is a refundable tax credit intended to reduce work disincentives by providing financial assistance to qualifying low-income workers and relief to low-income families. [^5] The Department of Treasury stated that the purpose of the EITC is to help lift families above the poverty line and encourage people to work. [^6] According to tax year 2022 data from the IRS, the most recent year for which tax data was available at the time of our research, approximately 23 million workers and families received $57 billion in EITC payments, with an average amount nationwide of $2,541. [^7] In 2025, the EITC tax credit ranged from $649 (families with no qualifying children) to $8,046 (families with three or more qualifying children). [^8](Id.) The EITC is different from other federal benefit programs for low-income families because it requires earned income to qualify.  In contrast, employees misclassified as rehabilitation clients can also result in their earnings being misclassified as “awards or incentives” rather than wages, which leaves these workers ineligible for the EITC.
 
 Thank you for the opportunity to provide this brief summary of some of NCD’s  research, analysis, and recommendations for how to improve employment for individuals who work in CRPs. As always, we welcome the opportunity to brief the Committee and its staff in depth on any of these or related topics. 
 
@@ -65,8 +65,6 @@ Cc:
 
 Members of the Education and Workforce Committee
 
-
-
 [^1]: National Council on Disability, Subminimum Wage and Supported Employment  (2012), at: https://www.ncd.gov/report/national-council-on-disability-report-on-subminimum-wage-and-supported-employment/; From the New Deal to the Real Deal: Joining the Industries of the Future (2018), at: https://www.ncd.gov/report/national-disability-employment-policy-from-the-new-deal-to-the-real-deal-joining-the-industries-of-the-future/.
 
 [^2]: See Tax Misclassification: Lost Employment Benefits for Disabled Workers (2024), at: https://www.ncd.gov/report/tax-misclassification-lost-employment-benefits-for-disabled-workers/.
@@ -80,5 +78,3 @@ Members of the Education and Workforce Committee
 [^6]: Department of the Treasury, Internal Revenue Service, Publication 596 Earned Income Credit (EIC) For use in preparing 2023 Returns, available at: https://www.irs.gov/pub/irs-pdf/p596.pdf (last accessed November 26, 2024). 
 
 [^7]: Internal Revenue Service, Statistics for Tax Returns with the Earned Income Tax Credit (EITC) available at: Earned Income Tax Credit statistics | Internal Revenue Service.
-
-[^8]: Id.
