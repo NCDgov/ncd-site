@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NCD recommends Senate committee support CRP employment benefits for
+title: NCD recommends House committee support CRP employment benefits for
   disabled workers
 collection_name: newsroom
 date: 2026-03-25
