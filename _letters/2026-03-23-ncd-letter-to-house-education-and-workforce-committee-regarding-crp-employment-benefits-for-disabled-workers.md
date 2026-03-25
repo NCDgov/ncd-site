@@ -79,4 +79,4 @@ Members of the Education and Workforce Committee
 
 [^7]: Internal Revenue Service, Statistics for Tax Returns with the Earned Income Tax Credit (EITC) available at: Earned Income Tax Credit statistics | Internal Revenue Service.
 
-[^8}: Id.
+[^8]: Id.
