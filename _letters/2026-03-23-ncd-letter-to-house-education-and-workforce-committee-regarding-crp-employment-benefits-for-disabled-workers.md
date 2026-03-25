@@ -77,6 +77,6 @@ Members of the Education and Workforce Committee
 
 [^6]: Department of the Treasury, Internal Revenue Service, Publication 596 Earned Income Credit (EIC) For use in preparing 2023 Returns, available at: https://www.irs.gov/pub/irs-pdf/p596.pdf (last accessed November 26, 2024). 
 
-[^7]: Internal Revenue Service, Statistics for Tax Returns with the Earned Income Tax Credit (EITC) available at: Earned Income Tax Credit statistics | Internal Revenue Service.
+[^7]: Internal Revenue Service, Statistics for Tax Returns with the Earned Income Tax Credit (EITC) available at: Earned Income Tax Credit statistics Internal Revenue Service.
 
 [^8]: Id.
