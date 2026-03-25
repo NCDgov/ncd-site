@@ -12,20 +12,16 @@ redirect_from: []
 ---
 March 25, 2026
 
-**WASHINGTON--**The National Council on Disability Monday advised the U.S. House of Representatives Committee on Education and Workforce concerning rehabilitation centers and the need for oversight. 
+**WASHINGTON--**The National Council on Disability on Monday advised the U.S. House of Representatives Committee on Education and Workforce concerning employee benefits and protections affecting disabled workers in Community Rehabilitation Programs (CRPs) following a recent Committee field hearing that examined CRPs. 
 
-In a letter to Chairman Tim Walberg and Ranking Member Robert “Bobby” Scott, NCD Acting Chairman Neil Romano addressed a longstanding issue inadequate benefits provided to disabled workers.
+In a letter to Chairman Tim Walberg and Ranking Member Robert “Bobby” Scott, NCD Acting Chairman Neil Romano referenced NCD’s history of focusing on employment circumstances of disabled workers in CRPs and drew attention to NCD’s latest research on the tax misclassification of workers with disabilities who work in these settings. 
 
-"In view of the Committee’s recent field hearing in Madison, Wisconsin, that examined Community Rehabilitation Programs (CRPs), NCD wishes to draw the Committee’s attention to important related matters of employee benefits and protections affecting disabled workers in these settings," wrote NCD Acting Chairman Neil Romano.
+Specifically, NCD warned that workers who are tax misclassified as “rehabilitation clients” in CRPs are left ineligible for employment benefits and protections as well as participation in Internal Revenue Service (IRS) anti-poverty programs – and this despite their employment status under the Fair Labor Standards Act. 
 
-NCD, as an independent, bipartisan federal agency responsible for advising Congress, the President and federal agencies on disability policy, recommended oversight of CRPs to ensure people with disabilities are properly classified as “employees” and receiving employment benefits and protections.
+In his letter, Chairman Romano noted that in its research, NCD identified employment dispute cases where CRPs relied on outdated tax loopholes, in the form of exemptions, to deny employment benefits to employees with disabilities. Romano’s letter detailed how NCD’s investigation uncovered online bulletins with posts from tax attorneys and accountants explaining how a 1965 IRS loophole allows CRPs to misclassify workers with disabilities as “rehabilitation clients” long after their rehabilitation program has concluded. 
 
-NCD has a history of focusing on impacts to disabled workers in rehabilitative settings. In 2012 and 2018, NCD issued reports on subminimum wages under Section 14(c) of the Fair Labor Standards Act (FLSA). 
+Accordingly, Chairman Romano recommended oversight of CRPs to ensure workers with disabilities are properly classified as “employees” and receiving employment benefits and protections.
 
-The Council consistently recommended for policymakers to eliminate subminimum wages paid to people with disabilities.
-
-In 2024, NCD released the findings of its research on the tax misclassification of workers with disabilities who work for CRPs. NCD found workers ineligible for employment benefits and protections, despite their employment status under the FLSA. 
-
-"NCD stands ready to brief the Committee on this recent research and encourages the Committee to examine the employment classification of workers with disabilities working in CRPs, regardless of whether or not they use a 14(c) certificate, to ensure that workers with disabilities have the same benefits and protections as non-disabled workers, wrote Romano.
+"NCD stands ready to brief the Committee on this recent research and encourages the Committee to examine the employment classification of workers with disabilities working in CRPs…to ensure that workers with disabilities have the same benefits and protections as non-disabled workers,” wrote Romano.
 
 Read the full statement at [NCD.gov](https://www.ncd.gov/letters/2026-03-23-ncd-letter-to-house-education-and-workforce-committee-regarding-crp-employment-benefits-for-disabled-workers/).
