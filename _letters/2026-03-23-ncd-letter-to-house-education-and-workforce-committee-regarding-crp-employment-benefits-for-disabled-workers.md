@@ -67,7 +67,7 @@ Members of the Education and Workforce Committee
 
 [^1]: National Council on Disability, Subminimum Wage and Supported Employment  (2012), at: <https://www.ncd.gov/report/national-council-on-disability-report-on-subminimum-wage-and-supported-employment/>; From the New Deal to the Real Deal: Joining the Industries of the Future (2018), at: <https://www.ncd.gov/report/national-disability-employment-policy-from-the-new-deal-to-the-real-deal-joining-the-industries-of-the-future/>.
 
-[^2]: See Tax Misclassification: Lost Employment Benefits for Disabled Workers (2024), at: https://www.ncd.gov/report/tax-misclassification-lost-employment-benefits-for-disabled-workers/.
+[^2]: See Tax Misclassification: Lost Employment Benefits for Disabled Workers (2024), at: <https://www.ncd.gov/report/tax-misclassification-lost-employment-benefits-for-disabled-workers/>.
 
 [^3]: See National Council on Disability, Subminimum Wage and Supported Employment  (2012), at: <https://www.ncd.gov/report/national-council-on-disability-report-on-subminimum-wage-and-supported-employment/>; From the New Deal to the Real Deal: Joining the Industries of the Future (2018), at: <https://www.ncd.gov/report/national-disability-employment-policy-from-the-new-deal-to-the-real-deal-joining-the-industries-of-the-future/>; Tax Misclassification: Lost Employment Benefits for Disabled Workers (2024), at: <https://www.ncd.gov/report/tax-misclassification-lost-employment-benefits-for-disabled-workers/>.
 
