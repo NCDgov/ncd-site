@@ -1,11 +1,11 @@
 ---
 layout: post
 title: No Fear Act/EEO
-date: April 14, 2025
+date: April 2, 2026
 redirect_from:
   - /Accountability/No_Fear_Act
 ---
-No FEAR Act data, updated March 28, 2025
+No FEAR Act data, updated April 2, 2026
 
 ## Reports to Congress
 
