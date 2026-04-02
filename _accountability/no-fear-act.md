@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No Fear Act/EEO
-date: April 14, 2025
+date: April 2, 2026
 redirect_from:
   - /Accountability/No_Fear_Act
 ---
