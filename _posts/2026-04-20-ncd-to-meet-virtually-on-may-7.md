@@ -11,11 +11,13 @@ April 20, 2026
 
 **WASHINGTON--**The Members of the National Council on Disability (NCD) will hold a virtual quarterly meeting on Thursday, May 7, 2026, 12:30-3:00 p.m. EDT.
 
-The event will also be streamed live via Zoom for Government and NCD's YouTube channel for those not able to attend in person.
+The event will be streamed live via Zoom for Government and NCD's YouTube channel.
 
-Registration is not required, but appreciated via NCD's [Eventbrite page](https://www.eventbrite.com/e/ncd-council-meeting-jan-22-23-2025-orlando-florida-tickets-1978613907460?aff=oddtdtcreator).
+Registration is not required, but appreciated via NCD's [Eventbrite page](https://www.eventbrite.com/e/ncd-may-7-council-meeting-tickets-1987831079269?aff=oddtdtcreator).
 
-NCD's meeting will include report outs from the Acting Chairman, followed by the Council Members regarding engagements with the community since the last meeting; the Executive Committee; staff updates on policy, legislation, and media; and the current draft of the 2026 Progress Report. Following those updates, Council Members will offer project proposals for FY27 research endeavors and vote for their top three, culminating in the agency's new slate of projects for the next fiscal year before adjournment.
+This virtual quarterly meeting includes the Council’s annual time of Councilmembers making presentations on research proposals to one another for potential new projects the Council will undertake in FY27, followed by a vote to determine which will become NCD’s new policy priorities. 
+
+The meeting will also include report outs from the Acting Chairman, followed by the Councilmembers regarding engagements with the community since the last meeting; the Executive Committee; staff updates on policy, legislation, and media; and the current draft of the 2026 Progress Report. 
 
 ASL Interpreters and CART has been arranged for this meeting and will be embedded into the Zoom platform as well as available via streamtext link. The web link to access CART Streamtext: <https://www.streamtext.net/​player?​event=​NCD>.
 
