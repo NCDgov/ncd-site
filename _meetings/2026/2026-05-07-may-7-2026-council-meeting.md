@@ -2,7 +2,7 @@
 layout: post
 title: May 7, 2026 Council Meeting
 collection_name: meetings
-federal_register_notice: ""
+federal_register_notice: https://www.federalregister.gov/documents/2026/04/20/2026-07673/sunshine-act-meetings
 meeting_year: 2026
 date: 2026-05-07
 minutes: ""
