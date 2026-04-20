@@ -28,8 +28,6 @@ Or One tap mobile :
 
 Or Telephone:
 
-Dial(for higher quality, dial a number based on your current location):
-
 +1 551 285 1373 US (New Jersey)
 
 +1 646 828 7666 US (New York)
@@ -78,10 +76,8 @@ Nicholas Sabula, Public Affairs Specialist, NCD, 1331 F Street NW, Suite 850, Wa
 
 **Accommodations:**
 
-ASL Interpreters will be provided in-room and included during the live streamed meeting, and CART has been arranged for this meeting and will be embedded into the Zoom platform as well as available via streamtext link. The web link to access CART Streamtext: https://www.streamtext.net/​player?​event=​NCD.
+ASL Interpreters will be provided in-room and included during the live streamed meeting, and CART has been arranged for this meeting and will be embedded into the Zoom platform as well as available via streamtext link. The web link to access CART Streamtext: <https://www.streamtext.net/​player?​event=​NCD>.
 
-If you require additional accommodations, please notify Stacey Brown by sending an email to sbrown@ncd.gov
-
-as soon as possible and no later than 24 hours prior to the meeting.
+If you require additional accommodations, please notify Stacey Brown by sending an email to sbrown@ncd.gov as soon as possible and no later than 24 hours prior to the meeting.
 
 Due to last-minute confirmations or cancellations, NCD may substitute items without advance public notice.
