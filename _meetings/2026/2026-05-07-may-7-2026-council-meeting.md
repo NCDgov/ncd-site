@@ -78,7 +78,7 @@ Nicholas Sabula, Public Affairs Specialist, NCD, 1331 F Street NW, Suite 850, Wa
 
 **Accommodations:**
 
-ASL Interpreters will be provided in-room and included during the live streamed meeting, and CART has been arranged for this meeting and will be embedded into the Zoom platform as well as available via streamtext link. The web link to access CART Streamtext: <https://www.streamtext.net/​player?​event=​NCD>.
+ASL Interpreters will be provided during the live streamed meeting, and CART will be embedded into the Zoom platform as well as available via CART Streamtext: <https://www.streamtext.net/​player?​event=​NCD>.
 
 If you require additional accommodations, please notify Stacey Brown by sending an email to sbrown@ncd.gov as soon as possible and no later than 24 hours prior to the meeting.
 
