@@ -13,6 +13,8 @@ The Members of the National Council on Disability (NCD) will hold a virtual Coun
 
 PLACE: This meeting will occur via Zoom for Government videoconference. 
 
+Registration is not required, but appreciated via NCD's [Eventbrite page](https://www.eventbrite.com/e/ncd-may-7-council-meeting-tickets-1987831079269?aff=oddtdtcreator).
+
 Please click the link below to join the webinar:
 
 <https://www.zoomgov.com/j/1616402393?pwd=ky06o1vFVp6rpX4dwOZJg4wvLA7iGU.1>[](https://www.zoomgov.com/j/1616402393?pwd=0VPE1_U8VXvXoZpd5hwnTu0rmIpM0Q.o0TE-e8_OKkRnoUC)
