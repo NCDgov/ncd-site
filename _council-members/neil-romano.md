@@ -18,4 +18,4 @@ His work as a member of the Committee for Purchase from People Who are Blind or 
 
 As a producer/director, his film, “Youth Homicide: A Public Health Crisis,” earned a Best Director Emmy Nomination. 
 
-Neil lives in Orlando with his wife, Barbara, of 35 years, and he has two married adult daughters, Bianca Stephens and Christina Retallick, and is the proud grandfather of Rosalie Retallick.
+Neil lives in Orlando with his wife, Barbara, of 35 years.
