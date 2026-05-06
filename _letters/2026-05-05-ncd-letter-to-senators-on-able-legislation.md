@@ -43,6 +43,6 @@ National Council on Disability
 
 [^1]: H.R. Rep No. 115-862 (2018).
 
-[^2]: National Council on Disability, National Disability Policy: A Progress Report (2017), at: https://www.ncd.gov/report/national-disability-policy-a-progress-report-october-2017/. 
+[^2]: National Council on Disability, National Disability Policy: A Progress Report (2017), at: <https://www.ncd.gov/report/national-disability-policy-a-progress-report-october-2017/>. 
 
-[^3]:  National Council on Disability, 2023 Progress Report: Toward Economic Security (2023), at: https://www.ncd.gov/report/2023-progress-report-toward-economic-security-the-impact-of-income-and-asset-limits-on-people-with-disabilities/.
+[^3]:  National Council on Disability, 2023 Progress Report: Toward Economic Security (2023), at: <https://www.ncd.gov/report/2023-progress-report-toward-economic-security-the-impact-of-income-and-asset-limits-on-people-with-disabilities/>.
