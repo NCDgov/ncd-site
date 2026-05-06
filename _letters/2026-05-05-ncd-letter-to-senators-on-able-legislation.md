@@ -19,8 +19,6 @@ United States Senate\
 730 Hart Senate Office Building\
 Washington DC 20510
 
-
-
 Re: Legislation pertaining to the Achieving a Better Life Experience (ABLE) Act
 
 Dear Honorable Senators Moran and Van Hollen:
@@ -39,15 +37,9 @@ If NCD can be of assistance in providing greater context to your congressional c
 
 Respectfully,
 
- 
-
-Neil Romano
-
-Acting Chairman
-
+Neil Romano\
+Acting Chairman\
 National Council on Disability
-
-
 
   H.R. Rep No. 115-862 (2018).
 
