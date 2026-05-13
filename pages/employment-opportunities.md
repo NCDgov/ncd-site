@@ -5,10 +5,13 @@ permalink: /employment/
 title: Employment Opportunities
 redirect_from: []
 ---
-Currently there are no openings at NCD, but please check back for future opportunities.
+All opportunities for federal positions are advertised through [USAJobs.gov](https://www.usajobs.gov/).
 
-All opportunities for work are advertised through [USAJobs.gov](https://www.usajobs.gov/).
 
+
+**Personal Attendant**
+
+NCD has an immediate opening for a Personal Attendant in the Stafford, VA area. Interested parties should contact Stacey Brown at [sbrown@ncd.gov](mailto:sbrown@ncd.gov) with a resume noting their relevant experience.
 
 
 **NCD Internship Opportunities 2026**
