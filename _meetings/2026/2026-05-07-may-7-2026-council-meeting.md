@@ -6,7 +6,7 @@ federal_register_notice: https://www.federalregister.gov/documents/2026/04/20/20
 meeting_year: 2026
 date: 2026-05-07
 minutes: ""
-misc_files_1: ""
+misc_files_1: meetings/2026/may-7-2026-council-meeting/20260507-meeting-transcript.docx
 misc_files_2: ""
 ---
 The Members of the National Council on Disability (NCD) will hold a virtual Council meeting on Thursday, May 7, 2026, 12:30-3:00 p.m. Eastern Daylight Time (EDT).
