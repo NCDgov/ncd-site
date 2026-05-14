@@ -7,6 +7,9 @@ redirect_from: []
 ---
 **Available transcripts for download:**
 
+
+[May 7, 2026 Council Meeting - Virtual](https://www.ncd.gov/assets/uploads/meetings/2026/may-7-2026-council-meeting/20260507-meeting-transcript.docx)
+
 [Jan. 22, 2026 Council Meeting Day 1 - Orlando, Florida](https://www.ncd.gov/assets/uploads/meetings/2026/jan-22-23-2026-council-meeting/20260122-meeting-transcript.docx)
 
 [Jan. 23, 2026 Council Meeting Day 2 - Orlando, Florida](https://www.ncd.gov/assets/uploads/meetings/2026/jan-22-23-2026-council-meeting/20260123-meeting-transcript.docx)
