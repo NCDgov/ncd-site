@@ -21,6 +21,12 @@ Webinar ID: 165 935 9119
 
 Passcode: 115249
 
++1 551 285 1373 US (New Jersey)
+
++1 646 828 7666 US (New York)
+
++1 669 254 5252 US (San Jose)
+
 **MATTERS TO BE CONSIDERED:** 
 
 NCD’s Councilmembers will discuss the proposed organizing policy theme for the agency’s work of development of a disability middle class. Acting Chairman Romano will lead the discussion, which will include theme relevance and salience; and theme application to current and future policy projects, strategic planning, and outreach activities.
