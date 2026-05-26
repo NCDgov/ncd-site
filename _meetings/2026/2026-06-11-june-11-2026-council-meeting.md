@@ -6,7 +6,7 @@ federal_register_notice: ""
 meeting_year: 2026
 date: 2026-06-11
 minutes: ""
-misc_files_1: meetings/2026/may-7-2026-council-meeting/20260507-meeting-transcript.docx
+misc_files_1: ""
 misc_files_2: ""
 ---
 The Members of the National Council on Disability (NCD) will hold a brief virtual meeting on Thursday, June 11, 2026, 12–1 p.m. Eastern Daylight Time (EDT).
@@ -20,6 +20,12 @@ Please click the link below to join the webinar:
 Webinar ID: 165 935 9119
 
 Passcode: 115249
+
++1 551 285 1373 US (New Jersey)
+
++1 646 828 7666 US (New York)
+
++1 669 254 5252 US (San Jose)
 
 **MATTERS TO BE CONSIDERED:** 
 
