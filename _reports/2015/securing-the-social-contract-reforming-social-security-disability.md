@@ -8,6 +8,7 @@ policy_areas:
   - Financial Assistance & Incentives
 word_document: reports/2015/ncd_securing_the_social_contract.docm
 pdf_document: reports/2015/ncd_securing_the_social_contract.pdf
+image: images/2015-social-contract-cover.png
 image_alt_text: na
 ---
 **PURPOSE AND SCOPE:**\
