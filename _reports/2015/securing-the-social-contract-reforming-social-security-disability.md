@@ -9,7 +9,8 @@ policy_areas:
 word_document: reports/2015/ncd_securing_the_social_contract.docm
 pdf_document: reports/2015/ncd_securing_the_social_contract.pdf
 image: images/2015-social-contract-cover.png
-image_alt_text: na
+image_alt_text: "Green cover with title Securing the Social Contract: Reforming
+  Social Security Disability"
 ---
 **PURPOSE AND SCOPE:**\
 The Social Security Disability Insurance (SSDI) and Supplemental Security Income (SSI) programs provide financial support to millions of people with disabilities. But despite efforts over the past decade to encourage beneficiaries to return to work or to encourage youth with disabilities to work instead of applying for benefits, participation rates in SSDI and SSI have increased and, once enrolled, few beneficiaries are able to achieve self-support and work up to their potential.
