@@ -26,15 +26,10 @@ NCD was concerned when FEMA's Director of ODIC left the agency in September 2025
 
 I would appreciate a meeting with you at your earliest convenience to discuss the status of ODIC and the Disability Coordinator. Amy Nicholas, on my staff, will reach out to your office next week to find a mutually agreeable time to meet.
 
-1 Post-Katrina Emergency Management Reform Act of 2006, Pub. L. 109-295, Title VI, 120 Stat. 1355
-
 Respectfully,
 
 Neil Romano\
 Acting Chairman
-
-
-
 
 
 [^1]: Post-Katrina Emergency Management Reform Act of 2006, Pub. L. 109-295, Title VI, 120 Stat. 1355
