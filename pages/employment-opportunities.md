@@ -7,11 +7,32 @@ redirect_from: []
 ---
 All opportunities for federal positions are advertised through [USAJobs.gov](https://www.usajobs.gov/).
 
+**Personal Care Attendant Contractor**
 
+NCD has an immediate opening for a Personal Care Attendant in the Stafford, Virginia, area. Interested parties should contact Stacey Brown at sbrown@ncd.gov with a resume noting their relevant experience.
 
-**Personal Attendant**
+The Contractor will provide PCA services as requested to assist the Consumer to accomplish the tasks required of her job in addition to assistance with activities of daily living to accommodate her disability while on the job. The Contractor will also render service in the assistance of maintaining a safe, clear work environment.
 
-NCD has an immediate opening for a Personal Attendant in the Stafford, VA area. Interested parties should contact Stacey Brown at [sbrown@ncd.gov](mailto:sbrown@ncd.gov) with a resume noting their relevant experience.
+The Contractor will assist in the following areas based upon the individual needs, when applicable:
+
+•  personal hygiene
+
+•  use of toilet facilities
+
+•  walking, including the use of walkers and wheelchairs
+
+•  meal preparation, feeding, and clean-up of meals
+
+•  positioning and alignment for wheelchair and lifts
+
+•  exercising, if required by a health professional
+
+In addition to assisting the Consumer with activities of daily living, the Contractor will also provide administrative support in the form of transcription, notetaking, document formatting, copying, and printing documents, troubleshooting computer issues, and performing tasks that require the use of manual dexterity.
+
+The Contractor will have strong written and verbal skills in communicating with both the individual and any other professionals as directed. The Contractor has knowledge in the areas of disability and nutrition, fitness, and assisting someone with physical limitations based on a disability.
+
+Direct resume and cover letter submissions and any questions to Stacey Brown at sbrown@ncd.gov.
+
 
 
 **NCD Internship Opportunities 2026**
