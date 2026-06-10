@@ -7,7 +7,7 @@ policy_areas:
 date: 2026-06-10
 redirect_from: []
 ---
-Mr. Sean Clayton|\
+Mr. Sean Clayton\
 Acting Deputy Director\
 Departmental Office of Civil Rights\
 U.S. Department of Transportation, DOCR (S-30)\
