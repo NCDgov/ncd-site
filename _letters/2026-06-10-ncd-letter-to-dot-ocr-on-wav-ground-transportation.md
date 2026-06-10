@@ -18,7 +18,7 @@ June 10, 2026
 
 Dear Mr. Clayton:
 
-I write on behalf of the National Council on Disability (NCD), an independent federal agency that advises the President, Congress, and other federal agencies on disability policy, to request a meeting with you to share findings from our recent report on the current state of ground transportation for people with mobility disabilities, particularly wheelchair users, and the recommendations specific to the Department of Transportation’s Office of Civil Rights. [^1](https://www.ncd.gov/assets/uploads/reports/2025/ncd-ground-transportation-mobility-disabilities-2025.pdf)  
+I write on behalf of the National Council on Disability (NCD), an independent federal agency that advises the President, Congress, and other federal agencies on disability policy, to request a meeting with you to share findings from our recent report on the current state of ground transportation for people with mobility disabilities, particularly wheelchair users, and the recommendations specific to the Department of Transportation’s Office of Civil Rights. [^1]
 
 In our report, NCD found that wheelchair users and others with mobility disabilities are significantly disadvantaged in accessing the most common ground transportation options used by most Americans because of a widespread lack of wheelchair-accessible vehicles (WAVs) nationwide. This lack of transportation impedes or prevents community participation, can make employment and educational opportunities impossible, prevents access to necessary health care, and contributes to poverty and isolation. In this letter, I bring to your attention our specific concerns about the lack of WAVs in ride-hailing services and in emerging autonomous vehicle fleets.
 
@@ -52,7 +52,7 @@ Respectfully,
 Neil Romano\
 Acting Chairman
 
-- - -
+[^1]: https://www.ncd.gov/assets/uploads/reports/2025/ncd-ground-transportation-mobility-disabilities-2025.pdf 
 
 [^2]: Department of Transportation, Office of the Secretary, Preamble–Transportation for Individuals with Disabilities, 49 CFR Parts 27, 37 and 38, Final rule, September 6, 1991, https://www.transit.dot.gov/regulations-and -guidance/civil-rights-ada/preamble-transportation-individuals-disabilities-september.
 
