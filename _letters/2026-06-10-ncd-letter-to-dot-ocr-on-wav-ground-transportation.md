@@ -22,15 +22,15 @@ I write on behalf of the National Council on Disability (NCD), an independent fe
 
 In our report, NCD found that wheelchair users and others with mobility disabilities are significantly disadvantaged in accessing the most common ground transportation options used by most Americans because of a widespread lack of wheelchair-accessible vehicles (WAVs) nationwide. This lack of transportation impedes or prevents community participation, can make employment and educational opportunities impossible, prevents access to necessary health care, and contributes to poverty and isolation. In this letter, I bring to your attention our specific concerns about the lack of WAVs in ride-hailing services and in emerging autonomous vehicle fleets.
 
-Ride-Hailing
+**Ride-Hailing**
 
 Despite the exponential growth of ride-hailing apps, wheelchair users have not benefited from this common mode of transportation that has benefited others. In fact, this population continues to be left behind, even as technology advances and the need for accessible vehicles is increasing due to the burgeoning senior population. Companies such as Uber and Lyft now control 80 percent or more of the ground transportation market, but people who need WAVs have starkly unequal access to these popular and convenient services, which provide WAVs in only about ten U.S. cities. This leaves millions of wheelchair users in communities across the nation without access while these services become larger and more available to the general public. As a result, wheelchair users remain largely relegated to options like outdated paratransit models, where 24-hour advance reservations are required and a trip can take hours to complete, or to fixed-route buses, which can make even short trips hours long and do not reach all needed destinations. These options are not suitable for many wheelchair users who, like anyone else, want access to transportation when they need it, from door to door, to suit their personal schedules and unexpected needs.
 
-Autonomous Taxis
+**Autonomous Taxis**
 
 NCD’s report also examined the autonomous vehicle (AV) industry, highlighting the potential of AV technology to address transportation challenges for many people with disabilities. To serve as that solution, however, AVs must include accessibility features, including wheelchair access. A recent study cited in our report found that accessible AVs could generate $416 billion in additional income, increase U.S. gross domestic product by $867 billion, boost economic output by $1.6 trillion, and yield $92 billion in additional federal tax revenue. Unfortunately, to date, the needs of wheelchair users are not being addressed as AVs advance. The businesses that currently provide rides in fully autonomous robotaxis use small vehicles and offer no wheelchair accessible autonomous options. None of the AV businesses we interviewed for the report had plans to design or manufacture an autonomous WAV. We are concerned that the imminent rise in autonomous taxis without models physically accessible to wheelchair users will result in the same lack of access as the largely inaccessible ride-hail model.  
 
-ADA Regulations
+**ADA Regulations**
 
 The Office of Civil Rights can play an essential role in improving transportation options for people with disabilities by requiring WAVs in ride-hailing services and in emerging AV fleets.
 
@@ -52,8 +52,8 @@ Respectfully,
 Neil Romano
 Acting Chairman
 
+---
 [^1]: https://www.ncd.gov/assets/uploads/reports/2025/ncd-ground-transportation-mobility-disabilities-2025.pdf
-
 [^2]: Department of Transportation, Office of the Secretary, Preamble–Transportation for Individuals with Disabilities, 49 CFR Parts 27, 37 and 38, Final rule, September 6, 1991, https://www.transit.dot.gov/regulations-and -guidance/civil-rights-ada/preamble-transportation-individuals-disabilities-september.
 
 - - -
