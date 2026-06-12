@@ -7,6 +7,12 @@ redirect_from: []
 ---
 All opportunities for federal positions are advertised through [USAJobs.gov](https://www.usajobs.gov/).
 
+
+
+**[Administrative Officer (GS-15). ](https://www.usajobs.gov/job/872550900)**Apply through USAJOBS
+
+
+
 **Personal Care Attendant Contractor**
 
 NCD has an immediate opening for a Personal Care Attendant in the Stafford, Virginia, area. 
@@ -32,9 +38,6 @@ In addition to assisting the Consumer with activities of daily living, the Contr
 The Contractor will have strong written and verbal skills in communicating with both the individual and any other professionals as directed. The Contractor has knowledge in the areas of disability and nutrition, fitness, and assisting someone with physical limitations based on a disability.
 
 Direct resume and cover letter submissions and any questions to Stacey Brown at sbrown@ncd.gov.
-
-
-
 
 **NCD Internship Opportunities 2026**
 
