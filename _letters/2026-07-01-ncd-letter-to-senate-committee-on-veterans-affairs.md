@@ -42,7 +42,4 @@ Acting Chairman
 
 Cc: Members of the Senate Veterans Affairs Committee
 
-
-[^1]:
-
-  National Council on Disability (January 24, 2017) Letter to Majority Leader McConnell and Speaker Ryan, available at: https://waysandmeans.house.gov/wp-content/uploads/2017/01/NCD.pdf
+[^1]: National Council on Disability (January 24, 2017) Letter to Majority Leader McConnell and Speaker Ryan, available at: https://waysandmeans.house.gov/wp-content/uploads/2017/01/NCD.pdf
