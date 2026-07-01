@@ -4,10 +4,10 @@ title: NCD letter to Senate Committee on Veterans Affairs
 collection_name: letters
 policy_areas:
   - Financial Assistance & Incentives
-date: 2026-07-01
+date: 2026-06-23
 redirect_from: []
 ---
-July 1, 2026
+June 23, 2026
 
 The Honorable Jerry Moran, Chairman\
 U.S. Senate\
