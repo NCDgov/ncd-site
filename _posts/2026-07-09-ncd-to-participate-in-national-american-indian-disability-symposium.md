@@ -18,7 +18,7 @@ At noon on July 16, NCD representatives provide a brief history of NCD reports o
 
 The event is hosted by the Native American Disability Law Center, Inter-Tribal Disability Advocacy Council, and University of Arizona Sonoran Center for Excellence in Disabilities.
 
-Register in advance at: https://arizona.zoom.us/meeting/register/0ClYDsyXTPSIeY15qSPfbA#/registration
+Register in advance at: <https://arizona.zoom.us/meeting/register/0ClYDsyXTPSIeY15qSPfbA#/registration>
 
 Agenda and speaker biographies are available [here.](https://sonorancenter.arizona.edu/sites/default/files/2026-07/Agenda-and-Speaker-Bios.pdf)
 
