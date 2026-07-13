@@ -25,23 +25,23 @@ Passcode: 353720
 
 One tap mobile :
 
-\    +16692161590,,1658558150#,,,,*353720# US (San Jose)
++16692161590,,1658558150#,,,,*353720# US (San Jose)
 
-\    +16692545252,,1658558150#,,,,*353720# US (San Jose)
++16692545252,,1658558150#,,,,*353720# US (San Jose)
 
 Telephone:
 
-\    Dial(for higher quality, dial a number based on your current location):
+Dial(for higher quality, dial a number based on your current location):
 
-\    +1 669 216 1590 US (San Jose)
++1 669 216 1590 US (San Jose)
 
-\    +1 551 285 1373 US (New Jersey)
++1 551 285 1373 US (New Jersey)
 
-\    +1 646 828 7666 US (New York)
++1 646 828 7666 US (New York)
 
-\    Meeting ID: 165 855 8150
+Meeting ID: 165 855 8150
 
-\    Passcode: 353720
+Passcode: 353720
 
 **MATTERS TO BE CONSIDERED:**
 
