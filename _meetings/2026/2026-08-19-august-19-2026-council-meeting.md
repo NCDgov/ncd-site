@@ -13,72 +13,59 @@ The Members of the National Council on Disability (NCD) will hold a virtual Coun
 
 PLACE: This meeting will occur via Zoom for Government videoconference. 
 
-Registration is not required, but appreciated via NCD's [Eventbrite page](https://www.eventbrite.com/e/ncd-may-7-council-meeting-tickets-1987831079269?aff=oddtdtcreator).
+Registration is not required, but appreciated via NCD's Eventbrite page.
 
 Please click the link below to join the webinar:
 
-<https://www.zoomgov.com/j/1616402393?pwd=ky06o1vFVp6rpX4dwOZJg4wvLA7iGU.1>[](https://www.zoomgov.com/j/1616402393?pwd=0VPE1_U8VXvXoZpd5hwnTu0rmIpM0Q.o0TE-e8_OKkRnoUC)
+<https://www.zoomgov.com/j/1658558150?pwd=rRAwli9egxbz0npit8fHI5OHNHe3vc.1>
 
-Webinar ID: 161 640 2393
-Passcode: 263286
+Webinar ID: 165 855 8150
 
-Or One tap mobile :
+Passcode: 353720
 
-+15512851373,,1616402393#,,,,*263286# US (New Jersey)
+One tap mobile :
 
-+16468287666,,1616402393#,,,,*263286# US (New York)
+\    +16692161590,,1658558150#,,,,*353720# US (San Jose)
 
-Or Telephone:
+\    +16692545252,,1658558150#,,,,*353720# US (San Jose)
 
-+1 551 285 1373 US (New Jersey)
+Telephone:
 
-+1 646 828 7666 US (New York)
+\    Dial(for higher quality, dial a number based on your current location):
 
-+1 669 254 5252 US (San Jose)
+\    +1 669 216 1590 US (San Jose)
 
-Webinar ID: 161 640 2393
+\    +1 551 285 1373 US (New Jersey)
 
-Passcode: 263286
+\    +1 646 828 7666 US (New York)
+
+\    Meeting ID: 165 855 8150
+
+\    Passcode: 353720
 
 **MATTERS TO BE CONSIDERED:**
 
-NCD's virtual quarterly meeting will include report outs from the Acting Chairman, followed by the Council Members regarding engagements with the community since the last meeting; the Executive Committee; staff updates on policy, legislation, and media; and the current draft of the 2026 Progress Report. Following those updates, Council Members will offer project proposals for FY27 research endeavors and vote for their top three, culminating in the agency's new slate of projects for the next fiscal year before adjournment.
+NCD's virtual quarterly meeting will include a finance report, governance report; followed by the Council Members regarding engagements with the community since the last meeting; a presentation and vote on the disability curriculum project; a disability middle class framework presentation; and Council discussion on framework pillars before adjournment.
 
 **Agenda:**
 
 The times provided below are approximations for when each agenda item is anticipated to be discussed (all Eastern Daylight Time):
 
-Thursday, May 7, 2025
-
-
+Wednesday, August 19, 2026
 
 12:00 PM – 12:05 PM Welcome and call to order; Acceptance of the agenda
 
-
-
 12:05 PM – 12:15 PM Finance report – FY27 budget presentation, Q&A, vote
-
-
 
 12:15 PM – 12:20 PM Governance report – summarize electronic votes, memorialize
 
-
-
 12:20 PM – 12:40 PM Council Member Reports
-
-
 
 12:40 PM – 12:55 PM Disability curriculum presentation, Q&A, vote
 
-
-
 12:55 PM – 1:10 PM  Disability Middle Class presentation / summary of suggested core areas
 
-
-
 1:10 PM – 1:45 PM Discussion of Council / Selection of 4 key pillars of framework, next steps
-
-
 
 1:45 – 2:00 PM  New Business, Adjourn
 
