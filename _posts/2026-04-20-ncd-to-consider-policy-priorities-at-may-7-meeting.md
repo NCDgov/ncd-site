@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NCD to hold virtual Council meeting August 19
+title: NCD to consider policy priorities at May 7 meeting
 collection_name: newsroom
 date: 2026-04-20
 tag: Press Release
