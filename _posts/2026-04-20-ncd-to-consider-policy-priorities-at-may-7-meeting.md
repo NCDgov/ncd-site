@@ -7,7 +7,7 @@ tag: Press Release
 ---
 **FOR IMMEDIATE RELEASE**
 
-July 2, 2026
+July 21, 2026
 
 **WASHINGTON--**The Members of the National Council on Disability (NCD) will hold a virtual Council meeting on Wednesday, August 19, 2026, 12-2 p.m. Eastern Daylight Time (EDT).
 
