@@ -14,9 +14,7 @@ July 22, 2026
 
 The session is 9-10:15 a.m. EDT at the Washington Grand Hyatt (Independence A), 1000 H St NW, Washington, DC 20001. The event is in conjunction with the 2026 Annual Conference on Independent Living, so it will not be livestreamed.
 
-Come learn about the latest topics NCD’s Council Members have selected as new research areas for 2027 and share your experiences and knowledge with NCD about those topics in a town hall format.
-
-NCD representatives will discuss upcoming policy projects and provide an opportunity to hear from disability community to inform our policy recommendations.
+NCD representatives will discuss upcoming policy projects and provide an opportunity to hear from disability community to inform our policy recommendations. Come learn about the latest topics NCD’s Councilmembers have selected as new research areas for 2027 and share your experiences and knowledge with NCD about those topics in a town hall format.
 
 Topics include artificial intelligence, Medicaid portability of services across state lines, and assisted suicide, as well as NCD's strategic plan. 
 
