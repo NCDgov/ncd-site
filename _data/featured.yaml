@@ -1,8 +1,10 @@
-meetings: []
+meetings:
+  - featured: August 19, 2026 Council Meeting
 reports:
-  - featured: "National Disability Policy: A Progress Report 2025"
-  - featured: The Impacts of Extreme Weather Events on People with Disabilities
+  - featured: "Toward Independence: An Assessment of Federal Laws and Programs
+      Affecting Persons with Disabilities--With Legislative Recommendations"
+  - featured: On the Threshold of Independence
 posts:
-  - featured: NCD Acting Chairman receives Judy Heumann Award
-  - featured: NCD advises senators on ABLE legislation
-letters: []
+  - featured: NCD to hold virtual Council meeting August 19
+letters:
+  - featured: NCD letter on bipartisan request of HHS regarding assisted suicide
