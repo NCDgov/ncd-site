@@ -3,6 +3,7 @@ layout: post
 title: NCD announces Plan for Disability Middle Class Framework on ADA anniversary
 collection_name: newsroom
 date: 2026-07-26
+tag: Press Release
 redirect_from: []
 ---
 July 26, 2026
