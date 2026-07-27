@@ -9,10 +9,6 @@ All opportunities for federal positions are advertised through [USAJobs.gov](htt
 
 
 
-**[Administrative Officer (GS-15). ](https://www.usajobs.gov/job/872550900)**Apply through USAJOBS
-
-
-
 **Personal Care Attendant Contractor**
 
 NCD has an immediate opening for a Personal Care Attendant in the Stafford, Virginia, area. 
