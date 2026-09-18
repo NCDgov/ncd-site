@@ -39,8 +39,6 @@ HCBS waiver programs have been shown to be cost-effective.  For example, in 2023
 
 Following the establishment of HCBS waivers, the passage of the Americans with Disabilities Act of 1990 (ADA) was another watershed moment for community integration. The ADA “requires equal opportunity for individuals with disabilities, with broad coverage and setting clear, consistent, and enforceable standards prohibiting discrimination on the basis of disability.” [^14] , [^15] The ADA’s goals, which have shaped disability policy since their introduction in 1990, are to: “assure equality of opportunity, full participation, independent living, and economic self-sufficiency for people with disabilities.”[^16] , [^17]  Thanks to significant Republican support and leadership, including from Senators Orrin Hatch and Bob Dole, working alongside Equal Employment Opportunity Commission Chair Evan Kemp, Attorney General Richard Thornburgh, and others, the passage of the ADA was a bipartisan effort, which culminated in President George H.W. Bush signing the legislation into law. [^18] , [^19]
 
- 
-
 The 1999 Supreme Court case Olmstead v. L.C. [^20] was instrumental in realizing the ADA’s goal of independent living. Plaintiffs Lois Curtis and Elaine Wilson, two Georgia residents with disabilities, filed suit for release from their institution, claiming that their placement in an institutional facility was inappropriate. In a 7-2 decision, the Supreme Court held that unnecessary institutionalization of individuals with disabilities violated the ADA. The Court said their answer to whether the ADA’s nondiscrimination protections required “placement of persons with mental disabilities in community settings rather than in institutions,” was a “qualified yes.” The Court’s qualifications were threefold: that “treatment professionals have determined that community placement is appropriate, the transfer from institutional care to a less restrictive setting is not opposed by the affected individual, and the placement can be reasonably accommodated, taking into account the resources available to the State and the needs of others with mental disabilities.” [^21]  These qualifications ensured that the option for institutional care was not taken away from people with disabilities who needed it, but meant that such care became an option, rather than a predetermined outcome.  
 
 In 2001, just two years after the Olmstead decision, the Bush-Cheney Administration announced the New Freedom Initiative, which focused on increasing access to technology for people with disabilities, expanding educational opportunities for youth with disabilities, and promoting full integration into both the workplace and the community.  [^22]
@@ -73,12 +71,9 @@ While policy developments like MFP and the New Freedom Initiative demonstrate a 
 
 [^9]: Mary Jean Duckett and Mary R. Guy, “Home and Community-Based Services Waivers,” Health Care Financing Review 22, no. 1 (Fall 2000): 123–124, https://pubmed.ncbi.nlm.nih.gov/25372343/.
 
-[^10]: Elizabeth Zirker and Jennifer Lav, “New
-1915(c) Waiver Opportunity under OBBBA,” National Health Law Program, February 16, 2026, 2, <https://healthlaw.org/wp-content/uploads/2026/02/02-16-2026-New-1915-Waiver-opportunity.pdf>. 
+[^10]: Elizabeth Zirker and Jennifer Lav, “New 1915(c) Waiver Opportunity under OBBBA,” National Health Law Program, February 16, 2026, 2, <https://healthlaw.org/wp-content/uploads/2026/02/02-16-2026-New-1915-Waiver-opportunity.pdf>. 
 
-[^11]: Alexandra Carpenter, Cara Stepanczuk, and Andrea Wysocki, *Characteristics of People Using Medicaid Long-Term Services and Supports, 2023,* Centers for Medicare & Medicaid Services, October 17, 2025
-
-<https://www.medicaid.gov/medicaid/long-term-services-supports/downloads/ltss-user-character-brief-2023.pdf>.
+[^11]: Alexandra Carpenter, Cara Stepanczuk, and Andrea Wysocki, *Characteristics of People Using Medicaid Long-Term Services and Supports, 2023,* Centers for Medicare & Medicaid Services, October 17, 2025 <https://www.medicaid.gov/medicaid/long-term-services-supports/downloads/ltss-user-character-brief-2023.pdf>.
 
 [^12]: Joe Caldwell et al., *Home and Community-Based Services Improve Outcomes While Reducing Costs,* Community Living Policy Center at Brandeis University, April 2026, 2, <https://heller.brandeis.edu/community-living-policy/research-policy/publications/pdfs/briefs/hcbs-improve-outcomes-and-reduce-costs.pdf>. 
 
@@ -100,47 +95,26 @@ While policy developments like MFP and the New Freedom Initiative demonstrate a 
 
 [^21]: Olmstead, 527 U.S. at 587.
 
-
 [^22]: The White House, A Progress Report on Fulfilling America’s Promise to Americans with Disabilities, accessed August 12, 2026, https://georgewbush-whitehouse.archives.gov/infocus/newfreedom/toc.html.
-
 
 [^23]: Exec. Order No. 13217, 3 C.F.R. 774 (2002).
 
- 
-
-
 [^24]: National Council on Disability, “Reclaiming Institutionalized Livess—Abridged Version”, September 29, 2003, https://www.ncd.gov/report/olmstead-reclaiming-institutionalized-lives-abridged-version/
-
 
 [^25]: National Council on Disability, Strengthening the HCBS Ecosystem – Responding to Dangers of Congregate Settings during COVID-19, November 16, 2022, https://www.ncd.gov/report/strengthening-the-hcbs-ecosystem-responding-to-dangers-of-congregate-settings-during-covid-19/.
 
-
 [^26]: National Council on Disability, Strengthening the HCBS Ecosystem.
-
-
 
 [^27]: The White House, The President's New Freedom Initiative: The 2007 Progress Report—Chapter 4: Promoting Full Access to Community Life, accessed August 12, 2026, https://georgewbush-whitehouse.archives.gov/infocus/newfreedom/newfreedom-report-2007-6.html.
 
-
-
 [^28]: American Council on Aging, “Money Follows the Person Programs Help Seniors Move Back Home from Nursing Homes,” April 6, 2026, https://www.medicaidplanningassistance.org/money-follows-person. 
-
-
 
 [^29]: American Council on Aging, “Money Follows the Person.”
 
-
-
 [^30]: Community Living Policy Center at Brandeis University, Money Follows the Person: History, Function, and Case Studies, January 2026, 1, https://heller.brandeis.edu/community-living-policy/resources/webinars/publications/pdfs/mfp-and-ltss-rebalancing_resource.pdf/. 
-
-
 
 [^31]: American Council on Aging, “Money Follows the Person.”
 
-
-
 [^32]: Caldwell et al., Home and Community-Based Services Improve Outcomes, 3.
-
-
 
 [^33]: Caldwell et al., Home and Community-Based Services Improve Outcomes, 4
