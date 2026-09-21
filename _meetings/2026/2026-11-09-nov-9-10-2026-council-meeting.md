@@ -44,7 +44,7 @@ redirect_from: []
 
 4:30 p.m. – Closing Remarks, NCD Meeting Adjournment
 
-**Tuesday, November 9, 2026**
+**Tuesday, November 10, 2026**
 
 9:30 – 9:35 a.m. – NCD Welcome, Call to Order; Roll Call
 
