@@ -9,7 +9,7 @@ tag: Press Release
 
 Sept. 28, 2026
 
-**WASHINGTON--**The National Council on Disability (NCD) has announces the planned quarterly Council meetings for fiscal year 2027.
+**WASHINGTON--**The National Council on Disability (NCD) has announced the planned quarterly Council meetings for fiscal year 2027.
 
 The dates are: November 9-10, 2026 in Phoenix, Arizona; February 4, 2027 (virtual); May 6-7, 2027 in Washington, D.C.; and August 5, 2027 (virtual).
 
