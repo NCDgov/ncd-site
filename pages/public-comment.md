@@ -40,7 +40,7 @@ with the subject line “Public Comment” and your name, Tribal affiliation/org
 
 Deadline for public comment registration is November 7, 2026, 8:00 p.m. EST. Please indicate if you are providing the comment in-person, via livestream or only submitting via email. 
 
-Comments during this meeting will be used for data to inform NCD's upcoming Incidents of Disabilities and Accessibility on Tribal Land report.
+Comments during this meeting will be used for data to inform NCD's upcoming Incidents of Disabilities and Accessibility on Tribal Land report and should focus on Tribal and rural experiences with housing, employment, education, independent living, healthcare, and transportation.
 
 To provide comments by email, please send personal experiences, and/or articles, data, and other research on the following topics to PublicComment@ncd.gov.
 
