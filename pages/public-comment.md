@@ -38,11 +38,9 @@ PublicComment@ncd.gov
 
 with the subject line “Public Comment” and your name, Tribal affiliation/organization (if applicable), state, and topic of comment in the body of your email.
 
-Deadline for public comment registration is January 20, 2026, 8:00 p.m. EST. Please indicate if you are providing the comment in-person or only submitting via email. All individuals desiring to make public comments are encouraged to read NCD's guidelines for public comment in advance of the meeting at: 
+Deadline for public comment registration is November 7, 2026, 8:00 p.m. EST. Please indicate if you are providing the comment in-person, via livestream or only submitting via email. 
 
-https://ncd.gov/​public-comment.
-
-Comments during this meeting must be specific to youth in nursing homes and experiences in recent natural disasters.
+Comments during this meeting will be used for data to inform NCD's upcoming Incidents of Disabilities and Accessibility on Tribal Land report.
 
 To provide comments by email, please send personal experiences, and/or articles, data, and other research on the following topics to PublicComment@ncd.gov.
 
