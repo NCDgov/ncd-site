@@ -11,6 +11,8 @@ redirect_from: []
 
 **Tribal/rural Town Hall in Phoenix, Arizona, also livestreamed on Zoom for Government**
 
+Times for the event are Mountain Standard Time (MST)
+
 11:30 – 11:40 a.m. – Town Hall Introduction
 
 11:40 a.m. – 12:40 p.m. – Town Hall (Topics including )
