@@ -15,13 +15,13 @@ The meeting takes place at the Ability360 Conference Center, 5025 E. Washington 
 
 The event will also be streamed live via Zoom for Government and NCD's YouTube channel for those not able to attend in person.
 
-Register to attend either in-person or via Zoom on our [Eventbrite page](https://www.eventbrite.com/e/ncd-town-hall-and-council-meeting-nov-9-10-2026-phoenix-arizona-tickets-2002402830770).
+Register to attend either in-person or via Zoom on NCD's [Eventbrite page](https://www.eventbrite.com/e/ncd-town-hall-and-council-meeting-nov-9-10-2026-phoenix-arizona-tickets-2002402830770).
 
 The November 9 meeting will include a town hall event focused on disability and accessibility in Tribal and rural communities, starting with welcome remarks and call to order; Tribal Land acknowledgment; local and Tribal welcomes and posting of colors, The Council will then provide opening remarks and introduce U.S. Access Board leadership in attendance before a panel discussion and presentation on NCD’s upcoming Incidents of Disabilities and Accessibility on Tribal Land report. Following a break, an introduction to the day’s town hall focused on disability and accessibility in Tribal and rural communities takes place, with topics including housing, employment, education, independent living, healthcare, and transportation.; followed by a lunch break; and continuation of the town hall; closing remarks; and NCD meeting adjournment. 
 
 The town hall will prioritize in-person attendees, with remaining time available for comments via Zoom for Government. Additional information on specifics of the topics and pre-registration to provide comments is available on NCD’s public comment page at [https://ncd.gov/public-comment](https://www.ncd.gov/public-comment/).
 
-For the November 10 business meeting, following welcome remarks and call to order; the Council will receive a panel presentation on Medicaid cuts and the future of community living, followed by Council Q&A of the panelists; the Chairman’s report; Council Member community report outs; and the Executive Committee report; before adjourning. 
+For the November 10 business meeting, the Council will receive a panel presentation on Medicaid cuts and the future of community living, followed by Council questions and answers with the panelists, the Chairman’s report; Councilmember community report outs; and the Executive Committee report; before adjourning. 
 
 ASL Interpreters will be provided in-room and included during the live streamed meeting, and CART has been arranged for this meeting and will be embedded into the Zoom livestream as well as available via streamtext link.
 
