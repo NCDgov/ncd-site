@@ -15,7 +15,7 @@ The meeting takes place at the Ability360 Conference Center, 5025 E. Washington 
 
 The event will also be streamed live via Zoom for Government and NCD's YouTube channel for those not able to attend in person.
 
-Register to attend either in-person or via Zoom on our [Eventbrite page](https://www.eventbrite.com/e/ncd-council-meeting-jan-22-23-2025-orlando-florida-tickets-1978613907460?aff=oddtdtcreator).
+Register to attend either in-person or via Zoom on our [Eventbrite page](https://www.eventbrite.com/e/ncd-town-hall-and-council-meeting-nov-9-10-2026-phoenix-arizona-tickets-2002402830770?aff=oddtdtcreator).
 
 The November 9 meeting starts with welcome remarks and call to order; Tribal Land acknowledgment; local and Tribal welcomes and posting of colors, The Council will then provide opening remarks and introduce U.S. Access Board leadership in attendance before a panel discussion and presentation on NCD’s upcoming Incidents of Disabilities and Accessibility on Tribal Land report. Following a break, an introduction to the day’s town hall focused on disability and accessibility in Tribal and rural communities takes place, with topics including housing, employment, education, independent living, healthcare, and transportation.; followed by a lunch break; and continuation of the town hall; closing remarks; and NCD meeting adjournment. 
 
