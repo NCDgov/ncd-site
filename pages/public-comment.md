@@ -52,9 +52,9 @@ Your contributions will help strengthen our investigations and provide for a mor
 
 NCD will call upon as many individuals who registered as possible as time permits. However, all public comment submissions sent via email will be collected and reviewed. 
 
-If you cannot attend the meeting, were not called upon, or prefer to submit a written comment, please submit your comment to [PublicComment@ncd.gov](PublicComment@ncd.gov) with the topic in the header. Written comments are accepted both prior to and after NCD meetings
+If you cannot attend the meeting, were not called upon, or prefer to submit a written comment, please submit your comment to [PublicComment@ncd.gov](PublicComment@ncd.gov) with the topic in the header. Written comments are accepted both before and after NCD meetings.
 
-All individuals called upon to make comments will be allotted three minutes to speak. 
+All individuals called upon to make comments will be allotted five minutes to speak. 
 
 Council Members will not respond to questions or engage in discussion with commenters. 
 
