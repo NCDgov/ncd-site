@@ -11,9 +11,7 @@ Sept. 29, 2026
 
 **WASHINGTON--**The Members of the National Council on Disability (NCD) will hold an in-person Council meeting on Monday November 9, 2026, 8:30 a.m. – 4:30 p.m., and Tuesday, November 10, 2026, 9:30 – 11:45 a.m. Mountain Standard Time (MST). 
 
-The meeting takes place at the Ability360 Conference Center, 5025 E. Washington St., Suite 200, Phoenix, Arizona 85034. It will also be livestreamed via Zoom for Government videoconference and NCD’s YouTube Channel. 
-
-The event will also be streamed live via Zoom for Government and NCD's YouTube channel for those not able to attend in person.
+The meeting takes place at the Ability360 Conference Center, 5025 E. Washington St., Suite 200, Phoenix, Arizona 85034. It will also be livestreamed via Zoom for Government videoconference and NCD’s YouTube Channel for those not able to attend in person.
 
 Register to attend either in-person or via Zoom on NCD's [Eventbrite page](https://www.eventbrite.com/e/ncd-town-hall-and-council-meeting-nov-9-10-2026-phoenix-arizona-tickets-2002402830770).
 
