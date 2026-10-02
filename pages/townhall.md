@@ -24,9 +24,7 @@ redirect_from: []
 * ### Healthcare
 * ### Transportation
 
-**[Infornmation](https://www.ncd.gov/public-comment/) on providing public comment is available on NCD's Public Comment page.**
-
-
+**[Information](https://www.ncd.gov/public-comment/) on providing public comment is available on NCD's Public Comment page.**
 
 ## Agenda
 
