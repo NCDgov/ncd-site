@@ -2,7 +2,7 @@
 layout: single-page
 published: true
 permalink: /townhall/
-title: Tribal and Rural Communities Townhall
+title: Tribal and Rural Communities Town Hall
 redirect_from: []
 ---
 
