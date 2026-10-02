@@ -5,8 +5,6 @@ permalink: /townhall/
 title: Tribal and Rural Communities Town Hall
 redirect_from: []
 ---
-
-
 #### Join the National Council on Disability and the U.S. Access Board for a Tribal and Rural Town Hall in Phoenix, Arizona on November 9.
 
 ## Date: Nov. 9, 2026
@@ -18,7 +16,7 @@ Time: 8:30 a.m. - 4:30 p.m. Mountain Standard Time (MST)
 5025 E. Washington St.
 Phoenix, AZ 85034
 
-## **[Info/Registration](<>)** on NCD's Eventbrite page for in-person or online participation.
+## **[Info/Registration](https://www.eventbrite.com/e/ncd-town-hall-and-council-meeting-nov-9-10-2026-phoenix-arizona-tickets-2002402830770)** on NCD's Eventbrite page for in-person or online participation.
 
 ### Lunch will be provided for in-person attendees.
 
