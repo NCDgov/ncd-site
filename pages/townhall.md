@@ -18,7 +18,11 @@ Time: 8:30 a.m. - 4:30 p.m. Mountain Standard Time (MST)
 5025 E. Washington St.
 Phoenix, AZ 85034
 
-## **[Info/Registration](<>)** on NCD's Eventbrite page for in-person or online participation. Lunch will be provided for in-person attendees. Space is limited so register today!
+## **[Info/Registration](<>)** on NCD's Eventbrite page for in-person or online participation. 
+
+## Lunch will be provided for in-person attendees. 
+
+## Space is limited so register today!
 
 ### Share your Tribal and rural community perspectives on:
 
