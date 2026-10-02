@@ -9,7 +9,7 @@ redirect_from: []
 
 ### Location: Ability 360, 5025 E. Washington St., Phoenix, AZ 85034
 
-## **[Info/Registration](https://www.eventbrite.com/e/ncd-town-hall-and-council-meeting-nov-9-10-2026-phoenix-arizona-tickets-2002402830770)** on NCD's Eventbrite page for in-person or online participation.
+## **[Information/Registration](https://www.eventbrite.com/e/ncd-town-hall-and-council-meeting-nov-9-10-2026-phoenix-arizona-tickets-2002402830770)** on NCD's Eventbrite page for in-person or online participation.
 
 ### Lunch will be provided for in-person attendees.
 
@@ -23,6 +23,10 @@ redirect_from: []
 * ### Independent Living
 * ### Healthcare
 * ### Transportation
+
+**[Infornmation](https://www.ncd.gov/public-comment/) on providing public comment is available on NCD's Public Comment page.**
+
+
 
 ## Agenda
 
