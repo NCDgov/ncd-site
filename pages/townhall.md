@@ -5,12 +5,14 @@ permalink: /townhall/
 title: Tribal and Rural Communities Townhall
 redirect_from: []
 ---
-##### Join the National Council on Disability and the U.S. Access Board for a Tribal and Rural Town Hall in Phoenix, Arizona on November 9 to receive Tribal and rural community perspectives on housing, employment, education, independent living, healthcare, and transportation.
+Join the National Council on Disability and the U.S. Access Board for a Tribal and Rural Town Hall in Phoenix, Arizona on November 9 to receive Tribal and rural community perspectives on housing, employment, education, independent living, healthcare, and transportation.
 
-## Date: Nov. 9, 2026\
+## Date: Nov. 9, 2026
+
 Time: 8:30 a.m. - 4:30 p.m. Mountain Standard Time (MST)
 
-## Location: Ability 360\
+## Location: Ability 360
+
 5025 E. Washington St.\
 Phoenix, AZ 85034
 
@@ -18,34 +20,32 @@ Phoenix, AZ 85034
 
 ## Agenda
 
-#### 8:30 – 9:30 a.m. – Networking and Sign-In
+8:30 – 9:30 a.m. – Networking and Sign-In
+9:30 – 9:35 a.m. – NCD Welcome, Call to Order
+9:35 – 9:40 a.m. – Tribal Land acknowledgment
+9:40 – 10:20 a.m. Local / Tribal Welcomes NCD and Attendees, Posting of Colors
 
-#### 9:30 – 9:35 a.m. – NCD Welcome, Call to Order
+10:20 – 10:40 a.m. - NCD Opening remarks, Introduction of Access Board Executive Director and Chair
 
-#### 9:35 – 9:40 a.m. – Tribal Land acknowledgment
+10:40 – 11:10 a.m. - Panel Discussion and Presentation on NCD's Incidents of Disabilities and Accessibility on Tribal Land report
 
-#### 9:40 – 10:20 a.m. Local / Tribal Welcomes NCD and Attendees, Posting of Colors
+11:10 – 11:30 a.m. – BREAK
 
-#### 10:20 – 10:40 a.m. - NCD Opening remarks, Introduction of Access Board Executive Director and Chair
+11:30 – 11:40 a.m. – Town Hall Introduction
 
-#### 10:40 – 11:10 a.m. - Panel Discussion and Presentation on NCD's Incidents of Disabilities and Accessibility on Tribal Land report
+11:40 a.m. – 12:40 p.m. – Town Hall
 
-#### 11:10 – 11:30 a.m. – BREAK
+12:40 – 2:00 p.m. – Lunch Break (lunch provided to in-person attendees)
 
-#### 11:30 – 11:40 a.m. – Town Hall Introduction
+2 – 4:30 p.m. – Town Hall Continued
 
-#### 11:40 a.m. – 12:40 p.m. – Town Hall
-
-#### 12:40 – 2:00 p.m. – Lunch Break (lunch provided to in-person attendees)
-
-#### 2 – 4:30 p.m. – Town Hall Continued
-
-#### 4:30 p.m. – Closing Remarks, NCD Meeting Adjournment
+4:30 p.m. – Closing Remarks, NCD Meeting Adjournment
 
 Join in person to provide your public comments. Lunch is
-provided for in-person attendees. Space is limited so register today!
+provided for in-person attendees. 
 Can’t attend in-person? You can also attend virtually! 
 
 To receive updates on the November 9 Tribal and Rural Town Hall and the ongoing work of both agencies, sign up for their communications lists at the following links: 
 
 <https://www.ncd.gov/subscribe/> and https://[www.access-board.gov/contact](https://www.access-board.gov/contact)
+##Space is limited so register today!
