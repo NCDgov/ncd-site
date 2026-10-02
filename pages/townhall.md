@@ -21,8 +21,11 @@ Phoenix, AZ 85034
 ## Agenda
 
 8:30 – 9:30 a.m. – Networking and Sign-In
+
 9:30 – 9:35 a.m. – NCD Welcome, Call to Order
+
 9:35 – 9:40 a.m. – Tribal Land acknowledgment
+
 9:40 – 10:20 a.m. Local / Tribal Welcomes NCD and Attendees, Posting of Colors
 
 10:20 – 10:40 a.m. - NCD Opening remarks, Introduction of Access Board Executive Director and Chair
@@ -31,13 +34,13 @@ Phoenix, AZ 85034
 
 11:10 – 11:30 a.m. – BREAK
 
-11:30 – 11:40 a.m. – Town Hall Introduction
+**11:30 – 11:40 a.m. – Town Hall Introduction**
 
-11:40 a.m. – 12:40 p.m. – Town Hall
+**11:40 a.m. – 12:40 p.m. – Town Hall**
 
 12:40 – 2:00 p.m. – Lunch Break (lunch provided to in-person attendees)
 
-2 – 4:30 p.m. – Town Hall Continued
+**2 – 4:30 p.m. – Town Hall Continued**
 
 4:30 p.m. – Closing Remarks, NCD Meeting Adjournment
 
