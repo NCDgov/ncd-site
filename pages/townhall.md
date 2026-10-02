@@ -5,7 +5,7 @@ permalink: /townhall/
 title: Tribal and Rural Communities Townhall
 redirect_from: []
 ---
-![Arizona desert with NCD and Access Board seals](th-wide-20261109.png)
+
 
 #### Join the National Council on Disability and the U.S. Access Board for a Tribal and Rural Town Hall in Phoenix, Arizona on November 9.
 
