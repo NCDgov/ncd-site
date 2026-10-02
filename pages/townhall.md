@@ -5,7 +5,7 @@ permalink: /townhall/
 title: Tribal and Rural Communities Townhall
 redirect_from: []
 ---
-![](th-wide-20261109.png)
+
 
 ![Arizona desert landscape with National Council on Disability and U.S. Access Board seals, Tribal/Rural Town Hall, Ability360, Phoenix, Arizona, Nov. 9, 2026](th-wide-20261109.png)
 
