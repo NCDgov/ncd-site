@@ -7,6 +7,8 @@ redirect_from: []
 ---
 ![](th-wide-20261109.png)
 
+![Arizona desert landscape with National Council on Disability and U.S. Access Board seals, Tribal/Rural Town Hall, Ability360, Phoenix, Arizona, Nov. 9, 2026](th-wide-20261109.png)
+
 #### Join the National Council on Disability and the U.S. Access Board for a Tribal and Rural Town Hall in Phoenix, Arizona on November 9.
 
 ## Date: Nov. 9, 2026
@@ -18,11 +20,11 @@ Time: 8:30 a.m. - 4:30 p.m. Mountain Standard Time (MST)
 5025 E. Washington St.
 Phoenix, AZ 85034
 
-## **[Info/Registration](<>)** on NCD's Eventbrite page for in-person or online participation. 
+## **[Info/Registration](<>)** on NCD's Eventbrite page for in-person or online participation.
 
-## Lunch will be provided for in-person attendees. 
+### Lunch will be provided for in-person attendees.
 
-## Space is limited so register today!
+### Space is limited so register today!
 
 ### Share your Tribal and rural community perspectives on:
 
