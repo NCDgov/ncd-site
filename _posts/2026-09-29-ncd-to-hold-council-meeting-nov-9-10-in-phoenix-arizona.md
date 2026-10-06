@@ -1,8 +1,8 @@
 ---
 layout: post
-title: NCD to hold Council meeting Nov. 9-10 in Phoenix, Arizona
+title: NCD and U.S. Access Board to host town hall for Tribal and rural communities
 collection_name: newsroom
-date: 2026-09-29
+date: 2026-10-06
 tag: Press Release
 ---
 **FOR IMMEDIATE RELEASE**
