@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "National Disability Policy: A Progress Report 2026"
+title: "National Disability Policy: A Progress Report, 2026"
 collection_name: reports
 date: October 7, 2026
 report_year: 2026
