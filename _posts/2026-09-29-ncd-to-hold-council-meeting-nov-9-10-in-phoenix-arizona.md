@@ -7,7 +7,7 @@ tag: Press Release
 ---
 **FOR IMMEDIATE RELEASE**
 
-Oc.t 13, 2026
+Oct 13, 2026
 
 **WASHINGTON--**The Members of the National Council on Disability (NCD) will be joined by the U.S. Access Board for a November 9 town hall focused on Tribal and rural communities. 
 
