@@ -43,18 +43,13 @@ cc: Debra F. Weinstein, MD\
 
 [^1]: Accreditation Council for Graduate Medical Education, *Proceedings of the 2025 ACGME Summit on Fostering Disability-Inclusive Health Care in Resident Education* (March 2-4, 2025), <https://www.acgme.org/globalassets/pdfs/disabilitysummit/ACGMEDisabilitySummitProceedingsDigital.pdf>.
 
-
 [^2]: This includes information from the US Surgeon General, the Centers for Disease Control and Prevention, the National Institutes of Health, the National Academies of Sciences, Engineering, and Medicine, as well as leading healthcare institutions and researchers.  
-
 
 [^3]: 29 U.S.C. §794.
 
-
 [^4]: 42 U.S.C. §12101.
-
 
 [^5]: National Council on Disability, *Framework to End Health Disparities of People with
 Disabilities* (2025), [https://www.ncd.gov/report/framework-to-end-health-disparities-of-people-with-disabilities](https://www.ncd.gov/report/framework-to-end-health-disparities-of-people-with-disabilities/).
-
 
 [^6]: Accreditation Council for Graduate Medical Education, *Mission* (2026), <https://www.acgme.org/about/overview/mission-vision-and-values/>.
