@@ -49,7 +49,6 @@ cc: Debra F. Weinstein, MD\
 
 [^4]: 42 U.S.C. §12101.
 
-[^5]: National Council on Disability, *Framework to End Health Disparities of People with
-Disabilities* (2025), [https://www.ncd.gov/report/framework-to-end-health-disparities-of-people-with-disabilities](https://www.ncd.gov/report/framework-to-end-health-disparities-of-people-with-disabilities/).
+[^5]: National Council on Disability, *Framework to End Health Disparities of People with Disabilities* (2025), [https://www.ncd.gov/report/framework-to-end-health-disparities-of-people-with-disabilities](https://www.ncd.gov/report/framework-to-end-health-disparities-of-people-with-disabilities/).
 
 [^6]: Accreditation Council for Graduate Medical Education, *Mission* (2026), <https://www.acgme.org/about/overview/mission-vision-and-values/>.
