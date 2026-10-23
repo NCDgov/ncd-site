@@ -11,6 +11,8 @@ redirect_from: []
 
 **Tribal/rural Town Hall in Phoenix, Arizona, also livestreamed on Zoom for Government**
 
+**Register via NCD's [Eventbrite page](https://www.eventbrite.com/e/ncd-town-hall-and-council-meeting-nov-9-10-2026-phoenix-arizona-tickets-2002402830770?aff=oddtdtcreator)**
+
 Times for the event are Mountain Standard Time (MST)
 
 11:30 – 11:40 a.m. – Town Hall Introduction
