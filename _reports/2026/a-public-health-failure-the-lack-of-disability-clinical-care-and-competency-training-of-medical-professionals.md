@@ -7,6 +7,7 @@ date: November 3, 2026
 report_year: 2026
 policy_areas:
   - Health Care
+  - Education
 word_document: reports/2026/ncd-disability-clinical-care-and-competency-2026.docx
 pdf_document: reports/2026/ncd-disability-clinical-care-and-competency-2026.pdf
 image: images/disability-clinical-care-and-competency-policy-brief-cover.jpg
