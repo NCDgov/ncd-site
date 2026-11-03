@@ -24,7 +24,7 @@ The new policy brief looks into the effect of a lack of disability clinical care
 
 In response to NCD's Request for Information when developing the brief, numerous individuals with disabilities and their families shared troubling experiences with healthcare providers. One mother, a nurse herself, with a son with significant intellectual disabilities, described difficulty in finding urgent care or emergency department physicians who would treat her son. Another described an individual with developmental disabilities who required emergency gallbladder surgery after being turned away by the same physician three times in one week. The accounts NCD received demonstrated how inadequate disability competency can lead not only to ableist behaviors towards patients with disabilities, but also serious consequences for patients' health. 
 
-The report includes recommendations to the U.S. Department of Health and Human Services; state lawmakers; and medical accreditation associations. 
+The brief includes recommendations to the U.S. Department of Health and Human Services; state lawmakers; and medical accreditation associations. 
 
 “People with disabilities should never have to wonder whether the doctor they see is prepared to care for them,” said NCD Acting Chairman Neil Romano. “Yet, for too long, our health care system has allowed medical professionals to complete their training without learning how to treat millions of Americans with disabilities. That is a public health failure, and it is one that we have the power to correct,” he said. “Disability clinical care and competency training must be a standard part of medical education, not an afterthought.”
 
@@ -35,7 +35,5 @@ The report includes recommendations to the U.S. Department of Health and Human S
 NCD as an independent federal agency provides recommendations to the President, Congress, federal agencies, state, local, territorial and tribal governments on disability policy.
 
 The report is available for download at NCD.gov.
-
-
 
 \###
