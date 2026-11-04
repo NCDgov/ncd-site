@@ -9,6 +9,18 @@ All opportunities for federal positions are advertised through [USAJobs.gov](htt
 
 
 
+**Selective Placement Opportunity: Attorney-Advisor GS 12/13**
+
+The National Council on Disability (NCD) seeks resumes from early career individuals for the position of Attorney/Advisor. This position is on NCD’s Policy & Legal Team and reports to the General Counsel and Director of Policy. 
+
+The Policy & Legal Team analyzes federal laws, regulations, programs, policies, and case law precedent; and proposes and develops NCD policy positions that have a national, state and international impact on the lives of people with disabilities. 
+
+This position requires excellent writing and analysis skills, effective multi-tasking, adherence to deadlines, and a strong work ethic. Interested individuals should examine our policy advice tab at www.ncd.gov to see examples of our work.
+
+Schedule A applicants should email a one-page resume, proof of current bar membership, a brief legal or policy writing sample of no more than five pages, and a cover letter, to Ana Torres-Davis, Executive Director and Selective Placement Coordinator at atorresdavis@ncd.gov.
+
+
+
 **Personal Care Attendant Contractor**
 
 NCD has an immediate opening for a Personal Care Attendant in the Stafford, Virginia, area. 
