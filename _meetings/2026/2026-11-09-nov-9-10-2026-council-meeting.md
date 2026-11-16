@@ -6,6 +6,8 @@ federal_register_notice: https://www.federalregister.gov/documents/2026/09/29/20
 meeting_year: 2026
 date: 2026-11-09
 press_release: https://www.ncd.gov/2026/09/29/ncd-to-hold-council-meeting-nov-9-10-in-phoenix-arizona/
+misc_files_1: meetings/2026/nov-9-10-2026-council-meeting/110926-meeting-transcript.docx
+misc_files_2: meetings/2026/nov-9-10-2026-council-meeting/111026-meeting-transcript.docx
 redirect_from: []
 ---
 **TIME AND DATE:** The Members of the National Council on Disability (NCD) will in-person Council meeting on Monday November 9, 2026, 8:30 – 4:30 p.m., and Tuesday, November 10, 2026, 9:30 – 11:45 a.m. Mountain Standard Time (MST). 
@@ -96,7 +98,7 @@ o	Executive Director report
 
 CONTACT PERSON FOR MORE INFORMATION: Nicholas Sabula, Public Affairs Specialist, NCD, 1331 F Street NW, Suite 850, Washington, DC 20004; 202-272-2004 (V), or nsabula@ncd.gov.
 
-ACCOMMODATIONS:  ASL Interpreters will be provided in-room and included during the live streamed meeting, and CART has been arranged for this meeting and will be embedded into the Zoom platform as well as available via streamtext link. The web link to access CART Streamtext: <https://www.streamtext.net/player?event=NCD>
+ACCOMMODATIONS:  ASL Interpreters will be provided in-room and included during the live streamed meeting, and CART has been arranged for this meeting and will be embedded into the Zoom platform as well as available via streamtext link. The web link to access CART Streamtext: https://www.streamtext.net/player?event=NCD
 
 If you require additional accommodations, please notify Stacey Brown by sending an email to mailto:sbrown@ncd.gov as soon as possible and no later than 24 hours prior to the meeting.
 
