@@ -6,6 +6,8 @@ federal_register_notice: https://www.federalregister.gov/documents/2026/09/29/20
 meeting_year: 2026
 date: 2026-11-09
 press_release: https://www.ncd.gov/2026/09/29/ncd-to-hold-council-meeting-nov-9-10-in-phoenix-arizona/
+misc_files_1: meetings/2026/nov-9-10-2026-council-meeting/20261109-meeting-transcript.docx
+misc_files_2: meetings/2026/nov-9-10-2026-council-meeting/20261110-meeting-transcript.docx
 redirect_from: []
 ---
 **TIME AND DATE:** The Members of the National Council on Disability (NCD) will in-person Council meeting on Monday November 9, 2026, 8:30 – 4:30 p.m., and Tuesday, November 10, 2026, 9:30 – 11:45 a.m. Mountain Standard Time (MST). 
