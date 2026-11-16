@@ -17,6 +17,10 @@ This position requires excellent writing and analysis skills, effective multi-ta
 
 Schedule A applicants should email a one-page resume, proof of current bar membership, a brief legal or policy writing sample of no more than five pages, and a cover letter, to Ana Torres-Davis, Executive Director and Selective Placement Coordinator at [atorresdavis@ncd.gov](mailto:atorresdavis@ncd.gov).
 
+This NTE position ends on or before 9/30/27 unless it is formally renewed by the agency.
+
+Please submit your documentation no later than December 10th.
+
 **Personal Care Attendant Contractor**
 
 NCD has an immediate opening for a Personal Care Attendant in the Stafford, Virginia, area. 
