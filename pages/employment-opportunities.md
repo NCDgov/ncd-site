@@ -7,11 +7,9 @@ redirect_from: []
 ---
 All opportunities for federal positions are advertised through [USAJobs.gov](https://www.usajobs.gov/).
 
-**Supervisory Administrative Officer**
+**Supervisory Administrative Officer GS 15**
 
 <https://www.usajobs.gov/job/893718600>
-
-
 
 **Selective Placement Opportunity: Attorney-Advisor GS 12/13**
 
