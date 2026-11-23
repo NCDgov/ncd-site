@@ -7,7 +7,7 @@ redirect_from: []
 ---
 All opportunities for federal positions are advertised through [USAJobs.gov](https://www.usajobs.gov/).
 
-**Supervisory Administrative Officer GS 15**
+**Supervisory Administrative Officer GS-0341-15**
 
 <https://www.usajobs.gov/job/893718600>
 
