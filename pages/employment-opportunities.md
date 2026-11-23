@@ -7,6 +7,12 @@ redirect_from: []
 ---
 All opportunities for federal positions are advertised through [USAJobs.gov](https://www.usajobs.gov/).
 
+**Supervisory Administrative Officer**
+
+<https://www.usajobs.gov/job/893718600>
+
+
+
 **Selective Placement Opportunity: Attorney-Advisor GS 12/13**
 
 The National Council on Disability (NCD) seeks resumes from early career individuals for the position of Attorney/Advisor. This position is on NCD’s Policy & Legal Team and reports to the General Counsel and Director of Policy. 
