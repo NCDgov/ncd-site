@@ -27,7 +27,7 @@ Dear Chairman Wicker and Ranking Member Reed:
 
 I write on behalf of the National Council on Disability (NCD), an independent nonpartisan federal agency with the statutory responsibility to advise the President, Congress and federal agencies on all policy matters affecting people with disabilities, to advise against advancing Section 166 of the NDAA (H.R. 8800), which would require the Secretary of Defense to establish a minimum annual procurement set-aside goal of 1% for the AbilityOne program. 
 
-NCD has researched the AbilityOne program over several years and has published reports with findings and recommendations to Congress in 2019 and 2020. \[1^] Based on our research, NCD’s has advised policymakers that the AbilityOne program is a policy relic out of sync with modern disability policy and should be phased out and replaced with a requirement that federal contractors hire a certain percentage of people with significant disabilities and who are blind. NCD advises against a contract set-aside goal for AbilityOne because it would perpetuate segregated employment for people with disabilities.
+NCD has researched the AbilityOne program over several years and has published reports with findings and recommendations to Congress in 2019 and 2020. [^1] Based on our research, NCD’s has advised policymakers that the AbilityOne program is a policy relic out of sync with modern disability policy and should be phased out and replaced with a requirement that federal contractors hire a certain percentage of people with significant disabilities and who are blind. NCD advises against a contract set-aside goal for AbilityOne because it would perpetuate segregated employment for people with disabilities.
 
 To highlight some of our findings, NCD’s 2019 report pointed out downward trends in employment for people with disabilities despite increased revenues to the AbilityOne Program. [^2] NCD found that between FY 2011 and FY 2018, the number of employees working in the AbilityOne program declined from 50,500 to 44,000, and the number of hours worked declined as well. The most recent figures from the AbilityOne Commission’s FY 2027 Budget Justification shows that the number of employees declined to 41,000 in 2025, [^3] a continued downward trend in job opportunities since our 2020 investigation. Despite the nearly 7% decrease in jobs from FY 2018 to FY 2025, revenues grew over 30% in the same timeframe. Specifically, in FY 2018, the AbilityOne program generated $3.6 billion in sales to the federal government [^4] which grew to $4.7 billion in 2025. [^5]
 
@@ -39,8 +39,6 @@ Respectfully,
 
 Neil Romano\
 Acting Chairman
-
-
 
 cc: Chairman Mike Rogers and Ranking Member Adam Smith, House Armed Services Committee
 
