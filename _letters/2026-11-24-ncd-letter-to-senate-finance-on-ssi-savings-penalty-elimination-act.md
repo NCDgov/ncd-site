@@ -40,7 +40,6 @@ Acting Chairman
 
 cc: Members of the Senate Finance Committee
 
-
 [^1]: National Council on Disability, 2023 Progress Report: Toward Economic Security: The Impact of Income and Asset Limits on People with Disabilities (2023), at: <https://www.ncd.gov/report/2023-progress-report-toward-economic-security-the-impact-of-income-and-asset-limits-on-people-with-disabilities/>. 
 
 
